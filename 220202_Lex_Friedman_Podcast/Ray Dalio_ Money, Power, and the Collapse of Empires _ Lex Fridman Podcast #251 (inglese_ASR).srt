@@ -1,0 +1,9336 @@
+1
+00:00:00,000 --> 00:00:04,879
+the following is a conversation with ray
+
+2
+00:00:01,679 --> 00:00:07,679
+dalio his second time on the podcast he
+
+3
+00:00:04,879 --> 00:00:10,240
+is a legendary investor founder of
+
+4
+00:00:07,679 --> 00:00:12,638
+bridgewater associates author of a book
+
+5
+00:00:10,240 --> 00:00:15,280
+i highly recommend called principles and
+
+6
+00:00:12,638 --> 00:00:17,919
+also a new book called principles for
+
+7
+00:00:15,279 --> 00:00:20,320
+dealing with a changing world order that
+
+8
+00:00:17,920 --> 00:00:23,600
+looks at the geopolitics of today
+
+9
+00:00:20,320 --> 00:00:26,000
+especially us and china to the lens of
+
+10
+00:00:23,600 --> 00:00:28,160
+history providing a fascinating model
+
+11
+00:00:26,000 --> 00:00:30,320
+for the rise and fall of empires that
+
+12
+00:00:28,160 --> 00:00:32,079
+can be applied to the analysis of our
+
+13
+00:00:30,320 --> 00:00:34,238
+world today
+
+14
+00:00:32,079 --> 00:00:36,239
+this is the lex friedman podcast to
+
+15
+00:00:34,238 --> 00:00:38,640
+support it please check out our sponsors
+
+16
+00:00:36,238 --> 00:00:41,919
+in the description and now here's my
+
+17
+00:00:38,640 --> 00:00:43,120
+conversation with ray dalio
+
+18
+00:00:41,920 --> 00:00:45,840
+when you look at the history of the
+
+19
+00:00:43,119 --> 00:00:48,000
+world as you have done in your new book
+
+20
+00:00:45,840 --> 00:00:49,600
+principles of dealing with the changing
+
+21
+00:00:48,000 --> 00:00:51,920
+world order
+
+22
+00:00:49,600 --> 00:00:54,239
+what is more important more impactful
+
+23
+00:00:51,920 --> 00:00:56,320
+money or power
+
+24
+00:00:54,238 --> 00:00:59,038
+they go hand in hand
+
+25
+00:00:56,320 --> 00:01:01,039
+they support each other and they um
+
+26
+00:00:59,039 --> 00:01:02,719
+compete with each other
+
+27
+00:01:01,039 --> 00:01:05,680
+those who have money
+
+28
+00:01:02,719 --> 00:01:07,519
+have power a certain type of power
+
+29
+00:01:05,680 --> 00:01:09,680
+um that power
+
+30
+00:01:07,519 --> 00:01:10,798
+has to do with all that they can buy but
+
+31
+00:01:09,680 --> 00:01:13,920
+it also
+
+32
+00:01:10,799 --> 00:01:15,920
+has the ability to influence those with
+
+33
+00:01:13,920 --> 00:01:16,719
+political power
+
+34
+00:01:15,920 --> 00:01:19,680
+so
+
+35
+00:01:16,719 --> 00:01:22,959
+um and and so you see this throughout
+
+36
+00:01:19,680 --> 00:01:27,280
+history this symbiotic relationship
+
+37
+00:01:22,959 --> 00:01:29,679
+you know um for example between um
+
+38
+00:01:27,280 --> 00:01:31,280
+the royal families
+
+39
+00:01:29,680 --> 00:01:33,280
+the nobility
+
+40
+00:01:31,280 --> 00:01:36,079
+and the church
+
+41
+00:01:33,280 --> 00:01:38,960
+so you see that group of people
+
+42
+00:01:36,078 --> 00:01:41,519
+supporting each other in various ways
+
+43
+00:01:38,959 --> 00:01:42,478
+and then wrestling around with each
+
+44
+00:01:41,519 --> 00:01:45,840
+other
+
+45
+00:01:42,478 --> 00:01:48,959
+for the money and power among that group
+
+46
+00:01:45,840 --> 00:01:50,560
+so the dynamic that's quite classic is
+
+47
+00:01:48,959 --> 00:01:52,798
+you could look at
+
+48
+00:01:50,560 --> 00:01:55,600
+the parties in power
+
+49
+00:01:52,799 --> 00:01:59,360
+back in you know the
+
+50
+00:01:55,599 --> 00:02:03,280
+16th 17th centuries you would look at uh
+
+51
+00:01:59,359 --> 00:02:05,920
+royal families nobles and um and
+
+52
+00:02:03,280 --> 00:02:07,920
+the church if you're in europe and then
+
+53
+00:02:05,920 --> 00:02:09,920
+you would look at
+
+54
+00:02:07,920 --> 00:02:12,159
+agricultural land
+
+55
+00:02:09,919 --> 00:02:16,559
+and there was a certain dynamic
+
+56
+00:02:12,159 --> 00:02:19,039
+and that varies over time it changes
+
+57
+00:02:16,560 --> 00:02:21,439
+as those people get thrown out and
+
+58
+00:02:19,039 --> 00:02:24,479
+technology changes so when we
+
+59
+00:02:21,439 --> 00:02:25,919
+evolved when the society evolved so that
+
+60
+00:02:24,479 --> 00:02:27,919
+it would produce
+
+61
+00:02:25,919 --> 00:02:30,399
+goods and services
+
+62
+00:02:27,919 --> 00:02:32,238
+and you have something like the
+
+63
+00:02:30,400 --> 00:02:35,039
+industrial revolution the first
+
+64
+00:02:32,239 --> 00:02:37,280
+industrial revolution you have machines
+
+65
+00:02:35,039 --> 00:02:40,000
+and you have the talent of people that
+
+66
+00:02:37,280 --> 00:02:44,159
+are off the farms
+
+67
+00:02:40,000 --> 00:02:47,360
+and then you have a struggling for power
+
+68
+00:02:44,159 --> 00:02:49,759
+you see that power mix change
+
+69
+00:02:47,360 --> 00:02:52,640
+and so we don't see that same power mix
+
+70
+00:02:49,759 --> 00:02:56,560
+anymore but you still see the same
+
+71
+00:02:52,639 --> 00:02:58,559
+dynamic you see those with money
+
+72
+00:02:56,560 --> 00:03:00,479
+dealing with those who have
+
+73
+00:02:58,560 --> 00:03:03,598
+political power
+
+74
+00:03:00,479 --> 00:03:05,840
+around those assets that are considered
+
+75
+00:03:03,598 --> 00:03:09,280
+most valuable to particularly the
+
+76
+00:03:05,840 --> 00:03:11,680
+productive assets that produce money
+
+77
+00:03:09,280 --> 00:03:13,919
+and political power is usually centered
+
+78
+00:03:11,680 --> 00:03:16,400
+around nation state
+
+79
+00:03:13,919 --> 00:03:17,839
+so the major locus there's of power is
+
+80
+00:03:16,400 --> 00:03:19,519
+the nations
+
+81
+00:03:17,840 --> 00:03:22,000
+yes in
+
+82
+00:03:19,519 --> 00:03:25,120
+1668
+
+83
+00:03:22,000 --> 00:03:27,039
+after 30 years of war
+
+84
+00:03:25,120 --> 00:03:30,239
+there was
+
+85
+00:03:27,039 --> 00:03:31,039
+the development of nation states before
+
+86
+00:03:30,239 --> 00:03:34,000
+then
+
+87
+00:03:31,039 --> 00:03:36,158
+we had it was really the development of
+
+88
+00:03:34,000 --> 00:03:37,360
+countries as we know it that there were
+
+89
+00:03:36,158 --> 00:03:40,878
+borders
+
+90
+00:03:37,360 --> 00:03:44,640
+and that within those borders uh those
+
+91
+00:03:40,878 --> 00:03:47,439
+who had control got to control it and
+
+92
+00:03:44,639 --> 00:03:49,839
+there was not to be intrusions in those
+
+93
+00:03:47,439 --> 00:03:51,359
+borders and that's how we established
+
+94
+00:03:49,840 --> 00:03:54,000
+the nation state
+
+95
+00:03:51,360 --> 00:03:56,319
+and then of course within each country
+
+96
+00:03:54,000 --> 00:03:57,680
+there is levels
+
+97
+00:03:56,318 --> 00:03:59,518
+there is a
+
+98
+00:03:57,680 --> 00:04:02,560
+central level
+
+99
+00:03:59,519 --> 00:04:05,519
+and then there is a typically a province
+
+100
+00:04:02,560 --> 00:04:07,519
+or state level down below and then
+
+101
+00:04:05,519 --> 00:04:10,879
+there's a municipal level so they each
+
+102
+00:04:07,519 --> 00:04:12,480
+have different levels of power and it's
+
+103
+00:04:10,878 --> 00:04:16,399
+the coordination
+
+104
+00:04:12,479 --> 00:04:19,120
+of those that determines how the
+
+105
+00:04:16,399 --> 00:04:22,078
+country is run
+
+106
+00:04:19,120 --> 00:04:23,199
+you write that the quote archetypal big
+
+107
+00:04:22,079 --> 00:04:25,680
+cycle
+
+108
+00:04:23,199 --> 00:04:27,759
+governs the rising and declining empires
+
+109
+00:04:25,680 --> 00:04:30,160
+and influences everything about them
+
+110
+00:04:27,759 --> 00:04:31,840
+including their currencies and markets
+
+111
+00:04:30,160 --> 00:04:32,800
+the most important three cycles are the
+
+112
+00:04:31,839 --> 00:04:35,039
+ones
+
+113
+00:04:32,800 --> 00:04:38,000
+you mentioned in the introduction the
+
+114
+00:04:35,040 --> 00:04:40,479
+long-term debt and capital market cycle
+
+115
+00:04:38,000 --> 00:04:43,600
+the internal order and disorder cycle
+
+116
+00:04:40,478 --> 00:04:46,240
+and the external order and disorder
+
+117
+00:04:43,600 --> 00:04:48,240
+cycle can you describe this
+
+118
+00:04:46,240 --> 00:04:50,639
+big cycle
+
+119
+00:04:48,240 --> 00:04:53,918
+there are two orders
+
+120
+00:04:50,639 --> 00:04:55,199
+there is an order by a sip order i mean
+
+121
+00:04:53,918 --> 00:04:58,159
+a system
+
+122
+00:04:55,199 --> 00:04:58,879
+how the system works
+
+123
+00:04:58,160 --> 00:05:01,600
+so
+
+124
+00:04:58,879 --> 00:05:03,918
+there's an internal order
+
+125
+00:05:01,600 --> 00:05:05,520
+that is the internal governance system
+
+126
+00:05:03,918 --> 00:05:08,799
+and it's usually set out in a
+
+127
+00:05:05,519 --> 00:05:10,959
+constitution or some agreements
+
+128
+00:05:08,800 --> 00:05:13,680
+and then there's the world order
+
+129
+00:05:10,959 --> 00:05:16,079
+uh how the world system so for example
+
+130
+00:05:13,680 --> 00:05:18,319
+in 1945
+
+131
+00:05:16,079 --> 00:05:20,399
+um at the end of a war
+
+132
+00:05:18,319 --> 00:05:22,639
+which is basically a fight for
+
+133
+00:05:20,399 --> 00:05:26,560
+determining the world order
+
+134
+00:05:22,639 --> 00:05:30,000
+um the winners of the fight
+
+135
+00:05:26,560 --> 00:05:33,439
+got together and created the world
+
+136
+00:05:30,000 --> 00:05:35,918
+system as we now know it 44 they created
+
+137
+00:05:33,439 --> 00:05:38,478
+the brenton woods monetary system that
+
+138
+00:05:35,918 --> 00:05:41,279
+determined the money pretty much
+
+139
+00:05:38,478 --> 00:05:44,000
+and because the united states won
+
+140
+00:05:41,279 --> 00:05:46,239
+and had 80 percent of the world's money
+
+141
+00:05:44,000 --> 00:05:48,079
+gold was money then and had 80 of the
+
+142
+00:05:46,240 --> 00:05:50,240
+world's gold and it was half the world
+
+143
+00:05:48,079 --> 00:05:51,439
+economy and it was the great military
+
+144
+00:05:50,240 --> 00:05:52,400
+power
+
+145
+00:05:51,439 --> 00:05:54,800
+the
+
+146
+00:05:52,399 --> 00:05:57,599
+order was built around an american world
+
+147
+00:05:54,800 --> 00:06:00,000
+order so that the united nations was in
+
+148
+00:05:57,600 --> 00:06:02,319
+new york the world bank and the imf were
+
+149
+00:06:00,000 --> 00:06:04,319
+in washington and they built that new
+
+150
+00:06:02,319 --> 00:06:07,280
+order so classically
+
+151
+00:06:04,319 --> 00:06:10,639
+you have a war to determine whose rules
+
+152
+00:06:07,279 --> 00:06:13,359
+we're following and then you have um the
+
+153
+00:06:10,639 --> 00:06:14,560
+new water beings constructed
+
+154
+00:06:13,360 --> 00:06:17,199
+after that
+
+155
+00:06:14,560 --> 00:06:18,720
+there is usually period of extended
+
+156
+00:06:17,199 --> 00:06:20,240
+peace and
+
+157
+00:06:18,720 --> 00:06:23,199
+prosperity
+
+158
+00:06:20,240 --> 00:06:26,000
+uh peace suits prosperity
+
+159
+00:06:23,199 --> 00:06:28,240
+um and so there's not and the reason you
+
+160
+00:06:26,000 --> 00:06:30,079
+have the peace is because no one wants
+
+161
+00:06:28,240 --> 00:06:32,400
+to fight with the
+
+162
+00:06:30,079 --> 00:06:34,240
+um dominant power you know you're going
+
+163
+00:06:32,399 --> 00:06:36,399
+to lose you've surrendered there's been
+
+164
+00:06:34,240 --> 00:06:38,240
+the surrendering they carve up the world
+
+165
+00:06:36,399 --> 00:06:41,359
+they say what it's going to look like
+
+166
+00:06:38,240 --> 00:06:44,560
+who's going to control what and then
+
+167
+00:06:41,360 --> 00:06:45,520
+you come into that period of of peace
+
+168
+00:06:44,560 --> 00:06:49,360
+and then
+
+169
+00:06:45,519 --> 00:06:53,038
+prosperity where then there's uh
+
+170
+00:06:49,360 --> 00:06:56,319
+a working together usually at that point
+
+171
+00:06:53,038 --> 00:07:00,000
+you've wiped out a lot of the
+
+172
+00:06:56,319 --> 00:07:02,800
+debt you've wiped out a lot of the
+
+173
+00:07:00,000 --> 00:07:04,720
+issues the class warfare and so on
+
+174
+00:07:02,800 --> 00:07:06,960
+and then there's good working together
+
+175
+00:07:04,720 --> 00:07:10,639
+so those great periods
+
+176
+00:07:06,959 --> 00:07:13,439
+um such as the industrial revolution in
+
+177
+00:07:10,639 --> 00:07:15,360
+the late 1800s
+
+178
+00:07:13,439 --> 00:07:17,839
+or what we've experienced in the
+
+179
+00:07:15,360 --> 00:07:20,160
+post-world war ii period are peaceful
+
+180
+00:07:17,839 --> 00:07:23,439
+and prosperous periods
+
+181
+00:07:20,160 --> 00:07:25,840
+led largely by the dominant world power
+
+182
+00:07:23,439 --> 00:07:28,000
+over a period of time
+
+183
+00:07:25,839 --> 00:07:31,679
+since really 1500
+
+184
+00:07:28,000 --> 00:07:32,800
+and maybe before but really 1500
+
+185
+00:07:31,680 --> 00:07:33,759
+when the
+
+186
+00:07:32,800 --> 00:07:36,560
+dutch
+
+187
+00:07:33,759 --> 00:07:38,479
+invented capitalism and what i mean by
+
+188
+00:07:36,560 --> 00:07:41,120
+that they invest invented the first
+
+189
+00:07:38,478 --> 00:07:42,879
+capital markets the first stocks and the
+
+190
+00:07:41,120 --> 00:07:46,319
+first stock market
+
+191
+00:07:42,879 --> 00:07:48,639
+um that since then capitalism has been
+
+192
+00:07:46,319 --> 00:07:51,520
+an effective tool for building wealth
+
+193
+00:07:48,639 --> 00:07:53,840
+because it got resources into the hands
+
+194
+00:07:51,519 --> 00:07:56,560
+of inventive people
+
+195
+00:07:53,839 --> 00:07:58,318
+that's when we moved from agriculture to
+
+196
+00:07:56,560 --> 00:08:01,120
+the importance of inventiveness of
+
+197
+00:07:58,319 --> 00:08:03,439
+people they got resources and then they
+
+198
+00:08:01,120 --> 00:08:05,918
+built that prosperity
+
+199
+00:08:03,439 --> 00:08:09,199
+in that process of doing that
+
+200
+00:08:05,918 --> 00:08:11,918
+they create wealth gaps naturally those
+
+201
+00:08:09,199 --> 00:08:14,319
+who make a lot of money
+
+202
+00:08:11,918 --> 00:08:15,918
+make a lot more and than those that
+
+203
+00:08:14,319 --> 00:08:16,720
+don't
+
+204
+00:08:15,918 --> 00:08:20,159
+and
+
+205
+00:08:16,720 --> 00:08:24,000
+it also produces opportunity gaps
+
+206
+00:08:20,160 --> 00:08:26,400
+because uh for example those who earn a
+
+207
+00:08:24,000 --> 00:08:28,639
+lot of money have that wealth
+
+208
+00:08:26,399 --> 00:08:31,918
+they have the power to educate their
+
+209
+00:08:28,639 --> 00:08:33,120
+children in a way that others don't
+
+210
+00:08:31,918 --> 00:08:34,799
+and
+
+211
+00:08:33,120 --> 00:08:38,479
+the gaps grow
+
+212
+00:08:34,799 --> 00:08:42,000
+and also the debts grow at that time
+
+213
+00:08:38,479 --> 00:08:43,839
+when they go around the world with their
+
+214
+00:08:42,000 --> 00:08:44,720
+competitiveness
+
+215
+00:08:43,839 --> 00:08:46,959
+they
+
+216
+00:08:44,720 --> 00:08:48,959
+earn a lot of money so for example the
+
+217
+00:08:46,958 --> 00:08:51,439
+dutch the dutch empire
+
+218
+00:08:48,958 --> 00:08:54,239
+learned how to build ships
+
+219
+00:08:51,440 --> 00:08:56,720
+um and that would go around the world a
+
+220
+00:08:54,240 --> 00:08:57,919
+key ingredient of this improvement in
+
+221
+00:08:56,720 --> 00:09:00,879
+this cycle
+
+222
+00:08:57,919 --> 00:09:03,199
+is the improvement of education and by
+
+223
+00:09:00,879 --> 00:09:06,000
+education i mean the skills that come
+
+224
+00:09:03,200 --> 00:09:08,560
+from education but also civility the
+
+225
+00:09:06,000 --> 00:09:10,000
+ability to deal with well together
+
+226
+00:09:08,559 --> 00:09:11,838
+so the dutch
+
+227
+00:09:10,000 --> 00:09:13,759
+invented ships that could go around the
+
+228
+00:09:11,839 --> 00:09:17,680
+world and they had military power but
+
+229
+00:09:13,759 --> 00:09:20,240
+they were also very inventive society 25
+
+230
+00:09:17,679 --> 00:09:21,359
+of the world's new inventions came from
+
+231
+00:09:20,240 --> 00:09:23,600
+the dutch
+
+232
+00:09:21,360 --> 00:09:26,159
+and so as they went around the world
+
+233
+00:09:23,600 --> 00:09:28,320
+they also brought their currency
+
+234
+00:09:26,159 --> 00:09:30,480
+and they brought their military they
+
+235
+00:09:28,320 --> 00:09:33,120
+needed their the currency they paid for
+
+236
+00:09:30,480 --> 00:09:35,680
+things um and that currency and then the
+
+237
+00:09:33,120 --> 00:09:37,919
+more that happens the more that becomes
+
+238
+00:09:35,679 --> 00:09:40,239
+a reserve currency
+
+239
+00:09:37,919 --> 00:09:42,159
+and then they have their military so
+
+240
+00:09:40,240 --> 00:09:45,759
+they need their military strength and so
+
+241
+00:09:42,159 --> 00:09:48,159
+you see it evolve in all of those ways
+
+242
+00:09:45,759 --> 00:09:51,120
+but over a period of time
+
+243
+00:09:48,159 --> 00:09:52,639
+um as they become more successful and
+
+244
+00:09:51,120 --> 00:09:54,240
+more expensive
+
+245
+00:09:52,639 --> 00:09:55,600
+um they became they become more
+
+246
+00:09:54,240 --> 00:09:56,639
+expensive
+
+247
+00:09:55,600 --> 00:09:58,159
+um
+
+248
+00:09:56,639 --> 00:10:00,958
+and and
+
+249
+00:09:58,159 --> 00:10:02,159
+newer countries come along like um the
+
+250
+00:10:00,958 --> 00:10:03,119
+uk
+
+251
+00:10:02,159 --> 00:10:06,319
+um
+
+252
+00:10:03,120 --> 00:10:08,879
+then uh be learned to build ships from a
+
+253
+00:10:06,320 --> 00:10:10,399
+lot the dutch and could do that less
+
+254
+00:10:08,879 --> 00:10:13,679
+expensively
+
+255
+00:10:10,399 --> 00:10:16,480
+and also when they become more
+
+256
+00:10:13,679 --> 00:10:19,120
+expensive so less competitive and also
+
+257
+00:10:16,480 --> 00:10:20,800
+the work ethic begins to change they
+
+258
+00:10:19,120 --> 00:10:23,519
+believe that since they're richer they
+
+259
+00:10:20,799 --> 00:10:25,120
+can enjoy life more they don't have to
+
+260
+00:10:23,519 --> 00:10:27,839
+work quite as hard
+
+261
+00:10:25,120 --> 00:10:29,919
+and so you start to see the tilt
+
+262
+00:10:27,839 --> 00:10:32,320
+now you start to see the development of
+
+263
+00:10:29,919 --> 00:10:34,240
+the top and when you have a world
+
+264
+00:10:32,320 --> 00:10:36,879
+reserve currency
+
+265
+00:10:34,240 --> 00:10:40,399
+that allows you to borrow a lot of money
+
+266
+00:10:36,879 --> 00:10:42,559
+because those who want to save
+
+267
+00:10:40,399 --> 00:10:44,559
+want to hold your money and that means
+
+268
+00:10:42,559 --> 00:10:46,958
+that they'll lend you money and so those
+
+269
+00:10:44,559 --> 00:10:49,278
+countries get deeper into debt
+
+270
+00:10:46,958 --> 00:10:51,278
+so you see that they gradually lose
+
+271
+00:10:49,278 --> 00:10:54,399
+their competitiveness
+
+272
+00:10:51,278 --> 00:10:57,200
+and they um and they get themselves into
+
+273
+00:10:54,399 --> 00:10:58,559
+financial circumstances which are not
+
+274
+00:10:57,200 --> 00:11:01,278
+good
+
+275
+00:10:58,559 --> 00:11:04,639
+and they have large wealth gaps
+
+276
+00:11:01,278 --> 00:11:06,879
+which set the stage for downturns and
+
+277
+00:11:04,639 --> 00:11:09,039
+when they have downturns
+
+278
+00:11:06,879 --> 00:11:11,919
+um the first question is do they have
+
+279
+00:11:09,039 --> 00:11:16,159
+enough money and traditionally you know
+
+280
+00:11:11,919 --> 00:11:18,958
+uh money is is resources um so you
+
+281
+00:11:16,159 --> 00:11:19,838
+classically see that the coffers are
+
+282
+00:11:18,958 --> 00:11:21,838
+bare
+
+283
+00:11:19,839 --> 00:11:22,800
+that they're spending more money than
+
+284
+00:11:21,839 --> 00:11:26,160
+their
+
+285
+00:11:22,799 --> 00:11:28,799
+than they are earning and they run out
+
+286
+00:11:26,159 --> 00:11:31,919
+of money in the coffers
+
+287
+00:11:28,799 --> 00:11:34,240
+and their granaries are empty rather
+
+288
+00:11:31,919 --> 00:11:35,199
+than stocked so that they give them the
+
+289
+00:11:34,240 --> 00:11:38,240
+buffer
+
+290
+00:11:35,200 --> 00:11:41,200
+and as that deteriorates that's that
+
+291
+00:11:38,240 --> 00:11:44,320
+worsens conditions and if they have a
+
+292
+00:11:41,200 --> 00:11:47,519
+rival power that's also challenging them
+
+293
+00:11:44,320 --> 00:11:48,720
+they see greater internal conflict over
+
+294
+00:11:47,519 --> 00:11:51,200
+wealth
+
+295
+00:11:48,720 --> 00:11:54,000
+and then they have the problems
+
+296
+00:11:51,200 --> 00:11:57,519
+internally and the problems externally
+
+297
+00:11:54,000 --> 00:12:00,799
+which usually results in an internal war
+
+298
+00:11:57,519 --> 00:12:04,720
+or an external war that leads to the
+
+299
+00:12:00,799 --> 00:12:06,240
+change in the to the new world order
+
+300
+00:12:04,720 --> 00:12:07,600
+and to you the dutch empire is a good
+
+301
+00:12:06,240 --> 00:12:09,278
+example that
+
+302
+00:12:07,600 --> 00:12:11,120
+the british
+
+303
+00:12:09,278 --> 00:12:13,039
+what are some of the key examples that
+
+304
+00:12:11,120 --> 00:12:15,039
+you think about in the book
+
+305
+00:12:13,039 --> 00:12:16,159
+of this process that follow the big
+
+306
+00:12:15,039 --> 00:12:18,078
+cycle
+
+307
+00:12:16,159 --> 00:12:20,559
+well the leading reserve currency
+
+308
+00:12:18,078 --> 00:12:21,759
+empires but it applies to all the
+
+309
+00:12:20,559 --> 00:12:22,958
+empires
+
+310
+00:12:21,759 --> 00:12:25,600
+um
+
+311
+00:12:22,958 --> 00:12:28,159
+were the the dutch the british uh the
+
+312
+00:12:25,600 --> 00:12:31,120
+american and the chinese
+
+313
+00:12:28,159 --> 00:12:32,078
+um but um you could follow the same
+
+314
+00:12:31,120 --> 00:12:34,720
+pattern
+
+315
+00:12:32,078 --> 00:12:38,159
+um in the book i it was very important
+
+316
+00:12:34,720 --> 00:12:41,278
+for me to not just use words and
+
+317
+00:12:38,159 --> 00:12:44,000
+concepts because that's subjective it
+
+318
+00:12:41,278 --> 00:12:46,720
+was very important for me to use
+
+319
+00:12:44,000 --> 00:12:49,440
+actual measurements so as you see in the
+
+320
+00:12:46,720 --> 00:12:51,920
+book you can see every level of this you
+
+321
+00:12:49,440 --> 00:12:54,800
+can see where is the education level
+
+322
+00:12:51,919 --> 00:12:57,199
+what is the military power each one of
+
+323
+00:12:54,799 --> 00:12:59,199
+those and you could see them back going
+
+324
+00:12:57,200 --> 00:13:02,399
+over the 500 years
+
+325
+00:12:59,200 --> 00:13:04,240
+and so um you can see the arcs and the
+
+326
+00:13:02,399 --> 00:13:07,679
+composition of those
+
+327
+00:13:04,240 --> 00:13:09,919
+arcs and what you see is really in most
+
+328
+00:13:07,679 --> 00:13:12,399
+countries in most dynasties you can see
+
+329
+00:13:09,919 --> 00:13:13,439
+that but you also can see through those
+
+330
+00:13:12,399 --> 00:13:16,958
+numbers
+
+331
+00:13:13,440 --> 00:13:19,279
+the health um of those countries today
+
+332
+00:13:16,958 --> 00:13:22,159
+um there are there are statistics that
+
+333
+00:13:19,278 --> 00:13:25,278
+you could that are in the book that show
+
+334
+00:13:22,159 --> 00:13:28,319
+what is the level of education what is
+
+335
+00:13:25,278 --> 00:13:29,919
+the letter level of economic output what
+
+336
+00:13:28,320 --> 00:13:32,800
+is the level of
+
+337
+00:13:29,919 --> 00:13:34,719
+um military strength what is the level
+
+338
+00:13:32,799 --> 00:13:37,120
+of a number of different measures of
+
+339
+00:13:34,720 --> 00:13:39,278
+strength so that you can then compare
+
+340
+00:13:37,120 --> 00:13:41,519
+that and i think that because there are
+
+341
+00:13:39,278 --> 00:13:44,320
+objective measures of strength that you
+
+342
+00:13:41,519 --> 00:13:47,120
+could see change
+
+343
+00:13:44,320 --> 00:13:49,278
+that shows the picture of where we are
+
+344
+00:13:47,120 --> 00:13:51,519
+today and i think one of the most
+
+345
+00:13:49,278 --> 00:13:54,480
+important things about the book
+
+346
+00:13:51,519 --> 00:13:57,198
+is that it allows people to monitor how
+
+347
+00:13:54,480 --> 00:13:58,959
+those things are transpiring i think for
+
+348
+00:13:57,198 --> 00:14:01,679
+policy makers
+
+349
+00:13:58,958 --> 00:14:04,119
+um you know are your policy policymakers
+
+350
+00:14:01,679 --> 00:14:06,879
+doing a good job and there's so much
+
+351
+00:14:04,120 --> 00:14:09,919
+subjectivity in that but i think it's
+
+352
+00:14:06,879 --> 00:14:12,078
+very simple if those lines on the chart
+
+353
+00:14:09,919 --> 00:14:13,360
+are improving if your health index is
+
+354
+00:14:12,078 --> 00:14:17,519
+improving
+
+355
+00:14:13,360 --> 00:14:20,079
+then you're moving toward a better life
+
+356
+00:14:17,519 --> 00:14:22,879
+so that's what the book works like also
+
+357
+00:14:20,078 --> 00:14:24,000
+it was used to create a model for the
+
+358
+00:14:22,879 --> 00:14:26,480
+future
+
+359
+00:14:24,000 --> 00:14:28,078
+in other words there are cause effect
+
+360
+00:14:26,480 --> 00:14:30,959
+relationships
+
+361
+00:14:28,078 --> 00:14:33,838
+everything that happens has reasons
+
+362
+00:14:30,958 --> 00:14:34,719
+causes that preceded it that made it
+
+363
+00:14:33,839 --> 00:14:37,920
+happen
+
+364
+00:14:34,720 --> 00:14:41,040
+and so by having all those in numbers
+
+365
+00:14:37,919 --> 00:14:44,799
+one can see the probabilities of certain
+
+366
+00:14:41,039 --> 00:14:46,799
+things happening so um that's what
+
+367
+00:14:44,799 --> 00:14:47,838
+that's what you see in in the book it's
+
+368
+00:14:46,799 --> 00:14:50,078
+not just
+
+369
+00:14:47,839 --> 00:14:51,760
+you know rey's interpretation i didn't
+
+370
+00:14:50,078 --> 00:14:54,000
+want to make it raise interpretation
+
+371
+00:14:51,759 --> 00:14:55,759
+because i don't know if i'm right yeah
+
+372
+00:14:54,000 --> 00:14:58,639
+so one of the fascinating things in the
+
+373
+00:14:55,759 --> 00:15:01,278
+book so you have list these 18 measures
+
+374
+00:14:58,639 --> 00:15:02,959
+and there's like a little scorecard
+
+375
+00:15:01,278 --> 00:15:04,720
+for the
+
+376
+00:15:02,958 --> 00:15:07,679
+countries of the world today so let's
+
+377
+00:15:04,720 --> 00:15:10,160
+say u.s china and europe
+
+378
+00:15:07,679 --> 00:15:11,838
+and what it was 20 years ago and looking
+
+379
+00:15:10,159 --> 00:15:13,919
+at the change from 20 years ago and
+
+380
+00:15:11,839 --> 00:15:15,440
+that's another indicator to change
+
+381
+00:15:13,919 --> 00:15:17,120
+itself to see
+
+382
+00:15:15,440 --> 00:15:19,440
+where things are headed
+
+383
+00:15:17,120 --> 00:15:22,560
+maybe can you comment on
+
+384
+00:15:19,440 --> 00:15:24,000
+from a score perspective how is u.s and
+
+385
+00:15:22,559 --> 00:15:26,159
+china doing
+
+386
+00:15:24,000 --> 00:15:28,078
+and in the 18 measures what are some
+
+387
+00:15:26,159 --> 00:15:30,559
+measures that stand out to you is
+
+388
+00:15:28,078 --> 00:15:33,278
+particularly important to think about
+
+389
+00:15:30,559 --> 00:15:35,679
+today for the united states for china
+
+390
+00:15:33,278 --> 00:15:38,639
+well there are a number um
+
+391
+00:15:35,679 --> 00:15:38,638
+financially
+
+392
+00:15:39,120 --> 00:15:43,120
+what you see in the united states is
+
+393
+00:15:41,360 --> 00:15:44,720
+that um
+
+394
+00:15:43,120 --> 00:15:46,560
+we're borrowing a lot more money
+
+395
+00:15:44,720 --> 00:15:50,240
+creating a lot of debt
+
+396
+00:15:46,559 --> 00:15:53,119
+and we're uh printing a lot of money
+
+397
+00:15:50,240 --> 00:15:55,680
+and our capacity to do that
+
+398
+00:15:53,120 --> 00:15:58,959
+is very much is limited first of all
+
+399
+00:15:55,679 --> 00:16:01,758
+because um when you when there's a sale
+
+400
+00:15:58,958 --> 00:16:04,319
+of a bond when the government
+
+401
+00:16:01,759 --> 00:16:07,680
+borrows more than it borrows money
+
+402
+00:16:04,320 --> 00:16:10,160
+because it spends more than it takes in
+
+403
+00:16:07,679 --> 00:16:13,198
+um you have to sell a bond
+
+404
+00:16:10,159 --> 00:16:15,360
+and the world right now has a lot of us
+
+405
+00:16:13,198 --> 00:16:18,319
+dollar denominated bonds because as the
+
+406
+00:16:15,360 --> 00:16:21,039
+world's reserve currency they sell sold
+
+407
+00:16:18,320 --> 00:16:22,560
+on them and they have very
+
+408
+00:16:21,039 --> 00:16:25,120
+bad returns
+
+409
+00:16:22,559 --> 00:16:27,679
+negative real returns negative real
+
+410
+00:16:25,120 --> 00:16:30,240
+returns significantly and so on
+
+411
+00:16:27,679 --> 00:16:32,479
+so that um
+
+412
+00:16:30,240 --> 00:16:33,440
+means that more bonds has to be sold
+
+413
+00:16:32,480 --> 00:16:35,519
+than
+
+414
+00:16:33,440 --> 00:16:36,560
+um are
+
+415
+00:16:35,519 --> 00:16:39,919
+bought
+
+416
+00:16:36,559 --> 00:16:42,479
+and that means that the federal reserve
+
+417
+00:16:39,919 --> 00:16:44,958
+has is faced with the choice of having
+
+418
+00:16:42,480 --> 00:16:47,278
+to raise the interest rate
+
+419
+00:16:44,958 --> 00:16:49,119
+to curtail borrowing
+
+420
+00:16:47,278 --> 00:16:51,519
+which slows the economy and hurts the
+
+421
+00:16:49,120 --> 00:16:53,278
+markets or by
+
+422
+00:16:51,519 --> 00:16:55,360
+filling that difference
+
+423
+00:16:53,278 --> 00:16:56,879
+and producing money the debt
+
+424
+00:16:55,360 --> 00:16:59,680
+monetization
+
+425
+00:16:56,879 --> 00:17:03,360
+which produces an inflation
+
+426
+00:16:59,679 --> 00:17:06,639
+in goods services and financial assets
+
+427
+00:17:03,360 --> 00:17:08,798
+so in that regard that's our the united
+
+428
+00:17:06,640 --> 00:17:11,839
+states's position
+
+429
+00:17:08,798 --> 00:17:14,480
+in china's case its balance of payments
+
+430
+00:17:11,838 --> 00:17:16,318
+um is a better
+
+431
+00:17:14,480 --> 00:17:18,400
+um china has
+
+432
+00:17:16,318 --> 00:17:21,519
+displaced the united states
+
+433
+00:17:18,400 --> 00:17:23,280
+as the world's largest trading country
+
+434
+00:17:21,519 --> 00:17:26,720
+in other words more exports to other
+
+435
+00:17:23,279 --> 00:17:29,519
+countries and as a result it's
+
+436
+00:17:26,720 --> 00:17:31,279
+economically competitive
+
+437
+00:17:29,519 --> 00:17:34,000
+but it doesn't have the world's reserve
+
+438
+00:17:31,279 --> 00:17:36,480
+currency it's a real blessing so the
+
+439
+00:17:34,000 --> 00:17:39,919
+united states it has the world's reserve
+
+440
+00:17:36,480 --> 00:17:42,880
+currency but it is risking it because of
+
+441
+00:17:39,919 --> 00:17:45,600
+this imbalance so if you look at history
+
+442
+00:17:42,880 --> 00:17:47,200
+you see that those go slowly but when
+
+443
+00:17:45,599 --> 00:17:50,000
+they go
+
+444
+00:17:47,200 --> 00:17:52,558
+eventually they go quickly
+
+445
+00:17:50,000 --> 00:17:54,720
+so there's a risk of of
+
+446
+00:17:52,558 --> 00:17:57,359
+of that financially
+
+447
+00:17:54,720 --> 00:17:58,319
+then there's the issue of uh internal
+
+448
+00:17:57,359 --> 00:18:00,079
+order
+
+449
+00:17:58,319 --> 00:18:01,759
+so i'm just giving you the major ones
+
+450
+00:18:00,079 --> 00:18:02,639
+but i'll get into some of the other ones
+
+451
+00:18:01,759 --> 00:18:06,160
+too
+
+452
+00:18:02,640 --> 00:18:08,480
+right now um there's a lot of internal
+
+453
+00:18:06,160 --> 00:18:12,080
+conflict in the united states
+
+454
+00:18:08,480 --> 00:18:16,000
+uh which affects its and um
+
+455
+00:18:12,079 --> 00:18:18,480
+how well it works um in china there's
+
+456
+00:18:16,000 --> 00:18:20,160
+less internal conflict because it's a
+
+457
+00:18:18,480 --> 00:18:22,880
+more autocratic
+
+458
+00:18:20,160 --> 00:18:25,038
+state but also they've created
+
+459
+00:18:22,880 --> 00:18:27,280
+this bifurcation
+
+460
+00:18:25,038 --> 00:18:30,160
+of what is political
+
+461
+00:18:27,279 --> 00:18:32,558
+and what is um economic in terms of
+
+462
+00:18:30,160 --> 00:18:35,038
+producing that prosperity so if you stay
+
+463
+00:18:32,558 --> 00:18:36,160
+out of the politics pretty much
+
+464
+00:18:35,038 --> 00:18:38,400
+um
+
+465
+00:18:36,160 --> 00:18:40,480
+and then you're seeing um
+
+466
+00:18:38,400 --> 00:18:44,400
+entrepreneurship you're seeing the
+
+467
+00:18:40,480 --> 00:18:46,960
+finances of new businesses and so on and
+
+468
+00:18:44,400 --> 00:18:49,919
+so that internal working
+
+469
+00:18:46,960 --> 00:18:51,679
+um you know that's subject to different
+
+470
+00:18:49,919 --> 00:18:54,480
+people's interpretations whether they
+
+471
+00:18:51,679 --> 00:18:56,960
+like it or not but the internal conflict
+
+472
+00:18:54,480 --> 00:18:59,360
+in terms of those kinds of measures is
+
+473
+00:18:56,960 --> 00:19:01,759
+is less sorry to pause on that for a
+
+474
+00:18:59,359 --> 00:19:05,038
+second so these measures
+
+475
+00:19:01,759 --> 00:19:07,038
+i guess you don't want to sort of um
+
+476
+00:19:05,038 --> 00:19:09,919
+romanticize any one measure or something
+
+477
+00:19:07,038 --> 00:19:12,640
+like that over interpret any one measure
+
+478
+00:19:09,919 --> 00:19:16,000
+but is internal conflict
+
+479
+00:19:12,640 --> 00:19:18,400
+always a bad thing is some is this uh
+
+480
+00:19:16,000 --> 00:19:20,079
+is it a complicated calculation or do
+
+481
+00:19:18,400 --> 00:19:21,519
+you kind of the way we think about these
+
+482
+00:19:20,079 --> 00:19:23,038
+measures that you've presented we should
+
+483
+00:19:21,519 --> 00:19:26,319
+be thinking like
+
+484
+00:19:23,038 --> 00:19:28,319
+the higher the better the lower worse or
+
+485
+00:19:26,319 --> 00:19:30,159
+i mean of course depending on well
+
+486
+00:19:28,319 --> 00:19:32,240
+in many cases
+
+487
+00:19:30,160 --> 00:19:33,759
+the conflict that produces the
+
+488
+00:19:32,240 --> 00:19:36,960
+revolution
+
+489
+00:19:33,759 --> 00:19:39,200
+produces revolutionary changes
+
+490
+00:19:36,960 --> 00:19:40,960
+that lead to
+
+491
+00:19:39,200 --> 00:19:44,480
+resolutions
+
+492
+00:19:40,960 --> 00:19:45,759
+that and lead to new starts
+
+493
+00:19:44,480 --> 00:19:48,000
+and so
+
+494
+00:19:45,759 --> 00:19:50,319
+their short term
+
+495
+00:19:48,000 --> 00:19:52,798
+a short-term civil war
+
+496
+00:19:50,319 --> 00:19:56,879
+is a hellacious experience
+
+497
+00:19:52,798 --> 00:19:59,279
+and at the same time it can be um the
+
+498
+00:19:56,880 --> 00:20:00,320
+transition to a new beginning
+
+499
+00:19:59,279 --> 00:20:01,918
+um
+
+500
+00:20:00,319 --> 00:20:03,038
+also there are different types of
+
+501
+00:20:01,919 --> 00:20:05,280
+conflict
+
+502
+00:20:03,038 --> 00:20:08,079
+uh competition
+
+503
+00:20:05,279 --> 00:20:11,519
+which makes things makes everything
+
+504
+00:20:08,079 --> 00:20:12,720
+better is is a productive
+
+505
+00:20:11,519 --> 00:20:16,000
+conflict
+
+506
+00:20:12,720 --> 00:20:17,839
+whereas destructive conflicts
+
+507
+00:20:16,000 --> 00:20:20,880
+are
+
+508
+00:20:17,839 --> 00:20:23,918
+not good over the short time
+
+509
+00:20:20,880 --> 00:20:27,520
+so you know that's how that those go so
+
+510
+00:20:23,919 --> 00:20:29,038
+within each measure the story
+
+511
+00:20:27,519 --> 00:20:31,599
+is complicated
+
+512
+00:20:29,038 --> 00:20:33,359
+yeah but my measures are are sort of
+
+513
+00:20:31,599 --> 00:20:36,798
+clear meaning
+
+514
+00:20:33,359 --> 00:20:38,639
+how much political conflict how much
+
+515
+00:20:36,798 --> 00:20:40,480
+social conflict
+
+516
+00:20:38,640 --> 00:20:43,280
+in other words you can measure conflict
+
+517
+00:20:40,480 --> 00:20:45,759
+you can measure fighting you can measure
+
+518
+00:20:43,279 --> 00:20:47,200
+crime rates you can measure
+
+519
+00:20:45,759 --> 00:20:49,679
+um
+
+520
+00:20:47,200 --> 00:20:52,480
+lots of different ways of conflict so
+
+521
+00:20:49,679 --> 00:20:55,600
+the measures are a composite of
+
+522
+00:20:52,480 --> 00:20:57,839
+different types of internal conflict
+
+523
+00:20:55,599 --> 00:20:59,918
+what are some other interesting measures
+
+524
+00:20:57,839 --> 00:21:01,918
+maybe if you can also mention like for
+
+525
+00:20:59,919 --> 00:21:04,320
+me in particular interest is education
+
+526
+00:21:01,919 --> 00:21:06,880
+and innovation yes
+
+527
+00:21:04,319 --> 00:21:08,639
+the classic cycle the most important
+
+528
+00:21:06,880 --> 00:21:11,120
+leading indicator
+
+529
+00:21:08,640 --> 00:21:13,280
+is the quality of education
+
+530
+00:21:11,119 --> 00:21:14,839
+most importantly
+
+531
+00:21:13,279 --> 00:21:17,119
+broad-based
+
+532
+00:21:14,839 --> 00:21:19,839
+education drawn as a
+
+533
+00:21:17,119 --> 00:21:22,399
+from the largest population because you
+
+534
+00:21:19,839 --> 00:21:24,319
+can never tell who the talent is going
+
+535
+00:21:22,400 --> 00:21:26,480
+to be so where they're going to come
+
+536
+00:21:24,319 --> 00:21:28,960
+from so for example if you look at the
+
+537
+00:21:26,480 --> 00:21:33,120
+chinese dynasties the great chinese
+
+538
+00:21:28,960 --> 00:21:36,400
+dynasties um and the confucian approach
+
+539
+00:21:33,119 --> 00:21:38,879
+it was meritocratic of um
+
+540
+00:21:36,400 --> 00:21:41,440
+everybody could sit for exams and so on
+
+541
+00:21:38,880 --> 00:21:43,120
+broad base of drawing in the populations
+
+542
+00:21:41,440 --> 00:21:45,038
+and you see that if you go across
+
+543
+00:21:43,119 --> 00:21:47,439
+societies
+
+544
+00:21:45,038 --> 00:21:50,798
+because that draws on the largest number
+
+545
+00:21:47,440 --> 00:21:55,200
+of population to get education
+
+546
+00:21:50,798 --> 00:21:57,200
+and it also um that creates um
+
+547
+00:21:55,200 --> 00:21:59,919
+a reality and a
+
+548
+00:21:57,200 --> 00:22:02,240
+perception that the system is fairer
+
+549
+00:21:59,919 --> 00:22:04,559
+equal opportunity not just one of
+
+550
+00:22:02,240 --> 00:22:06,159
+privilege and that helps to create
+
+551
+00:22:04,558 --> 00:22:07,918
+social stability
+
+552
+00:22:06,159 --> 00:22:12,159
+but education
+
+553
+00:22:07,919 --> 00:22:14,480
+is not just uh education in
+
+554
+00:22:12,159 --> 00:22:15,679
+understanding facts and so on it is
+
+555
+00:22:14,480 --> 00:22:16,960
+education
+
+556
+00:22:15,679 --> 00:22:19,360
+and um
+
+557
+00:22:16,960 --> 00:22:21,120
+civility of how to behave together and
+
+558
+00:22:19,359 --> 00:22:23,839
+so if they're smart
+
+559
+00:22:21,119 --> 00:22:25,759
+they understand how to be productive
+
+560
+00:22:23,839 --> 00:22:28,720
+because they work well together and
+
+561
+00:22:25,759 --> 00:22:31,279
+they're productive and then that leads
+
+562
+00:22:28,720 --> 00:22:35,038
+to the next stage you could see in the
+
+563
+00:22:31,279 --> 00:22:37,519
+lines in the charts we i plotted these
+
+564
+00:22:35,038 --> 00:22:39,919
+so that you could see in a typical cycle
+
+565
+00:22:37,519 --> 00:22:41,359
+you could see that education is the long
+
+566
+00:22:39,919 --> 00:22:44,000
+leading
+
+567
+00:22:41,359 --> 00:22:45,279
+indicator and then you could see as you
+
+568
+00:22:44,000 --> 00:22:47,599
+mentioned
+
+569
+00:22:45,279 --> 00:22:51,119
+that you what you see is inventiveness
+
+570
+00:22:47,599 --> 00:22:52,079
+and technology measures then follow and
+
+571
+00:22:51,119 --> 00:22:54,479
+you see
+
+572
+00:22:52,079 --> 00:22:57,279
+then also competitiveness in world
+
+573
+00:22:54,480 --> 00:23:00,240
+markets follows for example in the early
+
+574
+00:22:57,279 --> 00:23:02,399
+stages of a cycle the industries that
+
+575
+00:23:00,240 --> 00:23:04,640
+they go into um
+
+576
+00:23:02,400 --> 00:23:06,880
+tend to be very basic industry because
+
+577
+00:23:04,640 --> 00:23:08,720
+they have cheap labor something like
+
+578
+00:23:06,880 --> 00:23:11,360
+textiles and
+
+579
+00:23:08,720 --> 00:23:14,400
+simple manufactured goods and so on but
+
+580
+00:23:11,359 --> 00:23:18,000
+as the education rises then they move up
+
+581
+00:23:14,400 --> 00:23:20,559
+the value chain to uh tech greater
+
+582
+00:23:18,000 --> 00:23:23,679
+technologies and so on which raises
+
+583
+00:23:20,558 --> 00:23:26,000
+incomes and raises productivity so yes
+
+584
+00:23:23,679 --> 00:23:28,400
+those and and you know as you say there
+
+585
+00:23:26,000 --> 00:23:30,240
+are 18 different measures like that but
+
+586
+00:23:28,400 --> 00:23:32,640
+education um
+
+587
+00:23:30,240 --> 00:23:34,880
+and then civility and the inventiveness
+
+588
+00:23:32,640 --> 00:23:37,440
+so you see it reflected in
+
+589
+00:23:34,880 --> 00:23:40,000
+in who's inventing what
+
+590
+00:23:37,440 --> 00:23:41,679
+um and that corresponds then who's
+
+591
+00:23:40,000 --> 00:23:44,079
+trading with
+
+592
+00:23:41,679 --> 00:23:46,320
+who's a big trading country and where's
+
+593
+00:23:44,079 --> 00:23:48,798
+the value of economic output and what
+
+594
+00:23:46,319 --> 00:23:50,960
+are per capita incomes they all follow
+
+595
+00:23:48,798 --> 00:23:52,798
+those arcs
+
+596
+00:23:50,960 --> 00:23:54,640
+yeah like you said the fascinating thing
+
+597
+00:23:52,798 --> 00:23:56,000
+about your book so there's philosophy
+
+598
+00:23:54,640 --> 00:23:58,559
+there's wisdom
+
+599
+00:23:56,000 --> 00:24:00,798
+uh but there's plots
+
+600
+00:23:58,558 --> 00:24:02,798
+yeah you can see it
+
+601
+00:24:00,798 --> 00:24:04,879
+so it's not just your opinion it's kind
+
+602
+00:24:02,798 --> 00:24:07,278
+of like uh you can interpret it any way
+
+603
+00:24:04,880 --> 00:24:09,919
+you like uh but you're just giving a lot
+
+604
+00:24:07,278 --> 00:24:11,919
+of of your own insights along with the
+
+605
+00:24:09,919 --> 00:24:15,038
+numbers
+
+606
+00:24:11,919 --> 00:24:17,278
+if you were to look at the american
+
+607
+00:24:15,038 --> 00:24:18,960
+nation the american empire
+
+608
+00:24:17,278 --> 00:24:19,919
+and the trajectory is looking into the
+
+609
+00:24:18,960 --> 00:24:22,558
+future
+
+610
+00:24:19,919 --> 00:24:25,200
+given these measures
+
+611
+00:24:22,558 --> 00:24:27,678
+what is the trajectory that leads to the
+
+612
+00:24:25,200 --> 00:24:29,600
+collapse of the american empire based on
+
+613
+00:24:27,679 --> 00:24:32,880
+these measures what are the concerning
+
+614
+00:24:29,599 --> 00:24:35,439
+indicators and if um if those break down
+
+615
+00:24:32,880 --> 00:24:39,520
+further what does that look like
+
+616
+00:24:35,440 --> 00:24:41,759
+well all of those indicators
+
+617
+00:24:39,519 --> 00:24:43,918
+are concerning
+
+618
+00:24:41,759 --> 00:24:47,919
+um maybe
+
+619
+00:24:43,919 --> 00:24:49,919
+except for one which is technology
+
+620
+00:24:47,919 --> 00:24:52,559
+the technology niche
+
+621
+00:24:49,919 --> 00:24:55,038
+although even in that area the united
+
+622
+00:24:52,558 --> 00:24:58,720
+states is
+
+623
+00:24:55,038 --> 00:25:01,119
+improving at a slower rate than is china
+
+624
+00:24:58,720 --> 00:25:03,200
+for various advantages that they have
+
+625
+00:25:01,119 --> 00:25:05,599
+there they put out about eight times as
+
+626
+00:25:03,200 --> 00:25:09,519
+many computer engineers they have free
+
+627
+00:25:05,599 --> 00:25:13,199
+data and so on but if you look at them
+
+628
+00:25:09,519 --> 00:25:18,558
+so the financial is a is a concern
+
+629
+00:25:13,200 --> 00:25:21,278
+the internal order disorder is a concern
+
+630
+00:25:18,558 --> 00:25:23,440
+then if you look at education levels
+
+631
+00:25:21,278 --> 00:25:26,079
+the united states
+
+632
+00:25:23,440 --> 00:25:28,720
+is in many way is is losing its
+
+633
+00:25:26,079 --> 00:25:32,319
+educational advantage if you were to
+
+634
+00:25:28,720 --> 00:25:35,200
+look at compare it with china
+
+635
+00:25:32,319 --> 00:25:36,798
+if you take general public education in
+
+636
+00:25:35,200 --> 00:25:40,159
+the united states
+
+637
+00:25:36,798 --> 00:25:42,558
+it's deteriorated tremendously even in
+
+638
+00:25:40,159 --> 00:25:44,720
+comparison to developed countries
+
+639
+00:25:42,558 --> 00:25:46,798
+there are scores pieces scores and so on
+
+640
+00:25:44,720 --> 00:25:48,480
+and it's you know something like 38th in
+
+641
+00:25:46,798 --> 00:25:51,519
+the world or something and that was a
+
+642
+00:25:48,480 --> 00:25:54,000
+big plunge average public education if
+
+643
+00:25:51,519 --> 00:25:56,639
+you look at the best universities in the
+
+644
+00:25:54,000 --> 00:25:58,480
+world the united states is unique in
+
+645
+00:25:56,640 --> 00:26:00,720
+having the best universities in the
+
+646
+00:25:58,480 --> 00:26:01,759
+world so there are these privileged
+
+647
+00:26:00,720 --> 00:26:04,960
+spots
+
+648
+00:26:01,759 --> 00:26:07,440
+um that are you know excellent
+
+649
+00:26:04,960 --> 00:26:11,278
+uniquely excellent so when you look at
+
+650
+00:26:07,440 --> 00:26:13,600
+the comparison education in china
+
+651
+00:26:11,278 --> 00:26:16,400
+is improving rapidly
+
+652
+00:26:13,599 --> 00:26:19,359
+and it and the quantity
+
+653
+00:26:16,400 --> 00:26:22,320
+is a quantity of educated people in the
+
+654
+00:26:19,359 --> 00:26:23,359
+areas that they're moving in are is is
+
+655
+00:26:22,319 --> 00:26:25,119
+greater
+
+656
+00:26:23,359 --> 00:26:28,158
+and the resources that they're putting
+
+657
+00:26:25,119 --> 00:26:29,759
+behind it is greater and so you see the
+
+658
+00:26:28,159 --> 00:26:32,000
+results are greater
+
+659
+00:26:29,759 --> 00:26:33,599
+um but um
+
+660
+00:26:32,000 --> 00:26:35,359
+it's sort of along the lines that i'm
+
+661
+00:26:33,599 --> 00:26:36,480
+i'm dealing with if you were to follow
+
+662
+00:26:35,359 --> 00:26:38,879
+through
+
+663
+00:26:36,480 --> 00:26:41,679
+in terms of um
+
+664
+00:26:38,880 --> 00:26:45,039
+actual productions i i think uh you you
+
+665
+00:26:41,679 --> 00:26:47,600
+know in terms of technologies um there
+
+666
+00:26:45,038 --> 00:26:49,839
+are some areas that the united states is
+
+667
+00:26:47,599 --> 00:26:52,879
+in a lead at the moment there's some
+
+668
+00:26:49,839 --> 00:26:54,079
+areas that china's in a lead but china's
+
+669
+00:26:52,880 --> 00:26:56,440
+gaining
+
+670
+00:26:54,079 --> 00:26:58,000
+very quickly when i first went to china
+
+671
+00:26:56,440 --> 00:27:01,600
+1984
+
+672
+00:26:58,000 --> 00:27:04,079
+i would bring 10 calculators and i gave
+
+673
+00:27:01,599 --> 00:27:05,839
+them away as gifts to high ranking
+
+674
+00:27:04,079 --> 00:27:07,678
+people and they thought they were
+
+675
+00:27:05,839 --> 00:27:08,639
+miracle devices
+
+676
+00:27:07,679 --> 00:27:12,480
+um
+
+677
+00:27:08,640 --> 00:27:14,880
+right now in terms of areas like quantum
+
+678
+00:27:12,480 --> 00:27:15,679
+computing and a.i and
+
+679
+00:27:14,880 --> 00:27:18,159
+and
+
+680
+00:27:15,679 --> 00:27:21,360
+you know many areas
+
+681
+00:27:18,159 --> 00:27:23,760
+you have a race going on and so if you
+
+682
+00:27:21,359 --> 00:27:25,678
+take the trajectory of the
+
+683
+00:27:23,759 --> 00:27:28,158
+competitiveness not just look at the
+
+684
+00:27:25,679 --> 00:27:31,120
+current level you have a situation where
+
+685
+00:27:28,159 --> 00:27:33,520
+they're improving at a much faster rate
+
+686
+00:27:31,119 --> 00:27:36,479
+this is all good for the world if the
+
+687
+00:27:33,519 --> 00:27:39,200
+world can get along
+
+688
+00:27:36,480 --> 00:27:40,640
+and the main thing i think is
+
+689
+00:27:39,200 --> 00:27:42,960
+um
+
+690
+00:27:40,640 --> 00:27:44,480
+in just
+
+691
+00:27:42,960 --> 00:27:46,079
+how do you have a healthy world and how
+
+692
+00:27:44,480 --> 00:27:49,759
+do you have a strong economy and how do
+
+693
+00:27:46,079 --> 00:27:53,439
+you have a strong situation is be strong
+
+694
+00:27:49,759 --> 00:27:56,079
+the united states is war is with itself
+
+695
+00:27:53,440 --> 00:27:58,150
+that's the main war you know it's very
+
+696
+00:27:56,079 --> 00:27:59,439
+simple in history
+
+697
+00:27:58,150 --> 00:28:02,320
+[Music]
+
+698
+00:27:59,440 --> 00:28:03,519
+be financially sound earn more than you
+
+699
+00:28:02,319 --> 00:28:04,558
+spend
+
+700
+00:28:03,519 --> 00:28:08,000
+um
+
+701
+00:28:04,558 --> 00:28:09,678
+and be strong in these ways
+
+702
+00:28:08,000 --> 00:28:12,398
+and pretty much everything will take
+
+703
+00:28:09,679 --> 00:28:12,399
+care of itself
+
+704
+00:28:13,119 --> 00:28:16,959
+but you make it sound simple of course
+
+705
+00:28:14,960 --> 00:28:18,880
+because there's a momentum when things
+
+706
+00:28:16,960 --> 00:28:21,600
+degrade when the education system
+
+707
+00:28:18,880 --> 00:28:24,000
+degrades when you start borrowing
+
+708
+00:28:21,599 --> 00:28:26,798
+when um i mean all of these indicators
+
+709
+00:28:24,000 --> 00:28:28,558
+once once they start going down it's uh
+
+710
+00:28:26,798 --> 00:28:30,798
+there's a momentum to it right so it's
+
+711
+00:28:28,558 --> 00:28:33,200
+hard to reverse it right and there are
+
+712
+00:28:30,798 --> 00:28:34,960
+circumstances that you're then in
+
+713
+00:28:33,200 --> 00:28:36,798
+uh for example
+
+714
+00:28:34,960 --> 00:28:40,079
+indebtedness
+
+715
+00:28:36,798 --> 00:28:42,240
+you know it's politically
+
+716
+00:28:40,079 --> 00:28:44,639
+desirable for those in
+
+717
+00:28:42,240 --> 00:28:47,519
+to borrow money and spend
+
+718
+00:28:44,640 --> 00:28:49,120
+because their constituencies only look
+
+719
+00:28:47,519 --> 00:28:51,278
+at what they get
+
+720
+00:28:49,119 --> 00:28:53,278
+and when they get a lot they don't pay
+
+721
+00:28:51,278 --> 00:28:55,759
+attention to the balance sheet and how
+
+722
+00:28:53,278 --> 00:28:56,960
+much debt is on the books so it's always
+
+723
+00:28:55,759 --> 00:28:58,480
+better to
+
+724
+00:28:56,960 --> 00:29:00,798
+borrow spend
+
+725
+00:28:58,480 --> 00:29:01,759
+and then leave the cleanup to the next
+
+726
+00:29:00,798 --> 00:29:04,639
+guy
+
+727
+00:29:01,759 --> 00:29:07,119
+and so you inherit a lot
+
+728
+00:29:04,640 --> 00:29:10,240
+you inherited as
+
+729
+00:29:07,119 --> 00:29:13,278
+a new president enters in or new
+
+730
+00:29:10,240 --> 00:29:16,640
+legislators they have a lot of debt
+
+731
+00:29:13,278 --> 00:29:19,839
+they have a broken down infrastructure
+
+732
+00:29:16,640 --> 00:29:20,720
+um they don't have enough money to fix
+
+733
+00:29:19,839 --> 00:29:24,079
+that
+
+734
+00:29:20,720 --> 00:29:27,519
+and so that's the lay of the land that
+
+735
+00:29:24,079 --> 00:29:30,879
+the prior generations put you in
+
+736
+00:29:27,519 --> 00:29:33,278
+and there you are and so that's right
+
+737
+00:29:30,880 --> 00:29:36,320
+um it's difficult because when you start
+
+738
+00:29:33,278 --> 00:29:38,398
+to think okay what's healthy well spend
+
+739
+00:29:36,319 --> 00:29:39,519
+earn more than you spend well that's not
+
+740
+00:29:38,398 --> 00:29:40,398
+so easy
+
+741
+00:29:39,519 --> 00:29:42,480
+because
+
+742
+00:29:40,398 --> 00:29:45,759
+you know what does that mean go earn
+
+743
+00:29:42,480 --> 00:29:47,200
+more i mean okay that's not so easy
+
+744
+00:29:45,759 --> 00:29:48,960
+spend less
+
+745
+00:29:47,200 --> 00:29:51,600
+that isn't going to work
+
+746
+00:29:48,960 --> 00:29:54,558
+so now what do you do okay you have this
+
+747
+00:29:51,599 --> 00:29:56,719
+debt that you then monetize and that's
+
+748
+00:29:54,558 --> 00:29:59,359
+why it's classic so yes that's why these
+
+749
+00:29:56,720 --> 00:30:00,640
+cycles occur because what has created
+
+750
+00:29:59,359 --> 00:30:02,719
+before put
+
+751
+00:30:00,640 --> 00:30:04,720
+what happened before created the lay of
+
+752
+00:30:02,720 --> 00:30:06,319
+the land that is then increasingly
+
+753
+00:30:04,720 --> 00:30:08,079
+difficult to deal with
+
+754
+00:30:06,319 --> 00:30:10,480
+so what can great leaders do in this
+
+755
+00:30:08,079 --> 00:30:13,359
+moment i mean maybe um
+
+756
+00:30:10,480 --> 00:30:16,000
+my sense is leadership is crucial here
+
+757
+00:30:13,359 --> 00:30:18,319
+so for example to do very large projects
+
+758
+00:30:16,000 --> 00:30:20,079
+that invest in the education system that
+
+759
+00:30:18,319 --> 00:30:23,119
+sort of try to
+
+760
+00:30:20,079 --> 00:30:25,759
+fix the fundamentals or maybe
+
+761
+00:30:23,119 --> 00:30:27,119
+invest more and more into the innovation
+
+762
+00:30:25,759 --> 00:30:29,440
+and the develop development of new
+
+763
+00:30:27,119 --> 00:30:31,839
+technologies and so on
+
+764
+00:30:29,440 --> 00:30:33,840
+it feels like that just doesn't happen
+
+765
+00:30:31,839 --> 00:30:36,959
+organically
+
+766
+00:30:33,839 --> 00:30:39,278
+so you have to have strong
+
+767
+00:30:36,960 --> 00:30:41,679
+leaders that
+
+768
+00:30:39,278 --> 00:30:43,519
+convince the populace of the importance
+
+769
+00:30:41,679 --> 00:30:46,559
+of these ideas
+
+770
+00:30:43,519 --> 00:30:48,839
+well i completely agree with your list
+
+771
+00:30:46,558 --> 00:30:50,398
+what we have is a situation where
+
+772
+00:30:48,839 --> 00:30:53,038
+everybody
+
+773
+00:30:50,398 --> 00:30:55,359
+has their opinions and they have to sort
+
+774
+00:30:53,038 --> 00:30:57,278
+of get them exactly right and they all
+
+775
+00:30:55,359 --> 00:30:59,439
+fight with each other about whether
+
+776
+00:30:57,278 --> 00:31:00,398
+their opinions so the most important
+
+777
+00:30:59,440 --> 00:31:03,759
+thing
+
+778
+00:31:00,398 --> 00:31:04,719
+is that we are become bipartisan so that
+
+779
+00:31:03,759 --> 00:31:07,278
+we don't
+
+780
+00:31:04,720 --> 00:31:10,159
+and we get over our differences i would
+
+781
+00:31:07,278 --> 00:31:11,839
+have a bipartisan cabinet
+
+782
+00:31:10,159 --> 00:31:12,960
+i would draw upon
+
+783
+00:31:11,839 --> 00:31:15,918
+um
+
+784
+00:31:12,960 --> 00:31:18,240
+both members of both parties the the
+
+785
+00:31:15,919 --> 00:31:20,399
+moderates who are going to be able to
+
+786
+00:31:18,240 --> 00:31:24,240
+work together
+
+787
+00:31:20,398 --> 00:31:27,119
+so as then we have one country
+
+788
+00:31:24,240 --> 00:31:29,278
+and then we deal with those in
+
+789
+00:31:27,119 --> 00:31:31,359
+a means that works for the majority of
+
+790
+00:31:29,278 --> 00:31:32,398
+the people in the middle rather than the
+
+791
+00:31:31,359 --> 00:31:36,158
+polarity
+
+792
+00:31:32,398 --> 00:31:38,798
+i think our greatest risk is in not
+
+793
+00:31:36,159 --> 00:31:39,679
+being able to do that so i would say
+
+794
+00:31:38,798 --> 00:31:42,158
+that's
+
+795
+00:31:39,679 --> 00:31:44,640
+a paramount importance
+
+796
+00:31:42,159 --> 00:31:46,399
+because we have the resources
+
+797
+00:31:44,640 --> 00:31:49,440
+you know um
+
+798
+00:31:46,398 --> 00:31:51,439
+wealth real wealth and and science and
+
+799
+00:31:49,440 --> 00:31:52,320
+everything has never been better than it
+
+800
+00:31:51,440 --> 00:31:54,480
+is
+
+801
+00:31:52,319 --> 00:31:56,639
+but the notion is that it has to work
+
+802
+00:31:54,480 --> 00:31:57,759
+for the majority of people
+
+803
+00:31:56,640 --> 00:32:01,038
+and we
+
+804
+00:31:57,759 --> 00:32:03,919
+have to keep it being productive so that
+
+805
+00:32:01,038 --> 00:32:07,359
+that group has got to calmly and
+
+806
+00:32:03,919 --> 00:32:10,080
+knowledgeably work together so that they
+
+807
+00:32:07,359 --> 00:32:12,558
+increase the size of the pie and they
+
+808
+00:32:10,079 --> 00:32:15,519
+create broad-based prosperity
+
+809
+00:32:12,558 --> 00:32:18,798
+so that is a paramount importance
+
+810
+00:32:15,519 --> 00:32:21,839
+whatever they do if they do it that way
+
+811
+00:32:18,798 --> 00:32:24,960
+i can say i'm happy about because that
+
+812
+00:32:21,839 --> 00:32:27,959
+other alternative is the really scary
+
+813
+00:32:24,960 --> 00:32:27,960
+alternative
+
+814
+00:32:28,398 --> 00:32:32,319
+the
+
+815
+00:32:29,919 --> 00:32:34,240
+the scary alternative
+
+816
+00:32:32,319 --> 00:32:35,839
+the different ways it has evolved
+
+817
+00:32:34,240 --> 00:32:39,440
+throughout history
+
+818
+00:32:35,839 --> 00:32:39,439
+some of it has led to wars
+
+819
+00:32:39,839 --> 00:32:44,319
+what are the future trajectories that
+
+820
+00:32:41,839 --> 00:32:45,599
+lead to a potential war with china
+
+821
+00:32:44,319 --> 00:32:47,759
+cold war
+
+822
+00:32:45,599 --> 00:32:49,199
+or hot war is this something you think
+
+823
+00:32:47,759 --> 00:32:50,079
+about is this something you're worried
+
+824
+00:32:49,200 --> 00:32:52,399
+about
+
+825
+00:32:50,079 --> 00:32:54,319
+yeah i'd like to talk about both wars so
+
+826
+00:32:52,398 --> 00:32:56,719
+the war with china
+
+827
+00:32:54,319 --> 00:32:59,918
+as i say there are five kinds of wars
+
+828
+00:32:56,720 --> 00:33:00,880
+there's a trade war tech um technology
+
+829
+00:32:59,919 --> 00:33:03,278
+war
+
+830
+00:33:00,880 --> 00:33:05,519
+geopolitical influence war
+
+831
+00:33:03,278 --> 00:33:07,599
+um capital war
+
+832
+00:33:05,519 --> 00:33:11,359
+and military war
+
+833
+00:33:07,599 --> 00:33:14,240
+i um as far as military war goes i only
+
+834
+00:33:11,359 --> 00:33:16,319
+i think it's only a taiwan issue
+
+835
+00:33:14,240 --> 00:33:17,839
+um but that's a big issue
+
+836
+00:33:16,319 --> 00:33:18,720
+and we could talk about that for a
+
+837
+00:33:17,839 --> 00:33:21,839
+minute
+
+838
+00:33:18,720 --> 00:33:23,919
+but those others there'll be uh rough
+
+839
+00:33:21,839 --> 00:33:26,319
+competitions
+
+840
+00:33:23,919 --> 00:33:28,720
+and we'll have that type of evolution
+
+841
+00:33:26,319 --> 00:33:30,398
+over a period of time that's what
+
+842
+00:33:28,720 --> 00:33:32,880
+that war looks like
+
+843
+00:33:30,398 --> 00:33:35,839
+taiwan has been
+
+844
+00:33:32,880 --> 00:33:35,840
+for a long time
+
+845
+00:33:35,919 --> 00:33:39,840
+a sovereignty issue to china
+
+846
+00:33:40,480 --> 00:33:47,038
+and it has its roots in what's called
+
+847
+00:33:44,079 --> 00:33:50,639
+the hundred years of humiliation
+
+848
+00:33:47,038 --> 00:33:53,679
+from the 1840s to 1949
+
+849
+00:33:50,640 --> 00:33:54,640
+foreign powers came in took advantage of
+
+850
+00:33:53,679 --> 00:33:57,679
+china
+
+851
+00:33:54,640 --> 00:33:59,120
+they had the opium wars and such times
+
+852
+00:33:57,679 --> 00:34:01,440
+and
+
+853
+00:33:59,119 --> 00:34:02,959
+and that represented the 100 years of
+
+854
+00:34:01,440 --> 00:34:03,759
+humiliation
+
+855
+00:34:02,960 --> 00:34:05,759
+and
+
+856
+00:34:03,759 --> 00:34:07,759
+taiwan
+
+857
+00:34:05,759 --> 00:34:09,918
+represents is
+
+858
+00:34:07,759 --> 00:34:11,760
+their sovereignty and
+
+859
+00:34:09,918 --> 00:34:14,638
+their important thing and
+
+860
+00:34:11,760 --> 00:34:18,320
+50 years ago starting 50 years ago there
+
+861
+00:34:14,639 --> 00:34:19,358
+was an agreement that there is one china
+
+862
+00:34:18,320 --> 00:34:21,440
+and
+
+863
+00:34:19,358 --> 00:34:24,159
+taiwan is part of china
+
+864
+00:34:21,440 --> 00:34:26,878
+and that there would be
+
+865
+00:34:24,159 --> 00:34:27,919
+peaceful reunification
+
+866
+00:34:26,878 --> 00:34:30,480
+the
+
+867
+00:34:27,918 --> 00:34:33,199
+the peaceful reunification hasn't
+
+868
+00:34:30,480 --> 00:34:35,358
+happened and in their view
+
+869
+00:34:33,199 --> 00:34:37,358
+that's a very big issue and so it's a
+
+870
+00:34:35,358 --> 00:34:41,279
+big contentious issue
+
+871
+00:34:37,358 --> 00:34:43,358
+and that uh could produce a military war
+
+872
+00:34:41,280 --> 00:34:45,119
+um could produce a military accident
+
+873
+00:34:43,358 --> 00:34:48,398
+could produce a it's a very tense
+
+874
+00:34:45,119 --> 00:34:49,760
+situation and if we had a military war
+
+875
+00:34:48,398 --> 00:34:52,480
+god help us
+
+876
+00:34:49,760 --> 00:34:55,679
+because of the capacity in all different
+
+877
+00:34:52,480 --> 00:34:58,880
+new ways to inflict um harm on each
+
+878
+00:34:55,679 --> 00:35:01,838
+other but anyway that's that's that if
+
+879
+00:34:58,880 --> 00:35:04,400
+you don't have that military war you'll
+
+880
+00:35:01,838 --> 00:35:07,440
+have the competition between
+
+881
+00:35:04,400 --> 00:35:11,280
+those other kinds of wars and whoever is
+
+882
+00:35:07,440 --> 00:35:13,440
+strongest in those areas will um win
+
+883
+00:35:11,280 --> 00:35:14,480
+where do you put cyber war within the
+
+884
+00:35:13,440 --> 00:35:17,519
+five
+
+885
+00:35:14,480 --> 00:35:20,079
+well cyber war is a military war i'm
+
+886
+00:35:17,519 --> 00:35:22,480
+assuming the type of cyber war that
+
+887
+00:35:20,079 --> 00:35:24,800
+you're using you're referring to is that
+
+888
+00:35:22,480 --> 00:35:27,838
+which it's used to inflict pain on the
+
+889
+00:35:24,800 --> 00:35:29,599
+other party through cyber so cyber wars
+
+890
+00:35:27,838 --> 00:35:31,838
+you'll see cyber war
+
+891
+00:35:29,599 --> 00:35:34,800
+you could see space war
+
+892
+00:35:31,838 --> 00:35:38,960
+you can see drone warfare
+
+893
+00:35:34,800 --> 00:35:41,440
+you um new types of warfare not just
+
+894
+00:35:38,960 --> 00:35:43,599
+the traditional and nuclear type of
+
+895
+00:35:41,440 --> 00:35:45,838
+warfare but you could see any of the
+
+896
+00:35:43,599 --> 00:35:45,838
+above
+
+897
+00:35:46,000 --> 00:35:50,880
+what are the defining characteristics
+
+898
+00:35:48,639 --> 00:35:53,440
+what are the interesting things about xi
+
+899
+00:35:50,880 --> 00:35:55,760
+jinping the president of china
+
+900
+00:35:53,440 --> 00:35:58,559
+as a leader on the world stage
+
+901
+00:35:55,760 --> 00:36:01,040
+his father was a
+
+902
+00:35:58,559 --> 00:36:05,059
+early
+
+903
+00:36:01,039 --> 00:36:06,639
+leader he was himself
+
+904
+00:36:05,059 --> 00:36:09,279
+[Music]
+
+905
+00:36:06,639 --> 00:36:11,279
+in the cultural revolution at times
+
+906
+00:36:09,280 --> 00:36:12,640
+treated
+
+907
+00:36:11,280 --> 00:36:15,839
+brutally
+
+908
+00:36:12,639 --> 00:36:17,679
+um and during that period of time it was
+
+909
+00:36:15,838 --> 00:36:19,920
+very very difficult
+
+910
+00:36:17,679 --> 00:36:22,480
+and he came up
+
+911
+00:36:19,920 --> 00:36:23,480
+you know through the ranks and he's a
+
+912
+00:36:22,480 --> 00:36:26,480
+very
+
+913
+00:36:23,480 --> 00:36:29,440
+intelligent man
+
+914
+00:36:26,480 --> 00:36:32,079
+when he first came to power they as you
+
+915
+00:36:29,440 --> 00:36:34,639
+know they have two five-year terms
+
+916
+00:36:32,079 --> 00:36:36,880
+and we're now coming to the end of the
+
+917
+00:36:34,639 --> 00:36:39,039
+second of those five-year terms when he
+
+918
+00:36:36,880 --> 00:36:41,440
+first came to power
+
+919
+00:36:39,039 --> 00:36:42,719
+he felt that there should be a lot of
+
+920
+00:36:41,440 --> 00:36:46,559
+reform
+
+921
+00:36:42,719 --> 00:36:49,279
+and reform meant moving to much more of
+
+922
+00:36:46,559 --> 00:36:50,239
+a market an open economy
+
+923
+00:36:49,280 --> 00:36:52,960
+when
+
+924
+00:36:50,239 --> 00:36:56,078
+that happened in him coming in
+
+925
+00:36:52,960 --> 00:36:58,400
+i had some contact with economic
+
+926
+00:36:56,079 --> 00:37:01,599
+policymakers but and the circumstances
+
+927
+00:36:58,400 --> 00:37:03,920
+then were that five major banks
+
+928
+00:37:01,599 --> 00:37:05,760
+lent to state-owned enterprises and
+
+929
+00:37:03,920 --> 00:37:07,599
+local governments with implied
+
+930
+00:37:05,760 --> 00:37:10,160
+government guarantees
+
+931
+00:37:07,599 --> 00:37:12,559
+and so there was not control of that and
+
+932
+00:37:10,159 --> 00:37:15,598
+they and the movement to aim more of a
+
+933
+00:37:12,559 --> 00:37:18,719
+market economy and the development of
+
+934
+00:37:15,599 --> 00:37:20,880
+markets uh was a primary and also the
+
+935
+00:37:18,719 --> 00:37:23,118
+dealing with the corruption issue there
+
+936
+00:37:20,880 --> 00:37:25,680
+was a lot of corruption
+
+937
+00:37:23,119 --> 00:37:28,880
+prior to that and that was viewed as an
+
+938
+00:37:25,679 --> 00:37:31,519
+existential threat to the system so that
+
+939
+00:37:28,880 --> 00:37:34,800
+became the primary objective
+
+940
+00:37:31,519 --> 00:37:36,480
+and then as time progressed
+
+941
+00:37:34,800 --> 00:37:37,839
+over those 10 years
+
+942
+00:37:36,480 --> 00:37:40,400
+there was a
+
+943
+00:37:37,838 --> 00:37:42,719
+a lot of changing
+
+944
+00:37:40,400 --> 00:37:45,200
+in the world finance their financial
+
+945
+00:37:42,719 --> 00:37:46,799
+circumstances opening many many other
+
+946
+00:37:45,199 --> 00:37:48,960
+markets
+
+947
+00:37:46,800 --> 00:37:51,200
+they particularly getting money to small
+
+948
+00:37:48,960 --> 00:37:53,119
+and medium-sized enterprises and
+
+949
+00:37:51,199 --> 00:37:56,399
+developing a lending system and then
+
+950
+00:37:53,119 --> 00:37:57,440
+establishing controls on it so right now
+
+951
+00:37:56,400 --> 00:37:59,680
+um
+
+952
+00:37:57,440 --> 00:37:59,679
+there's
+
+953
+00:37:59,838 --> 00:38:02,559
+a vibrant
+
+954
+00:38:01,440 --> 00:38:05,838
+um
+
+955
+00:38:02,559 --> 00:38:08,719
+capital markets um you can raise capital
+
+956
+00:38:05,838 --> 00:38:10,400
+you can be an entrepreneur you can
+
+957
+00:38:08,719 --> 00:38:12,399
+become a billionaire
+
+958
+00:38:10,400 --> 00:38:14,240
+um in the capital markets and they
+
+959
+00:38:12,400 --> 00:38:16,320
+develop the markets to be the second
+
+960
+00:38:14,239 --> 00:38:18,879
+largest capital markets
+
+961
+00:38:16,320 --> 00:38:21,920
+at the same time um
+
+962
+00:38:18,880 --> 00:38:23,599
+they had to deal with their um rising
+
+963
+00:38:21,920 --> 00:38:26,720
+debt issue
+
+964
+00:38:23,599 --> 00:38:28,559
+which they began to deal with uh really
+
+965
+00:38:26,719 --> 00:38:31,199
+about four years ago
+
+966
+00:38:28,559 --> 00:38:33,358
+when the second
+
+967
+00:38:31,199 --> 00:38:35,439
+term began
+
+968
+00:38:33,358 --> 00:38:39,598
+and the um
+
+969
+00:38:35,440 --> 00:38:42,800
+and then uh lu huh became um
+
+970
+00:38:39,599 --> 00:38:46,240
+the vice premier um responsible for that
+
+971
+00:38:42,800 --> 00:38:49,119
+and to um and deal with uh those issues
+
+972
+00:38:46,239 --> 00:38:51,679
+so you see right now that what's
+
+973
+00:38:49,119 --> 00:38:53,440
+happening is uh the dealing with the
+
+974
+00:38:51,679 --> 00:38:55,919
+real estate bubble there was a
+
+975
+00:38:53,440 --> 00:38:58,880
+development in real estate a bubble
+
+976
+00:38:55,920 --> 00:39:03,358
+which produced um a lot of unproductive
+
+977
+00:38:58,880 --> 00:39:04,640
+lending and xi ping said
+
+978
+00:39:03,358 --> 00:39:06,799
+you know
+
+979
+00:39:04,639 --> 00:39:10,239
+houses are meant to live in not to
+
+980
+00:39:06,800 --> 00:39:12,079
+speculate on and so that was wasteful so
+
+981
+00:39:10,239 --> 00:39:14,799
+they established what they call three
+
+982
+00:39:12,079 --> 00:39:17,680
+red lines which are financial ratios
+
+983
+00:39:14,800 --> 00:39:20,800
+that the property developers had to live
+
+984
+00:39:17,679 --> 00:39:23,598
+within and that is then causing the
+
+985
+00:39:20,800 --> 00:39:27,119
+adjustments that are going on now which
+
+986
+00:39:23,599 --> 00:39:29,119
+in my view are very healthy because um
+
+987
+00:39:27,119 --> 00:39:31,760
+whenever there's uh bankruptcies and so
+
+988
+00:39:29,119 --> 00:39:34,160
+on the most in the public think okay
+
+989
+00:39:31,760 --> 00:39:36,320
+that's a problem it's in many cases
+
+990
+00:39:34,159 --> 00:39:39,118
+really a cleaning up of bad debts and
+
+991
+00:39:36,320 --> 00:39:41,200
+bad practices and so um that's what's
+
+992
+00:39:39,119 --> 00:39:45,519
+going on so that's let's say
+
+993
+00:39:41,199 --> 00:39:48,719
+economically at the same time there is
+
+994
+00:39:45,519 --> 00:39:51,358
+the changing relationships the changing
+
+995
+00:39:48,719 --> 00:39:53,039
+world order the changing relationships
+
+996
+00:39:51,358 --> 00:39:56,719
+with the united states and other
+
+997
+00:39:53,039 --> 00:39:59,920
+countries which is becoming um much less
+
+998
+00:39:56,719 --> 00:40:01,919
+cooperative and much more war-like much
+
+999
+00:39:59,920 --> 00:40:05,119
+more confrontational
+
+1000
+00:40:01,920 --> 00:40:07,440
+um those two things the
+
+1001
+00:40:05,119 --> 00:40:08,880
+the domestic debt problem and domestic
+
+1002
+00:40:07,440 --> 00:40:11,599
+has led to
+
+1003
+00:40:08,880 --> 00:40:14,480
+um what's called core what they call
+
+1004
+00:40:11,599 --> 00:40:17,119
+core leadership which means
+
+1005
+00:40:14,480 --> 00:40:18,240
+a leadership more around him
+
+1006
+00:40:17,119 --> 00:40:19,680
+that
+
+1007
+00:40:18,239 --> 00:40:21,039
+is less
+
+1008
+00:40:19,679 --> 00:40:23,279
+challenging
+
+1009
+00:40:21,039 --> 00:40:25,679
+because they believe in history
+
+1010
+00:40:23,280 --> 00:40:28,319
+that during very difficult times
+
+1011
+00:40:25,679 --> 00:40:30,639
+um a more centrally controlled
+
+1012
+00:40:28,318 --> 00:40:32,639
+decision-making process lends itself
+
+1013
+00:40:30,639 --> 00:40:35,598
+better than to a more fragmented
+
+1014
+00:40:32,639 --> 00:40:37,279
+political contentious project and that's
+
+1015
+00:40:35,599 --> 00:40:40,079
+basically what's
+
+1016
+00:40:37,280 --> 00:40:42,079
+going on now
+
+1017
+00:40:40,079 --> 00:40:43,680
+you said it very eloquently
+
+1018
+00:40:42,079 --> 00:40:46,480
+but you mean
+
+1019
+00:40:43,679 --> 00:40:48,078
+the leadership is surrounded by yes men
+
+1020
+00:40:46,480 --> 00:40:50,000
+and there's a lot of
+
+1021
+00:40:48,079 --> 00:40:52,240
+centralized control
+
+1022
+00:40:50,000 --> 00:40:55,358
+that characterization
+
+1023
+00:40:52,239 --> 00:40:57,039
+is view is much more black and white
+
+1024
+00:40:55,358 --> 00:40:59,920
+than it really is
+
+1025
+00:40:57,039 --> 00:41:01,838
+uh but it leans towards that direction
+
+1026
+00:40:59,920 --> 00:41:04,079
+they're like for example of the standing
+
+1027
+00:41:01,838 --> 00:41:07,119
+members of the polar bureau four are
+
+1028
+00:41:04,079 --> 00:41:09,359
+more eligi allied him
+
+1029
+00:41:07,119 --> 00:41:11,440
+three or less so
+
+1030
+00:41:09,358 --> 00:41:14,559
+you have to understand that it's kind of
+
+1031
+00:41:11,440 --> 00:41:16,159
+a collective leadership at the top
+
+1032
+00:41:14,559 --> 00:41:18,639
+and then of course there's just
+
+1033
+00:41:16,159 --> 00:41:20,559
+jockeying for power um you know in a
+
+1034
+00:41:18,639 --> 00:41:24,480
+highly political sense
+
+1035
+00:41:20,559 --> 00:41:28,639
+um at the top uh but no one leader can
+
+1036
+00:41:24,480 --> 00:41:31,199
+be successful against the uh all those
+
+1037
+00:41:28,639 --> 00:41:33,679
+powers at the top so it's very
+
+1038
+00:41:31,199 --> 00:41:36,078
+politically negotiating it's you know
+
+1039
+00:41:33,679 --> 00:41:38,159
+it's very much more like if you put
+
+1040
+00:41:36,079 --> 00:41:40,079
+um in the united states the democrats
+
+1041
+00:41:38,159 --> 00:41:41,920
+and the republicans and they had to be
+
+1042
+00:41:40,079 --> 00:41:45,039
+in the same government and they work it
+
+1043
+00:41:41,920 --> 00:41:47,440
+out uh it's kind of something like that
+
+1044
+00:41:45,039 --> 00:41:49,679
+and then so that's that struggle but
+
+1045
+00:41:47,440 --> 00:41:51,358
+it's an internal struggle
+
+1046
+00:41:49,679 --> 00:41:52,399
+where do you put the importance of some
+
+1047
+00:41:51,358 --> 00:41:54,078
+of these
+
+1048
+00:41:52,400 --> 00:41:55,200
+ideas at the founding of the united
+
+1049
+00:41:54,079 --> 00:41:56,318
+states
+
+1050
+00:41:55,199 --> 00:41:58,159
+when then
+
+1051
+00:41:56,318 --> 00:42:02,318
+now we're talking about at the context
+
+1052
+00:41:58,159 --> 00:42:03,920
+of china the freedom of speech freedoms
+
+1053
+00:42:02,318 --> 00:42:05,920
+what china is doing with the central
+
+1054
+00:42:03,920 --> 00:42:08,400
+management of a lot of things it's
+
+1055
+00:42:05,920 --> 00:42:10,880
+enabling a lot of growth
+
+1056
+00:42:08,400 --> 00:42:13,119
+but it's also limiting
+
+1057
+00:42:10,880 --> 00:42:16,160
+people on the very basic level in terms
+
+1058
+00:42:13,119 --> 00:42:18,559
+of freedom the kind of freedom that
+
+1059
+00:42:16,159 --> 00:42:20,318
+i think can lead to entrepreneurship to
+
+1060
+00:42:18,559 --> 00:42:22,239
+starting new businesses to having big
+
+1061
+00:42:20,318 --> 00:42:24,480
+dreams and chasing those dreams and then
+
+1062
+00:42:22,239 --> 00:42:26,879
+creating totally new things in whatever
+
+1063
+00:42:24,480 --> 00:42:29,920
+the space maybe in technology
+
+1064
+00:42:26,880 --> 00:42:32,240
+in business and whatever
+
+1065
+00:42:29,920 --> 00:42:34,880
+what how important is that as a metric
+
+1066
+00:42:32,239 --> 00:42:39,279
+for society well they have a view which
+
+1067
+00:42:34,880 --> 00:42:41,440
+is the idea of a dialectic which means
+
+1068
+00:42:39,280 --> 00:42:43,760
+that two things are at obvious that
+
+1069
+00:42:41,440 --> 00:42:46,400
+everything comes with pros and cons and
+
+1070
+00:42:43,760 --> 00:42:48,800
+two opposites exist
+
+1071
+00:42:46,400 --> 00:42:51,200
+and you want the benefits of those two
+
+1072
+00:42:48,800 --> 00:42:54,800
+opposites and how do you deal with the
+
+1073
+00:42:51,199 --> 00:42:57,279
+benefits of those two opposites right so
+
+1074
+00:42:54,800 --> 00:43:00,720
+let's say you want the capital markets
+
+1075
+00:42:57,280 --> 00:43:02,880
+because it gets uh money into the hands
+
+1076
+00:43:00,719 --> 00:43:05,279
+of the entrepreneurs who are motivated
+
+1077
+00:43:02,880 --> 00:43:08,720
+they build fortunes and that drives an
+
+1078
+00:43:05,280 --> 00:43:12,240
+economy to do very well and at the same
+
+1079
+00:43:08,719 --> 00:43:14,239
+time um it produces uh the other
+
+1080
+00:43:12,239 --> 00:43:16,799
+problems the wealth gaps the other
+
+1081
+00:43:14,239 --> 00:43:19,118
+problems then the debt cycle that we're
+
+1082
+00:43:16,800 --> 00:43:21,920
+talking about and so on and deng
+
+1083
+00:43:19,119 --> 00:43:23,280
+xiaoping you know how do you reconcile
+
+1084
+00:43:21,920 --> 00:43:24,079
+communism
+
+1085
+00:43:23,280 --> 00:43:26,560
+and
+
+1086
+00:43:24,079 --> 00:43:30,880
+um the market economy and the capital
+
+1087
+00:43:26,559 --> 00:43:33,119
+markets and he uh famously said um
+
+1088
+00:43:30,880 --> 00:43:34,880
+and if it doesn't matter if it's a white
+
+1089
+00:43:33,119 --> 00:43:37,760
+cat or a black cat just as long as it
+
+1090
+00:43:34,880 --> 00:43:40,559
+catches mice in other words if it if it
+
+1091
+00:43:37,760 --> 00:43:42,400
+works in making the country richer
+
+1092
+00:43:40,559 --> 00:43:44,400
+then that becomes the objective and then
+
+1093
+00:43:42,400 --> 00:43:45,838
+they move that along so there are these
+
+1094
+00:43:44,400 --> 00:43:48,079
+conflicts
+
+1095
+00:43:45,838 --> 00:43:49,599
+um and um
+
+1096
+00:43:48,079 --> 00:43:52,079
+one of the leaders
+
+1097
+00:43:49,599 --> 00:43:54,160
+described it to me as follows because
+
+1098
+00:43:52,079 --> 00:43:55,599
+it's confusion and it goes back over a
+
+1099
+00:43:54,159 --> 00:43:58,000
+period of time
+
+1100
+00:43:55,599 --> 00:44:00,640
+there's a a hierarchy and it's an
+
+1101
+00:43:58,000 --> 00:44:04,159
+extension of uh the family he described
+
+1102
+00:44:00,639 --> 00:44:05,199
+it and he said the united states is a
+
+1103
+00:44:04,159 --> 00:44:09,598
+country
+
+1104
+00:44:05,199 --> 00:44:13,519
+of individuals and individualism
+
+1105
+00:44:09,599 --> 00:44:15,039
+and that is its vibrancy that um
+
+1106
+00:44:13,519 --> 00:44:16,400
+we see
+
+1107
+00:44:15,039 --> 00:44:19,489
+the individual
+
+1108
+00:44:16,400 --> 00:44:20,800
+rights to speak up the individual
+
+1109
+00:44:19,489 --> 00:44:22,959
+[Music]
+
+1110
+00:44:20,800 --> 00:44:25,359
+protection of the individual individual
+
+1111
+00:44:22,960 --> 00:44:28,559
+property rights and all of those things
+
+1112
+00:44:25,358 --> 00:44:30,239
+as of uh paramount importance and we
+
+1113
+00:44:28,559 --> 00:44:32,480
+build our organization that's why
+
+1114
+00:44:30,239 --> 00:44:34,399
+democracy is from the bottom up or even
+
+1115
+00:44:32,480 --> 00:44:37,358
+a company we'll get together and we'll
+
+1116
+00:44:34,400 --> 00:44:39,838
+be partners to proper prosper together
+
+1117
+00:44:37,358 --> 00:44:41,920
+that is the american approach
+
+1118
+00:44:39,838 --> 00:44:44,960
+um he was describing
+
+1119
+00:44:41,920 --> 00:44:48,559
+that in china it's an extension of the
+
+1120
+00:44:44,960 --> 00:44:51,199
+confucian family essentially and so it's
+
+1121
+00:44:48,559 --> 00:44:54,318
+almost like um um you know there's a
+
+1122
+00:44:51,199 --> 00:44:56,559
+hierarchy and so what they think about
+
+1123
+00:44:54,318 --> 00:44:59,279
+is the common good
+
+1124
+00:44:56,559 --> 00:45:01,519
+uh not the individualism
+
+1125
+00:44:59,280 --> 00:45:04,160
+so for example if they want a high-speed
+
+1126
+00:45:01,519 --> 00:45:06,639
+rail to go from one place to another and
+
+1127
+00:45:04,159 --> 00:45:08,879
+that's best in the common good
+
+1128
+00:45:06,639 --> 00:45:11,199
+then the individual protections that
+
+1129
+00:45:08,880 --> 00:45:13,599
+would stand in the way of doing that
+
+1130
+00:45:11,199 --> 00:45:17,439
+would be of secondary concern
+
+1131
+00:45:13,599 --> 00:45:19,280
+so that notion of uh controlling so it
+
+1132
+00:45:17,440 --> 00:45:21,679
+it for example
+
+1133
+00:45:19,280 --> 00:45:23,119
+um the what what they're doing with uh
+
+1134
+00:45:21,679 --> 00:45:24,159
+video games
+
+1135
+00:45:23,119 --> 00:45:26,400
+um
+
+1136
+00:45:24,159 --> 00:45:29,118
+they um control
+
+1137
+00:45:26,400 --> 00:45:32,079
+uh what type of video games and how
+
+1138
+00:45:29,119 --> 00:45:33,039
+many hours a day kids can be on video
+
+1139
+00:45:32,079 --> 00:45:34,079
+games
+
+1140
+00:45:33,039 --> 00:45:36,559
+um
+
+1141
+00:45:34,079 --> 00:45:38,800
+operating in that way because they
+
+1142
+00:45:36,559 --> 00:45:40,639
+believe that that's good for the society
+
+1143
+00:45:38,800 --> 00:45:43,039
+and that's very controlling
+
+1144
+00:45:40,639 --> 00:45:44,960
+in the united states i i think probably
+
+1145
+00:45:43,039 --> 00:45:47,440
+most parents would say leave it to me
+
+1146
+00:45:44,960 --> 00:45:50,559
+and it's it's a matter between me and my
+
+1147
+00:45:47,440 --> 00:45:52,960
+kids the same thing has to do with data
+
+1148
+00:45:50,559 --> 00:45:55,039
+in other words in the united states who
+
+1149
+00:45:52,960 --> 00:45:57,679
+controls the data
+
+1150
+00:45:55,039 --> 00:46:00,800
+does the company control the data do you
+
+1151
+00:45:57,679 --> 00:46:03,440
+individually control the data and so the
+
+1152
+00:46:00,800 --> 00:46:05,519
+inclination would be to figure that out
+
+1153
+00:46:03,440 --> 00:46:07,838
+but nobody would say that the government
+
+1154
+00:46:05,519 --> 00:46:09,719
+is going to control the data because of
+
+1155
+00:46:07,838 --> 00:46:11,759
+our inclination of really
+
+1156
+00:46:09,719 --> 00:46:14,078
+anti-government control
+
+1157
+00:46:11,760 --> 00:46:15,839
+in china it would be that the government
+
+1158
+00:46:14,079 --> 00:46:18,079
+will control the data
+
+1159
+00:46:15,838 --> 00:46:20,559
+because that's going to be best for the
+
+1160
+00:46:18,079 --> 00:46:21,519
+society and it depends who you trust but
+
+1161
+00:46:20,559 --> 00:46:25,199
+that's
+
+1162
+00:46:21,519 --> 00:46:28,000
+so that difference in philosophy is very
+
+1163
+00:46:25,199 --> 00:46:31,039
+much at the um you know at the heart of
+
+1164
+00:46:28,000 --> 00:46:31,679
+that as far as um your question in terms
+
+1165
+00:46:31,039 --> 00:46:35,519
+of
+
+1166
+00:46:31,679 --> 00:46:37,358
+effectiveness it really is in china's
+
+1167
+00:46:35,519 --> 00:46:39,920
+case it's how you balance the things
+
+1168
+00:46:37,358 --> 00:46:42,480
+right so what they're attempting to do
+
+1169
+00:46:39,920 --> 00:46:46,720
+is to create a lot of freedom and
+
+1170
+00:46:42,480 --> 00:46:49,199
+creativity um in areas that are not
+
+1171
+00:46:46,719 --> 00:46:50,159
+uh political let's say
+
+1172
+00:46:49,199 --> 00:46:52,159
+and
+
+1173
+00:46:50,159 --> 00:46:53,679
+and so you see on a lot of
+
+1174
+00:46:52,159 --> 00:46:56,000
+entrepreneurship
+
+1175
+00:46:53,679 --> 00:46:58,639
+you see a lot of product development you
+
+1176
+00:46:56,000 --> 00:47:01,280
+see a lot of creativity
+
+1177
+00:46:58,639 --> 00:47:04,078
+um happening in that way so the
+
+1178
+00:47:01,280 --> 00:47:06,640
+stereotype that you don't see creativity
+
+1179
+00:47:04,079 --> 00:47:08,560
+happening is is an old stereotype
+
+1180
+00:47:06,639 --> 00:47:10,799
+where's a lot of creativity certainly
+
+1181
+00:47:08,559 --> 00:47:13,199
+happening and the system can work well
+
+1182
+00:47:10,800 --> 00:47:15,440
+if they can achieve that kind of balance
+
+1183
+00:47:13,199 --> 00:47:19,118
+it's proven to have worked well since i
+
+1184
+00:47:15,440 --> 00:47:21,200
+started going there in 1984 per capita
+
+1185
+00:47:19,119 --> 00:47:25,920
+income real per capita income has
+
+1186
+00:47:21,199 --> 00:47:27,199
+increased by 26 times the um longevity
+
+1187
+00:47:25,920 --> 00:47:29,920
+rate has
+
+1188
+00:47:27,199 --> 00:47:31,919
+increased by 10 years the poverty rate
+
+1189
+00:47:29,920 --> 00:47:34,639
+has fallen from 88
+
+1190
+00:47:31,920 --> 00:47:37,838
+to less than 1 in terms of you know
+
+1191
+00:47:34,639 --> 00:47:39,838
+basics like starvation and things and if
+
+1192
+00:47:37,838 --> 00:47:42,318
+you read history
+
+1193
+00:47:39,838 --> 00:47:43,599
+plato's republic you know he talks about
+
+1194
+00:47:42,318 --> 00:47:45,119
+the cycles
+
+1195
+00:47:43,599 --> 00:47:46,480
+democracy
+
+1196
+00:47:45,119 --> 00:47:47,599
+you know an autocratic and the
+
+1197
+00:47:46,480 --> 00:47:50,000
+benevolent
+
+1198
+00:47:47,599 --> 00:47:51,359
+despot and all of that
+
+1199
+00:47:50,000 --> 00:47:53,199
+each has
+
+1200
+00:47:51,358 --> 00:47:55,920
+their own vulnerability
+
+1201
+00:47:53,199 --> 00:47:59,439
+the vulnerability of democracy which has
+
+1202
+00:47:55,920 --> 00:48:02,240
+been a remarkable remarkable system and
+
+1203
+00:47:59,440 --> 00:48:06,000
+i don't have to extol the benefits of it
+
+1204
+00:48:02,239 --> 00:48:09,679
+um but the vulnerability of it
+
+1205
+00:48:06,000 --> 00:48:13,119
+has always been uh the um internal
+
+1206
+00:48:09,679 --> 00:48:16,078
+conflict that produces itself as anarchy
+
+1207
+00:48:13,119 --> 00:48:18,559
+um in world war ii
+
+1208
+00:48:16,079 --> 00:48:20,680
+uh four democracies
+
+1209
+00:48:18,559 --> 00:48:22,240
+chose to be
+
+1210
+00:48:20,679 --> 00:48:25,759
+autocracies
+
+1211
+00:48:22,239 --> 00:48:28,078
+um because there was internal disorder
+
+1212
+00:48:25,760 --> 00:48:30,400
+and there was this is the belief will
+
+1213
+00:48:28,079 --> 00:48:32,720
+somebody bring about order and get
+
+1214
+00:48:30,400 --> 00:48:36,639
+control of the situation you know that
+
+1215
+00:48:32,719 --> 00:48:40,480
+was in um germany italy uh japan and
+
+1216
+00:48:36,639 --> 00:48:42,879
+spain um they were parliamentary dictat
+
+1217
+00:48:40,480 --> 00:48:47,318
+systems that uh turned themselves over
+
+1218
+00:48:42,880 --> 00:48:49,358
+to that so both systems um have
+
+1219
+00:48:47,318 --> 00:48:51,759
+vulnerabilities um
+
+1220
+00:48:49,358 --> 00:48:53,199
+i think the main thing now that we need
+
+1221
+00:48:51,760 --> 00:48:56,400
+to think about
+
+1222
+00:48:53,199 --> 00:48:59,838
+is those vulnerabilities democracy is an
+
+1223
+00:48:56,400 --> 00:49:02,639
+amazing system because it requ
+
+1224
+00:48:59,838 --> 00:49:05,279
+the the adherence to the rules and the
+
+1225
+00:49:02,639 --> 00:49:07,440
+system and the checks and balances is
+
+1226
+00:49:05,280 --> 00:49:10,640
+quite amazing and it gives it a
+
+1227
+00:49:07,440 --> 00:49:12,318
+flexibility to change without civil wars
+
+1228
+00:49:10,639 --> 00:49:14,078
+um um
+
+1229
+00:49:12,318 --> 00:49:17,920
+but there has to be the respect of the
+
+1230
+00:49:14,079 --> 00:49:19,839
+rules and when you see something like
+
+1231
+00:49:17,920 --> 00:49:21,200
+that they will not
+
+1232
+00:49:19,838 --> 00:49:24,719
+accept
+
+1233
+00:49:21,199 --> 00:49:27,838
+elections or they will not accept rules
+
+1234
+00:49:24,719 --> 00:49:30,000
+and history has shown when the causes
+
+1235
+00:49:27,838 --> 00:49:32,400
+that people are behind are more
+
+1236
+00:49:30,000 --> 00:49:35,199
+important to them than the system the
+
+1237
+00:49:32,400 --> 00:49:38,160
+system is in jeopardy so we have a
+
+1238
+00:49:35,199 --> 00:49:39,358
+situation that's very much like that
+
+1239
+00:49:38,159 --> 00:49:42,838
+in terms of
+
+1240
+00:49:39,358 --> 00:49:45,759
+let's say the 2024 elections
+
+1241
+00:49:42,838 --> 00:49:49,199
+i believe that there's a very high
+
+1242
+00:49:45,760 --> 00:49:50,559
+chance that neither side will accept
+
+1243
+00:49:49,199 --> 00:49:54,239
+losing
+
+1244
+00:49:50,559 --> 00:49:56,880
+for example and so we um
+
+1245
+00:49:54,239 --> 00:50:00,000
+we have that kind of a situation so
+
+1246
+00:49:56,880 --> 00:50:01,680
+one would hope that one could rise above
+
+1247
+00:50:00,000 --> 00:50:05,519
+the disagreements
+
+1248
+00:50:01,679 --> 00:50:08,399
+and rely on the system uh for resolving
+
+1249
+00:50:05,519 --> 00:50:13,199
+disagreements because if if that doesn't
+
+1250
+00:50:08,400 --> 00:50:15,440
+happen then we have our own uh chaos
+
+1251
+00:50:13,199 --> 00:50:18,399
+so the kind of the trend that started in
+
+1252
+00:50:15,440 --> 00:50:19,679
+2020 this or i mean i mean i suppose
+
+1253
+00:50:18,400 --> 00:50:21,440
+it's been there
+
+1254
+00:50:19,679 --> 00:50:23,118
+it's been growing
+
+1255
+00:50:21,440 --> 00:50:25,599
+a rep one representation of this
+
+1256
+00:50:23,119 --> 00:50:27,760
+internal disorder has been the growing
+
+1257
+00:50:25,599 --> 00:50:29,519
+trend of being skeptical about the
+
+1258
+00:50:27,760 --> 00:50:31,599
+results of the election
+
+1259
+00:50:29,519 --> 00:50:34,559
+well it started before that
+
+1260
+00:50:31,599 --> 00:50:38,318
+there was the emergence of populism
+
+1261
+00:50:34,559 --> 00:50:39,839
+where before uh president uh trump was
+
+1262
+00:50:38,318 --> 00:50:42,079
+elected
+
+1263
+00:50:39,838 --> 00:50:44,400
+he was basically elected
+
+1264
+00:50:42,079 --> 00:50:46,720
+as a populist because there was a large
+
+1265
+00:50:44,400 --> 00:50:49,599
+percentage of the population
+
+1266
+00:50:46,719 --> 00:50:50,558
+that felt that the system didn't work
+
+1267
+00:50:49,599 --> 00:50:53,119
+for them
+
+1268
+00:50:50,559 --> 00:50:56,000
+and he tapped into that and he was
+
+1269
+00:50:53,119 --> 00:50:58,559
+largely elected as a populist leader
+
+1270
+00:50:56,000 --> 00:50:59,760
+first populous leader in a developed
+
+1271
+00:50:58,559 --> 00:51:04,079
+country
+
+1272
+00:50:59,760 --> 00:51:06,400
+um and so populism began that then
+
+1273
+00:51:04,079 --> 00:51:09,519
+and that was a battle of one group
+
+1274
+00:51:06,400 --> 00:51:12,240
+against the other group and so since
+
+1275
+00:51:09,519 --> 00:51:15,199
+then it's been like that and it
+
+1276
+00:51:12,239 --> 00:51:15,199
+continued to grow
+
+1277
+00:51:17,838 --> 00:51:23,199
+you've mentioned
+
+1278
+00:51:20,480 --> 00:51:25,358
+the vulnerability of democracy that
+
+1279
+00:51:23,199 --> 00:51:28,078
+internal disorder is the vulnerability
+
+1280
+00:51:25,358 --> 00:51:31,119
+of democracy what's the vulnerability of
+
+1281
+00:51:28,079 --> 00:51:33,280
+a system like china maybe one way to say
+
+1282
+00:51:31,119 --> 00:51:35,200
+is put china aside and look at history
+
+1283
+00:51:33,280 --> 00:51:38,160
+like a soviet union what's the
+
+1284
+00:51:35,199 --> 00:51:39,759
+vulnerability of a communist
+
+1285
+00:51:38,159 --> 00:51:42,799
+type system
+
+1286
+00:51:39,760 --> 00:51:44,079
+well i'll call it both communist
+
+1287
+00:51:42,800 --> 00:51:46,400
+and
+
+1288
+00:51:44,079 --> 00:51:48,960
+autocratic sure
+
+1289
+00:51:46,400 --> 00:51:52,400
+depending on how much autocracy
+
+1290
+00:51:48,960 --> 00:51:56,480
+is that it lacks flexibility
+
+1291
+00:51:52,400 --> 00:51:58,079
+it it lacks um the ability
+
+1292
+00:51:56,480 --> 00:52:00,240
+so but i should deal with them
+
+1293
+00:51:58,079 --> 00:52:02,000
+differently um in other words there's
+
+1294
+00:52:00,239 --> 00:52:04,799
+the economic system
+
+1295
+00:52:02,000 --> 00:52:06,079
+the economic system um threatens
+
+1296
+00:52:04,800 --> 00:52:08,880
+motivation
+
+1297
+00:52:06,079 --> 00:52:10,240
+and productivity so communism or
+
+1298
+00:52:08,880 --> 00:52:13,519
+socialism
+
+1299
+00:52:10,239 --> 00:52:16,959
+uh has to be done in a way where
+
+1300
+00:52:13,519 --> 00:52:19,280
+um you can threaten productivity
+
+1301
+00:52:16,960 --> 00:52:21,440
+capitalism has
+
+1302
+00:52:19,280 --> 00:52:24,559
+and what i mean by that i mean free
+
+1303
+00:52:21,440 --> 00:52:26,240
+markets and capital markets
+
+1304
+00:52:24,559 --> 00:52:28,400
+i have been an effective way of
+
+1305
+00:52:26,239 --> 00:52:30,959
+allocating resources
+
+1306
+00:52:28,400 --> 00:52:32,400
+and also creating the
+
+1307
+00:52:30,960 --> 00:52:34,079
+the incentives
+
+1308
+00:52:32,400 --> 00:52:36,318
+and the resources providing the
+
+1309
+00:52:34,079 --> 00:52:40,480
+resources for the inventiveness of new
+
+1310
+00:52:36,318 --> 00:52:42,960
+ideas and so if i compare that
+
+1311
+00:52:40,480 --> 00:52:45,679
+what the chinese have done to a large
+
+1312
+00:52:42,960 --> 00:52:47,039
+extent is to recognize that and have
+
+1313
+00:52:45,679 --> 00:52:50,078
+made a move
+
+1314
+00:52:47,039 --> 00:52:52,558
+that's why the uh seeming
+
+1315
+00:52:50,079 --> 00:52:55,440
+dialectic or the conflict between those
+
+1316
+00:52:52,559 --> 00:52:58,800
+two things exists but anyway that's it
+
+1317
+00:52:55,440 --> 00:53:02,480
+as far as an autocratic system
+
+1318
+00:52:58,800 --> 00:53:04,160
+rather than um one man one vote from the
+
+1319
+00:53:02,480 --> 00:53:07,280
+population up
+
+1320
+00:53:04,159 --> 00:53:10,480
+the risks of the autocratic system
+
+1321
+00:53:07,280 --> 00:53:12,240
+is that there's enough discontent that
+
+1322
+00:53:10,480 --> 00:53:14,880
+arises
+
+1323
+00:53:12,239 --> 00:53:16,399
+that the system doesn't have the
+
+1324
+00:53:14,880 --> 00:53:19,599
+flexibility
+
+1325
+00:53:16,400 --> 00:53:20,639
+and that rather than bending um it
+
+1326
+00:53:19,599 --> 00:53:24,318
+breaks
+
+1327
+00:53:20,639 --> 00:53:27,759
+um that's that's the big risk um the
+
+1328
+00:53:24,318 --> 00:53:30,079
+notion of trying to control a
+
+1329
+00:53:27,760 --> 00:53:31,680
+um if there's that rather than giving it
+
+1330
+00:53:30,079 --> 00:53:34,318
+the flexibility
+
+1331
+00:53:31,679 --> 00:53:36,480
+um so that's the that would be the big
+
+1332
+00:53:34,318 --> 00:53:37,358
+risk of the autocratic system what's the
+
+1333
+00:53:36,480 --> 00:53:38,559
+human
+
+1334
+00:53:37,358 --> 00:53:39,920
+uh
+
+1335
+00:53:38,559 --> 00:53:42,400
+because you mentioned like the top gets
+
+1336
+00:53:39,920 --> 00:53:45,599
+bigger with empires
+
+1337
+00:53:42,400 --> 00:53:48,160
+and you start taking things for granted
+
+1338
+00:53:45,599 --> 00:53:50,720
+is the some of this just human nature
+
+1339
+00:53:48,159 --> 00:53:53,199
+so the concern with with china
+
+1340
+00:53:50,719 --> 00:53:55,598
+with autocratic nations
+
+1341
+00:53:53,199 --> 00:53:57,598
+the concern with the
+
+1342
+00:53:55,599 --> 00:53:59,838
+the third reich
+
+1343
+00:53:57,599 --> 00:54:01,680
+the soviet union
+
+1344
+00:53:59,838 --> 00:54:03,440
+was that
+
+1345
+00:54:01,679 --> 00:54:06,318
+fundamentally at the individual level
+
+1346
+00:54:03,440 --> 00:54:08,800
+the humans involved at the top
+
+1347
+00:54:06,318 --> 00:54:11,039
+they start becoming they're starting to
+
+1348
+00:54:08,800 --> 00:54:12,240
+lose touch with reality
+
+1349
+00:54:11,039 --> 00:54:14,079
+in a way that
+
+1350
+00:54:12,239 --> 00:54:15,759
+no longer makes them i guess that's the
+
+1351
+00:54:14,079 --> 00:54:18,318
+representation of the flexibility that
+
+1352
+00:54:15,760 --> 00:54:20,319
+you're referring to well i'm i mean in a
+
+1353
+00:54:18,318 --> 00:54:22,159
+democracy
+
+1354
+00:54:20,318 --> 00:54:24,318
+you could change you can go as far left
+
+1355
+00:54:22,159 --> 00:54:26,879
+or as far right you can change the
+
+1356
+00:54:24,318 --> 00:54:27,920
+leaders easily and so the people don't
+
+1357
+00:54:26,880 --> 00:54:29,920
+become
+
+1358
+00:54:27,920 --> 00:54:33,838
+um you know they pretty much only have
+
+1359
+00:54:29,920 --> 00:54:36,240
+themselves to blame uh yeah you know and
+
+1360
+00:54:33,838 --> 00:54:39,279
+one of the problems of that is they may
+
+1361
+00:54:36,239 --> 00:54:40,639
+not choose the best leaders
+
+1362
+00:54:39,280 --> 00:54:43,280
+but they
+
+1363
+00:54:40,639 --> 00:54:44,239
+they have that flexibility so if vote
+
+1364
+00:54:43,280 --> 00:54:46,079
+and
+
+1365
+00:54:44,239 --> 00:54:48,078
+you get what you wanted
+
+1366
+00:54:46,079 --> 00:54:50,318
+in the case of the autocratic let's say
+
+1367
+00:54:48,079 --> 00:54:54,000
+leaders and then the movement from
+
+1368
+00:54:50,318 --> 00:54:55,199
+democracies to autocracies
+
+1369
+00:54:54,000 --> 00:54:57,920
+what you
+
+1370
+00:54:55,199 --> 00:55:00,399
+see normally that movement is that one
+
+1371
+00:54:57,920 --> 00:55:02,159
+of the systems is it is not working
+
+1372
+00:55:00,400 --> 00:55:04,000
+let's say the democracy is not
+
+1373
+00:55:02,159 --> 00:55:05,440
+effectively everybody's arguing with
+
+1374
+00:55:04,000 --> 00:55:06,480
+each other and nobody's getting anything
+
+1375
+00:55:05,440 --> 00:55:08,639
+done and
+
+1376
+00:55:06,480 --> 00:55:11,440
+you know like mussolini the trains are
+
+1377
+00:55:08,639 --> 00:55:13,759
+not running on time and that would be
+
+1378
+00:55:11,440 --> 00:55:16,559
+the example jesus this place has gotten
+
+1379
+00:55:13,760 --> 00:55:18,839
+chaotic will somebody get into control
+
+1380
+00:55:16,559 --> 00:55:22,319
+and then they then you get the
+
+1381
+00:55:18,838 --> 00:55:26,400
+autocratic um and then he's autocratic
+
+1382
+00:55:22,318 --> 00:55:28,880
+enough to boss people around and um and
+
+1383
+00:55:26,400 --> 00:55:31,519
+then you follow those kinds of orders
+
+1384
+00:55:28,880 --> 00:55:33,440
+and it's like a maybe a ceo in a
+
+1385
+00:55:31,519 --> 00:55:35,199
+powerful company ordering around and
+
+1386
+00:55:33,440 --> 00:55:37,200
+that could work well or it could work
+
+1387
+00:55:35,199 --> 00:55:39,039
+badly you know most
+
+1388
+00:55:37,199 --> 00:55:42,000
+um companies
+
+1389
+00:55:39,039 --> 00:55:44,000
+are run as um
+
+1390
+00:55:42,000 --> 00:55:45,920
+like autocracies in a sense you know
+
+1391
+00:55:44,000 --> 00:55:49,519
+there's the hierarchy and you the
+
+1392
+00:55:45,920 --> 00:55:54,079
+command economy and that kind of thing
+
+1393
+00:55:49,519 --> 00:55:56,318
+and now that can work well or not um but
+
+1394
+00:55:54,079 --> 00:56:00,400
+then what quite often when you get the
+
+1395
+00:55:56,318 --> 00:56:03,279
+populist autocratic their personality is
+
+1396
+00:56:00,400 --> 00:56:06,880
+something that they want to fight
+
+1397
+00:56:03,280 --> 00:56:08,480
+and they become more nationalistic
+
+1398
+00:56:06,880 --> 00:56:11,760
+and they tend to become more
+
+1399
+00:56:08,480 --> 00:56:13,760
+militaristic and human nature at that
+
+1400
+00:56:11,760 --> 00:56:15,839
+stage
+
+1401
+00:56:13,760 --> 00:56:17,839
+lends itself to fighting there's an arc
+
+1402
+00:56:15,838 --> 00:56:20,239
+here that when we think
+
+1403
+00:56:17,838 --> 00:56:22,960
+it's we think of a country
+
+1404
+00:56:20,239 --> 00:56:23,919
+um and we say we when we think of a
+
+1405
+00:56:22,960 --> 00:56:26,559
+country
+
+1406
+00:56:23,920 --> 00:56:28,960
+um it's not true it's not like that
+
+1407
+00:56:26,559 --> 00:56:30,960
+there are individuals who change
+
+1408
+00:56:28,960 --> 00:56:32,880
+one generation dies and another
+
+1409
+00:56:30,960 --> 00:56:37,358
+generation comes along
+
+1410
+00:56:32,880 --> 00:56:39,680
+and one of those arcs is that um
+
+1411
+00:56:37,358 --> 00:56:41,519
+the ones who have been through war
+
+1412
+00:56:39,679 --> 00:56:44,558
+don't want to go to war
+
+1413
+00:56:41,519 --> 00:56:47,838
+and are more happily you know willing to
+
+1414
+00:56:44,559 --> 00:56:50,720
+um abide by whatever the rules are
+
+1415
+00:56:47,838 --> 00:56:52,639
+as you get farther along into that cycle
+
+1416
+00:56:50,719 --> 00:56:54,480
+and you get a new generation and they
+
+1417
+00:56:52,639 --> 00:56:56,879
+forget about wars and the horrors of
+
+1418
+00:56:54,480 --> 00:56:59,838
+wars then they um
+
+1419
+00:56:56,880 --> 00:57:01,680
+then they want to uh uh fight and so
+
+1420
+00:56:59,838 --> 00:57:05,199
+you're seeing right now
+
+1421
+00:57:01,679 --> 00:57:08,480
+the emergent of fight for right and and
+
+1422
+00:57:05,199 --> 00:57:09,759
+what that means is you see it internally
+
+1423
+00:57:08,480 --> 00:57:13,039
+uh fight
+
+1424
+00:57:09,760 --> 00:57:14,720
+where are you and fight for that thing
+
+1425
+00:57:13,039 --> 00:57:17,920
+and they mean fight
+
+1426
+00:57:14,719 --> 00:57:20,399
+and then into externally fight are you
+
+1427
+00:57:17,920 --> 00:57:23,200
+going to be uh the strong one who will
+
+1428
+00:57:20,400 --> 00:57:26,639
+fight and win and that develops on both
+
+1429
+00:57:23,199 --> 00:57:30,159
+sides this fight and win and each side
+
+1430
+00:57:26,639 --> 00:57:33,199
+is cheering each other on into uh a war
+
+1431
+00:57:30,159 --> 00:57:35,039
+but that's comes by those who really
+
+1432
+00:57:33,199 --> 00:57:38,639
+have not experienced war because it
+
+1433
+00:57:35,039 --> 00:57:40,480
+comes in their part of their lifetime
+
+1434
+00:57:38,639 --> 00:57:42,400
+humans are fascinating
+
+1435
+00:57:40,480 --> 00:57:45,599
+humans are fascinating and by the way
+
+1436
+00:57:42,400 --> 00:57:46,880
+human nature has not changed
+
+1437
+00:57:45,599 --> 00:57:49,440
+over the
+
+1438
+00:57:46,880 --> 00:57:51,119
+thousands of years so it's the it's so
+
+1439
+00:57:49,440 --> 00:57:53,920
+interesting because like in doing this
+
+1440
+00:57:51,119 --> 00:57:55,760
+study and it comes across in the study
+
+1441
+00:57:53,920 --> 00:57:57,599
+it's like watching the same movie over
+
+1442
+00:57:55,760 --> 00:58:00,559
+and over again
+
+1443
+00:57:57,599 --> 00:58:02,960
+you you know you see the ark and you see
+
+1444
+00:58:00,559 --> 00:58:04,798
+it happen over and over again the only
+
+1445
+00:58:02,960 --> 00:58:09,000
+things that seem to change are the
+
+1446
+00:58:04,798 --> 00:58:09,000
+clothes people wear and the technologies
+
+1447
+00:58:09,440 --> 00:58:12,318
+uh
+
+1448
+00:58:10,960 --> 00:58:13,599
+yeah and then somebody probably will
+
+1449
+00:58:12,318 --> 00:58:15,199
+disagree with you about the clothes
+
+1450
+00:58:13,599 --> 00:58:17,440
+maybe there's also cycles within
+
+1451
+00:58:15,199 --> 00:58:18,480
+fashions maybe we're not even creative
+
+1452
+00:58:17,440 --> 00:58:20,720
+there
+
+1453
+00:58:18,480 --> 00:58:24,240
+uh what do you um
+
+1454
+00:58:20,719 --> 00:58:25,759
+make of uh russia and vladimir putin
+
+1455
+00:58:24,239 --> 00:58:27,679
+what do you think about putin as a
+
+1456
+00:58:25,760 --> 00:58:30,319
+leader as a human being on this world
+
+1457
+00:58:27,679 --> 00:58:32,639
+stage within the context
+
+1458
+00:58:30,318 --> 00:58:33,759
+of the cycles of empires that you think
+
+1459
+00:58:32,639 --> 00:58:34,558
+about
+
+1460
+00:58:33,760 --> 00:58:36,480
+well
+
+1461
+00:58:34,559 --> 00:58:39,200
+putin came to power
+
+1462
+00:58:36,480 --> 00:58:41,838
+at the failure of
+
+1463
+00:58:39,199 --> 00:58:45,118
+russia's last order so there was there
+
+1464
+00:58:41,838 --> 00:58:46,880
+was the end of communism
+
+1465
+00:58:45,119 --> 00:58:48,880
+and there was the development of the
+
+1466
+00:58:46,880 --> 00:58:51,760
+market economy the collapse of the
+
+1467
+00:58:48,880 --> 00:58:54,000
+soviet union
+
+1468
+00:58:51,760 --> 00:58:55,440
+and at that time
+
+1469
+00:58:54,000 --> 00:58:58,719
+he
+
+1470
+00:58:55,440 --> 00:59:01,920
+was appointed by yeltsin
+
+1471
+00:58:58,719 --> 00:59:03,118
+who was an alcoholic and had problems
+
+1472
+00:59:01,920 --> 00:59:06,000
+managing
+
+1473
+00:59:03,119 --> 00:59:08,559
+and was put into power and the
+
+1474
+00:59:06,000 --> 00:59:10,159
+conditions in the russian were the work
+
+1475
+00:59:08,559 --> 00:59:12,880
+there was anarchy
+
+1476
+00:59:10,159 --> 00:59:15,759
+um there was no money it was it had the
+
+1477
+00:59:12,880 --> 00:59:18,160
+classic end of cycle ingredients it was
+
+1478
+00:59:15,760 --> 00:59:20,480
+broke it was people were fighting with
+
+1479
+00:59:18,159 --> 00:59:21,440
+each other was the anarchy and that's
+
+1480
+00:59:20,480 --> 00:59:23,039
+when he
+
+1481
+00:59:21,440 --> 00:59:26,079
+came to power
+
+1482
+00:59:23,039 --> 00:59:27,599
+and um there were not
+
+1483
+00:59:26,079 --> 00:59:29,359
+institutions
+
+1484
+00:59:27,599 --> 00:59:31,838
+the whole thing had collapsed and it was
+
+1485
+00:59:29,358 --> 00:59:34,078
+not effective ministry of education
+
+1486
+00:59:31,838 --> 00:59:36,960
+ministry of anything
+
+1487
+00:59:34,079 --> 00:59:39,920
+and so the idea
+
+1488
+00:59:36,960 --> 00:59:43,599
+was that they needed 25 years of
+
+1489
+00:59:39,920 --> 00:59:45,119
+stability and they needed a democracy
+
+1490
+00:59:43,599 --> 00:59:47,838
+and they needed
+
+1491
+00:59:45,119 --> 00:59:50,960
+the the improvement of capital markets
+
+1492
+00:59:47,838 --> 00:59:54,639
+um so he's been in that position
+
+1493
+00:59:50,960 --> 00:59:56,480
+as a um as
+
+1494
+00:59:54,639 --> 01:00:01,519
+i guess i would call him
+
+1495
+00:59:56,480 --> 01:00:04,318
+um a semi-autocratic leader in that
+
+1496
+01:00:01,519 --> 01:00:06,079
+from all indications he would respect
+
+1497
+01:00:04,318 --> 01:00:09,039
+the democracy
+
+1498
+01:00:06,079 --> 01:00:11,599
+um and he's very popular he's won
+
+1499
+01:00:09,039 --> 01:00:14,719
+democratic elections because he's been a
+
+1500
+01:00:11,599 --> 01:00:18,720
+strong leader and he's brought uh peace
+
+1501
+01:00:14,719 --> 01:00:21,118
+and stability to the soviet u to to
+
+1502
+01:00:18,719 --> 01:00:22,239
+russia after the breakup of the soviet
+
+1503
+01:00:21,119 --> 01:00:24,000
+union
+
+1504
+01:00:22,239 --> 01:00:26,000
+and um
+
+1505
+01:00:24,000 --> 01:00:28,400
+he's a strong leader
+
+1506
+01:00:26,000 --> 01:00:29,599
+in pursuit of
+
+1507
+01:00:28,400 --> 01:00:31,838
+the
+
+1508
+01:00:29,599 --> 01:00:34,559
+the country's interests
+
+1509
+01:00:31,838 --> 01:00:37,759
+in um a way where
+
+1510
+01:00:34,559 --> 01:00:41,119
+russia is not
+
+1511
+01:00:37,760 --> 01:00:43,680
+a significant economic power
+
+1512
+01:00:41,119 --> 01:00:44,880
+and but it is a significant military
+
+1513
+01:00:43,679 --> 01:00:48,798
+power
+
+1514
+01:00:44,880 --> 01:00:51,200
+um so um the issues and then there's a
+
+1515
+01:00:48,798 --> 01:00:52,239
+strong alliance between russia and china
+
+1516
+01:00:51,199 --> 01:00:56,798
+now
+
+1517
+01:00:52,239 --> 01:00:59,358
+um so that's kind of the lay of the land
+
+1518
+01:00:56,798 --> 01:01:00,960
+and then there are sensitivities the
+
+1519
+01:00:59,358 --> 01:01:05,679
+ukraine issue
+
+1520
+01:01:00,960 --> 01:01:07,519
+is uh a sensitivity um because of
+
+1521
+01:01:05,679 --> 01:01:08,798
+there are a lot of russians who live in
+
+1522
+01:01:07,519 --> 01:01:11,679
+the ukraine
+
+1523
+01:01:08,798 --> 01:01:13,119
+and there's also the issue of nato on it
+
+1524
+01:01:11,679 --> 01:01:15,440
+on their border
+
+1525
+01:01:13,119 --> 01:01:17,760
+um so there are those kinds of things
+
+1526
+01:01:15,440 --> 01:01:19,920
+and he has military power and he has a
+
+1527
+01:01:17,760 --> 01:01:24,000
+strong alliance with china
+
+1528
+01:01:19,920 --> 01:01:27,119
+um and i guess that's my best summary of
+
+1529
+01:01:24,000 --> 01:01:30,400
+um what his position is
+
+1530
+01:01:27,119 --> 01:01:31,180
+strong leader um popular
+
+1531
+01:01:30,400 --> 01:01:32,480
+um
+
+1532
+01:01:31,179 --> 01:01:35,199
+[Music]
+
+1533
+01:01:32,480 --> 01:01:37,679
+these are not subjective interpretations
+
+1534
+01:01:35,199 --> 01:01:39,759
+these are uh objective interpretations
+
+1535
+01:01:37,679 --> 01:01:42,480
+yeah it's interesting just in this
+
+1536
+01:01:39,760 --> 01:01:44,079
+conversation you're not
+
+1537
+01:01:42,480 --> 01:01:46,318
+sort of um
+
+1538
+01:01:44,079 --> 01:01:47,920
+doing the usual criticism of any one
+
+1539
+01:01:46,318 --> 01:01:49,599
+particular system you're looking at
+
+1540
+01:01:47,920 --> 01:01:51,920
+these systems from the perspective of
+
+1541
+01:01:49,599 --> 01:01:52,798
+history you're just describing how they
+
+1542
+01:01:51,920 --> 01:01:55,119
+work
+
+1543
+01:01:52,798 --> 01:01:57,038
+it's often times when you talk about
+
+1544
+01:01:55,119 --> 01:01:59,599
+what russia is today or what the soviet
+
+1545
+01:01:57,039 --> 01:02:01,839
+union was or what china is today is you
+
+1546
+01:01:59,599 --> 01:02:03,838
+start to criticize well they they do
+
+1547
+01:02:01,838 --> 01:02:05,920
+this kind of censorship or they do this
+
+1548
+01:02:03,838 --> 01:02:06,960
+kind of they limit freedoms in this kind
+
+1549
+01:02:05,920 --> 01:02:09,200
+of way
+
+1550
+01:02:06,960 --> 01:02:10,559
+but you're just kind of describing this
+
+1551
+01:02:09,199 --> 01:02:13,118
+as a nation
+
+1552
+01:02:10,559 --> 01:02:15,119
+with ideas what they think is right
+
+1553
+01:02:13,119 --> 01:02:16,960
+this is how they hope to get it to work
+
+1554
+01:02:15,119 --> 01:02:19,838
+this is why it's working this is what's
+
+1555
+01:02:16,960 --> 01:02:21,838
+not working here's metrics that show
+
+1556
+01:02:19,838 --> 01:02:23,838
+that it's not working i think that's a
+
+1557
+01:02:21,838 --> 01:02:25,279
+refreshing way to think about it it's
+
+1558
+01:02:23,838 --> 01:02:27,519
+easy though i mean you got some
+
+1559
+01:02:25,280 --> 01:02:29,280
+criticism um
+
+1560
+01:02:27,519 --> 01:02:30,798
+saying that i think china's a strict
+
+1561
+01:02:29,280 --> 01:02:32,240
+parent
+
+1562
+01:02:30,798 --> 01:02:33,599
+um
+
+1563
+01:02:32,239 --> 01:02:35,919
+you know some people criticize these
+
+1564
+01:02:33,599 --> 01:02:38,960
+countries for doing
+
+1565
+01:02:35,920 --> 01:02:40,798
+uh so for violating human rights i
+
+1566
+01:02:38,960 --> 01:02:42,480
+suppose there's some
+
+1567
+01:02:40,798 --> 01:02:44,798
+people that criticize the united states
+
+1568
+01:02:42,480 --> 01:02:47,199
+violating human rights but what are your
+
+1569
+01:02:44,798 --> 01:02:47,199
+thoughts
+
+1570
+01:02:47,280 --> 01:02:50,798
+on the world stage today
+
+1571
+01:02:50,960 --> 01:02:55,119
+about some of the
+
+1572
+01:02:53,199 --> 01:02:57,038
+behaviors of this government in terms of
+
+1573
+01:02:55,119 --> 01:03:00,640
+respecting the rights the basic rights
+
+1574
+01:02:57,039 --> 01:03:01,760
+of human beings you described accurately
+
+1575
+01:03:00,639 --> 01:03:04,719
+how i
+
+1576
+01:03:01,760 --> 01:03:05,599
+just try to look at things in an um a
+
+1577
+01:03:04,719 --> 01:03:09,598
+non
+
+1578
+01:03:05,599 --> 01:03:12,000
+i don't want to impute my values yes on
+
+1579
+01:03:09,599 --> 01:03:14,000
+anybody um
+
+1580
+01:03:12,000 --> 01:03:16,000
+i mean there are intolerable things so
+
+1581
+01:03:14,000 --> 01:03:18,559
+i'm not saying there aren't intolerable
+
+1582
+01:03:16,000 --> 01:03:21,599
+things but um one of the great things of
+
+1583
+01:03:18,559 --> 01:03:24,319
+being an american here is that i grew up
+
+1584
+01:03:21,599 --> 01:03:26,480
+with all different nationalities having
+
+1585
+01:03:24,318 --> 01:03:28,558
+all different points of view and all
+
+1586
+01:03:26,480 --> 01:03:30,400
+different religions and all different
+
+1587
+01:03:28,559 --> 01:03:34,000
+ways of operating
+
+1588
+01:03:30,400 --> 01:03:35,519
+and i've come to treasure the fact that
+
+1589
+01:03:34,000 --> 01:03:37,358
+that is
+
+1590
+01:03:35,519 --> 01:03:39,519
+you know what's their business is their
+
+1591
+01:03:37,358 --> 01:03:41,679
+business and then the question is where
+
+1592
+01:03:39,519 --> 01:03:44,318
+do you cross the line under what
+
+1593
+01:03:41,679 --> 01:03:47,078
+circumstances that that others have got
+
+1594
+01:03:44,318 --> 01:03:48,639
+to do it my way and then when you do it
+
+1595
+01:03:47,079 --> 01:03:51,119
+internationally
+
+1596
+01:03:48,639 --> 01:03:54,159
+uh the ob the issue of what is a
+
+1597
+01:03:51,119 --> 01:03:56,240
+sovereign state you know which um as i
+
+1598
+01:03:54,159 --> 01:03:58,639
+say in the piece of west failure and you
+
+1599
+01:03:56,239 --> 01:04:01,279
+have borders and you then when do you
+
+1600
+01:03:58,639 --> 01:04:03,118
+cross the line that um
+
+1601
+01:04:01,280 --> 01:04:04,720
+my way of doing things has got to be
+
+1602
+01:04:03,119 --> 01:04:07,599
+their way of doing things or what are
+
+1603
+01:04:04,719 --> 01:04:10,480
+the various rights and so that's a very
+
+1604
+01:04:07,599 --> 01:04:11,920
+uh delicate question or a very difficult
+
+1605
+01:04:10,480 --> 01:04:15,039
+question
+
+1606
+01:04:11,920 --> 01:04:16,960
+and we all have responsibilities to
+
+1607
+01:04:15,039 --> 01:04:19,280
+different parties and we all have
+
+1608
+01:04:16,960 --> 01:04:22,559
+different levels of knowledge about
+
+1609
+01:04:19,280 --> 01:04:23,839
+those particular things so um so for
+
+1610
+01:04:22,559 --> 01:04:25,920
+example
+
+1611
+01:04:23,838 --> 01:04:29,119
+as an international investor i have a
+
+1612
+01:04:25,920 --> 01:04:31,119
+responsibility to my investors
+
+1613
+01:04:29,119 --> 01:04:33,680
+those who run companies have a
+
+1614
+01:04:31,119 --> 01:04:36,640
+responsibility to theirs of how do they
+
+1615
+01:04:33,679 --> 01:04:38,480
+run that so if you're taking
+
+1616
+01:04:36,639 --> 01:04:40,798
+nike or
+
+1617
+01:04:38,480 --> 01:04:43,440
+stinkers and so on and americans can
+
+1618
+01:04:40,798 --> 01:04:45,358
+decide whether they want to buy product
+
+1619
+01:04:43,440 --> 01:04:47,679
+chinese products or not buy chinese
+
+1620
+01:04:45,358 --> 01:04:49,358
+products we are all faced with those
+
+1621
+01:04:47,679 --> 01:04:51,199
+types of choices
+
+1622
+01:04:49,358 --> 01:04:52,798
+so you have what do you want to do in
+
+1623
+01:04:51,199 --> 01:04:55,759
+your constituency and you have your
+
+1624
+01:04:52,798 --> 01:04:58,480
+choices and then beyond that in many
+
+1625
+01:04:55,760 --> 01:05:00,960
+cases the issues are quite complex like
+
+1626
+01:04:58,480 --> 01:05:04,960
+there are geopolitical questions that
+
+1627
+01:05:00,960 --> 01:05:07,519
+enter into it so um uh and then i i
+
+1628
+01:05:04,960 --> 01:05:10,720
+believe that if if you
+
+1629
+01:05:07,519 --> 01:05:14,159
+disconnected if all those
+
+1630
+01:05:10,719 --> 01:05:16,399
+if entities like myself the businesses
+
+1631
+01:05:14,159 --> 01:05:19,519
+uh doing business with china
+
+1632
+01:05:16,400 --> 01:05:22,400
+disconnected i think that that would be
+
+1633
+01:05:19,519 --> 01:05:25,280
+disastrous economically disastrous and
+
+1634
+01:05:22,400 --> 01:05:28,400
+it would also be um reduce
+
+1635
+01:05:25,280 --> 01:05:30,480
+um the the understanding that comes from
+
+1636
+01:05:28,400 --> 01:05:33,920
+working together that helps to reduce
+
+1637
+01:05:30,480 --> 01:05:35,358
+wars and so these are all complicated so
+
+1638
+01:05:33,920 --> 01:05:36,559
+what we do
+
+1639
+01:05:35,358 --> 01:05:39,038
+is uh
+
+1640
+01:05:36,559 --> 01:05:40,798
+and and who makes it my opinion matters
+
+1641
+01:05:39,039 --> 01:05:42,240
+the most why should it be my opinion
+
+1642
+01:05:40,798 --> 01:05:45,358
+that matters the most in making that
+
+1643
+01:05:42,239 --> 01:05:47,519
+decision so i largely look at the guide
+
+1644
+01:05:45,358 --> 01:05:49,838
+the government guidance that i get not
+
+1645
+01:05:47,519 --> 01:05:52,079
+only from my own government but from the
+
+1646
+01:05:49,838 --> 01:05:55,599
+other governments and i follow the rules
+
+1647
+01:05:52,079 --> 01:05:57,440
+i'm in 40 we invest in 40 countries
+
+1648
+01:05:55,599 --> 01:06:00,079
+and we want to do that in the best way
+
+1649
+01:05:57,440 --> 01:06:01,760
+to provide the diversified portfolio and
+
+1650
+01:06:00,079 --> 01:06:04,480
+we sort of need that
+
+1651
+01:06:01,760 --> 01:06:07,440
+every one of those countries has
+
+1652
+01:06:04,480 --> 01:06:09,440
+similar complexities there are always
+
+1653
+01:06:07,440 --> 01:06:11,599
+one issue or another and then and
+
+1654
+01:06:09,440 --> 01:06:13,679
+there's only so much that we really
+
+1655
+01:06:11,599 --> 01:06:17,359
+understand about all of those issues so
+
+1656
+01:06:13,679 --> 01:06:17,759
+we rely largely on the guidance that we
+
+1657
+01:06:17,358 --> 01:06:19,920
+you have get
+
+1658
+01:06:17,760 --> 01:06:21,839
+empathize and show respect to the the
+
+1659
+01:06:19,920 --> 01:06:23,358
+culture of the place the way things are
+
+1660
+01:06:21,838 --> 01:06:26,558
+done
+
+1661
+01:06:23,358 --> 01:06:28,318
+you don't necessarily um
+
+1662
+01:06:26,559 --> 01:06:30,640
+the way you heal
+
+1663
+01:06:28,318 --> 01:06:33,199
+relationships between nations is like
+
+1664
+01:06:30,639 --> 01:06:35,199
+like you said you work together and that
+
+1665
+01:06:33,199 --> 01:06:37,598
+requires
+
+1666
+01:06:35,199 --> 01:06:40,078
+kind of um
+
+1667
+01:06:37,599 --> 01:06:43,280
+to listen maybe more than you talk
+
+1668
+01:06:40,079 --> 01:06:44,079
+and i think people in the public sphere
+
+1669
+01:06:43,280 --> 01:06:46,079
+uh
+
+1670
+01:06:44,079 --> 01:06:47,519
+talk a lot about china without really
+
+1671
+01:06:46,079 --> 01:06:49,280
+listening without understanding much
+
+1672
+01:06:47,519 --> 01:06:51,119
+about china without one of the things
+
+1673
+01:06:49,280 --> 01:06:53,599
+that makes me really sad because i know
+
+1674
+01:06:51,119 --> 01:06:55,680
+how to speak russian
+
+1675
+01:06:53,599 --> 01:06:57,519
+and i can i know how much is lost in
+
+1676
+01:06:55,679 --> 01:06:59,519
+translation
+
+1677
+01:06:57,519 --> 01:07:02,559
+it makes me sad that i'll never really
+
+1678
+01:06:59,519 --> 01:07:04,079
+get to know the chinese culture because
+
+1679
+01:07:02,559 --> 01:07:06,480
+like i'll never really get to know the
+
+1680
+01:07:04,079 --> 01:07:08,240
+language the literature the
+
+1681
+01:07:06,480 --> 01:07:10,000
+just talk to regular people it's not
+
+1682
+01:07:08,239 --> 01:07:11,838
+just the government or officials or
+
+1683
+01:07:10,000 --> 01:07:13,920
+scientists just regular folks get the
+
+1684
+01:07:11,838 --> 01:07:15,759
+culture i think if you don't understand
+
+1685
+01:07:13,920 --> 01:07:16,720
+the culture
+
+1686
+01:07:15,760 --> 01:07:18,640
+uh
+
+1687
+01:07:16,719 --> 01:07:20,078
+just the basics of the human nature of
+
+1688
+01:07:18,639 --> 01:07:22,239
+what people
+
+1689
+01:07:20,079 --> 01:07:24,880
+love about their country about their
+
+1690
+01:07:22,239 --> 01:07:26,399
+family or the kind of hopes they have
+
+1691
+01:07:24,880 --> 01:07:28,000
+you know what kind of values they have
+
+1692
+01:07:26,400 --> 01:07:30,798
+without that you're not going to be able
+
+1693
+01:07:28,000 --> 01:07:32,159
+to um
+
+1694
+01:07:30,798 --> 01:07:34,880
+fully
+
+1695
+01:07:32,159 --> 01:07:36,960
+um connect with them and you have to do
+
+1696
+01:07:34,880 --> 01:07:38,640
+that first to have a chance of building
+
+1697
+01:07:36,960 --> 01:07:41,519
+a good world i couldn't agree with you
+
+1698
+01:07:38,639 --> 01:07:42,798
+more i was very lucky because as i say
+
+1699
+01:07:41,519 --> 01:07:46,159
+uh
+
+1700
+01:07:42,798 --> 01:07:47,679
+you know since 1984 so for more than
+
+1701
+01:07:46,159 --> 01:07:49,358
+half of my life
+
+1702
+01:07:47,679 --> 01:07:50,879
+i've been going there and i and the
+
+1703
+01:07:49,358 --> 01:07:52,960
+common people
+
+1704
+01:07:50,880 --> 01:07:56,160
+and all sorts of people and i've got to
+
+1705
+01:07:52,960 --> 01:07:58,880
+meet them i don't speak the language
+
+1706
+01:07:56,159 --> 01:08:01,679
+but it a combination of through
+
+1707
+01:07:58,880 --> 01:08:04,559
+translators or men them speaking english
+
+1708
+01:08:01,679 --> 01:08:07,519
+and being in situations i had my son go
+
+1709
+01:08:04,559 --> 01:08:09,839
+to school a local school
+
+1710
+01:08:07,519 --> 01:08:12,079
+and we we developed those kinds of
+
+1711
+01:08:09,838 --> 01:08:13,199
+understandings i think that
+
+1712
+01:08:12,079 --> 01:08:14,160
+um
+
+1713
+01:08:13,199 --> 01:08:16,399
+but
+
+1714
+01:08:14,159 --> 01:08:19,920
+the not wanting
+
+1715
+01:08:16,399 --> 01:08:22,158
+to know the other perspective
+
+1716
+01:08:19,920 --> 01:08:25,600
+is the thing that's most scary yeah like
+
+1717
+01:08:22,158 --> 01:08:28,559
+i'm right now in the middle and um
+
+1718
+01:08:25,600 --> 01:08:31,679
+and all i want to try to do is
+
+1719
+01:08:28,560 --> 01:08:33,679
+to help mutual understanding
+
+1720
+01:08:31,679 --> 01:08:35,920
+you're right if there were questions
+
+1721
+01:08:33,679 --> 01:08:38,158
+probing me asking me
+
+1722
+01:08:35,920 --> 01:08:40,560
+what is it i'm not on one side or
+
+1723
+01:08:38,158 --> 01:08:43,278
+another i get i don't want to be on one
+
+1724
+01:08:40,560 --> 01:08:45,199
+side or another i believe that each has
+
+1725
+01:08:43,279 --> 01:08:46,960
+their right within there to approach
+
+1726
+01:08:45,198 --> 01:08:49,519
+their different culture in their own way
+
+1727
+01:08:46,960 --> 01:08:52,960
+so many ways you gave an example it uh
+
+1728
+01:08:49,520 --> 01:08:55,359
+um if they're not um doing harm to
+
+1729
+01:08:52,960 --> 01:08:56,798
+others i mean so but
+
+1730
+01:08:55,359 --> 01:08:58,480
+that issue
+
+1731
+01:08:56,798 --> 01:09:01,278
+of um
+
+1732
+01:08:58,479 --> 01:09:02,079
+trying to understand
+
+1733
+01:09:01,279 --> 01:09:04,640
+is
+
+1734
+01:09:02,079 --> 01:09:06,640
+so much better that doesn't mean agree
+
+1735
+01:09:04,640 --> 01:09:08,319
+with
+
+1736
+01:09:06,640 --> 01:09:09,920
+if you are
+
+1737
+01:09:08,319 --> 01:09:13,039
+wanting to
+
+1738
+01:09:09,920 --> 01:09:15,600
+out-clever and out-compete somebody it
+
+1739
+01:09:13,039 --> 01:09:16,960
+still pays to understand what they're
+
+1740
+01:09:15,600 --> 01:09:19,600
+thinking
+
+1741
+01:09:16,960 --> 01:09:21,198
+so to achieve understanding of what
+
+1742
+01:09:19,600 --> 01:09:23,440
+they're thinking even if you want to go
+
+1743
+01:09:21,198 --> 01:09:25,198
+to war with them that understanding is
+
+1744
+01:09:23,439 --> 01:09:28,000
+the best thing to have
+
+1745
+01:09:25,198 --> 01:09:31,678
+what we have now is a situation
+
+1746
+01:09:28,000 --> 01:09:35,439
+in which there's an enemy mentality and
+
+1747
+01:09:31,679 --> 01:09:37,920
+that means that anything that serves the
+
+1748
+01:09:35,439 --> 01:09:40,238
+seems to be like understanding or
+
+1749
+01:09:37,920 --> 01:09:43,759
+conveying understanding seems to
+
+1750
+01:09:40,238 --> 01:09:46,639
+mistakenly create the notion of i'm on
+
+1751
+01:09:43,759 --> 01:09:48,560
+their side in a war and that's kind of a
+
+1752
+01:09:46,640 --> 01:09:51,679
+dangerous thing because
+
+1753
+01:09:48,560 --> 01:09:54,480
+um there's a momentum here to fight
+
+1754
+01:09:51,679 --> 01:09:56,079
+henry kissinger praises your new book
+
+1755
+01:09:54,479 --> 01:09:57,439
+and you thank him in it in the
+
+1756
+01:09:56,079 --> 01:09:59,519
+dedication
+
+1757
+01:09:57,439 --> 01:10:01,359
+what's your relationship like with him
+
+1758
+01:09:59,520 --> 01:10:03,199
+what makes him interesting
+
+1759
+01:10:01,359 --> 01:10:04,719
+maybe what makes him controversial what
+
+1760
+01:10:03,198 --> 01:10:06,479
+makes him such a central figure in
+
+1761
+01:10:04,719 --> 01:10:09,359
+history the first
+
+1762
+01:10:06,479 --> 01:10:11,678
+most importantly he's unique about
+
+1763
+01:10:09,359 --> 01:10:14,559
+seeing things through all
+
+1764
+01:10:11,679 --> 01:10:17,520
+the others eyes
+
+1765
+01:10:14,560 --> 01:10:21,440
+so if you were it's like there's a chess
+
+1766
+01:10:17,520 --> 01:10:23,920
+game i mean i think geopolit geopolitics
+
+1767
+01:10:21,439 --> 01:10:26,559
+is like a chess game but with multiple
+
+1768
+01:10:23,920 --> 01:10:28,560
+chess players playing the same game yes
+
+1769
+01:10:26,560 --> 01:10:31,679
+so imagine there are
+
+1770
+01:10:28,560 --> 01:10:34,560
+six people around playing the chess game
+
+1771
+01:10:31,679 --> 01:10:37,840
+and he could sit in each seat
+
+1772
+01:10:34,560 --> 01:10:41,039
+and he could know how they see it
+
+1773
+01:10:37,840 --> 01:10:44,000
+okay and see it in a calm way of how
+
+1774
+01:10:41,039 --> 01:10:47,119
+they see it he's unique in that way he's
+
+1775
+01:10:44,000 --> 01:10:47,920
+98 years old and he's equally able to do
+
+1776
+01:10:47,119 --> 01:10:50,319
+that
+
+1777
+01:10:47,920 --> 01:10:53,119
+and he has a background
+
+1778
+01:10:50,319 --> 01:10:55,679
+that in which he's a historian so he
+
+1779
+01:10:53,119 --> 01:10:57,760
+really understands history
+
+1780
+01:10:55,679 --> 01:10:58,719
+super
+
+1781
+01:10:57,760 --> 01:11:01,440
+um
+
+1782
+01:10:58,719 --> 01:11:03,840
+he doesn't understand economic history
+
+1783
+01:11:01,439 --> 01:11:06,639
+as much so that's why to some extent we
+
+1784
+01:11:03,840 --> 01:11:08,640
+enjoy having a conversation because he's
+
+1785
+01:11:06,640 --> 01:11:10,480
+interested in the act and in the
+
+1786
+01:11:08,640 --> 01:11:13,360
+economic piece he doesn't know and i'm
+
+1787
+01:11:10,479 --> 01:11:15,599
+so interested in the geopolitical piece
+
+1788
+01:11:13,359 --> 01:11:17,920
+that i don't know as well but anyway
+
+1789
+01:11:15,600 --> 01:11:21,440
+he's able to do that but not only a
+
+1790
+01:11:17,920 --> 01:11:25,119
+historian but a practitioner
+
+1791
+01:11:21,439 --> 01:11:27,678
+so when you go from an academic
+
+1792
+01:11:25,119 --> 01:11:29,679
+to a practitioner
+
+1793
+01:11:27,679 --> 01:11:32,079
+who has that talent
+
+1794
+01:11:29,679 --> 01:11:35,359
+to see things through others eyes in an
+
+1795
+01:11:32,079 --> 01:11:37,359
+objective way and to be strategic rather
+
+1796
+01:11:35,359 --> 01:11:39,119
+than just tactical
+
+1797
+01:11:37,359 --> 01:11:41,839
+that's a very special person and that's
+
+1798
+01:11:39,119 --> 01:11:42,880
+why henry is uh to me a very special
+
+1799
+01:11:41,840 --> 01:11:45,199
+person
+
+1800
+01:11:42,880 --> 01:11:48,319
+yeah he's lived a fascinating life
+
+1801
+01:11:45,198 --> 01:11:49,678
+just all all of the world events he's
+
+1802
+01:11:48,319 --> 01:11:51,920
+been involved in
+
+1803
+01:11:49,679 --> 01:11:54,480
+is fascinating and like you said that's
+
+1804
+01:11:51,920 --> 01:11:56,480
+such an interesting skill to have to
+
+1805
+01:11:54,479 --> 01:11:58,399
+consider what are the concerns the hope
+
+1806
+01:11:56,479 --> 01:11:59,839
+the dreams the fears of the all the
+
+1807
+01:11:58,399 --> 01:12:01,039
+people at the table what are they
+
+1808
+01:11:59,840 --> 01:12:03,440
+thinking
+
+1809
+01:12:01,039 --> 01:12:05,679
+i find that people don't
+
+1810
+01:12:03,439 --> 01:12:07,198
+once again don't do that enough when
+
+1811
+01:12:05,679 --> 01:12:10,239
+it's the obvious thing you should be
+
+1812
+01:12:07,198 --> 01:12:13,759
+doing whether it's business deals or
+
+1813
+01:12:10,238 --> 01:12:15,198
+um political negotiation or geopolitical
+
+1814
+01:12:13,760 --> 01:12:17,199
+negotiation
+
+1815
+01:12:15,198 --> 01:12:20,399
+i'm often surprised again sorry to go to
+
+1816
+01:12:17,198 --> 01:12:22,559
+the russian thing because i i i hear
+
+1817
+01:12:20,399 --> 01:12:23,679
+sort of like i hear putin talk in
+
+1818
+01:12:22,560 --> 01:12:25,280
+russian
+
+1819
+01:12:23,679 --> 01:12:27,359
+and you start to infer certain
+
+1820
+01:12:25,279 --> 01:12:30,158
+intentions and like not the trivial
+
+1821
+01:12:27,359 --> 01:12:32,319
+stuff like the human being what is
+
+1822
+01:12:30,158 --> 01:12:34,399
+what is that human being hoping for
+
+1823
+01:12:32,319 --> 01:12:37,119
+himself for his country
+
+1824
+01:12:34,399 --> 01:12:40,079
+for his close in a circle for the bigger
+
+1825
+01:12:37,119 --> 01:12:42,399
+like and i i just see that that's often
+
+1826
+01:12:40,079 --> 01:12:45,279
+just lost in translation i just see like
+
+1827
+01:12:42,399 --> 01:12:47,119
+american leaders talking to putin
+
+1828
+01:12:45,279 --> 01:12:49,679
+and it's just not
+
+1829
+01:12:47,119 --> 01:12:52,399
+it's there's not a connection absolutely
+
+1830
+01:12:49,679 --> 01:12:53,119
+i know exactly what you're talking about
+
+1831
+01:12:52,399 --> 01:12:56,238
+you
+
+1832
+01:12:53,119 --> 01:12:59,439
+i it has never failed that in my
+
+1833
+01:12:56,238 --> 01:13:01,039
+listening to a conversation and or even
+
+1834
+01:12:59,439 --> 01:13:02,000
+reading a speech
+
+1835
+01:13:01,039 --> 01:13:05,119
+or
+
+1836
+01:13:02,000 --> 01:13:08,319
+and you see then it reported
+
+1837
+01:13:05,119 --> 01:13:10,000
+the inevitably the reporter
+
+1838
+01:13:08,319 --> 01:13:12,319
+picked some
+
+1839
+01:13:10,000 --> 01:13:14,800
+headline characterization
+
+1840
+01:13:12,319 --> 01:13:17,840
+that has very little to do with what was
+
+1841
+01:13:14,800 --> 01:13:18,960
+really happening but might be a headline
+
+1842
+01:13:17,840 --> 01:13:21,039
+grabber
+
+1843
+01:13:18,960 --> 01:13:22,960
+that's at some kind of distortion and
+
+1844
+01:13:21,039 --> 01:13:25,039
+there's a lack of understanding of
+
+1845
+01:13:22,960 --> 01:13:26,719
+really what's going on
+
+1846
+01:13:25,039 --> 01:13:29,519
+if it's okay let me ask you a couple
+
+1847
+01:13:26,719 --> 01:13:31,119
+questions about cryptocurrency
+
+1848
+01:13:29,520 --> 01:13:33,040
+uh you've had a few opinions about
+
+1849
+01:13:31,119 --> 01:13:36,319
+bitcoin over the years what are your
+
+1850
+01:13:33,039 --> 01:13:39,039
+thoughts about bitcoin today its role
+
+1851
+01:13:36,319 --> 01:13:41,279
+in the global financial system and just
+
+1852
+01:13:39,039 --> 01:13:43,679
+in human society in general
+
+1853
+01:13:41,279 --> 01:13:46,719
+well the evolution of bitcoin over the
+
+1854
+01:13:43,679 --> 01:13:48,399
+years is one of the things that
+
+1855
+01:13:46,719 --> 01:13:51,600
+has
+
+1856
+01:13:48,399 --> 01:13:52,399
+influenced changes in my view
+
+1857
+01:13:51,600 --> 01:13:55,440
+it
+
+1858
+01:13:52,399 --> 01:13:58,319
+has proven itself
+
+1859
+01:13:55,439 --> 01:14:00,399
+something like 10 11 years ago imagine
+
+1860
+01:13:58,319 --> 01:14:02,880
+the programming of this and here's the
+
+1861
+01:14:00,399 --> 01:14:04,719
+you throw it out and that's the idea it
+
+1862
+01:14:02,880 --> 01:14:06,719
+has not been hacked
+
+1863
+01:14:04,719 --> 01:14:10,560
+it has um
+
+1864
+01:14:06,719 --> 01:14:12,079
+um operated it is built it has come an
+
+1865
+01:14:10,560 --> 01:14:16,159
+amazing way
+
+1866
+01:14:12,079 --> 01:14:17,198
+um over that 11 years to be um
+
+1867
+01:14:16,158 --> 01:14:19,839
+maybe
+
+1868
+01:14:17,198 --> 01:14:22,879
+probably the most excited topic
+
+1869
+01:14:19,840 --> 01:14:27,360
+among a lot of people um and has been
+
+1870
+01:14:22,880 --> 01:14:30,960
+used and and is now um has obtained you
+
+1871
+01:14:27,359 --> 01:14:34,079
+know the status of having imputed value
+
+1872
+01:14:30,960 --> 01:14:35,119
+at the same time it is one of those
+
+1873
+01:14:34,079 --> 01:14:37,760
+assets
+
+1874
+01:14:35,119 --> 01:14:40,000
+that is an alternative money i think
+
+1875
+01:14:37,760 --> 01:14:42,400
+we're entering an era
+
+1876
+01:14:40,000 --> 01:14:44,719
+where um there's going to be a
+
+1877
+01:14:42,399 --> 01:14:45,679
+competition of monies
+
+1878
+01:14:44,719 --> 01:14:49,119
+um
+
+1879
+01:14:45,679 --> 01:14:51,199
+because of the printing of fiat money
+
+1880
+01:14:49,119 --> 01:14:52,800
+um and the
+
+1881
+01:14:51,198 --> 01:14:56,238
+depreciated value
+
+1882
+01:14:52,800 --> 01:14:59,440
+there will be a competition of monies um
+
+1883
+01:14:56,238 --> 01:15:01,599
+and bitcoin is part of that competition
+
+1884
+01:14:59,439 --> 01:15:04,000
+but there'll be many monies not just
+
+1885
+01:15:01,600 --> 01:15:05,840
+crypto monies but there'll be central
+
+1886
+01:15:04,000 --> 01:15:08,479
+bank crypto monies
+
+1887
+01:15:05,840 --> 01:15:09,520
+um but they'll be uh different kinds of
+
+1888
+01:15:08,479 --> 01:15:13,039
+monies
+
+1889
+01:15:09,520 --> 01:15:17,440
+um and even monies um are things that
+
+1890
+01:15:13,039 --> 01:15:19,600
+you buy and sell nfts can become a money
+
+1891
+01:15:17,439 --> 01:15:21,039
+uh a type of money you own it and it's
+
+1892
+01:15:19,600 --> 01:15:24,640
+an investment and you could say i'd
+
+1893
+01:15:21,039 --> 01:15:27,679
+rather own it than own uh bitcoin
+
+1894
+01:15:24,640 --> 01:15:28,560
+has ray dalia bought any nfts not yet
+
+1895
+01:15:27,679 --> 01:15:29,840
+okay
+
+1896
+01:15:28,560 --> 01:15:33,120
+um
+
+1897
+01:15:29,840 --> 01:15:35,360
+but um only only just because like i i
+
+1898
+01:15:33,119 --> 01:15:37,198
+definitely want to buy nfts to just
+
+1899
+01:15:35,359 --> 01:15:39,679
+experience them you know like i think
+
+1900
+01:15:37,198 --> 01:15:41,519
+think i should produce one yeah and i
+
+1901
+01:15:39,679 --> 01:15:43,840
+should uh i should have asked that have
+
+1902
+01:15:41,520 --> 01:15:45,360
+you made it have you minted an empty you
+
+1903
+01:15:43,840 --> 01:15:47,199
+probably should just to know what it's
+
+1904
+01:15:45,359 --> 01:15:50,158
+like yeah that's right this stuff is
+
+1905
+01:15:47,198 --> 01:15:53,599
+happening yeah this stuff is real okay
+
+1906
+01:15:50,158 --> 01:15:55,439
+and how it operates but like all new
+
+1907
+01:15:53,600 --> 01:15:57,840
+real things
+
+1908
+01:15:55,439 --> 01:16:00,079
+um some are gonna go and so i'm gonna
+
+1909
+01:15:57,840 --> 01:16:01,920
+you know it's like in the internet in
+
+1910
+01:16:00,079 --> 01:16:04,800
+the year 2000
+
+1911
+01:16:01,920 --> 01:16:07,440
+um you know pets.com could have been a
+
+1912
+01:16:04,800 --> 01:16:09,440
+great but maybe pets.com doesn't make it
+
+1913
+01:16:07,439 --> 01:16:11,919
+and who knows that's the beauty of the
+
+1914
+01:16:09,439 --> 01:16:13,519
+competitive system that will evolve and
+
+1915
+01:16:11,920 --> 01:16:15,760
+some things will be treasured and some
+
+1916
+01:16:13,520 --> 01:16:19,520
+things will be uh trashed
+
+1917
+01:16:15,760 --> 01:16:22,079
+so um um but when i look at it um i
+
+1918
+01:16:19,520 --> 01:16:23,840
+think we are in an environment of you
+
+1919
+01:16:22,079 --> 01:16:26,158
+know what is an alternative money a
+
+1920
+01:16:23,840 --> 01:16:29,440
+money has two purposes a medium of
+
+1921
+01:16:26,158 --> 01:16:32,000
+exchange and a storehold of wealth
+
+1922
+01:16:29,439 --> 01:16:33,599
+and we are looking for
+
+1923
+01:16:32,000 --> 01:16:36,079
+and it's portable
+
+1924
+01:16:33,600 --> 01:16:38,400
+and you can and it's best if it's
+
+1925
+01:16:36,079 --> 01:16:43,039
+recognized in other countries
+
+1926
+01:16:38,399 --> 01:16:46,399
+um so gold is one of those so i look at
+
+1927
+01:16:43,039 --> 01:16:48,319
+it as an alternative gold
+
+1928
+01:16:46,399 --> 01:16:49,920
+but i look at a number of things as
+
+1929
+01:16:48,319 --> 01:16:53,039
+alternative gold
+
+1930
+01:16:49,920 --> 01:16:54,719
+um and i think that and i think and gold
+
+1931
+01:16:53,039 --> 01:16:57,600
+is still my favorite
+
+1932
+01:16:54,719 --> 01:17:00,800
+because of certain qualities for example
+
+1933
+01:16:57,600 --> 01:17:03,039
+um you can't trace it in in bitcoin you
+
+1934
+01:17:00,800 --> 01:17:05,039
+can trace who owns it where it's going
+
+1935
+01:17:03,039 --> 01:17:07,519
+and and so on governments can't have
+
+1936
+01:17:05,039 --> 01:17:09,679
+that ability to trace it and so on a
+
+1937
+01:17:07,520 --> 01:17:12,239
+gold piece of coin it's it's not
+
+1938
+01:17:09,679 --> 01:17:15,119
+connected i think not connected has
+
+1939
+01:17:12,238 --> 01:17:18,000
+benefits particularly in a world where
+
+1940
+01:17:15,119 --> 01:17:19,599
+maybe connections can be more risky
+
+1941
+01:17:18,000 --> 01:17:22,719
+um so
+
+1942
+01:17:19,600 --> 01:17:25,840
+and then also gold has been
+
+1943
+01:17:22,719 --> 01:17:28,560
+for many thousands of years universally
+
+1944
+01:17:25,840 --> 01:17:31,440
+recognized as a source of money and
+
+1945
+01:17:28,560 --> 01:17:34,159
+central banks it's the third largest
+
+1946
+01:17:31,439 --> 01:17:35,359
+uh source of money in central bank
+
+1947
+01:17:34,158 --> 01:17:37,839
+reserves
+
+1948
+01:17:35,359 --> 01:17:40,319
+and i don't think bitcoin is going to
+
+1949
+01:17:37,840 --> 01:17:43,199
+serve those types of purposes and so on
+
+1950
+01:17:40,319 --> 01:17:45,599
+so for various reasons i prefer gold to
+
+1951
+01:17:43,198 --> 01:17:46,799
+the other but it's a little bit part of
+
+1952
+01:17:45,600 --> 01:17:48,880
+my mix
+
+1953
+01:17:46,800 --> 01:17:52,640
+but then you look at it it hit i think
+
+1954
+01:17:48,880 --> 01:17:54,319
+69 000 this year as the high bitcoin hit
+
+1955
+01:17:52,640 --> 01:17:55,440
+do you think it's possible you mentioned
+
+1956
+01:17:54,319 --> 01:17:57,840
+gold
+
+1957
+01:17:55,439 --> 01:18:00,799
+do you think it's possible it reaches
+
+1958
+01:17:57,840 --> 01:18:02,239
+very high numbers like 1 million some
+
+1959
+01:18:00,800 --> 01:18:04,239
+people talk about
+
+1960
+01:18:02,238 --> 01:18:08,158
+i don't i don't think that's possible
+
+1961
+01:18:04,238 --> 01:18:11,359
+because the way i look at it is
+
+1962
+01:18:08,158 --> 01:18:11,920
+there's a certain amount of
+
+1963
+01:18:11,359 --> 01:18:13,599
+um
+
+1964
+01:18:11,920 --> 01:18:15,679
+[Music]
+
+1965
+01:18:13,600 --> 01:18:17,840
+a certain amount of it
+
+1966
+01:18:15,679 --> 01:18:21,199
+and there's a certain amount of gold
+
+1967
+01:18:17,840 --> 01:18:24,239
+i'll use gold as a benchmark
+
+1968
+01:18:21,198 --> 01:18:26,639
+the amount of it is worth about five uh
+
+1969
+01:18:24,238 --> 01:18:29,678
+about one trillion dollars
+
+1970
+01:18:26,640 --> 01:18:32,400
+total cryptos about 2.2 trillion but
+
+1971
+01:18:29,679 --> 01:18:33,679
+let's say bitcoin uh it's one trillion
+
+1972
+01:18:32,399 --> 01:18:36,719
+dollars
+
+1973
+01:18:33,679 --> 01:18:38,399
+if you take the amount of money that is
+
+1974
+01:18:36,719 --> 01:18:39,359
+in um
+
+1975
+01:18:38,399 --> 01:18:42,238
+gold
+
+1976
+01:18:39,359 --> 01:18:45,198
+that is not used for jewelry purposes
+
+1977
+01:18:42,238 --> 01:18:47,599
+and not used by central banks and i
+
+1978
+01:18:45,198 --> 01:18:50,559
+assume bitcoin won't be used for jewelry
+
+1979
+01:18:47,600 --> 01:18:53,520
+purposes or central bank purposes
+
+1980
+01:18:50,560 --> 01:18:55,039
+um that amount in gold is about five
+
+1981
+01:18:53,520 --> 01:18:57,600
+trillion dollars
+
+1982
+01:18:55,039 --> 01:19:00,719
+so right now if you were to
+
+1983
+01:18:57,600 --> 01:19:04,400
+have a portfolio that has um gold and
+
+1984
+01:19:00,719 --> 01:19:07,439
+crypto um gold then bitcoin it's worth
+
+1985
+01:19:04,399 --> 01:19:10,399
+about 20 of the value of gold
+
+1986
+01:19:07,439 --> 01:19:12,479
+do i think it's going to be uh worth
+
+1987
+01:19:10,399 --> 01:19:14,079
+more than gold
+
+1988
+01:19:12,479 --> 01:19:16,079
+in terms of that mix
+
+1989
+01:19:14,079 --> 01:19:19,840
+i don't think it'll be worth more than
+
+1990
+01:19:16,079 --> 01:19:22,000
+gold but let's say it became worth
+
+1991
+01:19:19,840 --> 01:19:24,159
+as as much as gold i don't believe it
+
+1992
+01:19:22,000 --> 01:19:25,840
+will be i think that 20
+
+1993
+01:19:24,158 --> 01:19:28,399
+sounds kind of about right i really
+
+1994
+01:19:25,840 --> 01:19:30,800
+don't know that what the right answer is
+
+1995
+01:19:28,399 --> 01:19:33,759
+um and then there's the question of what
+
+1996
+01:19:30,800 --> 01:19:36,079
+is all of that pool of money
+
+1997
+01:19:33,760 --> 01:19:38,640
+that let's say gold and gold equivalents
+
+1998
+01:19:36,079 --> 01:19:39,760
+relative to everything else does it go
+
+1999
+01:19:38,640 --> 01:19:41,840
+from
+
+2000
+01:19:39,760 --> 01:19:44,239
+you know let's call it
+
+2001
+01:19:41,840 --> 01:19:46,159
+six seven eight trillion to sixteen
+
+2002
+01:19:44,238 --> 01:19:47,599
+trillion maybe it could double it
+
+2003
+01:19:46,158 --> 01:19:50,319
+depends what it is in the world
+
+2004
+01:19:47,600 --> 01:19:52,000
+environment but basically if you use
+
+2005
+01:19:50,319 --> 01:19:56,079
+gold as a measure
+
+2006
+01:19:52,000 --> 01:19:58,560
+i um there's no it just makes no sense
+
+2007
+01:19:56,079 --> 01:20:00,238
+that it's going to be used um
+
+2008
+01:19:58,560 --> 01:20:02,480
+that much more
+
+2009
+01:20:00,238 --> 01:20:06,079
+am i sure about that i'm not sure about
+
+2010
+01:20:02,479 --> 01:20:09,279
+anything but logically it seems to me
+
+2011
+01:20:06,079 --> 01:20:11,519
+that there's a limitation on its price
+
+2012
+01:20:09,279 --> 01:20:13,198
+in relationship to other things that are
+
+2013
+01:20:11,520 --> 01:20:15,120
+like it
+
+2014
+01:20:13,198 --> 01:20:17,359
+let me ask for your deep financial
+
+2015
+01:20:15,119 --> 01:20:19,359
+analysis on a very important issue
+
+2016
+01:20:17,359 --> 01:20:21,679
+uh i've just talked a couple days ago
+
+2017
+01:20:19,359 --> 01:20:23,519
+the elon musk he wants to put a literal
+
+2018
+01:20:21,679 --> 01:20:25,039
+dogecoin on the moon
+
+2019
+01:20:23,520 --> 01:20:26,480
+uh what are your thoughts about deutsche
+
+2020
+01:20:25,039 --> 01:20:28,880
+coin
+
+2021
+01:20:26,479 --> 01:20:30,959
+uh and uh do you think he'll be the
+
+2022
+01:20:28,880 --> 01:20:33,679
+official currency
+
+2023
+01:20:30,960 --> 01:20:37,600
+maybe uh reserve currency on the moon
+
+2024
+01:20:33,679 --> 01:20:40,319
+and on mars my reaction is that's cute i
+
+2025
+01:20:37,600 --> 01:20:42,639
+remember elon when he first got he he
+
+2026
+01:20:40,319 --> 01:20:43,920
+first got his money from paypal i think
+
+2027
+01:20:42,639 --> 01:20:45,359
+he said to me
+
+2028
+01:20:43,920 --> 01:20:47,600
+it was
+
+2029
+01:20:45,359 --> 01:20:49,920
+he got 180 million dollars 90 million
+
+2030
+01:20:47,600 --> 01:20:50,800
+dollars he decided to say why aren't we
+
+2031
+01:20:49,920 --> 01:20:53,520
+going
+
+2032
+01:20:50,800 --> 01:20:56,880
+to outer space and he
+
+2033
+01:20:53,520 --> 01:20:58,239
+wanted to take a spaceship that would be
+
+2034
+01:20:56,880 --> 01:21:04,960
+modified
+
+2035
+01:20:58,238 --> 01:21:06,158
+using russian technology to put a um
+
+2036
+01:21:04,960 --> 01:21:08,239
+a plant
+
+2037
+01:21:06,158 --> 01:21:10,079
+and a watering can
+
+2038
+01:21:08,238 --> 01:21:11,359
+on the moon
+
+2039
+01:21:10,079 --> 01:21:13,519
+um
+
+2040
+01:21:11,359 --> 01:21:17,198
+or on mars i think it was
+
+2041
+01:21:13,520 --> 01:21:20,239
+um and and and he said first life on
+
+2042
+01:21:17,198 --> 01:21:22,399
+mars or first line
+
+2043
+01:21:20,238 --> 01:21:23,678
+as an inspiring
+
+2044
+01:21:22,399 --> 01:21:26,559
+uh notion
+
+2045
+01:21:23,679 --> 01:21:29,440
+and so then there's always what's behind
+
+2046
+01:21:26,560 --> 01:21:32,960
+it i have a lot of respect for
+
+2047
+01:21:29,439 --> 01:21:37,198
+elon's ability to do other things behind
+
+2048
+01:21:32,960 --> 01:21:39,439
+it uh and so i would take that as um
+
+2049
+01:21:37,198 --> 01:21:41,759
+symbolic and i'd be asking him what's
+
+2050
+01:21:39,439 --> 01:21:43,919
+behind it what's what's next and i'm
+
+2051
+01:21:41,760 --> 01:21:46,159
+also just on the topic of deutsche coin
+
+2052
+01:21:43,920 --> 01:21:48,480
+and meme coin and uh there's some aspect
+
+2053
+01:21:46,158 --> 01:21:51,198
+of humor and lightheartedness
+
+2054
+01:21:48,479 --> 01:21:53,119
+that's that's really interesting about
+
+2055
+01:21:51,198 --> 01:21:54,079
+the way we communicate what ideas become
+
+2056
+01:21:53,119 --> 01:21:56,479
+viral
+
+2057
+01:21:54,079 --> 01:21:57,760
+how to captivate people
+
+2058
+01:21:56,479 --> 01:21:59,119
+with ideas
+
+2059
+01:21:57,760 --> 01:22:01,119
+there's something about taking things
+
+2060
+01:21:59,119 --> 01:22:03,519
+too seriously that somehow slows it all
+
+2061
+01:22:01,119 --> 01:22:05,519
+down and it's interesting you're right
+
+2062
+01:22:03,520 --> 01:22:09,440
+that's part of human nature somehow so
+
+2063
+01:22:05,520 --> 01:22:09,440
+like humor is part of this whole thing
+
+2064
+01:22:09,840 --> 01:22:14,319
+you've uh talked about the importance of
+
+2065
+01:22:12,000 --> 01:22:15,439
+writing ideas down
+
+2066
+01:22:14,319 --> 01:22:18,158
+and uh you have
+
+2067
+01:22:15,439 --> 01:22:19,519
+principles in particular in principles
+
+2068
+01:22:18,158 --> 01:22:22,479
+and you have this really nice thing in
+
+2069
+01:22:19,520 --> 01:22:24,800
+your in your book we actually um
+
+2070
+01:22:22,479 --> 01:22:25,759
+i think there's such a brilliant way
+
+2071
+01:22:24,800 --> 01:22:28,079
+okay
+
+2072
+01:22:25,760 --> 01:22:30,639
+uh you have such a brilliant way of
+
+2073
+01:22:28,079 --> 01:22:33,279
+highlighting which parts are
+
+2074
+01:22:30,639 --> 01:22:35,119
+extra important and you make them bold
+
+2075
+01:22:33,279 --> 01:22:36,880
+that's a brilliant idea but let me just
+
+2076
+01:22:35,119 --> 01:22:40,238
+ask the high-level question of what's a
+
+2077
+01:22:36,880 --> 01:22:42,000
+good system for um
+
+2078
+01:22:40,238 --> 01:22:42,879
+taking notes
+
+2079
+01:22:42,000 --> 01:22:45,439
+well
+
+2080
+01:22:42,880 --> 01:22:47,440
+i find that almost everything happens
+
+2081
+01:22:45,439 --> 01:22:48,479
+over and over again
+
+2082
+01:22:47,439 --> 01:22:50,960
+um
+
+2083
+01:22:48,479 --> 01:22:53,759
+and we're in this the blizzard of these
+
+2084
+01:22:50,960 --> 01:22:54,880
+things happening and what i found is
+
+2085
+01:22:53,760 --> 01:22:58,239
+that
+
+2086
+01:22:54,880 --> 01:22:59,840
+if i'm making a decision
+
+2087
+01:22:58,238 --> 01:23:02,000
+that
+
+2088
+01:22:59,840 --> 01:23:04,880
+that after i make the decision usually
+
+2089
+01:23:02,000 --> 01:23:08,800
+or right at the time if i pause and
+
+2090
+01:23:04,880 --> 01:23:11,119
+reflect and i write my principle down in
+
+2091
+01:23:08,800 --> 01:23:12,239
+other words principle is sort of a
+
+2092
+01:23:11,119 --> 01:23:15,119
+recipe
+
+2093
+01:23:12,238 --> 01:23:17,678
+what would i use to how would i make
+
+2094
+01:23:15,119 --> 01:23:20,079
+that decision and what are the criteria
+
+2095
+01:23:17,679 --> 01:23:20,880
+around it i find that i make it much
+
+2096
+01:23:20,079 --> 01:23:24,079
+more
+
+2097
+01:23:20,880 --> 01:23:26,639
+clear it becomes clearer and it applies
+
+2098
+01:23:24,079 --> 01:23:27,359
+to the next thing that comes along it'll
+
+2099
+01:23:26,639 --> 01:23:29,679
+be
+
+2100
+01:23:27,359 --> 01:23:31,439
+that way because everything happens over
+
+2101
+01:23:29,679 --> 01:23:34,239
+and over and over again and i think
+
+2102
+01:23:31,439 --> 01:23:36,479
+people make the mistake of looking at
+
+2103
+01:23:34,238 --> 01:23:38,399
+just the one like it's the first one
+
+2104
+01:23:36,479 --> 01:23:40,799
+they have i don't know they have the
+
+2105
+01:23:38,399 --> 01:23:42,960
+first problem of this sort of the first
+
+2106
+01:23:40,800 --> 01:23:45,199
+child or whatever it is and this has
+
+2107
+01:23:42,960 --> 01:23:47,679
+been happening plenty of times and so if
+
+2108
+01:23:45,198 --> 01:23:50,079
+you have the principles i found that
+
+2109
+01:23:47,679 --> 01:23:53,039
+that helped me think more clearly about
+
+2110
+01:23:50,079 --> 01:23:54,319
+it and it helped me communicate better
+
+2111
+01:23:53,039 --> 01:23:57,279
+like why
+
+2112
+01:23:54,319 --> 01:23:58,799
+and so over the years over the last 30
+
+2113
+01:23:57,279 --> 01:24:00,559
+years or so
+
+2114
+01:23:58,800 --> 01:24:02,800
+that's what i've done i did it
+
+2115
+01:24:00,560 --> 01:24:05,039
+originally to communicate very well with
+
+2116
+01:24:02,800 --> 01:24:07,360
+the people i work with um you know i set
+
+2117
+01:24:05,039 --> 01:24:09,279
+up my company and and i it was very
+
+2118
+01:24:07,359 --> 01:24:11,920
+important to have good communication and
+
+2119
+01:24:09,279 --> 01:24:13,920
+then we could debate the principles and
+
+2120
+01:24:11,920 --> 01:24:17,359
+so that's the process
+
+2121
+01:24:13,920 --> 01:24:20,000
+i urge people to do that there are many
+
+2122
+01:24:17,359 --> 01:24:22,399
+excellent decision makers um
+
+2123
+01:24:20,000 --> 01:24:25,198
+and i just wish that they wrote down
+
+2124
+01:24:22,399 --> 01:24:26,079
+their principles when this set
+
+2125
+01:24:25,198 --> 01:24:27,678
+so
+
+2126
+01:24:26,079 --> 01:24:29,920
+for example
+
+2127
+01:24:27,679 --> 01:24:31,440
+we talked about henry kissinger and his
+
+2128
+01:24:29,920 --> 01:24:33,119
+new book is going to come out with a
+
+2129
+01:24:31,439 --> 01:24:36,879
+book on leadership
+
+2130
+01:24:33,119 --> 01:24:39,599
+um and don't just describe the leaders
+
+2131
+01:24:36,880 --> 01:24:42,480
+describe then what about them were the
+
+2132
+01:24:39,600 --> 01:24:45,039
+essential elements to make a good leader
+
+2133
+01:24:42,479 --> 01:24:48,479
+under what circumstances and so if we
+
+2134
+01:24:45,039 --> 01:24:51,679
+think about that when then also then you
+
+2135
+01:24:48,479 --> 01:24:53,759
+begin to think in a principled way
+
+2136
+01:24:51,679 --> 01:24:56,719
+and then when you start to think in a
+
+2137
+01:24:53,760 --> 01:24:58,639
+principle way life becomes
+
+2138
+01:24:56,719 --> 01:25:01,520
+it's so much easier to make decisions
+
+2139
+01:24:58,639 --> 01:25:04,560
+and it's so much less confusing because
+
+2140
+01:25:01,520 --> 01:25:08,320
+it's like coming up on a species and you
+
+2141
+01:25:04,560 --> 01:25:11,039
+say okay well what species is it not
+
+2142
+01:25:08,319 --> 01:25:13,359
+just another it's a thing no what
+
+2143
+01:25:11,039 --> 01:25:16,479
+species is it and how do i deal with
+
+2144
+01:25:13,359 --> 01:25:18,880
+that species effectively and and so
+
+2145
+01:25:16,479 --> 01:25:21,439
+that's what that is and so i encourage
+
+2146
+01:25:18,880 --> 01:25:23,520
+people to write it down i wish anybody
+
+2147
+01:25:21,439 --> 01:25:25,519
+who's successful wrote down their
+
+2148
+01:25:23,520 --> 01:25:28,960
+principles or their recipes for making
+
+2149
+01:25:25,520 --> 01:25:31,280
+those types of decisions so the events
+
+2150
+01:25:28,960 --> 01:25:32,239
+of interest here happens over and over
+
+2151
+01:25:31,279 --> 01:25:34,158
+and over
+
+2152
+01:25:32,238 --> 01:25:35,678
+in similar ways as you're looking for
+
+2153
+01:25:34,158 --> 01:25:37,519
+the patterns and you're defining the
+
+2154
+01:25:35,679 --> 01:25:39,279
+process
+
+2155
+01:25:37,520 --> 01:25:41,199
+that's right to respond
+
+2156
+01:25:39,279 --> 01:25:42,880
+to those patterns and you call that the
+
+2157
+01:25:41,198 --> 01:25:44,238
+principles
+
+2158
+01:25:42,880 --> 01:25:45,840
+and
+
+2159
+01:25:44,238 --> 01:25:48,399
+that allows you to deal with the future
+
+2160
+01:25:45,840 --> 01:25:50,800
+effectively so like that codifies the
+
+2161
+01:25:48,399 --> 01:25:52,719
+lessons from the past to be able to deal
+
+2162
+01:25:50,800 --> 01:25:54,639
+with the future
+
+2163
+01:25:52,719 --> 01:25:57,679
+what advice do you have for young folks
+
+2164
+01:25:54,639 --> 01:26:00,400
+today in high school in college thinking
+
+2165
+01:25:57,679 --> 01:26:02,880
+about how to live uh
+
+2166
+01:26:00,399 --> 01:26:05,279
+have a career they can be proud of or
+
+2167
+01:26:02,880 --> 01:26:07,119
+maybe have a life they can be proud of
+
+2168
+01:26:05,279 --> 01:26:09,279
+know yourself
+
+2169
+01:26:07,119 --> 01:26:11,359
+follow your passion
+
+2170
+01:26:09,279 --> 01:26:12,559
+make your work and passion the same
+
+2171
+01:26:11,359 --> 01:26:15,359
+thing
+
+2172
+01:26:12,560 --> 01:26:17,039
+while considering the money part because
+
+2173
+01:26:15,359 --> 01:26:19,119
+money will get you
+
+2174
+01:26:17,039 --> 01:26:20,880
+freedom and choice and be able to make
+
+2175
+01:26:19,119 --> 01:26:22,719
+that but
+
+2176
+01:26:20,880 --> 01:26:24,639
+if you know yourself
+
+2177
+01:26:22,719 --> 01:26:26,399
+feel the pull
+
+2178
+01:26:24,639 --> 01:26:29,039
+um and
+
+2179
+01:26:26,399 --> 01:26:32,158
+um and pursue that passion
+
+2180
+01:26:29,039 --> 01:26:34,639
+um and along those lines by the way i
+
+2181
+01:26:32,158 --> 01:26:36,879
+found um that
+
+2182
+01:26:34,639 --> 01:26:39,600
+using personality profile tests has been
+
+2183
+01:26:36,880 --> 01:26:41,840
+very helpful i've used those for about
+
+2184
+01:26:39,600 --> 01:26:43,360
+25 years for people to help to
+
+2185
+01:26:41,840 --> 01:26:46,560
+understand themselves and understand
+
+2186
+01:26:43,359 --> 01:26:47,519
+each other so i created a free one
+
+2187
+01:26:46,560 --> 01:26:51,120
+that
+
+2188
+01:26:47,520 --> 01:26:52,639
+is called principles you it's online
+
+2189
+01:26:51,119 --> 01:26:55,359
+it's
+
+2190
+01:26:52,639 --> 01:26:57,520
+had remarkable
+
+2191
+01:26:55,359 --> 01:27:00,238
+loving people who've taken it learn
+
+2192
+01:26:57,520 --> 01:27:02,000
+about themselves but also you can put in
+
+2193
+01:27:00,238 --> 01:27:04,879
+somebody else and it'll tell you about
+
+2194
+01:27:02,000 --> 01:27:07,039
+your relationship with them that's like
+
+2195
+01:27:04,880 --> 01:27:10,159
+30 minutes is a quick discovery but the
+
+2196
+01:27:07,039 --> 01:27:12,399
+main thing is to understand on your
+
+2197
+01:27:10,158 --> 01:27:15,759
+journey your hero's journey
+
+2198
+01:27:12,399 --> 01:27:16,960
+when you're um that you will have uh
+
+2199
+01:27:15,760 --> 01:27:19,199
+mistakes
+
+2200
+01:27:16,960 --> 01:27:22,000
+and you will have weaknesses
+
+2201
+01:27:19,198 --> 01:27:24,960
+and to
+
+2202
+01:27:22,000 --> 01:27:27,679
+understand those not fight those
+
+2203
+01:27:24,960 --> 01:27:29,679
+because by understanding
+
+2204
+01:27:27,679 --> 01:27:32,319
+mistakes you will learn not to make
+
+2205
+01:27:29,679 --> 01:27:37,199
+mistakes again i have a principle which
+
+2206
+01:27:32,319 --> 01:27:40,319
+is pain plus reflection equals progress
+
+2207
+01:27:37,198 --> 01:27:42,559
+and so that reflection is important to
+
+2208
+01:27:40,319 --> 01:27:45,599
+know yourself know your pulls
+
+2209
+01:27:42,560 --> 01:27:47,520
+know your weaknesses and when you also
+
+2210
+01:27:45,600 --> 01:27:50,800
+know your weaknesses and the strengths
+
+2211
+01:27:47,520 --> 01:27:52,719
+of other people there are people who um
+
+2212
+01:27:50,800 --> 01:27:54,800
+have strengths where you're weak and you
+
+2213
+01:27:52,719 --> 01:27:57,439
+have strengths where they're weak and to
+
+2214
+01:27:54,800 --> 01:27:59,840
+be able to work well together is the
+
+2215
+01:27:57,439 --> 01:28:02,319
+most effective way of
+
+2216
+01:27:59,840 --> 01:28:04,880
+achieving uh success
+
+2217
+01:28:02,319 --> 01:28:07,279
+so yeah it's that journey
+
+2218
+01:28:04,880 --> 01:28:09,600
+and there's a life arc and there's a
+
+2219
+01:28:07,279 --> 01:28:13,119
+journey and you want to make it the best
+
+2220
+01:28:09,600 --> 01:28:15,920
+that you can make it and it has
+
+2221
+01:28:13,119 --> 01:28:18,399
+it's like a video game you know it has
+
+2222
+01:28:15,920 --> 01:28:21,119
+the challenges and the
+
+2223
+01:28:18,399 --> 01:28:24,238
+obstacles and the learning experiences
+
+2224
+01:28:21,119 --> 01:28:26,639
+and the temptations and all of that and
+
+2225
+01:28:24,238 --> 01:28:29,599
+the maximizing learning to go where you
+
+2226
+01:28:26,639 --> 01:28:31,840
+want to go to achieve the life you want
+
+2227
+01:28:29,600 --> 01:28:35,120
+is the most important that's kind of
+
+2228
+01:28:31,840 --> 01:28:38,239
+maybe a long-winded way of suing it but
+
+2229
+01:28:35,119 --> 01:28:41,599
+to learn i think i'll try to say it
+
+2230
+01:28:38,238 --> 01:28:42,638
+simply there's a five-step process step
+
+2231
+01:28:41,600 --> 01:28:43,920
+one
+
+2232
+01:28:42,639 --> 01:28:45,920
+is
+
+2233
+01:28:43,920 --> 01:28:48,239
+know your goals
+
+2234
+01:28:45,920 --> 01:28:50,079
+know what you're going after
+
+2235
+01:28:48,238 --> 01:28:52,238
+you could have almost anything you want
+
+2236
+01:28:50,079 --> 01:28:54,000
+but you can't have everything you want
+
+2237
+01:28:52,238 --> 01:28:56,638
+and so you have to prioritize and you
+
+2238
+01:28:54,000 --> 01:28:58,319
+move in that direction on the way to
+
+2239
+01:28:56,639 --> 01:29:00,960
+your goals you're going to encounter
+
+2240
+01:28:58,319 --> 01:29:04,238
+your problems and your obstacles
+
+2241
+01:29:00,960 --> 01:29:05,039
+so identifying step two is understanding
+
+2242
+01:29:04,238 --> 01:29:06,799
+your
+
+2243
+01:29:05,039 --> 01:29:07,679
+problems and your obstacles identify
+
+2244
+01:29:06,800 --> 01:29:09,119
+them
+
+2245
+01:29:07,679 --> 01:29:11,520
+step three
+
+2246
+01:29:09,119 --> 01:29:13,760
+is to diagnose them to get at the root
+
+2247
+01:29:11,520 --> 01:29:15,440
+cause of the problem
+
+2248
+01:29:13,760 --> 01:29:17,280
+and that could be
+
+2249
+01:29:15,439 --> 01:29:19,519
+many root causes but it could also be
+
+2250
+01:29:17,279 --> 01:29:22,079
+your weaknesses or weaknesses of others
+
+2251
+01:29:19,520 --> 01:29:24,960
+but you have to be objective about them
+
+2252
+01:29:22,079 --> 01:29:28,079
+once you diagnose them then you go to
+
+2253
+01:29:24,960 --> 01:29:30,239
+step four which is to design a way to
+
+2254
+01:29:28,079 --> 01:29:31,198
+get around them
+
+2255
+01:29:30,238 --> 01:29:33,839
+and
+
+2256
+01:29:31,198 --> 01:29:36,238
+then after you have that design
+
+2257
+01:29:33,840 --> 01:29:39,440
+you implement that design so you have to
+
+2258
+01:29:36,238 --> 01:29:42,158
+follow through and do it and you do that
+
+2259
+01:29:39,439 --> 01:29:44,719
+and and that will then produce its new
+
+2260
+01:29:42,158 --> 01:29:46,719
+results which should be better results i
+
+2261
+01:29:44,719 --> 01:29:49,119
+have i call this kind of the looping
+
+2262
+01:29:46,719 --> 01:29:50,158
+process it's the evolutionary looping
+
+2263
+01:29:49,119 --> 01:29:51,679
+process
+
+2264
+01:29:50,158 --> 01:29:53,599
+and um
+
+2265
+01:29:51,679 --> 01:29:56,000
+you do you just keep doing that and you
+
+2266
+01:29:53,600 --> 01:29:58,320
+learn over a period of time and you move
+
+2267
+01:29:56,000 --> 01:30:00,000
+in the direction that you want
+
+2268
+01:29:58,319 --> 01:30:02,479
+last question and you only have one
+
+2269
+01:30:00,000 --> 01:30:04,399
+minute to answer it
+
+2270
+01:30:02,479 --> 01:30:07,119
+you dedicate the book
+
+2271
+01:30:04,399 --> 01:30:08,559
+quote to my grandchildren and those of
+
+2272
+01:30:07,119 --> 01:30:10,000
+their generation
+
+2273
+01:30:08,560 --> 01:30:12,800
+who will be participants in the
+
+2274
+01:30:10,000 --> 01:30:15,600
+continuation of the story
+
+2275
+01:30:12,800 --> 01:30:17,760
+may the force of evolution be with you
+
+2276
+01:30:15,600 --> 01:30:20,400
+so let me ask where is this force of
+
+2277
+01:30:17,760 --> 01:30:23,600
+evolution taking human civilization
+
+2278
+01:30:20,399 --> 01:30:24,559
+and what in this story that evolution is
+
+2279
+01:30:23,600 --> 01:30:26,400
+writing
+
+2280
+01:30:24,560 --> 01:30:28,480
+gives you hope
+
+2281
+01:30:26,399 --> 01:30:31,279
+evolution isn't
+
+2282
+01:30:28,479 --> 01:30:35,678
+a direction toward improvement
+
+2283
+01:30:31,279 --> 01:30:40,079
+um and the greatest force is
+
+2284
+01:30:35,679 --> 01:30:42,880
+a man's capacity to adapt and invent
+
+2285
+01:30:40,079 --> 01:30:46,559
+and so you see in the charts in the book
+
+2286
+01:30:42,880 --> 01:30:49,039
+you see that um this upward movement
+
+2287
+01:30:46,560 --> 01:30:50,320
+life expectancy
+
+2288
+01:30:49,039 --> 01:30:51,119
+um
+
+2289
+01:30:50,319 --> 01:30:54,158
+uh
+
+2290
+01:30:51,119 --> 01:30:57,039
+health or all the things that we think
+
+2291
+01:30:54,158 --> 01:30:59,198
+are better you see the there's a chart
+
+2292
+01:30:57,039 --> 01:31:01,119
+and it shows that over a period of time
+
+2293
+01:30:59,198 --> 01:31:04,879
+and you barely see
+
+2294
+01:31:01,119 --> 01:31:06,000
+the downturns from depressions and wars
+
+2295
+01:31:04,880 --> 01:31:09,119
+in that
+
+2296
+01:31:06,000 --> 01:31:11,679
+that is the greatest power man's ability
+
+2297
+01:31:09,119 --> 01:31:14,800
+to invent and adapt
+
+2298
+01:31:11,679 --> 01:31:17,199
+is evolution and that's the greatest
+
+2299
+01:31:14,800 --> 01:31:19,920
+power and that is what
+
+2300
+01:31:17,198 --> 01:31:21,759
+gives me justifiable hope
+
+2301
+01:31:19,920 --> 01:31:24,158
+and a continuation of that like we
+
+2302
+01:31:21,760 --> 01:31:26,480
+mentioned with elon maybe we'll become a
+
+2303
+01:31:24,158 --> 01:31:28,799
+multi-planetary species so not only will
+
+2304
+01:31:26,479 --> 01:31:30,559
+we keep creating amazing things here on
+
+2305
+01:31:28,800 --> 01:31:31,760
+earth will keep expanding out into the
+
+2306
+01:31:30,560 --> 01:31:35,039
+cosmos
+
+2307
+01:31:31,760 --> 01:31:38,000
+my time horizon isn't doesn't have me
+
+2308
+01:31:35,039 --> 01:31:41,359
+analyzing that yet but i i
+
+2309
+01:31:38,000 --> 01:31:42,960
+i hope so and i uh agree that that would
+
+2310
+01:31:41,359 --> 01:31:44,880
+mean the nature so i'm not going to ask
+
+2311
+01:31:42,960 --> 01:31:47,279
+you for the best financial system on
+
+2312
+01:31:44,880 --> 01:31:49,119
+mars um i think we'll focus on earth for
+
+2313
+01:31:47,279 --> 01:31:50,800
+now right thank you so much for your
+
+2314
+01:31:49,119 --> 01:31:52,158
+brilliance for the for the books you've
+
+2315
+01:31:50,800 --> 01:31:54,639
+written for the works you've done for
+
+2316
+01:31:52,158 --> 01:31:56,079
+the inspiration from of millions so and
+
+2317
+01:31:54,639 --> 01:31:57,679
+thank you for
+
+2318
+01:31:56,079 --> 01:31:59,760
+spending your valuable time here with me
+
+2319
+01:31:57,679 --> 01:32:00,800
+today thank you
+
+2320
+01:31:59,760 --> 01:32:02,960
+thanks for listening to this
+
+2321
+01:32:00,800 --> 01:32:04,719
+conversation with ray dalia to support
+
+2322
+01:32:02,960 --> 01:32:06,719
+this podcast please check out our
+
+2323
+01:32:04,719 --> 01:32:08,800
+sponsors in the description
+
+2324
+01:32:06,719 --> 01:32:11,359
+and now let me leave you with some words
+
+2325
+01:32:08,800 --> 01:32:12,880
+from ray dalio himself
+
+2326
+01:32:11,359 --> 01:32:15,198
+every time you confront something
+
+2327
+01:32:12,880 --> 01:32:17,279
+painful you are at a potentially
+
+2328
+01:32:15,198 --> 01:32:19,359
+important juncture in your life you have
+
+2329
+01:32:17,279 --> 01:32:20,800
+the opportunity to choose healthy and
+
+2330
+01:32:19,359 --> 01:32:21,599
+painful truth
+
+2331
+01:32:20,800 --> 01:32:25,520
+or
+
+2332
+01:32:21,600 --> 01:32:27,280
+unhealthy but comfortable delusion
+
+2333
+01:32:25,520 --> 01:32:31,159
+thank you for listening and hope to see
+
+2334
+01:32:27,279 --> 01:32:31,158
+you next time
+

@@ -1,0 +1,10428 @@
+1
+00:00:00,000 --> 00:00:04,000
+the following is a conversation with joe
+
+2
+00:00:02,000 --> 00:00:08,000
+buller a mathematics educator at
+
+3
+00:00:04,000 --> 00:00:10,240
+stanford and co-founder of youcubed.org
+
+4
+00:00:08,000 --> 00:00:12,480
+that seeks to inspire young minds with
+
+5
+00:00:10,240 --> 00:00:14,559
+the beauty of mathematics
+
+6
+00:00:12,480 --> 00:00:17,039
+to support this podcast please check out
+
+7
+00:00:14,558 --> 00:00:19,439
+our sponsors in the description
+
+8
+00:00:17,039 --> 00:00:23,519
+this is the lex friedman podcast and
+
+9
+00:00:19,439 --> 00:00:25,439
+here is my conversation with joe bowler
+
+10
+00:00:23,518 --> 00:00:27,118
+what to you is beautiful about
+
+11
+00:00:25,439 --> 00:00:28,640
+mathematics
+
+12
+00:00:27,118 --> 00:00:30,480
+i love
+
+13
+00:00:28,640 --> 00:00:33,920
+a mathematics that some people don't
+
+14
+00:00:30,480 --> 00:00:36,640
+even think of as mathematics which is
+
+15
+00:00:33,920 --> 00:00:38,719
+beautiful creative
+
+16
+00:00:36,640 --> 00:00:41,120
+mathematics where we look at maths in
+
+17
+00:00:38,719 --> 00:00:42,558
+different ways we visualize it
+
+18
+00:00:41,119 --> 00:00:44,878
+we think about
+
+19
+00:00:42,558 --> 00:00:46,878
+different solutions to problems a lot of
+
+20
+00:00:44,878 --> 00:00:49,519
+people think of maths as
+
+21
+00:00:46,878 --> 00:00:51,439
+you have one method and one answer
+
+22
+00:00:49,520 --> 00:00:52,960
+and what i love about maths is the
+
+23
+00:00:51,439 --> 00:00:53,919
+multiple different ways you can see
+
+24
+00:00:52,960 --> 00:00:55,439
+things
+
+25
+00:00:53,920 --> 00:00:56,719
+different methods different ways of
+
+26
+00:00:55,439 --> 00:00:59,119
+seeing different
+
+27
+00:00:56,719 --> 00:01:01,198
+in some cases different solutions
+
+28
+00:00:59,119 --> 00:01:03,839
+so that is what is beautiful to me about
+
+29
+00:01:01,198 --> 00:01:04,558
+mathematics that you can see and solve
+
+30
+00:01:03,840 --> 00:01:06,799
+it
+
+31
+00:01:04,558 --> 00:01:09,840
+in many different ways and
+
+32
+00:01:06,799 --> 00:01:11,680
+also the sad part that many people think
+
+33
+00:01:09,840 --> 00:01:13,680
+that maths is just
+
+34
+00:01:11,680 --> 00:01:15,680
+one answer and one method
+
+35
+00:01:13,680 --> 00:01:17,920
+so to you the beautiful the beauty
+
+36
+00:01:15,680 --> 00:01:20,000
+emerges when you have a problem with a
+
+37
+00:01:17,920 --> 00:01:21,118
+solution and you start adding other
+
+38
+00:01:20,000 --> 00:01:23,519
+solutions
+
+39
+00:01:21,118 --> 00:01:25,599
+simpler solutions
+
+40
+00:01:23,519 --> 00:01:28,079
+weirder solutions more interesting some
+
+41
+00:01:25,599 --> 00:01:30,640
+of their visual some of their algebraic
+
+42
+00:01:28,079 --> 00:01:32,879
+geometry all that kind of stuff yeah i
+
+43
+00:01:30,640 --> 00:01:35,280
+mean i i always say that you can take
+
+44
+00:01:32,879 --> 00:01:37,519
+any maths area and make it visual
+
+45
+00:01:35,280 --> 00:01:39,280
+and we say to teachers give us your most
+
+46
+00:01:37,519 --> 00:01:41,679
+dry boring
+
+47
+00:01:39,280 --> 00:01:43,920
+maths and we'll make it a visual
+
+48
+00:01:41,680 --> 00:01:45,600
+interesting creative problem and
+
+49
+00:01:43,920 --> 00:01:46,799
+turns out you can do that with any area
+
+50
+00:01:45,599 --> 00:01:49,199
+of maths
+
+51
+00:01:46,799 --> 00:01:51,200
+and i think we've given
+
+52
+00:01:49,200 --> 00:01:54,240
+p it's been a great disservice to kids
+
+53
+00:01:51,200 --> 00:01:56,079
+and others that it's always been numbers
+
+54
+00:01:54,239 --> 00:01:57,759
+lots and lots of numbers
+
+55
+00:01:56,078 --> 00:02:00,158
+numbers can be great but you can think
+
+56
+00:01:57,759 --> 00:02:02,319
+about maths in other ways besides
+
+57
+00:02:00,159 --> 00:02:04,960
+numbers do you find that
+
+58
+00:02:02,319 --> 00:02:06,478
+most people are better visual learners
+
+59
+00:02:04,959 --> 00:02:08,639
+or is this just something that's
+
+60
+00:02:06,478 --> 00:02:10,560
+complementary
+
+61
+00:02:08,639 --> 00:02:12,318
+what's the kind of the full spectrum of
+
+62
+00:02:10,560 --> 00:02:14,400
+students in the way they like to explore
+
+63
+00:02:12,318 --> 00:02:17,439
+math would you say there's definitely
+
+64
+00:02:14,400 --> 00:02:19,120
+people who come into the classes i do
+
+65
+00:02:17,439 --> 00:02:22,000
+who are more interested in visual
+
+66
+00:02:19,120 --> 00:02:24,080
+thinking and like visual approaches but
+
+67
+00:02:22,000 --> 00:02:26,159
+it turns out what the neuroscience is
+
+68
+00:02:24,080 --> 00:02:28,560
+telling us is that when we think about
+
+69
+00:02:26,159 --> 00:02:30,079
+maths there are two visual pathways in
+
+70
+00:02:28,560 --> 00:02:31,439
+the brain and
+
+71
+00:02:30,080 --> 00:02:32,800
+we should all be thinking about it
+
+72
+00:02:31,439 --> 00:02:34,639
+visually
+
+73
+00:02:32,800 --> 00:02:36,400
+some approaches have been to say well
+
+74
+00:02:34,639 --> 00:02:38,878
+you're a visual learner so we'll give
+
+75
+00:02:36,400 --> 00:02:41,599
+you visuals and you're
+
+76
+00:02:38,878 --> 00:02:44,159
+not a visual learner but
+
+77
+00:02:41,598 --> 00:02:45,839
+actually if you think you're not a
+
+78
+00:02:44,159 --> 00:02:47,519
+visual learner it's probably more
+
+79
+00:02:45,840 --> 00:02:48,800
+important that you have a visual
+
+80
+00:02:47,519 --> 00:02:50,719
+approach
+
+81
+00:02:48,800 --> 00:02:52,400
+so you can develop that part of your
+
+82
+00:02:50,719 --> 00:02:54,400
+brain so you were saying that there's
+
+83
+00:02:52,400 --> 00:02:55,760
+some kind of interconnected aspect to it
+
+84
+00:02:54,400 --> 00:02:58,158
+so the visual connects with the
+
+85
+00:02:55,759 --> 00:03:00,079
+non-visual yeah so this is what the
+
+86
+00:02:58,158 --> 00:03:01,598
+neuroscience has shown us that when you
+
+87
+00:03:00,080 --> 00:03:03,360
+work on a maths problem there are five
+
+88
+00:03:01,598 --> 00:03:05,039
+different brain pathways
+
+89
+00:03:03,360 --> 00:03:06,800
+and that the most
+
+90
+00:03:05,039 --> 00:03:08,799
+high achieving people in the world are
+
+91
+00:03:06,800 --> 00:03:10,480
+people who have more connections between
+
+92
+00:03:08,800 --> 00:03:12,719
+these pathways
+
+93
+00:03:10,479 --> 00:03:15,759
+so if you see a maths problem with
+
+94
+00:03:12,719 --> 00:03:17,280
+numbers but you also see it visually
+
+95
+00:03:15,759 --> 00:03:19,759
+that will cause a connection to happen
+
+96
+00:03:17,280 --> 00:03:21,519
+in your brain between these pathways
+
+97
+00:03:19,759 --> 00:03:22,799
+and if you maybe write about it with
+
+98
+00:03:21,519 --> 00:03:25,280
+words that would cause another
+
+99
+00:03:22,800 --> 00:03:26,959
+connection or maybe you build it with
+
+100
+00:03:25,280 --> 00:03:28,318
+something physical that would cause a
+
+101
+00:03:26,959 --> 00:03:29,200
+different connection
+
+102
+00:03:28,318 --> 00:03:31,598
+and
+
+103
+00:03:29,199 --> 00:03:33,598
+what we want for kids is we call it a
+
+104
+00:03:31,598 --> 00:03:36,238
+multi-dimensional experience of math
+
+105
+00:03:33,598 --> 00:03:37,759
+seeing it in different ways experiencing
+
+106
+00:03:36,239 --> 00:03:39,840
+it in different ways
+
+107
+00:03:37,759 --> 00:03:40,719
+that will cause that great connected
+
+108
+00:03:39,840 --> 00:03:42,000
+brain
+
+109
+00:03:40,719 --> 00:03:43,598
+you know there's these stories of
+
+110
+00:03:42,000 --> 00:03:45,759
+physicists doing the same i find
+
+111
+00:03:43,598 --> 00:03:47,598
+physicists are often better at
+
+112
+00:03:45,759 --> 00:03:49,679
+building that part of their brain of
+
+113
+00:03:47,598 --> 00:03:52,000
+using visualization for intuition
+
+114
+00:03:49,680 --> 00:03:53,840
+building because you ultimately want to
+
+115
+00:03:52,000 --> 00:03:56,318
+understand
+
+116
+00:03:53,840 --> 00:03:58,319
+the like the deepest secret underneath
+
+117
+00:03:56,318 --> 00:04:00,318
+this problem and for that you have to
+
+118
+00:03:58,318 --> 00:04:02,399
+intuit your way there yeah and you you
+
+119
+00:04:00,318 --> 00:04:03,839
+mentioned offline that um one of the
+
+120
+00:04:02,400 --> 00:04:05,760
+ways you might approach a problem is to
+
+121
+00:04:03,840 --> 00:04:08,719
+try to tell a story about it
+
+122
+00:04:05,759 --> 00:04:10,959
+and some of it is like legend but i'm
+
+123
+00:04:08,719 --> 00:04:12,479
+sure it's not always is you know you
+
+124
+00:04:10,959 --> 00:04:14,799
+have einstein
+
+125
+00:04:12,479 --> 00:04:17,199
+uh thinking about a train
+
+126
+00:04:14,799 --> 00:04:19,600
+you know and the speed of light and you
+
+127
+00:04:17,199 --> 00:04:21,919
+know that kind of intuition is useful
+
+128
+00:04:19,600 --> 00:04:23,919
+yeah you start to like imagine
+
+129
+00:04:21,918 --> 00:04:25,519
+a physical world like how does
+
+130
+00:04:23,918 --> 00:04:27,039
+this idea manifest itself in the
+
+131
+00:04:25,519 --> 00:04:28,879
+physical world and then start playing in
+
+132
+00:04:27,040 --> 00:04:30,400
+your mind with that physical world and
+
+133
+00:04:28,879 --> 00:04:32,240
+think is this going to be true is this
+
+134
+00:04:30,399 --> 00:04:34,638
+going to be true right
+
+135
+00:04:32,240 --> 00:04:35,759
+einstein is well known for thinking
+
+136
+00:04:34,639 --> 00:04:36,720
+visually
+
+137
+00:04:35,759 --> 00:04:39,199
+and
+
+138
+00:04:36,720 --> 00:04:41,360
+people talk about how he really didn't
+
+139
+00:04:39,199 --> 00:04:43,600
+want to go anywhere with problems
+
+140
+00:04:41,360 --> 00:04:45,199
+without thinking about them visually but
+
+141
+00:04:43,600 --> 00:04:47,040
+the other thing you mentioned that
+
+142
+00:04:45,199 --> 00:04:49,120
+sparked something for me is
+
+143
+00:04:47,040 --> 00:04:51,280
+thinking with intuition like having
+
+144
+00:04:49,120 --> 00:04:53,120
+intuition about maths problems
+
+145
+00:04:51,279 --> 00:04:54,879
+that's another thing that's often absent
+
+146
+00:04:53,120 --> 00:04:56,478
+in maths class the idea that you might
+
+147
+00:04:54,879 --> 00:04:58,800
+think about a problem and
+
+148
+00:04:56,478 --> 00:05:00,719
+use your intuition
+
+149
+00:04:58,800 --> 00:05:02,720
+but so important
+
+150
+00:05:00,720 --> 00:05:04,160
+and when mathematicians are interviewed
+
+151
+00:05:02,720 --> 00:05:07,120
+they will very frequently talk about the
+
+152
+00:05:04,160 --> 00:05:09,600
+role of intuition in solving problems
+
+153
+00:05:07,120 --> 00:05:11,120
+but not commonly
+
+154
+00:05:09,600 --> 00:05:13,759
+acknowledged or
+
+155
+00:05:11,120 --> 00:05:15,840
+brought into education yeah i mean
+
+156
+00:05:13,759 --> 00:05:17,120
+that's what it is like
+
+157
+00:05:15,839 --> 00:05:19,359
+if if you
+
+158
+00:05:17,120 --> 00:05:21,199
+task yourself with building an intuition
+
+159
+00:05:19,360 --> 00:05:22,319
+about a problem
+
+160
+00:05:21,199 --> 00:05:24,000
+that's what
+
+161
+00:05:22,319 --> 00:05:25,439
+that's where you start to pull in like
+
+162
+00:05:24,000 --> 00:05:27,439
+um
+
+163
+00:05:25,439 --> 00:05:28,879
+what is the pattern i'm seeing in order
+
+164
+00:05:27,439 --> 00:05:31,600
+to understand the pattern you might want
+
+165
+00:05:28,879 --> 00:05:34,159
+to then start utilizing visualization
+
+166
+00:05:31,600 --> 00:05:35,680
+but ultimately that's all in service of
+
+167
+00:05:34,160 --> 00:05:37,280
+like
+
+168
+00:05:35,680 --> 00:05:39,199
+solving the puzzle
+
+169
+00:05:37,279 --> 00:05:41,599
+like cracking it open yeah you get the
+
+170
+00:05:39,199 --> 00:05:43,840
+simple explanation of what why
+
+171
+00:05:41,600 --> 00:05:45,439
+why things are the way they are
+
+172
+00:05:43,839 --> 00:05:46,959
+as opposed to um
+
+173
+00:05:45,439 --> 00:05:48,639
+like you said having a particular
+
+174
+00:05:46,959 --> 00:05:49,918
+algorithm that you can then execute to
+
+175
+00:05:48,639 --> 00:05:52,000
+solve the problem
+
+176
+00:05:49,918 --> 00:05:54,319
+yeah but it's hard it's hard yeah
+
+177
+00:05:52,000 --> 00:05:55,918
+reasoning is really hard yeah it's it's
+
+178
+00:05:54,319 --> 00:05:58,800
+hard i mean
+
+179
+00:05:55,918 --> 00:06:00,879
+i love to value what's hard in maths
+
+180
+00:05:58,800 --> 00:06:02,800
+instead of being afraid of it we know
+
+181
+00:06:00,879 --> 00:06:04,959
+that when you struggle that's actually a
+
+182
+00:06:02,800 --> 00:06:06,560
+really good time for your brain you want
+
+183
+00:06:04,959 --> 00:06:07,918
+to be struggling when you're thinking
+
+184
+00:06:06,560 --> 00:06:09,680
+about things so
+
+185
+00:06:07,918 --> 00:06:11,918
+if it's hard to think intuitively about
+
+186
+00:06:09,680 --> 00:06:13,519
+something that's probably a really good
+
+187
+00:06:11,918 --> 00:06:15,680
+time for your brain
+
+188
+00:06:13,519 --> 00:06:17,839
+i i used to work with somebody called
+
+189
+00:06:15,680 --> 00:06:19,600
+sebastian thoran who
+
+190
+00:06:17,839 --> 00:06:21,839
+it's a great sort of mathematician you
+
+191
+00:06:19,600 --> 00:06:23,439
+might think of him an ai person and
+
+192
+00:06:21,839 --> 00:06:25,038
+i remember in one interview i did with
+
+193
+00:06:23,439 --> 00:06:27,519
+him he talked about how they'd built
+
+194
+00:06:25,038 --> 00:06:29,279
+robots i think for the smithsonian
+
+195
+00:06:27,519 --> 00:06:32,318
+and how they were having this trouble
+
+196
+00:06:29,279 --> 00:06:33,119
+with them picking up white noise
+
+197
+00:06:32,319 --> 00:06:34,800
+and
+
+198
+00:06:33,120 --> 00:06:37,360
+he said they had to solve it they had to
+
+199
+00:06:34,800 --> 00:06:39,120
+work out what's going on and how he
+
+200
+00:06:37,360 --> 00:06:41,199
+intuitively
+
+201
+00:06:39,120 --> 00:06:44,079
+worked out what the problem was
+
+202
+00:06:41,199 --> 00:06:46,080
+but then it took him three weeks to show
+
+203
+00:06:44,079 --> 00:06:48,560
+it mathematically i thought that was
+
+204
+00:06:46,079 --> 00:06:51,758
+really interesting that how you can have
+
+205
+00:06:48,560 --> 00:06:53,199
+this intuition and know something works
+
+206
+00:06:51,759 --> 00:06:55,199
+it's kind of different from going
+
+207
+00:06:53,199 --> 00:06:56,879
+through that long mathematical process
+
+208
+00:06:55,199 --> 00:06:59,520
+of proving it
+
+209
+00:06:56,879 --> 00:07:01,519
+but so important yeah i think probably
+
+210
+00:06:59,519 --> 00:07:03,918
+our brains are evolved
+
+211
+00:07:01,519 --> 00:07:06,639
+as like intuition machines
+
+212
+00:07:03,918 --> 00:07:08,159
+and the uh the the math of like showing
+
+213
+00:07:06,639 --> 00:07:10,639
+it like
+
+214
+00:07:08,160 --> 00:07:12,639
+formally is probably an extra thing that
+
+215
+00:07:10,639 --> 00:07:14,800
+we're not designed for you see that with
+
+216
+00:07:12,639 --> 00:07:16,960
+feynman and his
+
+217
+00:07:14,800 --> 00:07:19,680
+i mean it's just all of these physicists
+
+218
+00:07:16,959 --> 00:07:21,598
+definitely you see um
+
+219
+00:07:19,680 --> 00:07:24,400
+starting with intuition sometimes
+
+220
+00:07:21,598 --> 00:07:26,879
+starting with an experiment
+
+221
+00:07:24,399 --> 00:07:28,719
+and then the experiment inspires
+
+222
+00:07:26,879 --> 00:07:30,800
+intuition but you can think of an
+
+223
+00:07:28,720 --> 00:07:32,240
+experiment as a kind of visualization
+
+224
+00:07:30,800 --> 00:07:33,680
+right just like let's
+
+225
+00:07:32,240 --> 00:07:35,918
+let's take whatever the heck we're
+
+226
+00:07:33,680 --> 00:07:38,079
+looking at and draw it
+
+227
+00:07:35,918 --> 00:07:40,799
+and and draw like uh the pattern as it
+
+228
+00:07:38,079 --> 00:07:42,719
+evolves as the thing grows for n equals
+
+229
+00:07:40,800 --> 00:07:45,439
+one for n equals two n equals three and
+
+230
+00:07:42,720 --> 00:07:48,639
+you start uh to play with it and then in
+
+231
+00:07:45,439 --> 00:07:50,639
+the modern day which i loved uh doing
+
+232
+00:07:48,639 --> 00:07:52,478
+is you know you can write a program that
+
+233
+00:07:50,639 --> 00:07:54,000
+then visualizes it for you right and
+
+234
+00:07:52,478 --> 00:07:55,439
+then you can start exploring it
+
+235
+00:07:54,000 --> 00:07:56,839
+programmatically
+
+236
+00:07:55,439 --> 00:08:00,478
+and that that and
+
+237
+00:07:56,839 --> 00:08:02,318
+then you can do so interactively too i
+
+238
+00:08:00,478 --> 00:08:04,159
+tend to not
+
+239
+00:08:02,319 --> 00:08:05,759
+uh like interactive because the way it
+
+240
+00:08:04,160 --> 00:08:07,439
+takes to way too much work because you
+
+241
+00:08:05,759 --> 00:08:09,840
+have to click and move and stuff i love
+
+242
+00:08:07,439 --> 00:08:11,839
+to interact through writing programs
+
+243
+00:08:09,839 --> 00:08:13,598
+that's my particular brain software
+
+244
+00:08:11,839 --> 00:08:15,679
+engineer so like
+
+245
+00:08:13,598 --> 00:08:18,159
+you can you can uh do all these kinds of
+
+246
+00:08:15,680 --> 00:08:20,720
+visualizations uh and then there's the
+
+247
+00:08:18,160 --> 00:08:23,120
+tools of visualization like color
+
+248
+00:08:20,720 --> 00:08:24,639
+uh all those kinds of things yeah that
+
+249
+00:08:23,120 --> 00:08:25,439
+you're absolutely right they're actually
+
+250
+00:08:24,639 --> 00:08:27,840
+not
+
+251
+00:08:25,439 --> 00:08:30,000
+taught very much right like the art of
+
+252
+00:08:27,839 --> 00:08:31,198
+visualization not taught
+
+253
+00:08:30,000 --> 00:08:34,080
+and
+
+254
+00:08:31,199 --> 00:08:36,479
+we love as well color coding like when
+
+255
+00:08:34,080 --> 00:08:39,038
+you represent something mathematically
+
+256
+00:08:36,479 --> 00:08:41,839
+you can show color to show the growth
+
+257
+00:08:39,038 --> 00:08:44,158
+yeah and kind of code that so if i have
+
+258
+00:08:41,839 --> 00:08:46,560
+an algebraic expression for a pattern
+
+259
+00:08:44,158 --> 00:08:49,039
+maybe i show the x with a certain color
+
+260
+00:08:46,559 --> 00:08:51,359
+but also write in that color so you can
+
+261
+00:08:49,039 --> 00:08:54,480
+see the relationship
+
+262
+00:08:51,360 --> 00:08:56,800
+very cool and um yeah we particularly in
+
+263
+00:08:54,480 --> 00:08:58,800
+our work with elementary teachers
+
+264
+00:08:56,799 --> 00:09:01,439
+many of them come to our workshops and
+
+265
+00:08:58,799 --> 00:09:03,759
+they're literally in tears when they see
+
+266
+00:09:01,440 --> 00:09:05,760
+things making sense visually
+
+267
+00:09:03,759 --> 00:09:08,240
+because they've spent their whole lives
+
+268
+00:09:05,759 --> 00:09:10,879
+think not realizing you can really
+
+269
+00:09:08,240 --> 00:09:12,639
+understand things with these visuals
+
+270
+00:09:10,879 --> 00:09:15,039
+it's quite powerful
+
+271
+00:09:12,639 --> 00:09:17,759
+you say that uh there's something about
+
+272
+00:09:15,039 --> 00:09:19,838
+there's something valuable to learning
+
+273
+00:09:17,759 --> 00:09:22,000
+when the thing that you're doing is
+
+274
+00:09:19,839 --> 00:09:24,560
+challenging it's difficult so a lot of
+
+275
+00:09:22,000 --> 00:09:26,080
+people say you know math is hard or math
+
+276
+00:09:24,559 --> 00:09:28,000
+is too hard
+
+277
+00:09:26,080 --> 00:09:29,120
+or too hard for me
+
+278
+00:09:28,000 --> 00:09:33,360
+do you think
+
+279
+00:09:29,120 --> 00:09:35,839
+math should be easy or should it be hard
+
+280
+00:09:33,360 --> 00:09:37,278
+i think it's great when
+
+281
+00:09:35,839 --> 00:09:39,440
+things are challenging but there's
+
+282
+00:09:37,278 --> 00:09:41,120
+something that that's really key to
+
+283
+00:09:39,440 --> 00:09:44,640
+being able to
+
+284
+00:09:41,120 --> 00:09:47,440
+deal with challenging maths and that is
+
+285
+00:09:44,639 --> 00:09:49,360
+knowing that you can do it and i think
+
+286
+00:09:47,440 --> 00:09:51,440
+the problem in education is a lot of
+
+287
+00:09:49,360 --> 00:09:53,039
+people have got this idea that you're
+
+288
+00:09:51,440 --> 00:09:54,000
+either born with a math sprain or you're
+
+289
+00:09:53,039 --> 00:09:55,838
+not
+
+290
+00:09:54,000 --> 00:09:58,399
+so when they start to struggle they
+
+291
+00:09:55,839 --> 00:10:00,240
+think oh i don't have that maths brain
+
+292
+00:09:58,399 --> 00:10:01,919
+and then they will literally sort of
+
+293
+00:10:00,240 --> 00:10:04,240
+switch off in their brain and things
+
+294
+00:10:01,919 --> 00:10:07,519
+will go downhill from that point so
+
+295
+00:10:04,240 --> 00:10:09,519
+struggle becomes a lot easier and
+
+296
+00:10:07,519 --> 00:10:10,879
+you're able to struggle if you don't
+
+297
+00:10:09,519 --> 00:10:13,679
+have that idea
+
+298
+00:10:10,879 --> 00:10:15,360
+but you know that you you can do it you
+
+299
+00:10:13,679 --> 00:10:18,639
+have to go through this struggle to get
+
+300
+00:10:15,360 --> 00:10:21,278
+there but you're you're able to do that
+
+301
+00:10:18,639 --> 00:10:23,199
+and so we're hampered in being able to
+
+302
+00:10:21,278 --> 00:10:25,519
+struggle with these ideas we've been
+
+303
+00:10:23,200 --> 00:10:28,079
+given about what we can do i ask a
+
+304
+00:10:25,519 --> 00:10:30,240
+difficult question here yes so there's
+
+305
+00:10:28,078 --> 00:10:32,319
+kind of um
+
+306
+00:10:30,240 --> 00:10:33,919
+i don't know what the right term is but
+
+307
+00:10:32,320 --> 00:10:35,600
+some people
+
+308
+00:10:33,919 --> 00:10:38,559
+are um
+
+309
+00:10:35,600 --> 00:10:40,320
+struggle with learning in different ways
+
+310
+00:10:38,559 --> 00:10:42,399
+like their brain is
+
+311
+00:10:40,320 --> 00:10:44,079
+constructed in different ways
+
+312
+00:10:42,399 --> 00:10:45,600
+and um
+
+313
+00:10:44,078 --> 00:10:48,239
+how much should
+
+314
+00:10:45,600 --> 00:10:49,278
+as educators should we make room for
+
+315
+00:10:48,240 --> 00:10:50,639
+that
+
+316
+00:10:49,278 --> 00:10:53,039
+so how do you know the difference
+
+317
+00:10:50,639 --> 00:10:56,078
+between this is hard and i don't like
+
+318
+00:10:53,039 --> 00:10:58,000
+doing hard things versus my brain is
+
+319
+00:10:56,078 --> 00:10:59,679
+wired in a way where i need to learn in
+
+320
+00:10:58,000 --> 00:11:01,919
+very different ways i can't learn it
+
+321
+00:10:59,679 --> 00:11:03,359
+this way how do you find that
+
+322
+00:11:01,919 --> 00:11:06,240
+line how do you operate in that gray
+
+323
+00:11:03,360 --> 00:11:08,720
+area so this is why being a teacher is
+
+324
+00:11:06,240 --> 00:11:11,039
+so hard and people really don't
+
+325
+00:11:08,720 --> 00:11:12,959
+appreciate how difficult teaching is
+
+326
+00:11:11,039 --> 00:11:16,240
+when you're faced with i know 30
+
+327
+00:11:12,958 --> 00:11:19,039
+students who think in different ways and
+
+328
+00:11:16,240 --> 00:11:20,959
+but this is also why i believe it's so
+
+329
+00:11:19,039 --> 00:11:22,799
+important to have this multi-dimensional
+
+330
+00:11:20,958 --> 00:11:25,919
+approach to maths we've really offered
+
+331
+00:11:22,799 --> 00:11:27,519
+it in one way which is
+
+332
+00:11:25,919 --> 00:11:29,679
+here's some numbers in a method you
+
+333
+00:11:27,519 --> 00:11:31,120
+follow me do what i just did and then
+
+334
+00:11:29,679 --> 00:11:33,199
+reproduce it
+
+335
+00:11:31,120 --> 00:11:35,440
+and so there are some kids who like
+
+336
+00:11:33,200 --> 00:11:36,560
+doing that and they do well and a lot of
+
+337
+00:11:35,440 --> 00:11:38,959
+kids who
+
+338
+00:11:36,559 --> 00:11:42,719
+don't like doing it and don't do well
+
+339
+00:11:38,958 --> 00:11:44,239
+but when you open up maths and you give
+
+340
+00:11:42,720 --> 00:11:46,320
+you let kids experience it in different
+
+341
+00:11:44,240 --> 00:11:47,519
+ways maybe visually with numbers with
+
+342
+00:11:46,320 --> 00:11:49,839
+words
+
+343
+00:11:47,519 --> 00:11:51,519
+what happens is kids
+
+344
+00:11:49,839 --> 00:11:52,480
+there are many more kids who can access
+
+345
+00:11:51,519 --> 00:11:54,000
+it
+
+346
+00:11:52,480 --> 00:11:56,320
+so those different
+
+347
+00:11:54,000 --> 00:11:57,679
+brain wirings you're talking about where
+
+348
+00:11:56,320 --> 00:11:58,879
+some people are just
+
+349
+00:11:57,679 --> 00:12:00,159
+more able to do something in a
+
+350
+00:11:58,879 --> 00:12:02,320
+particular way
+
+351
+00:12:00,159 --> 00:12:04,639
+that's why we want to that's one of the
+
+352
+00:12:02,320 --> 00:12:06,480
+reasons we want to open it up
+
+353
+00:12:04,639 --> 00:12:08,320
+so that there are different ways of
+
+354
+00:12:06,480 --> 00:12:11,120
+accessing it
+
+355
+00:12:08,320 --> 00:12:12,000
+and then that's not really a problem
+
+356
+00:12:11,120 --> 00:12:14,399
+so
+
+357
+00:12:12,000 --> 00:12:17,360
+i grew up in the soviet union
+
+358
+00:12:14,399 --> 00:12:20,320
+and uh fell in love with math early i
+
+359
+00:12:17,360 --> 00:12:21,360
+was forced into math early and fell in
+
+360
+00:12:20,320 --> 00:12:23,920
+love
+
+361
+00:12:21,360 --> 00:12:26,240
+through force that's good well you fell
+
+362
+00:12:23,919 --> 00:12:28,000
+in love with other people well but there
+
+363
+00:12:26,240 --> 00:12:30,799
+uh something we talked about a little
+
+364
+00:12:28,000 --> 00:12:32,958
+bit is there's such a
+
+365
+00:12:30,799 --> 00:12:34,879
+value for excellence
+
+366
+00:12:32,958 --> 00:12:37,759
+uh it's competitive
+
+367
+00:12:34,879 --> 00:12:40,078
+and it's also everybody kind of looks up
+
+368
+00:12:37,759 --> 00:12:41,039
+the the definition
+
+369
+00:12:40,078 --> 00:12:43,199
+of
+
+370
+00:12:41,039 --> 00:12:45,199
+success is being
+
+371
+00:12:43,200 --> 00:12:46,879
+in a particular class is you know being
+
+372
+00:12:45,200 --> 00:12:50,000
+really good at it
+
+373
+00:12:46,879 --> 00:12:52,000
+um and like it's not improving it's like
+
+374
+00:12:50,000 --> 00:12:53,679
+being really good i mean we are much
+
+375
+00:12:52,000 --> 00:12:54,799
+more like that with sports for example
+
+376
+00:12:53,679 --> 00:12:56,799
+we're not
+
+377
+00:12:54,799 --> 00:12:58,639
+it's like it's understood you know
+
+378
+00:12:56,799 --> 00:12:59,679
+you're going to star on the basketball
+
+379
+00:12:58,639 --> 00:13:01,600
+team
+
+380
+00:12:59,679 --> 00:13:03,278
+if uh you're going to start on the
+
+381
+00:13:01,600 --> 00:13:05,360
+basketball team if you're going to be
+
+382
+00:13:03,278 --> 00:13:06,799
+better than the other guys the other
+
+383
+00:13:05,360 --> 00:13:07,600
+girls on the team
+
+384
+00:13:06,799 --> 00:13:09,199
+uh
+
+385
+00:13:07,600 --> 00:13:12,399
+so
+
+386
+00:13:09,200 --> 00:13:14,160
+that coupled with the belief this could
+
+387
+00:13:12,399 --> 00:13:16,799
+be partially a communist belief i don't
+
+388
+00:13:14,159 --> 00:13:19,120
+know but the belief that everybody is
+
+389
+00:13:16,799 --> 00:13:21,120
+capable of being great
+
+390
+00:13:19,120 --> 00:13:22,078
+but if you're not great that's your
+
+391
+00:13:21,120 --> 00:13:23,759
+fault
+
+392
+00:13:22,078 --> 00:13:26,879
+and you need to work harder and i
+
+393
+00:13:23,759 --> 00:13:29,519
+remember i had a sense that um probably
+
+394
+00:13:26,879 --> 00:13:32,159
+delusional but i could win a nobel prize
+
+395
+00:13:29,519 --> 00:13:35,278
+i don't even know what that entails
+
+396
+00:13:32,159 --> 00:13:38,559
+um but i thought um
+
+397
+00:13:35,278 --> 00:13:40,320
+like uh my dad early on told me
+
+398
+00:13:38,559 --> 00:13:42,638
+just off hand and it always stuck with
+
+399
+00:13:40,320 --> 00:13:45,040
+me that if you if you can figure out how
+
+400
+00:13:42,639 --> 00:13:46,959
+to build a time machine how to travel
+
+401
+00:13:45,039 --> 00:13:49,519
+back in time it will probably give you a
+
+402
+00:13:46,958 --> 00:13:51,518
+nobel prize and i remember early in my
+
+403
+00:13:49,519 --> 00:13:54,320
+life thinking i'm going to invent the
+
+404
+00:13:51,519 --> 00:13:57,120
+time machine and like like the tools of
+
+405
+00:13:54,320 --> 00:14:00,079
+mathematics were in service of that
+
+406
+00:13:57,120 --> 00:14:02,320
+dream of winning the nobel prize and
+
+407
+00:14:00,078 --> 00:14:04,399
+it's silly i didn't really think in
+
+408
+00:14:02,320 --> 00:14:06,720
+those concrete terms but i just thought
+
+409
+00:14:04,399 --> 00:14:08,799
+i could be great feeling
+
+410
+00:14:06,720 --> 00:14:11,040
+and then then when you struggle the
+
+411
+00:14:08,799 --> 00:14:13,759
+belief that you could be great
+
+412
+00:14:11,039 --> 00:14:15,919
+is like struggle is good right pushes
+
+413
+00:14:13,759 --> 00:14:17,439
+you on yeah and so the other thing about
+
+414
+00:14:15,919 --> 00:14:18,639
+the soviet system
+
+415
+00:14:17,440 --> 00:14:20,959
+that might
+
+416
+00:14:18,639 --> 00:14:24,399
+love to hear your comments about is just
+
+417
+00:14:20,958 --> 00:14:26,719
+the sheer like hours of math like the
+
+418
+00:14:24,399 --> 00:14:29,759
+number of courses you're talking about
+
+419
+00:14:26,720 --> 00:14:32,000
+a lot of geometry a lot more i think in
+
+420
+00:14:29,759 --> 00:14:34,078
+the american system you take maybe one
+
+421
+00:14:32,000 --> 00:14:35,198
+year of geometry in high school yeah in
+
+422
+00:14:34,078 --> 00:14:37,039
+high school
+
+423
+00:14:35,198 --> 00:14:38,479
+first of all geometry is beautiful it's
+
+424
+00:14:37,039 --> 00:14:40,639
+visual and then you get to reason
+
+425
+00:14:38,480 --> 00:14:42,959
+through proofs and stuff like that in in
+
+426
+00:14:40,639 --> 00:14:45,600
+russia i remember just being nailed over
+
+427
+00:14:42,958 --> 00:14:47,518
+and over would you it was just non-stop
+
+428
+00:14:45,600 --> 00:14:49,600
+and then of course there's different
+
+429
+00:14:47,519 --> 00:14:50,480
+perspectives on calculus and just the
+
+430
+00:14:49,600 --> 00:14:52,480
+whole
+
+431
+00:14:50,480 --> 00:14:54,959
+the sense was
+
+432
+00:14:52,480 --> 00:14:57,039
+that math is like
+
+433
+00:14:54,958 --> 00:14:58,559
+like fundamental to the development of
+
+434
+00:14:57,039 --> 00:14:59,439
+the human mind
+
+435
+00:14:58,559 --> 00:15:01,518
+so
+
+436
+00:14:59,440 --> 00:15:02,399
+math but also science and literature by
+
+437
+00:15:01,519 --> 00:15:05,759
+the way
+
+438
+00:15:02,399 --> 00:15:08,720
+was also hit very hard like we read a
+
+439
+00:15:05,759 --> 00:15:11,039
+lot of serious adult stuff america does
+
+440
+00:15:08,720 --> 00:15:13,199
+that a little bit too they challenge
+
+441
+00:15:11,039 --> 00:15:14,958
+young adults with good literature but
+
+442
+00:15:13,198 --> 00:15:18,240
+they don't challenge adults very much
+
+443
+00:15:14,958 --> 00:15:19,599
+with math math so those two things um
+
+444
+00:15:18,240 --> 00:15:20,879
+valuing
+
+445
+00:15:19,600 --> 00:15:23,600
+excellence
+
+446
+00:15:20,879 --> 00:15:25,838
+and just a lot of math in the curriculum
+
+447
+00:15:23,600 --> 00:15:27,440
+do you think do you think do you find
+
+448
+00:15:25,839 --> 00:15:29,440
+that interesting because it seems to
+
+449
+00:15:27,440 --> 00:15:31,279
+have been successful yeah i think that's
+
+450
+00:15:29,440 --> 00:15:33,120
+very interesting and
+
+451
+00:15:31,278 --> 00:15:35,039
+there is a lot of success people coming
+
+452
+00:15:33,120 --> 00:15:36,799
+through the soviet system i think
+
+453
+00:15:35,039 --> 00:15:39,439
+something that's very different to the
+
+454
+00:15:36,799 --> 00:15:41,439
+us and other countries in the world
+
+455
+00:15:39,440 --> 00:15:43,279
+is that idea that excellence is
+
+456
+00:15:41,440 --> 00:15:44,880
+important and you can get there if you
+
+457
+00:15:43,278 --> 00:15:46,720
+work hard
+
+458
+00:15:44,879 --> 00:15:48,240
+in the u.s
+
+459
+00:15:46,720 --> 00:15:50,000
+there's an idea that excellence is
+
+460
+00:15:48,240 --> 00:15:52,079
+important but then kids are given the
+
+461
+00:15:50,000 --> 00:15:54,159
+idea in many ways
+
+462
+00:15:52,078 --> 00:15:56,159
+that you can either do it or you're one
+
+463
+00:15:54,159 --> 00:15:58,399
+of the people who can't
+
+464
+00:15:56,159 --> 00:15:59,679
+so many students in the school system
+
+465
+00:15:58,399 --> 00:16:02,240
+think they're one of the kids who can't
+
+466
+00:15:59,679 --> 00:16:04,719
+so there's no point in trying hard
+
+467
+00:16:02,240 --> 00:16:07,120
+because you're never going to get there
+
+468
+00:16:04,720 --> 00:16:10,399
+so if you can switch that
+
+469
+00:16:07,120 --> 00:16:13,120
+idea it would be huge and it seems from
+
+470
+00:16:10,399 --> 00:16:14,480
+what you've said that in the uh in the
+
+471
+00:16:13,120 --> 00:16:16,799
+soviet union
+
+472
+00:16:14,480 --> 00:16:18,879
+that idea is really different now the
+
+473
+00:16:16,799 --> 00:16:21,679
+downside of that idea that anybody can
+
+474
+00:16:18,879 --> 00:16:23,198
+get there if you work hard
+
+475
+00:16:21,679 --> 00:16:24,799
+is
+
+476
+00:16:23,198 --> 00:16:26,399
+that thought that if you're not getting
+
+477
+00:16:24,799 --> 00:16:28,719
+there it's your fault
+
+478
+00:16:26,399 --> 00:16:31,759
+and i i would add something into that i
+
+479
+00:16:28,720 --> 00:16:33,360
+would say that anybody can get there
+
+480
+00:16:31,759 --> 00:16:35,120
+but they they need to work hard and they
+
+481
+00:16:33,360 --> 00:16:37,360
+also need good teaching
+
+482
+00:16:35,120 --> 00:16:38,399
+because there are some people who really
+
+483
+00:16:37,360 --> 00:16:41,278
+can't get there because they're not
+
+484
+00:16:38,399 --> 00:16:42,159
+given access to that good teaching
+
+485
+00:16:41,278 --> 00:16:44,879
+so
+
+486
+00:16:42,159 --> 00:16:47,919
+but that would be huge that change as to
+
+487
+00:16:44,879 --> 00:16:50,320
+doing lots of maths if um
+
+488
+00:16:47,919 --> 00:16:52,240
+if maths was interesting and open and
+
+489
+00:16:50,320 --> 00:16:53,680
+creative and multi-dimensional i would
+
+490
+00:16:52,240 --> 00:16:55,519
+be all for it
+
+491
+00:16:53,679 --> 00:16:57,838
+we we actually run summer camps at
+
+492
+00:16:55,519 --> 00:17:00,639
+stanford where we invite kids in and we
+
+493
+00:16:57,839 --> 00:17:01,440
+give them this maths that i love
+
+494
+00:17:00,639 --> 00:17:03,360
+and
+
+495
+00:17:01,440 --> 00:17:05,279
+the in our camp classrooms they were
+
+496
+00:17:03,360 --> 00:17:06,318
+three hours long
+
+497
+00:17:05,279 --> 00:17:08,240
+and
+
+498
+00:17:06,318 --> 00:17:10,078
+when we were planning the teachers were
+
+499
+00:17:08,240 --> 00:17:12,400
+like three hours are we gonna be able to
+
+500
+00:17:10,078 --> 00:17:14,798
+keep the kids excited for three hours
+
+501
+00:17:12,400 --> 00:17:17,679
+turned out they didn't want to go to
+
+502
+00:17:14,798 --> 00:17:19,359
+break or lunch they'd be so into these
+
+503
+00:17:17,679 --> 00:17:22,240
+mathematical patterns
+
+504
+00:17:19,359 --> 00:17:24,318
+we couldn't stop them it was
+
+505
+00:17:22,240 --> 00:17:27,599
+amazing so yeah if maths was more like
+
+506
+00:17:24,318 --> 00:17:29,759
+that then i think having more of it
+
+507
+00:17:27,599 --> 00:17:31,279
+would be a really good thing so what uh
+
+508
+00:17:29,759 --> 00:17:34,640
+what age are you talking about is there
+
+509
+00:17:31,279 --> 00:17:38,160
+um could you comment on what age
+
+510
+00:17:34,640 --> 00:17:41,120
+is like the most important when people
+
+511
+00:17:38,160 --> 00:17:42,798
+quit math or give up on themselves or on
+
+512
+00:17:41,119 --> 00:17:45,038
+math in general
+
+513
+00:17:42,798 --> 00:17:46,720
+and perhaps that age or something
+
+514
+00:17:45,038 --> 00:17:48,640
+earlier is really
+
+515
+00:17:46,720 --> 00:17:50,480
+important moment for them to discover to
+
+516
+00:17:48,640 --> 00:17:51,360
+be inspired to discover the magic of
+
+517
+00:17:50,480 --> 00:17:53,200
+math
+
+518
+00:17:51,359 --> 00:17:55,119
+i think a lot of kids start to give up
+
+519
+00:17:53,200 --> 00:17:57,440
+on themselves and
+
+520
+00:17:55,119 --> 00:17:59,119
+maths around
+
+521
+00:17:57,440 --> 00:18:00,640
+from about fifth grade
+
+522
+00:17:59,119 --> 00:18:02,319
+and then those middle school years are
+
+523
+00:18:00,640 --> 00:18:04,480
+really important
+
+524
+00:18:02,319 --> 00:18:06,079
+and fifth grade can be pivotal for kids
+
+525
+00:18:04,480 --> 00:18:08,798
+just because
+
+526
+00:18:06,079 --> 00:18:10,480
+they're allowed to explore and
+
+527
+00:18:08,798 --> 00:18:12,160
+think in good ways
+
+528
+00:18:10,480 --> 00:18:13,440
+in the early grades of elementary school
+
+529
+00:18:12,160 --> 00:18:14,798
+but fifth grade teachers are often like
+
+530
+00:18:13,440 --> 00:18:16,400
+okay we're going to prepare you now for
+
+531
+00:18:14,798 --> 00:18:18,480
+middle school and we're going to give
+
+532
+00:18:16,400 --> 00:18:20,960
+you grades and lots of tests and that's
+
+533
+00:18:18,480 --> 00:18:23,200
+when kids start to
+
+534
+00:18:20,960 --> 00:18:25,440
+feel really badly about themselves and
+
+535
+00:18:23,200 --> 00:18:27,679
+so middle school years we our camps are
+
+536
+00:18:25,440 --> 00:18:30,240
+middle school students we think of those
+
+537
+00:18:27,679 --> 00:18:32,880
+years as really pivotal many kids in in
+
+538
+00:18:30,240 --> 00:18:35,519
+those years are deciding yes i'm gonna
+
+539
+00:18:32,880 --> 00:18:38,320
+keep going with stem subjects
+
+540
+00:18:35,519 --> 00:18:41,279
+or no i'm not that this isn't for me
+
+541
+00:18:38,319 --> 00:18:43,038
+so i mean all years are important and in
+
+542
+00:18:41,279 --> 00:18:44,558
+all years you can kind of switch kids
+
+543
+00:18:43,038 --> 00:18:46,240
+and get them
+
+544
+00:18:44,558 --> 00:18:48,319
+on a different pathway but i think those
+
+545
+00:18:46,240 --> 00:18:50,160
+middle school years are really important
+
+546
+00:18:48,319 --> 00:18:52,480
+so what's the role of the teacher in
+
+547
+00:18:50,160 --> 00:18:54,160
+this so one is the explanation of the
+
+548
+00:18:52,480 --> 00:18:55,599
+subject but
+
+549
+00:18:54,160 --> 00:18:58,240
+do you think teachers
+
+550
+00:18:55,599 --> 00:18:59,119
+should almost do like one-on-one
+
+551
+00:18:58,240 --> 00:19:01,440
+you know
+
+552
+00:18:59,119 --> 00:19:03,839
+little johnny i believe in you kind of
+
+553
+00:19:01,440 --> 00:19:05,519
+thing like yeah that energy of like
+
+554
+00:19:03,839 --> 00:19:07,839
+turns out it's really important there's
+
+555
+00:19:05,519 --> 00:19:10,319
+um a study that was done it was actually
+
+556
+00:19:07,839 --> 00:19:11,918
+done in high school english classrooms
+
+557
+00:19:10,319 --> 00:19:13,918
+where all kids
+
+558
+00:19:11,919 --> 00:19:16,080
+wrote an essay for their teacher
+
+559
+00:19:13,919 --> 00:19:18,160
+and this was done as an experiment
+
+560
+00:19:16,079 --> 00:19:20,159
+half of the kids got feedback from their
+
+561
+00:19:18,160 --> 00:19:22,160
+teacher diagnostic feedback which is
+
+562
+00:19:20,160 --> 00:19:24,080
+great but for half of the kids it said
+
+563
+00:19:22,160 --> 00:19:26,160
+an extra sentence at the bottom that the
+
+564
+00:19:24,079 --> 00:19:29,038
+researchers had put on
+
+565
+00:19:26,160 --> 00:19:31,600
+and the kids who read that extra
+
+566
+00:19:29,038 --> 00:19:34,079
+sentence did significantly better in
+
+567
+00:19:31,599 --> 00:19:35,199
+english a whole year later the only
+
+568
+00:19:34,079 --> 00:19:37,038
+change
+
+569
+00:19:35,200 --> 00:19:39,600
+was this one sentence what are the
+
+570
+00:19:37,038 --> 00:19:42,319
+sentences so what did the sentence say
+
+571
+00:19:39,599 --> 00:19:45,119
+the sentence said i'm giving you this
+
+572
+00:19:42,319 --> 00:19:47,359
+feedback because i believe in you
+
+573
+00:19:45,119 --> 00:19:49,439
+and the kids who read that did better a
+
+574
+00:19:47,359 --> 00:19:50,798
+year later yeah
+
+575
+00:19:49,440 --> 00:19:52,640
+so
+
+576
+00:19:50,798 --> 00:19:54,240
+when i share this with teachers i say
+
+577
+00:19:52,640 --> 00:19:56,400
+you know i'm not suggesting you put on
+
+578
+00:19:54,240 --> 00:19:58,319
+the bottom of all kids work and giving
+
+579
+00:19:56,400 --> 00:19:59,679
+this feedback i believe in you
+
+580
+00:19:58,319 --> 00:20:02,000
+one of the teachers said to me we don't
+
+581
+00:19:59,679 --> 00:20:05,120
+put it on a stamp i said no
+
+582
+00:20:02,000 --> 00:20:08,720
+don't put it on a stamp it's um
+
+583
+00:20:05,119 --> 00:20:10,719
+but your words are really important and
+
+584
+00:20:08,720 --> 00:20:12,400
+kids are sitting in classrooms all the
+
+585
+00:20:10,720 --> 00:20:14,159
+time thinking
+
+586
+00:20:12,400 --> 00:20:16,240
+what does my teacher think of me does my
+
+587
+00:20:14,159 --> 00:20:17,280
+teacher think i can do this
+
+588
+00:20:16,240 --> 00:20:19,440
+um
+
+589
+00:20:17,279 --> 00:20:21,279
+so it turns out it is really important
+
+590
+00:20:19,440 --> 00:20:22,558
+to be saying to kids i know you can do
+
+591
+00:20:21,279 --> 00:20:23,759
+this
+
+592
+00:20:22,558 --> 00:20:26,720
+and
+
+593
+00:20:23,759 --> 00:20:29,119
+those messages are not given enough by
+
+594
+00:20:26,720 --> 00:20:30,720
+teachers and really believe it and
+
+595
+00:20:29,119 --> 00:20:33,119
+believe it yeah it's like you can't just
+
+596
+00:20:30,720 --> 00:20:36,159
+say it you have to believe it i i
+
+597
+00:20:33,119 --> 00:20:36,158
+sometimes cause like
+
+598
+00:20:36,558 --> 00:20:40,558
+it's such a funny dance because i'm such
+
+599
+00:20:38,640 --> 00:20:42,480
+a perfectionist i'm extremely
+
+600
+00:20:40,558 --> 00:20:44,879
+self-critical and i have when students
+
+601
+00:20:42,480 --> 00:20:46,798
+come up to me and it's clear to me that
+
+602
+00:20:44,880 --> 00:20:49,520
+they're
+
+603
+00:20:46,798 --> 00:20:52,240
+not even close to good
+
+604
+00:20:49,519 --> 00:20:54,480
+and it's tempting for me to be like uh
+
+605
+00:20:52,240 --> 00:20:56,960
+to sort of give up on them mentally but
+
+606
+00:20:54,480 --> 00:20:58,960
+the reality is like if you look at many
+
+607
+00:20:56,960 --> 00:21:01,038
+great people throughout history
+
+608
+00:20:58,960 --> 00:21:03,038
+they sucked at some point yeah exactly
+
+609
+00:21:01,038 --> 00:21:05,200
+and and some of the greatest took
+
+610
+00:21:03,038 --> 00:21:09,119
+non-linear paths to where they sucked
+
+611
+00:21:05,200 --> 00:21:10,720
+for long into la into later life and so
+
+612
+00:21:09,119 --> 00:21:14,399
+always kind of believing that this
+
+613
+00:21:10,720 --> 00:21:16,159
+person uh can be great exactly
+
+614
+00:21:14,400 --> 00:21:17,840
+you have to communicate that plus the
+
+615
+00:21:16,159 --> 00:21:18,960
+fact that they have to work hard that's
+
+616
+00:21:17,839 --> 00:21:20,720
+it yeah
+
+617
+00:21:18,960 --> 00:21:22,880
+yeah and you're right silicon valley
+
+618
+00:21:20,720 --> 00:21:25,440
+where i live is filled with people who
+
+619
+00:21:22,880 --> 00:21:28,400
+are dropouts at school or who had
+
+620
+00:21:25,440 --> 00:21:30,558
+special needs who didn't succeed
+
+621
+00:21:28,400 --> 00:21:34,159
+um it's very interesting that have gone
+
+622
+00:21:30,558 --> 00:21:36,000
+on to do amazing work in creative ways
+
+623
+00:21:34,159 --> 00:21:37,679
+i mean i do think our school system is
+
+624
+00:21:36,000 --> 00:21:40,079
+set up to
+
+625
+00:21:37,679 --> 00:21:43,120
+um value
+
+626
+00:21:40,079 --> 00:21:44,720
+good memorizers who can reproduce what a
+
+627
+00:21:43,119 --> 00:21:47,918
+teacher is showing them
+
+628
+00:21:44,720 --> 00:21:49,200
+and push away those creative deep
+
+629
+00:21:47,919 --> 00:21:50,480
+thinkers
+
+630
+00:21:49,200 --> 00:21:52,558
+often
+
+631
+00:21:50,480 --> 00:21:55,120
+slower thinkers they think slowly and
+
+632
+00:21:52,558 --> 00:21:57,279
+deeply and they often get the idea early
+
+633
+00:21:55,119 --> 00:21:59,038
+on that they can't be good at maths or
+
+634
+00:21:57,279 --> 00:21:59,918
+other subjects
+
+635
+00:21:59,038 --> 00:22:02,400
+so
+
+636
+00:21:59,919 --> 00:22:05,120
+um yeah i think many of those people are
+
+637
+00:22:02,400 --> 00:22:06,798
+the ones who go on and do amazing things
+
+638
+00:22:05,119 --> 00:22:08,719
+so there's a guy
+
+639
+00:22:06,798 --> 00:22:11,119
+named eric weinstein i know many
+
+640
+00:22:08,720 --> 00:22:13,919
+mathematicians like this but he
+
+641
+00:22:11,119 --> 00:22:16,158
+he talks a lot about not having us
+
+642
+00:22:13,919 --> 00:22:17,600
+about having a non-standard way of
+
+643
+00:22:16,159 --> 00:22:19,679
+learning
+
+644
+00:22:17,599 --> 00:22:22,079
+i mean a lot of great mathematicians a
+
+645
+00:22:19,679 --> 00:22:24,880
+lot of great physicists are like that
+
+646
+00:22:22,079 --> 00:22:26,480
+and he felt like he became quickly he
+
+647
+00:22:24,880 --> 00:22:28,480
+got his phd at harvard
+
+648
+00:22:26,480 --> 00:22:29,679
+became quickly an outcast of the system
+
+649
+00:22:28,480 --> 00:22:31,839
+like the
+
+650
+00:22:29,679 --> 00:22:34,720
+the education especially early education
+
+651
+00:22:31,839 --> 00:22:36,079
+system didn't help them
+
+652
+00:22:34,720 --> 00:22:39,440
+is there
+
+653
+00:22:36,079 --> 00:22:41,119
+ways for an education system to support
+
+654
+00:22:39,440 --> 00:22:42,558
+people like that is it this kind of
+
+655
+00:22:41,119 --> 00:22:45,199
+multi-dimensional learning that you're
+
+656
+00:22:42,558 --> 00:22:47,918
+missing absolutely i mean i think our
+
+657
+00:22:45,200 --> 00:22:49,440
+education system still uses an approach
+
+658
+00:22:47,919 --> 00:22:50,240
+that was in classrooms hundreds of years
+
+659
+00:22:49,440 --> 00:22:51,919
+ago
+
+660
+00:22:50,240 --> 00:22:53,759
+the textbooks
+
+661
+00:22:51,919 --> 00:22:56,320
+have a lot to answer for
+
+662
+00:22:53,759 --> 00:22:57,679
+in producing this very uninspiring
+
+663
+00:22:56,319 --> 00:23:00,639
+mathematics
+
+664
+00:22:57,679 --> 00:23:02,480
+um but yeah if you open up the subject
+
+665
+00:23:00,640 --> 00:23:04,480
+and have people see and solve it in
+
+666
+00:23:02,480 --> 00:23:05,360
+different ways and value those different
+
+667
+00:23:04,480 --> 00:23:07,440
+ways
+
+668
+00:23:05,359 --> 00:23:09,918
+somebody i appreciate it a lot is a
+
+669
+00:23:07,440 --> 00:23:11,440
+mathematician called marion miz akani
+
+670
+00:23:09,919 --> 00:23:14,400
+you heard of her she
+
+671
+00:23:11,440 --> 00:23:15,840
+won the fields medal she was from iran
+
+672
+00:23:14,400 --> 00:23:18,000
+first woman in the world to win the
+
+673
+00:23:15,839 --> 00:23:21,199
+fields medal in mathematics she's she
+
+674
+00:23:18,000 --> 00:23:24,798
+died when she was 40 she was at stanford
+
+675
+00:23:21,200 --> 00:23:26,080
+but her work was entirely visual
+
+676
+00:23:24,798 --> 00:23:27,519
+and
+
+677
+00:23:26,079 --> 00:23:29,199
+she talked about how her daughter
+
+678
+00:23:27,519 --> 00:23:31,679
+thought she was an artist because she
+
+679
+00:23:29,200 --> 00:23:32,798
+was always visualizing and
+
+680
+00:23:31,679 --> 00:23:35,280
+i
+
+681
+00:23:32,798 --> 00:23:37,359
+attended she asked me to chair the phd
+
+682
+00:23:35,279 --> 00:23:39,599
+defense for one of her students
+
+683
+00:23:37,359 --> 00:23:41,439
+and i went to the defense in the math
+
+684
+00:23:39,599 --> 00:23:42,558
+department and it was so interesting
+
+685
+00:23:41,440 --> 00:23:45,360
+because
+
+686
+00:23:42,558 --> 00:23:47,759
+this young woman spent like two hours
+
+687
+00:23:45,359 --> 00:23:49,599
+sharing her work all of it was visual in
+
+688
+00:23:47,759 --> 00:23:51,839
+fact i don't think i saw any numbers at
+
+689
+00:23:49,599 --> 00:23:54,319
+all it's awesome and
+
+690
+00:23:51,839 --> 00:23:56,079
+i remember that day thinking wow i could
+
+691
+00:23:54,319 --> 00:23:57,519
+have brought her like 13 year old into
+
+692
+00:23:56,079 --> 00:24:00,240
+this phd defense they would not
+
+693
+00:23:57,519 --> 00:24:01,200
+recognize this as maths
+
+694
+00:24:00,240 --> 00:24:03,278
+but
+
+695
+00:24:01,200 --> 00:24:04,880
+when mary and ms kearney won the fields
+
+696
+00:24:03,278 --> 00:24:07,839
+medal all these other mathematicians
+
+697
+00:24:04,880 --> 00:24:09,840
+were saying that her work had connected
+
+698
+00:24:07,839 --> 00:24:11,199
+all these previously unconnected areas
+
+699
+00:24:09,839 --> 00:24:12,079
+of maths
+
+700
+00:24:11,200 --> 00:24:12,960
+and
+
+701
+00:24:12,079 --> 00:24:15,038
+so
+
+702
+00:24:12,960 --> 00:24:16,400
+but when she was she also shared that
+
+703
+00:24:15,038 --> 00:24:19,759
+when she was in school when she was
+
+704
+00:24:16,400 --> 00:24:20,960
+about 13 she was told that she couldn't
+
+705
+00:24:19,759 --> 00:24:22,960
+do maths
+
+706
+00:24:20,960 --> 00:24:25,200
+she was told that by her teacher is this
+
+707
+00:24:22,960 --> 00:24:26,000
+is iran
+
+708
+00:24:25,200 --> 00:24:28,000
+yeah
+
+709
+00:24:26,000 --> 00:24:29,759
+so i love that you know to be told you
+
+710
+00:24:28,000 --> 00:24:31,599
+can't be good at maths and then go on
+
+711
+00:24:29,759 --> 00:24:32,558
+and win the fields medal
+
+712
+00:24:31,599 --> 00:24:33,839
+is
+
+713
+00:24:32,558 --> 00:24:34,720
+cool
+
+714
+00:24:33,839 --> 00:24:35,839
+i've been
+
+715
+00:24:34,720 --> 00:24:37,360
+told
+
+716
+00:24:35,839 --> 00:24:39,038
+by a lot of people in my life that i
+
+717
+00:24:37,359 --> 00:24:40,558
+can't do something i'm very definitely
+
+718
+00:24:39,038 --> 00:24:43,119
+non-standard
+
+719
+00:24:40,558 --> 00:24:44,639
+um but all it takes is that's
+
+720
+00:24:43,119 --> 00:24:46,158
+that's why people talk about like the
+
+721
+00:24:44,640 --> 00:24:47,919
+one teacher that changed everything
+
+722
+00:24:46,159 --> 00:24:49,919
+exactly all it takes is one teacher
+
+723
+00:24:47,919 --> 00:24:52,080
+that's right that's that's the power of
+
+724
+00:24:49,919 --> 00:24:52,080
+that
+
+725
+00:24:52,960 --> 00:24:57,519
+so that that's like that should be
+
+726
+00:24:54,400 --> 00:24:59,120
+inspiring to teachers like i think it is
+
+727
+00:24:57,519 --> 00:25:00,960
+you as a single person given the
+
+728
+00:24:59,119 --> 00:25:03,199
+education system given the incentives
+
+729
+00:25:00,960 --> 00:25:05,038
+you have the power to truly change lives
+
+730
+00:25:03,200 --> 00:25:06,640
+in like 20 years from now that's right i
+
+731
+00:25:05,038 --> 00:25:09,359
+feel this medalist will walk up to you
+
+732
+00:25:06,640 --> 00:25:11,520
+and yeah thank you you did that for me
+
+733
+00:25:09,359 --> 00:25:15,519
+yeah absolutely and i share that with
+
+734
+00:25:11,519 --> 00:25:16,319
+teachers that even in this broken system
+
+735
+00:25:15,519 --> 00:25:18,000
+of
+
+736
+00:25:16,319 --> 00:25:19,759
+what they have to do for districts and
+
+737
+00:25:18,000 --> 00:25:22,240
+textbooks
+
+738
+00:25:19,759 --> 00:25:24,960
+a single teacher can change kids maths
+
+739
+00:25:22,240 --> 00:25:26,480
+relationship or other subjects and
+
+740
+00:25:24,960 --> 00:25:28,480
+forever
+
+741
+00:25:26,480 --> 00:25:29,440
+what's the role of the parents in this
+
+742
+00:25:28,480 --> 00:25:31,519
+picture
+
+743
+00:25:29,440 --> 00:25:34,080
+let's go to another difficult subject
+
+744
+00:25:31,519 --> 00:25:36,879
+yeah that is a difficult subject um
+
+745
+00:25:34,079 --> 00:25:38,480
+one study found that
+
+746
+00:25:36,880 --> 00:25:42,720
+um
+
+747
+00:25:38,480 --> 00:25:44,720
+the amount of maths anxiety parents had
+
+748
+00:25:42,720 --> 00:25:46,720
+predicted their child's achievement in
+
+749
+00:25:44,720 --> 00:25:48,240
+school
+
+750
+00:25:46,720 --> 00:25:51,360
+but
+
+751
+00:25:48,240 --> 00:25:53,519
+only if they helped with homework
+
+752
+00:25:51,359 --> 00:25:53,519
+so
+
+753
+00:25:54,960 --> 00:25:58,720
+that's so funny yeah
+
+754
+00:25:56,640 --> 00:26:00,480
+but there are some interesting
+
+755
+00:25:58,720 --> 00:26:02,400
+implications for this i mean you can see
+
+756
+00:26:00,480 --> 00:26:03,360
+how it works if you have maths anxiety
+
+757
+00:26:02,400 --> 00:26:05,278
+and you're helping your kids with
+
+758
+00:26:03,359 --> 00:26:06,399
+homework you're probably communicating
+
+759
+00:26:05,278 --> 00:26:09,038
+things like
+
+760
+00:26:06,400 --> 00:26:12,480
+i was terrible at this at school and
+
+761
+00:26:09,038 --> 00:26:13,519
+and that's how it gets passed on to kids
+
+762
+00:26:12,480 --> 00:26:15,839
+so
+
+763
+00:26:13,519 --> 00:26:17,200
+one implication is if you have a really
+
+764
+00:26:15,839 --> 00:26:20,399
+bad relationship with maths you hate
+
+765
+00:26:17,200 --> 00:26:22,840
+maths you have math anxiety just don't
+
+766
+00:26:20,400 --> 00:26:26,000
+don't do math say well with your kids
+
+767
+00:26:22,839 --> 00:26:27,199
+um but we have a on our website we have
+
+768
+00:26:26,000 --> 00:26:29,359
+a little
+
+769
+00:26:27,200 --> 00:26:31,440
+sheet for parents of
+
+770
+00:26:29,359 --> 00:26:32,558
+ways to interact around maths with your
+
+771
+00:26:31,440 --> 00:26:33,679
+kids
+
+772
+00:26:32,558 --> 00:26:35,399
+and
+
+773
+00:26:33,679 --> 00:26:39,200
+that's uh
+
+774
+00:26:35,400 --> 00:26:40,880
+youtube.org that's youtube.org yes
+
+775
+00:26:39,200 --> 00:26:43,278
+so one of the things i say to parents
+
+776
+00:26:40,880 --> 00:26:45,520
+when i give parent presentations is even
+
+777
+00:26:43,278 --> 00:26:48,400
+if you hate maths you need to just fake
+
+778
+00:26:45,519 --> 00:26:50,720
+it with your kids you should be always
+
+779
+00:26:48,400 --> 00:26:53,919
+endlessly optimistic and happy about
+
+780
+00:26:50,720 --> 00:26:56,000
+doing maths and um
+
+781
+00:26:53,919 --> 00:26:56,799
+i'm always curious about this so i you
+
+782
+00:26:56,000 --> 00:26:58,240
+know
+
+783
+00:26:56,798 --> 00:27:00,079
+i hope to have kids one day i don't have
+
+784
+00:26:58,240 --> 00:27:03,359
+kids currently
+
+785
+00:27:00,079 --> 00:27:05,119
+um are parents okay with like sucking at
+
+786
+00:27:03,359 --> 00:27:06,879
+math and then
+
+787
+00:27:05,119 --> 00:27:08,399
+trying to get their kid to be better
+
+788
+00:27:06,880 --> 00:27:10,159
+than them essentially like is that
+
+789
+00:27:08,400 --> 00:27:12,000
+difficult thing for a lot of parents it
+
+790
+00:27:10,159 --> 00:27:14,480
+is difficult to have like it's almost
+
+791
+00:27:12,000 --> 00:27:16,798
+like an ego thing like i never got
+
+792
+00:27:14,480 --> 00:27:18,399
+good at this and i probably should have
+
+793
+00:27:16,798 --> 00:27:20,000
+and
+
+794
+00:27:18,398 --> 00:27:22,239
+yeah i mean to me this you want to
+
+795
+00:27:20,000 --> 00:27:24,558
+celebrate that but i know a lot of
+
+796
+00:27:22,240 --> 00:27:25,839
+people struggle with that like coaches
+
+797
+00:27:24,558 --> 00:27:28,000
+in sports
+
+798
+00:27:25,839 --> 00:27:30,480
+to to make an athlete
+
+799
+00:27:28,000 --> 00:27:31,759
+become better than them it can be hard
+
+800
+00:27:30,480 --> 00:27:32,640
+on the ego
+
+801
+00:27:31,759 --> 00:27:34,398
+yeah
+
+802
+00:27:32,640 --> 00:27:36,880
+so is that do you experience the same
+
+803
+00:27:34,398 --> 00:27:38,398
+with parents too i think i mean i
+
+804
+00:27:36,880 --> 00:27:40,720
+haven't experienced parents worrying
+
+805
+00:27:38,398 --> 00:27:42,719
+that their kids will be better than them
+
+806
+00:27:40,720 --> 00:27:45,519
+i have experienced
+
+807
+00:27:42,720 --> 00:27:47,200
+i have experienced parents
+
+808
+00:27:45,519 --> 00:27:49,839
+just having a really bad relationship
+
+809
+00:27:47,200 --> 00:27:52,240
+with maths and yeah you know not wanting
+
+810
+00:27:49,839 --> 00:27:53,918
+to help not knowing how to help
+
+811
+00:27:52,240 --> 00:27:56,079
+saying things
+
+812
+00:27:53,919 --> 00:27:58,720
+like another study showed that when
+
+813
+00:27:56,079 --> 00:28:00,639
+mothers say to their daughters i was bad
+
+814
+00:27:58,720 --> 00:28:02,399
+at maths in school their daughter's
+
+815
+00:28:00,640 --> 00:28:04,080
+achievement goes down
+
+816
+00:28:02,398 --> 00:28:05,278
+so we know that kids pick up on these
+
+817
+00:28:04,079 --> 00:28:07,519
+messages
+
+818
+00:28:05,278 --> 00:28:09,839
+and um which is why i say you should
+
+819
+00:28:07,519 --> 00:28:11,119
+fake it but also i know that lots of
+
+820
+00:28:09,839 --> 00:28:13,439
+people have just had a really bad
+
+821
+00:28:11,119 --> 00:28:15,839
+relationship with maths even
+
+822
+00:28:13,440 --> 00:28:17,840
+successful people like the
+
+823
+00:28:15,839 --> 00:28:20,959
+undergrads i teach at stanford have
+
+824
+00:28:17,839 --> 00:28:24,079
+pretty much always done well in maths
+
+825
+00:28:20,960 --> 00:28:28,159
+but they come to stanford thinking maths
+
+826
+00:28:24,079 --> 00:28:29,678
+is a set of methods to memorize
+
+827
+00:28:28,159 --> 00:28:31,600
+and so
+
+828
+00:28:29,679 --> 00:28:34,320
+so do many parents believe that there's
+
+829
+00:28:31,599 --> 00:28:36,879
+one method that you memorize
+
+830
+00:28:34,319 --> 00:28:39,278
+and then you reproduce it
+
+831
+00:28:36,880 --> 00:28:41,120
+so until people have really had an
+
+832
+00:28:39,278 --> 00:28:43,359
+experience of what i think of as the
+
+833
+00:28:41,119 --> 00:28:44,479
+other maths where until they've really
+
+834
+00:28:43,359 --> 00:28:46,158
+seen that it's a really different
+
+835
+00:28:44,480 --> 00:28:48,399
+subject
+
+836
+00:28:46,159 --> 00:28:48,399
+um
+
+837
+00:28:48,558 --> 00:28:52,720
+it's hard for them to be able to shift
+
+838
+00:28:50,558 --> 00:28:54,960
+their kids to see it differently is
+
+839
+00:28:52,720 --> 00:28:58,000
+there for a teacher
+
+840
+00:28:54,960 --> 00:29:00,000
+if we were to like systematize it is
+
+841
+00:28:58,000 --> 00:29:02,720
+there something teachers can do to do
+
+842
+00:29:00,000 --> 00:29:05,359
+this more effectively so you must you
+
+843
+00:29:02,720 --> 00:29:07,440
+mentioned the textbook yeah so so what
+
+844
+00:29:05,359 --> 00:29:09,359
+what are the additional things you can
+
+845
+00:29:07,440 --> 00:29:12,080
+add on top of this whole
+
+846
+00:29:09,359 --> 00:29:14,719
+old school traditional way of teaching
+
+847
+00:29:12,079 --> 00:29:17,038
+that can improve the the process
+
+848
+00:29:14,720 --> 00:29:20,798
+so i do think there's a way of teaching
+
+849
+00:29:17,038 --> 00:29:23,919
+maths that changes everything for kids
+
+850
+00:29:20,798 --> 00:29:25,918
+and teachers so i'm one of five writers
+
+851
+00:29:23,919 --> 00:29:27,600
+of a new framework for the state of
+
+852
+00:29:25,919 --> 00:29:29,200
+california new maths framework it's
+
+853
+00:29:27,599 --> 00:29:31,278
+coming out next year
+
+854
+00:29:29,200 --> 00:29:32,960
+and we are recommending through this
+
+855
+00:29:31,278 --> 00:29:36,319
+maths framework that people teach in
+
+856
+00:29:32,960 --> 00:29:38,640
+this way it's called teaching to
+
+857
+00:29:36,319 --> 00:29:41,678
+big ideas
+
+858
+00:29:38,640 --> 00:29:43,520
+so um at the moment people have
+
+859
+00:29:41,679 --> 00:29:45,038
+standards that have been written and
+
+860
+00:29:43,519 --> 00:29:46,879
+then textbooks have taken these
+
+861
+00:29:45,038 --> 00:29:48,720
+standards and made
+
+862
+00:29:46,880 --> 00:29:50,640
+not very good questions
+
+863
+00:29:48,720 --> 00:29:52,960
+and if you look at the standards like i
+
+864
+00:29:50,640 --> 00:29:55,440
+have some written down here
+
+865
+00:29:52,960 --> 00:29:57,919
+just reading the standards it makes math
+
+866
+00:29:55,440 --> 00:29:59,759
+seem really boring and uninspiring what
+
+867
+00:29:57,919 --> 00:30:01,600
+what what are the kind of can you give a
+
+868
+00:29:59,759 --> 00:30:03,599
+few examples what so
+
+869
+00:30:01,599 --> 00:30:05,199
+this is an interesting example in third
+
+870
+00:30:03,599 --> 00:30:09,798
+grade there are three different
+
+871
+00:30:05,200 --> 00:30:09,798
+standards about unit squares
+
+872
+00:30:10,398 --> 00:30:15,439
+okay um so this is one of them a square
+
+873
+00:30:12,960 --> 00:30:17,919
+with side length one unit called a unit
+
+874
+00:30:15,440 --> 00:30:20,480
+square is said to have one square unit
+
+875
+00:30:17,919 --> 00:30:22,399
+of area and can be used to measure area
+
+876
+00:30:20,480 --> 00:30:23,360
+and that's something you're expected to
+
+877
+00:30:22,398 --> 00:30:24,798
+learn
+
+878
+00:30:23,359 --> 00:30:27,038
+that is something that so that's a
+
+879
+00:30:24,798 --> 00:30:28,480
+standard the textbook authors say oh i'm
+
+880
+00:30:27,038 --> 00:30:30,798
+going to make a question about that and
+
+881
+00:30:28,480 --> 00:30:32,000
+they translate the standards into narrow
+
+882
+00:30:30,798 --> 00:30:33,519
+questions
+
+883
+00:30:32,000 --> 00:30:36,880
+and then you measure success by your
+
+884
+00:30:33,519 --> 00:30:39,440
+ability to deliver on on these standards
+
+885
+00:30:36,880 --> 00:30:41,360
+so the standards themselves uh i think
+
+886
+00:30:39,440 --> 00:30:43,600
+of maths and many people think maths in
+
+887
+00:30:41,359 --> 00:30:46,240
+this way is a subject of like a few big
+
+888
+00:30:43,599 --> 00:30:47,839
+ideas and really important connections
+
+889
+00:30:46,240 --> 00:30:49,440
+between them
+
+890
+00:30:47,839 --> 00:30:52,558
+um so like you could think of it as like
+
+891
+00:30:49,440 --> 00:30:54,880
+a network map of ideas and connections
+
+892
+00:30:52,558 --> 00:30:57,119
+and what standards do is they take that
+
+893
+00:30:54,880 --> 00:30:58,880
+beautiful map and they chop it up like
+
+894
+00:30:57,119 --> 00:31:01,759
+this into lots of little pieces and they
+
+895
+00:30:58,880 --> 00:31:04,240
+deliver the pieces to schools and
+
+896
+00:31:01,759 --> 00:31:06,720
+so teachers don't see the connections
+
+897
+00:31:04,240 --> 00:31:08,319
+between ideas nor do the kids so anyway
+
+898
+00:31:06,720 --> 00:31:10,558
+this is a bit of a long way of saying
+
+899
+00:31:08,319 --> 00:31:11,839
+that what we've done in this new
+
+900
+00:31:10,558 --> 00:31:15,038
+initiative
+
+901
+00:31:11,839 --> 00:31:16,000
+is we have set out maths as a set of big
+
+902
+00:31:15,038 --> 00:31:18,158
+ideas
+
+903
+00:31:16,000 --> 00:31:19,359
+and connections between them so this is
+
+904
+00:31:18,159 --> 00:31:20,799
+a
+
+905
+00:31:19,359 --> 00:31:22,798
+grade three
+
+906
+00:31:20,798 --> 00:31:25,038
+so instead of there being
+
+907
+00:31:22,798 --> 00:31:26,240
+60 standards
+
+908
+00:31:25,038 --> 00:31:28,079
+we've said
+
+909
+00:31:26,240 --> 00:31:30,720
+well you can
+
+910
+00:31:28,079 --> 00:31:33,278
+pull these different standards to get in
+
+911
+00:31:30,720 --> 00:31:34,720
+with each other and
+
+912
+00:31:33,278 --> 00:31:37,919
+um
+
+913
+00:31:34,720 --> 00:31:39,360
+also value the ways these are connected
+
+914
+00:31:37,919 --> 00:31:41,519
+and by the way for people who are just
+
+915
+00:31:39,359 --> 00:31:44,240
+listening we're looking at a small
+
+916
+00:31:41,519 --> 00:31:45,440
+number of uh like big concepts within
+
+917
+00:31:44,240 --> 00:31:47,919
+mathematics
+
+918
+00:31:45,440 --> 00:31:48,960
+square towels measuring fraction shape
+
+919
+00:31:47,919 --> 00:31:51,600
+and time
+
+920
+00:31:48,960 --> 00:31:53,600
+and then how they're interconnected
+
+921
+00:31:51,599 --> 00:31:55,918
+and so the goal is for this is for grade
+
+922
+00:31:53,599 --> 00:31:58,158
+three for example yeah
+
+923
+00:31:55,919 --> 00:32:01,919
+and so we've set out for the state of
+
+924
+00:31:58,159 --> 00:32:05,120
+california the whole of mathematics k
+
+925
+00:32:01,919 --> 00:32:05,919
+10 as a set of big ideas and connections
+
+926
+00:32:05,119 --> 00:32:08,079
+so
+
+927
+00:32:05,919 --> 00:32:10,960
+we know that teachers it works really
+
+928
+00:32:08,079 --> 00:32:12,480
+well if they say okay so a big idea in
+
+929
+00:32:10,960 --> 00:32:13,278
+my grade
+
+930
+00:32:12,480 --> 00:32:15,440
+is
+
+931
+00:32:13,278 --> 00:32:18,159
+measuring
+
+932
+00:32:15,440 --> 00:32:20,720
+and instead of reading five procedural
+
+933
+00:32:18,159 --> 00:32:22,559
+statements that involve measuring
+
+934
+00:32:20,720 --> 00:32:25,839
+they think okay measuring is a big idea
+
+935
+00:32:22,558 --> 00:32:28,398
+what rich deep activity can i use that
+
+936
+00:32:25,839 --> 00:32:30,639
+teaches measuring to kids and as kids
+
+937
+00:32:28,398 --> 00:32:32,558
+work on these deep rich activities maybe
+
+938
+00:32:30,640 --> 00:32:35,840
+over a few days
+
+939
+00:32:32,558 --> 00:32:36,639
+turns out a lot of maths comes into it
+
+940
+00:32:35,839 --> 00:32:39,599
+so
+
+941
+00:32:36,640 --> 00:32:41,360
+we're recommending that let's not teach
+
+942
+00:32:39,599 --> 00:32:43,278
+maths according to all these multiple
+
+943
+00:32:41,359 --> 00:32:45,519
+multiple statements
+
+944
+00:32:43,278 --> 00:32:47,759
+and lots and lots of short questions
+
+945
+00:32:45,519 --> 00:32:49,599
+instead let's teach maths by thinking
+
+946
+00:32:47,759 --> 00:32:52,240
+about what are the big ideas and what
+
+947
+00:32:49,599 --> 00:32:54,719
+are really rich deep activities that
+
+948
+00:32:52,240 --> 00:32:57,440
+teach those big ideas so that's the like
+
+949
+00:32:54,720 --> 00:33:00,000
+how you teach it and maximize learning
+
+950
+00:32:57,440 --> 00:33:01,600
+what about like from a school district
+
+951
+00:33:00,000 --> 00:33:03,119
+perspective
+
+952
+00:33:01,599 --> 00:33:05,278
+like measuring
+
+953
+00:33:03,119 --> 00:33:07,119
+how well you're doing you know grades
+
+954
+00:33:05,278 --> 00:33:10,240
+and tests and stuff like that do you
+
+955
+00:33:07,119 --> 00:33:13,359
+throw those out or is there is not a fan
+
+956
+00:33:10,240 --> 00:33:14,640
+of grades and tests um myself
+
+957
+00:33:13,359 --> 00:33:17,519
+i think
+
+958
+00:33:14,640 --> 00:33:18,960
+grades are fine if they're used at the
+
+959
+00:33:17,519 --> 00:33:21,200
+end of a course
+
+960
+00:33:18,960 --> 00:33:23,120
+so at the end of my maths course i might
+
+961
+00:33:21,200 --> 00:33:24,640
+get a grade because a grade is meant to
+
+962
+00:33:23,119 --> 00:33:26,158
+be a summative measure it kind of
+
+963
+00:33:24,640 --> 00:33:28,480
+describes your
+
+964
+00:33:26,159 --> 00:33:30,720
+summit of achievement but the problem we
+
+965
+00:33:28,480 --> 00:33:33,360
+have in maths classrooms across the uh
+
+966
+00:33:30,720 --> 00:33:36,319
+the us is people use grades all the time
+
+967
+00:33:33,359 --> 00:33:38,158
+every week or every day even
+
+968
+00:33:36,319 --> 00:33:39,678
+my own kids when they went through high
+
+969
+00:33:38,159 --> 00:33:41,679
+school technology has not helped with
+
+970
+00:33:39,679 --> 00:33:43,440
+this when they went through high school
+
+971
+00:33:41,679 --> 00:33:45,840
+they knew they had been graded for
+
+972
+00:33:43,440 --> 00:33:47,759
+everything they did everything
+
+973
+00:33:45,839 --> 00:33:49,119
+and not only were they being graded for
+
+974
+00:33:47,759 --> 00:33:51,440
+everything but they could see it in the
+
+975
+00:33:49,119 --> 00:33:53,678
+grade book online and it would alter
+
+976
+00:33:51,440 --> 00:33:55,759
+every class they went into so
+
+977
+00:33:53,679 --> 00:33:58,000
+this is the ultimate what i think of as
+
+978
+00:33:55,759 --> 00:34:00,640
+a performance culture you're there to
+
+979
+00:33:58,000 --> 00:34:02,398
+perform somebody's measuring you you see
+
+980
+00:34:00,640 --> 00:34:03,600
+your score
+
+981
+00:34:02,398 --> 00:34:06,959
+um
+
+982
+00:34:03,599 --> 00:34:08,559
+so i think that's not conducive for
+
+983
+00:34:06,960 --> 00:34:10,639
+deep learning
+
+984
+00:34:08,559 --> 00:34:13,119
+and yes have a grade at the end of the
+
+985
+00:34:10,639 --> 00:34:16,240
+year but during the year you can assess
+
+986
+00:34:13,119 --> 00:34:17,358
+kids in much better ways like teachers
+
+987
+00:34:16,239 --> 00:34:19,199
+can
+
+988
+00:34:17,358 --> 00:34:20,878
+a great way of assessing kids is to give
+
+989
+00:34:19,199 --> 00:34:22,319
+them a rubric
+
+990
+00:34:20,878 --> 00:34:24,559
+that kind of outlines what they're
+
+991
+00:34:22,320 --> 00:34:25,760
+learning over the course of a unit or a
+
+992
+00:34:24,559 --> 00:34:28,239
+few weeks
+
+993
+00:34:25,760 --> 00:34:29,679
+so kids can actually see the journey
+
+994
+00:34:28,239 --> 00:34:31,118
+they're on like this is what we're doing
+
+995
+00:34:29,679 --> 00:34:33,280
+mathematically
+
+996
+00:34:31,119 --> 00:34:36,720
+sometimes they self-assess on those
+
+997
+00:34:33,280 --> 00:34:39,119
+units and then teachers
+
+998
+00:34:36,719 --> 00:34:41,519
+um will show where what they can what
+
+999
+00:34:39,119 --> 00:34:43,119
+the kids can do with a rubric and also
+
+1000
+00:34:41,519 --> 00:34:45,440
+write notes like you know in the next
+
+1001
+00:34:43,119 --> 00:34:46,879
+few weeks you might like to learn to do
+
+1002
+00:34:45,440 --> 00:34:49,519
+this so
+
+1003
+00:34:46,878 --> 00:34:51,679
+um so instead of kids just thinking
+
+1004
+00:34:49,519 --> 00:34:53,358
+about i'm an a kid or a b kid or i have
+
+1005
+00:34:51,679 --> 00:34:55,599
+this letter attached to me they're
+
+1006
+00:34:53,358 --> 00:34:56,878
+actually seeing mathematically what's
+
+1007
+00:34:55,599 --> 00:34:59,599
+important
+
+1008
+00:34:56,878 --> 00:35:02,239
+and they're involved in the process of
+
+1009
+00:34:59,599 --> 00:35:04,079
+knowing where they are mathematically
+
+1010
+00:35:02,239 --> 00:35:06,319
+at the end of the year sure they can
+
+1011
+00:35:04,079 --> 00:35:10,079
+have a grade but um during the year they
+
+1012
+00:35:06,320 --> 00:35:12,079
+get these much more informative measures
+
+1013
+00:35:10,079 --> 00:35:14,640
+i do think
+
+1014
+00:35:12,079 --> 00:35:16,400
+this this might be more for college
+
+1015
+00:35:14,639 --> 00:35:18,799
+but maybe not i
+
+1016
+00:35:16,400 --> 00:35:19,760
+some of the best classes i've had is
+
+1017
+00:35:18,800 --> 00:35:21,519
+when
+
+1018
+00:35:19,760 --> 00:35:23,680
+i got a special
+
+1019
+00:35:21,519 --> 00:35:25,920
+like set aside
+
+1020
+00:35:23,679 --> 00:35:27,919
+like the the professor
+
+1021
+00:35:25,920 --> 00:35:31,119
+clearly saw that i was interested in
+
+1022
+00:35:27,920 --> 00:35:34,639
+some aspect of a thing and then um i
+
+1023
+00:35:31,119 --> 00:35:36,960
+have a few in mind and one in particular
+
+1024
+00:35:34,639 --> 00:35:38,400
+but he said that um
+
+1025
+00:35:36,960 --> 00:35:40,159
+he kind of challenged me so this is
+
+1026
+00:35:38,400 --> 00:35:41,358
+outside of grades and all that that kind
+
+1027
+00:35:40,159 --> 00:35:43,118
+of stuff
+
+1028
+00:35:41,358 --> 00:35:44,960
+that
+
+1029
+00:35:43,119 --> 00:35:47,200
+basically it's like reverse psychology i
+
+1030
+00:35:44,960 --> 00:35:50,240
+don't i don't think this can be done
+
+1031
+00:35:47,199 --> 00:35:52,000
+and so i gave everything to do that
+
+1032
+00:35:50,239 --> 00:35:54,399
+particular thing so this was happened to
+
+1033
+00:35:52,000 --> 00:35:55,440
+be in an artificial intelligence class
+
+1034
+00:35:54,400 --> 00:35:57,838
+but
+
+1035
+00:35:55,440 --> 00:35:59,679
+i i think that like special treatment of
+
+1036
+00:35:57,838 --> 00:36:02,078
+taking students
+
+1037
+00:35:59,679 --> 00:36:03,919
+who are especially like excellent at a
+
+1038
+00:36:02,079 --> 00:36:06,079
+particular little aspect that you see
+
+1039
+00:36:03,920 --> 00:36:08,800
+their eyes light up
+
+1040
+00:36:06,079 --> 00:36:10,240
+i i often think like maybe it's tempting
+
+1041
+00:36:08,800 --> 00:36:12,320
+for a teacher to think you've already
+
+1042
+00:36:10,239 --> 00:36:14,239
+succeeded there but they're actually
+
+1043
+00:36:12,320 --> 00:36:16,400
+signaling to you that
+
+1044
+00:36:14,239 --> 00:36:19,279
+like you could really launch them on
+
+1045
+00:36:16,400 --> 00:36:21,039
+their way yeah um and
+
+1046
+00:36:19,280 --> 00:36:23,680
+i don't know that's too much to expect
+
+1047
+00:36:21,039 --> 00:36:24,960
+from teachers i think to to to
+
+1048
+00:36:23,679 --> 00:36:27,199
+pay attention to all of that because
+
+1049
+00:36:24,960 --> 00:36:29,920
+it's really difficult but i i just kind
+
+1050
+00:36:27,199 --> 00:36:32,319
+of remember who are the biggest
+
+1051
+00:36:29,920 --> 00:36:33,039
+the most important people in the history
+
+1052
+00:36:32,320 --> 00:36:35,359
+of
+
+1053
+00:36:33,039 --> 00:36:37,279
+my life of education and it's those
+
+1054
+00:36:35,358 --> 00:36:39,119
+people that who really
+
+1055
+00:36:37,280 --> 00:36:41,440
+didn't just like inspire me with their
+
+1056
+00:36:39,119 --> 00:36:43,200
+awesomeness which they did but also just
+
+1057
+00:36:41,440 --> 00:36:45,119
+they pushed me a little yeah like it
+
+1058
+00:36:43,199 --> 00:36:47,039
+gave me a little push
+
+1059
+00:36:45,119 --> 00:36:48,880
+and that requires focusing on the quote
+
+1060
+00:36:47,039 --> 00:36:51,679
+unquote excellent
+
+1061
+00:36:48,880 --> 00:36:54,160
+uh yes in the class yeah i think what's
+
+1062
+00:36:51,679 --> 00:36:56,319
+important though is teachers to have the
+
+1063
+00:36:54,159 --> 00:36:58,399
+perspective that they don't know who's
+
+1064
+00:36:56,320 --> 00:37:00,160
+going to be excellent at something
+
+1065
+00:36:58,400 --> 00:37:04,000
+before they give out the activity
+
+1066
+00:37:00,159 --> 00:37:05,679
+exactly and in our camp classes that we
+
+1067
+00:37:04,000 --> 00:37:08,639
+ran
+
+1068
+00:37:05,679 --> 00:37:10,319
+sometimes students would finish ahead of
+
+1069
+00:37:08,639 --> 00:37:12,480
+other students
+
+1070
+00:37:10,320 --> 00:37:14,240
+and we would say to them
+
+1071
+00:37:12,480 --> 00:37:16,159
+can you
+
+1072
+00:37:14,239 --> 00:37:17,519
+write a question that's like this but
+
+1073
+00:37:16,159 --> 00:37:18,960
+different
+
+1074
+00:37:17,519 --> 00:37:21,280
+um
+
+1075
+00:37:18,960 --> 00:37:24,639
+oh and and over time we encourage them
+
+1076
+00:37:21,280 --> 00:37:26,720
+to like extend things further
+
+1077
+00:37:24,639 --> 00:37:28,719
+i remember we were doing one activity
+
+1078
+00:37:26,719 --> 00:37:31,118
+where kids were working at the borders
+
+1079
+00:37:28,719 --> 00:37:33,439
+of a square and how big this border
+
+1080
+00:37:31,119 --> 00:37:35,440
+would be in different case sizes
+
+1081
+00:37:33,440 --> 00:37:37,358
+and one of the boys came up
+
+1082
+00:37:35,440 --> 00:37:38,639
+at the end of the class and said
+
+1083
+00:37:37,358 --> 00:37:40,319
+i've been thinking about how you'd do
+
+1084
+00:37:38,639 --> 00:37:42,799
+this with a pentagon
+
+1085
+00:37:40,320 --> 00:37:44,400
+and i said that's fantastic how do you
+
+1086
+00:37:42,800 --> 00:37:46,000
+how what does it look like with pentagon
+
+1087
+00:37:44,400 --> 00:37:47,200
+go you know find out see if you can
+
+1088
+00:37:46,000 --> 00:37:48,880
+discover
+
+1089
+00:37:47,199 --> 00:37:50,879
+so i didn't know he was going to come up
+
+1090
+00:37:48,880 --> 00:37:53,119
+and say that and
+
+1091
+00:37:50,880 --> 00:37:55,039
+i didn't have in my head like this is
+
+1092
+00:37:53,119 --> 00:37:56,800
+the kid who could have this extension
+
+1093
+00:37:55,039 --> 00:37:59,599
+task but
+
+1094
+00:37:56,800 --> 00:38:01,359
+you can still do that as a teacher
+
+1095
+00:37:59,599 --> 00:38:03,440
+when kids get excited about something or
+
+1096
+00:38:01,358 --> 00:38:06,000
+they're doing well in something have
+
+1097
+00:38:03,440 --> 00:38:08,400
+them extend it go further
+
+1098
+00:38:06,000 --> 00:38:09,280
+it's great and then you also like this
+
+1099
+00:38:08,400 --> 00:38:11,599
+is like
+
+1100
+00:38:09,280 --> 00:38:13,040
+teacher and coach
+
+1101
+00:38:11,599 --> 00:38:15,119
+you could say it in different ways to
+
+1102
+00:38:13,039 --> 00:38:17,039
+different students like for me the right
+
+1103
+00:38:15,119 --> 00:38:18,559
+thing to say is uh
+
+1104
+00:38:17,039 --> 00:38:20,400
+almost to say
+
+1105
+00:38:18,559 --> 00:38:22,559
+uh i don't think you could do this this
+
+1106
+00:38:20,400 --> 00:38:24,800
+is too hard like that's what i need to
+
+1107
+00:38:22,559 --> 00:38:26,880
+hear it's just like no i you know you
+
+1108
+00:38:24,800 --> 00:38:29,039
+there's an immediate push but with some
+
+1109
+00:38:26,880 --> 00:38:31,039
+people if they're a little bit more
+
+1110
+00:38:29,039 --> 00:38:33,119
+i mean it all has to do with upbringing
+
+1111
+00:38:31,039 --> 00:38:34,960
+how your genetics is
+
+1112
+00:38:33,119 --> 00:38:36,880
+they might be much more that might break
+
+1113
+00:38:34,960 --> 00:38:38,559
+them yeah that might break them so you
+
+1114
+00:38:36,880 --> 00:38:40,240
+have to be also sensitive to that i mean
+
+1115
+00:38:38,559 --> 00:38:43,279
+teaching is really difficult it's really
+
+1116
+00:38:40,239 --> 00:38:46,719
+difficult for this very reason it is
+
+1117
+00:38:43,280 --> 00:38:49,440
+so um what is the best way
+
+1118
+00:38:46,719 --> 00:38:51,519
+to teach math to learn math at those
+
+1119
+00:38:49,440 --> 00:38:53,679
+early few days when you just want to
+
+1120
+00:38:51,519 --> 00:38:55,599
+capture them
+
+1121
+00:38:53,679 --> 00:38:58,078
+i do something actually there's a video
+
+1122
+00:38:55,599 --> 00:39:01,599
+of me doing this on our website
+
+1123
+00:38:58,079 --> 00:39:03,119
+that i love when i first
+
+1124
+00:39:01,599 --> 00:39:05,280
+meet students
+
+1125
+00:39:03,119 --> 00:39:07,119
+and this is what i do i show
+
+1126
+00:39:05,280 --> 00:39:08,160
+them a picture this is the picture i
+
+1127
+00:39:07,119 --> 00:39:10,480
+show them
+
+1128
+00:39:08,159 --> 00:39:12,719
+and it's a picture of seven dots like
+
+1129
+00:39:10,480 --> 00:39:12,719
+this
+
+1130
+00:39:12,960 --> 00:39:16,639
+and i show it for just a few seconds and
+
+1131
+00:39:15,119 --> 00:39:18,160
+i say to them i'd like you to tell me
+
+1132
+00:39:16,639 --> 00:39:19,920
+how many dots there are but i don't need
+
+1133
+00:39:18,159 --> 00:39:22,879
+to count them i'm going to group the
+
+1134
+00:39:19,920 --> 00:39:25,358
+dots and i show it them and then i
+
+1135
+00:39:22,880 --> 00:39:27,440
+i i take it away before they've even had
+
+1136
+00:39:25,358 --> 00:39:29,759
+enough time to count them and then i
+
+1137
+00:39:27,440 --> 00:39:33,440
+asked them so how did you see it
+
+1138
+00:39:29,760 --> 00:39:34,880
+and i go around the room and
+
+1139
+00:39:33,440 --> 00:39:37,039
+amazingly enough
+
+1140
+00:39:34,880 --> 00:39:39,200
+there's probably 18 different ways of
+
+1141
+00:39:37,039 --> 00:39:41,599
+seeing these seven dots
+
+1142
+00:39:39,199 --> 00:39:43,199
+and so i asked people tell me how how
+
+1143
+00:39:41,599 --> 00:39:45,680
+you grouped it and some people see it as
+
+1144
+00:39:43,199 --> 00:39:47,919
+like an outside hole with a center dot
+
+1145
+00:39:45,679 --> 00:39:49,199
+some people see like stripes
+
+1146
+00:39:47,920 --> 00:39:51,680
+of lines
+
+1147
+00:39:49,199 --> 00:39:53,199
+some people see segments
+
+1148
+00:39:51,679 --> 00:39:54,799
+and i collect them all and i put them on
+
+1149
+00:39:53,199 --> 00:39:57,439
+the board and at the end i say look at
+
+1150
+00:39:54,800 --> 00:39:59,599
+this we are a class of 30 kids and we
+
+1151
+00:39:57,440 --> 00:40:01,280
+saw these seven dots in 18 different
+
+1152
+00:39:59,599 --> 00:40:03,838
+ways there's actually a mathematical
+
+1153
+00:40:01,280 --> 00:40:06,000
+term for this it's called groupitizing
+
+1154
+00:40:03,838 --> 00:40:08,318
+groupitizing yeah
+
+1155
+00:40:06,000 --> 00:40:10,639
+i like it it's kind of cool so
+
+1156
+00:40:08,318 --> 00:40:13,440
+turns out though that how well you
+
+1157
+00:40:10,639 --> 00:40:15,440
+groupitize predicts
+
+1158
+00:40:13,440 --> 00:40:18,400
+how well you do in maths
+
+1159
+00:40:15,440 --> 00:40:19,519
+is is it uh is it a raw talent or is it
+
+1160
+00:40:18,400 --> 00:40:21,200
+just something that you can develop i
+
+1161
+00:40:19,519 --> 00:40:23,440
+think it's i don't think you're born
+
+1162
+00:40:21,199 --> 00:40:25,279
+groupitizing i think but some kids have
+
+1163
+00:40:23,440 --> 00:40:27,920
+developed that
+
+1164
+00:40:25,280 --> 00:40:30,160
+um ability if you like and you can learn
+
+1165
+00:40:27,920 --> 00:40:33,599
+it you can so
+
+1166
+00:40:30,159 --> 00:40:35,759
+this to me is part of how wrong we have
+
+1167
+00:40:33,599 --> 00:40:36,960
+maths that we think to tell whether a
+
+1168
+00:40:35,760 --> 00:40:38,960
+kid's good at maths we're going to give
+
+1169
+00:40:36,960 --> 00:40:42,159
+them a speed test on
+
+1170
+00:40:38,960 --> 00:40:44,318
+fact on multiples but actually
+
+1171
+00:40:42,159 --> 00:40:47,039
+seeing how kids group dots could be a
+
+1172
+00:40:44,318 --> 00:40:48,960
+more important assessment of how well
+
+1173
+00:40:47,039 --> 00:40:51,358
+they're going to do maths anyway i
+
+1174
+00:40:48,960 --> 00:40:53,280
+diverge what i like to do though when i
+
+1175
+00:40:51,358 --> 00:40:54,559
+start off with kids is show them i'm
+
+1176
+00:40:53,280 --> 00:40:56,000
+going to give you math problems i'm
+
+1177
+00:40:54,559 --> 00:40:57,039
+going to value the different ways you
+
+1178
+00:40:56,000 --> 00:40:58,159
+see them
+
+1179
+00:40:57,039 --> 00:40:59,358
+and
+
+1180
+00:40:58,159 --> 00:41:01,039
+turns out you can do this kind of
+
+1181
+00:40:59,358 --> 00:41:03,920
+problem asking people how they group
+
+1182
+00:41:01,039 --> 00:41:06,639
+dots with young children or with
+
+1183
+00:41:03,920 --> 00:41:09,519
+graduate students and it's
+
+1184
+00:41:06,639 --> 00:41:11,838
+engaging for all of them
+
+1185
+00:41:09,519 --> 00:41:13,599
+is uh you talk about creativity a little
+
+1186
+00:41:11,838 --> 00:41:15,838
+bit and flexibility
+
+1187
+00:41:13,599 --> 00:41:17,920
+in your book limitless what's the role
+
+1188
+00:41:15,838 --> 00:41:19,039
+of that so it sounds like there's a bit
+
+1189
+00:41:17,920 --> 00:41:21,599
+of that
+
+1190
+00:41:19,039 --> 00:41:23,519
+kind of thing involved in
+
+1191
+00:41:21,599 --> 00:41:26,559
+grupotizing yeah
+
+1192
+00:41:23,519 --> 00:41:28,400
+yeah i love this term so what's what
+
+1193
+00:41:26,559 --> 00:41:30,559
+would you say is the role of creativity
+
+1194
+00:41:28,400 --> 00:41:33,920
+and flexibility in in the learning of
+
+1195
+00:41:30,559 --> 00:41:35,920
+math i think what we know now is that
+
+1196
+00:41:33,920 --> 00:41:38,960
+what we need for this
+
+1197
+00:41:35,920 --> 00:41:41,680
+21st century world we live in
+
+1198
+00:41:38,960 --> 00:41:43,519
+is a flexible mind
+
+1199
+00:41:41,679 --> 00:41:45,598
+it's school should not really be about
+
+1200
+00:41:43,519 --> 00:41:46,960
+teaching kids particular methods but
+
+1201
+00:41:45,599 --> 00:41:49,440
+teaching them to
+
+1202
+00:41:46,960 --> 00:41:51,280
+approach problems with flexibility
+
+1203
+00:41:49,440 --> 00:41:52,800
+being creative thinking creatively is
+
+1204
+00:41:51,280 --> 00:41:55,599
+really important
+
+1205
+00:41:52,800 --> 00:41:58,560
+so people don't think the words maths
+
+1206
+00:41:55,599 --> 00:42:00,480
+and creativity come together but i
+
+1207
+00:41:58,559 --> 00:42:02,799
+that's what i love about maths is the
+
+1208
+00:42:00,480 --> 00:42:06,000
+creative different ways you can see it
+
+1209
+00:42:02,800 --> 00:42:07,519
+and so helping our kids
+
+1210
+00:42:06,000 --> 00:42:10,880
+there's a book
+
+1211
+00:42:07,519 --> 00:42:12,079
+i like a lot but i've been by physicists
+
+1212
+00:42:10,880 --> 00:42:13,920
+you probably know this book could
+
+1213
+00:42:12,079 --> 00:42:15,680
+elastic
+
+1214
+00:42:13,920 --> 00:42:18,400
+you might know it um
+
+1215
+00:42:15,679 --> 00:42:20,159
+and it's about how we want elastic minds
+
+1216
+00:42:18,400 --> 00:42:21,440
+same kind of thing flexible creative
+
+1217
+00:42:20,159 --> 00:42:22,719
+minds
+
+1218
+00:42:21,440 --> 00:42:24,079
+and
+
+1219
+00:42:22,719 --> 00:42:26,159
+schools
+
+1220
+00:42:24,079 --> 00:42:28,318
+do very little on developing that kind
+
+1221
+00:42:26,159 --> 00:42:32,159
+of mind they do a lot
+
+1222
+00:42:28,318 --> 00:42:33,838
+of developing the kind of mind that a
+
+1223
+00:42:32,159 --> 00:42:35,199
+computer now
+
+1224
+00:42:33,838 --> 00:42:38,239
+does for us
+
+1225
+00:42:35,199 --> 00:42:40,399
+memorization memorization
+
+1226
+00:42:38,239 --> 00:42:42,799
+doing procedures
+
+1227
+00:42:40,400 --> 00:42:45,280
+a lot of things that we spend a lot of
+
+1228
+00:42:42,800 --> 00:42:47,519
+time in school on
+
+1229
+00:42:45,280 --> 00:42:49,519
+in the world when kids leave school a
+
+1230
+00:42:47,519 --> 00:42:50,480
+computer will do that
+
+1231
+00:42:49,519 --> 00:42:52,480
+and
+
+1232
+00:42:50,480 --> 00:42:54,719
+better than they will
+
+1233
+00:42:52,480 --> 00:42:55,760
+but that creative flexible thinking
+
+1234
+00:42:54,719 --> 00:42:57,598
+we're kind of
+
+1235
+00:42:55,760 --> 00:42:59,359
+ground zero at computers being able to
+
+1236
+00:42:57,599 --> 00:43:00,880
+engage in that thinking
+
+1237
+00:42:59,358 --> 00:43:05,199
+maybe we're a little above ground zero
+
+1238
+00:43:00,880 --> 00:43:07,119
+but um the human brain is perfectly
+
+1239
+00:43:05,199 --> 00:43:08,799
+suited for that creative flexible
+
+1240
+00:43:07,119 --> 00:43:09,838
+thinking that's what humans are so great
+
+1241
+00:43:08,800 --> 00:43:11,519
+at
+
+1242
+00:43:09,838 --> 00:43:13,440
+so i would like the balance to shift in
+
+1243
+00:43:11,519 --> 00:43:15,838
+schools maybe you still need to do some
+
+1244
+00:43:13,440 --> 00:43:17,599
+procedural kind of thinking but there
+
+1245
+00:43:15,838 --> 00:43:20,159
+should be a lot more of that creative
+
+1246
+00:43:17,599 --> 00:43:23,039
+flexible thinking
+
+1247
+00:43:20,159 --> 00:43:24,838
+and uh what's the role of other humans
+
+1248
+00:43:23,039 --> 00:43:26,480
+in this picture so
+
+1249
+00:43:24,838 --> 00:43:29,358
+collaborative
+
+1250
+00:43:26,480 --> 00:43:32,400
+yeah learning so brainstorming together
+
+1251
+00:43:29,358 --> 00:43:34,239
+so creativity as it emerges from
+
+1252
+00:43:32,400 --> 00:43:35,680
+the collective intelligence of multiple
+
+1253
+00:43:34,239 --> 00:43:37,199
+humans yeah
+
+1254
+00:43:35,679 --> 00:43:40,159
+super important and
+
+1255
+00:43:37,199 --> 00:43:42,960
+um we know that also helps develop your
+
+1256
+00:43:40,159 --> 00:43:45,039
+brain that social side of thinking and i
+
+1257
+00:43:42,960 --> 00:43:47,440
+love mathematics collaboration where
+
+1258
+00:43:45,039 --> 00:43:49,759
+people build on each other's ideas
+
+1259
+00:43:47,440 --> 00:43:52,079
+and they come up with amazing things i
+
+1260
+00:43:49,760 --> 00:43:56,079
+actually taught a hundred
+
+1261
+00:43:52,079 --> 00:43:57,760
+students calculus at stanford recently
+
+1262
+00:43:56,079 --> 00:43:59,920
+undergrads and
+
+1263
+00:43:57,760 --> 00:44:01,680
+we taught them to collaborate so these
+
+1264
+00:43:59,920 --> 00:44:04,000
+students came into stanford and most of
+
+1265
+00:44:01,679 --> 00:44:05,679
+them were against collaboration
+
+1266
+00:44:04,000 --> 00:44:08,000
+in maths this is before covered in
+
+1267
+00:44:05,679 --> 00:44:10,239
+person yeah it was just before covert
+
+1268
+00:44:08,000 --> 00:44:12,239
+hit it was 2019.
+
+1269
+00:44:10,239 --> 00:44:15,838
+and um
+
+1270
+00:44:12,239 --> 00:44:18,000
+you said they're against uh so yeah so
+
+1271
+00:44:15,838 --> 00:44:20,318
+it's really interesting so they'd only
+
+1272
+00:44:18,000 --> 00:44:22,159
+experience maths individually as in a
+
+1273
+00:44:20,318 --> 00:44:24,559
+kind of competitive individual way and
+
+1274
+00:44:22,159 --> 00:44:26,960
+if they had experienced it as group work
+
+1275
+00:44:24,559 --> 00:44:29,039
+it had been a bad experience like maybe
+
+1276
+00:44:26,960 --> 00:44:30,480
+they were the one who did it all and the
+
+1277
+00:44:29,039 --> 00:44:32,480
+others didn't
+
+1278
+00:44:30,480 --> 00:44:34,079
+do much so they were kind of against
+
+1279
+00:44:32,480 --> 00:44:36,480
+collaboration they didn't see any role
+
+1280
+00:44:34,079 --> 00:44:38,318
+for it in maths and we taught them to
+
+1281
+00:44:36,480 --> 00:44:40,880
+collaborate
+
+1282
+00:44:38,318 --> 00:44:42,480
+and it was hard work because
+
+1283
+00:44:40,880 --> 00:44:43,920
+as well as the fact that they were kind
+
+1284
+00:44:42,480 --> 00:44:45,440
+of against collaboration they came in
+
+1285
+00:44:43,920 --> 00:44:47,358
+with a lot of like
+
+1286
+00:44:45,440 --> 00:44:48,400
+social comparison
+
+1287
+00:44:47,358 --> 00:44:50,880
+thinking
+
+1288
+00:44:48,400 --> 00:44:53,440
+so i'm in this room with other stanford
+
+1289
+00:44:50,880 --> 00:44:54,960
+undergrads and they're better than me or
+
+1290
+00:44:53,440 --> 00:44:56,400
+so when we send them to work on a maths
+
+1291
+00:44:54,960 --> 00:44:58,400
+problem together the first one was kind
+
+1292
+00:44:56,400 --> 00:44:59,760
+of a disaster because they were all like
+
+1293
+00:44:58,400 --> 00:45:01,280
+they're better than me they're faster
+
+1294
+00:44:59,760 --> 00:45:02,560
+than me they came up with something i
+
+1295
+00:45:01,280 --> 00:45:04,720
+didn't come up with
+
+1296
+00:45:02,559 --> 00:45:06,880
+so we taught them
+
+1297
+00:45:04,719 --> 00:45:08,480
+to let go of that thinking and to work
+
+1298
+00:45:06,880 --> 00:45:10,640
+well together
+
+1299
+00:45:08,480 --> 00:45:12,480
+and one of the things we did we decided
+
+1300
+00:45:10,639 --> 00:45:14,400
+we wanted to do a pre and post test at
+
+1301
+00:45:12,480 --> 00:45:16,639
+the end of this teaching it was only
+
+1302
+00:45:14,400 --> 00:45:18,400
+four weeks long but we knew we didn't
+
+1303
+00:45:16,639 --> 00:45:20,960
+want to give them like a timed test of
+
+1304
+00:45:18,400 --> 00:45:22,400
+individual work so we gave them
+
+1305
+00:45:20,960 --> 00:45:23,519
+an applied problem to do at the
+
+1306
+00:45:22,400 --> 00:45:26,079
+beginning
+
+1307
+00:45:23,519 --> 00:45:27,358
+and we gave them to do in pairs together
+
+1308
+00:45:26,079 --> 00:45:30,000
+and we gave each of them a different
+
+1309
+00:45:27,358 --> 00:45:32,000
+colored pen and said work on this
+
+1310
+00:45:30,000 --> 00:45:32,880
+activity together and keep using that
+
+1311
+00:45:32,000 --> 00:45:34,639
+pen
+
+1312
+00:45:32,880 --> 00:45:36,720
+so then we had all these pieces of
+
+1313
+00:45:34,639 --> 00:45:39,679
+student work and what we saw was they
+
+1314
+00:45:36,719 --> 00:45:41,919
+just were on separate parts of the paper
+
+1315
+00:45:39,679 --> 00:45:43,598
+uh so this little like red pen section
+
+1316
+00:45:41,920 --> 00:45:45,838
+and a green pen section
+
+1317
+00:45:43,599 --> 00:45:47,599
+and they didn't do that well on it
+
+1318
+00:45:45,838 --> 00:45:49,358
+even though it was a
+
+1319
+00:45:47,599 --> 00:45:50,400
+problem that middle or high school kids
+
+1320
+00:45:49,358 --> 00:45:52,559
+could do but it was like a
+
+1321
+00:45:50,400 --> 00:45:54,318
+problem-solving kind of problem
+
+1322
+00:45:52,559 --> 00:45:56,318
+and then we gave them the same one to do
+
+1323
+00:45:54,318 --> 00:45:58,000
+at the end gave them the same colors and
+
+1324
+00:45:56,318 --> 00:46:00,239
+it actually they had learned to
+
+1325
+00:45:58,000 --> 00:46:02,159
+collaborate and not only were they
+
+1326
+00:46:00,239 --> 00:46:04,159
+collaborating the second time around but
+
+1327
+00:46:02,159 --> 00:46:06,480
+that boosted their achievement and the
+
+1328
+00:46:04,159 --> 00:46:07,759
+ones who collaborated did better on the
+
+1329
+00:46:06,480 --> 00:46:10,079
+problem
+
+1330
+00:46:07,760 --> 00:46:11,920
+collaboration is important having people
+
+1331
+00:46:10,079 --> 00:46:14,079
+and what was so eye-opening for these
+
+1332
+00:46:11,920 --> 00:46:16,318
+undergrads and they talked about it in
+
+1333
+00:46:14,079 --> 00:46:18,480
+lovely ways was
+
+1334
+00:46:16,318 --> 00:46:20,719
+i learned to value other people's
+
+1335
+00:46:18,480 --> 00:46:22,719
+thinking on a problem and i learned to
+
+1336
+00:46:20,719 --> 00:46:24,239
+value that other people saw it in
+
+1337
+00:46:22,719 --> 00:46:25,519
+different ways
+
+1338
+00:46:24,239 --> 00:46:27,519
+and
+
+1339
+00:46:25,519 --> 00:46:29,358
+it was quite a
+
+1340
+00:46:27,519 --> 00:46:31,679
+big experience for them
+
+1341
+00:46:29,358 --> 00:46:33,759
+that they came out thinking you know i
+
+1342
+00:46:31,679 --> 00:46:35,440
+can do maths with other people people
+
+1343
+00:46:33,760 --> 00:46:36,960
+can see it differently we can build on
+
+1344
+00:46:35,440 --> 00:46:39,440
+each other's way
+
+1345
+00:46:36,960 --> 00:46:40,559
+ways of thinking i got a chance to i
+
+1346
+00:46:39,440 --> 00:46:41,838
+don't know if you know who daniel
+
+1347
+00:46:40,559 --> 00:46:44,000
+kahneman has
+
+1348
+00:46:41,838 --> 00:46:46,480
+got a chance to interact with him
+
+1349
+00:46:44,000 --> 00:46:47,679
+and like the first because he had
+
+1350
+00:46:46,480 --> 00:46:50,000
+a few but
+
+1351
+00:46:47,679 --> 00:46:51,039
+one famous collaboration throughout his
+
+1352
+00:46:50,000 --> 00:46:54,400
+life
+
+1353
+00:46:51,039 --> 00:46:55,599
+uh with taversky and
+
+1354
+00:46:54,400 --> 00:46:57,920
+just like
+
+1355
+00:46:55,599 --> 00:47:00,480
+you know he hasn't met me before uh in
+
+1356
+00:46:57,920 --> 00:47:03,039
+person but just the number of questions
+
+1357
+00:47:00,480 --> 00:47:05,440
+he was asking just the curiosity
+
+1358
+00:47:03,039 --> 00:47:07,838
+so i think one of the skills
+
+1359
+00:47:05,440 --> 00:47:10,318
+the collaboration itself is a skill
+
+1360
+00:47:07,838 --> 00:47:12,480
+and i remember my experience with him
+
+1361
+00:47:10,318 --> 00:47:14,000
+was like okay i get why you're so good
+
+1362
+00:47:12,480 --> 00:47:16,400
+at collaboration
+
+1363
+00:47:14,000 --> 00:47:18,880
+because he was just extremely good at
+
+1364
+00:47:16,400 --> 00:47:21,358
+listening and genuine
+
+1365
+00:47:18,880 --> 00:47:23,358
+curiosity about how the other person
+
+1366
+00:47:21,358 --> 00:47:25,838
+thinks about the world sees the world
+
+1367
+00:47:23,358 --> 00:47:27,440
+and then together he's he pulled me in
+
+1368
+00:47:25,838 --> 00:47:29,599
+in that particular case
+
+1369
+00:47:27,440 --> 00:47:31,440
+he doesn't know in particular like that
+
+1370
+00:47:29,599 --> 00:47:32,720
+much about autonomous vehicles but he
+
+1371
+00:47:31,440 --> 00:47:35,440
+kept like
+
+1372
+00:47:32,719 --> 00:47:37,279
+asking all these questions and then like
+
+1373
+00:47:35,440 --> 00:47:39,838
+10 minutes in we're together trying to
+
+1374
+00:47:37,280 --> 00:47:41,599
+solve the problem of autonomous driving
+
+1375
+00:47:39,838 --> 00:47:43,119
+and like and that
+
+1376
+00:47:41,599 --> 00:47:45,280
+i mean that's really fulfilling that's
+
+1377
+00:47:43,119 --> 00:47:47,280
+really enriching but it also in that
+
+1378
+00:47:45,280 --> 00:47:48,960
+moment made me realize it's kind of a
+
+1379
+00:47:47,280 --> 00:47:51,599
+skill because you have to kind of put
+
+1380
+00:47:48,960 --> 00:47:54,000
+your ego aside yep put your view of the
+
+1381
+00:47:51,599 --> 00:47:55,680
+world aside and try to learn how the
+
+1382
+00:47:54,000 --> 00:47:57,039
+other person right
+
+1383
+00:47:55,679 --> 00:48:00,558
+and the other thing you have to put
+
+1384
+00:47:57,039 --> 00:48:01,838
+aside is this social comparison thinking
+
+1385
+00:48:00,559 --> 00:48:03,839
+like if you
+
+1386
+00:48:01,838 --> 00:48:05,759
+are sitting there thinking wow that was
+
+1387
+00:48:03,838 --> 00:48:09,119
+an amazing idea he's so much better than
+
+1388
+00:48:05,760 --> 00:48:12,079
+i am that's really gonna stop you
+
+1389
+00:48:09,119 --> 00:48:14,160
+taking on the value of that idea
+
+1390
+00:48:12,079 --> 00:48:15,680
+and so there's a lot of that going on
+
+1391
+00:48:14,159 --> 00:48:17,358
+between these stanford students when
+
+1392
+00:48:15,679 --> 00:48:18,838
+they came
+
+1393
+00:48:17,358 --> 00:48:20,960
+and
+
+1394
+00:48:18,838 --> 00:48:21,759
+yeah but trying to help them let go of
+
+1395
+00:48:20,960 --> 00:48:24,240
+that
+
+1396
+00:48:21,760 --> 00:48:25,920
+one of the things i've discovered
+
+1397
+00:48:24,239 --> 00:48:27,358
+just because being a little bit more in
+
+1398
+00:48:25,920 --> 00:48:30,639
+the public eye
+
+1399
+00:48:27,358 --> 00:48:33,679
+how rewarding it is to celebrate others
+
+1400
+00:48:30,639 --> 00:48:36,000
+yeah and how much is going to actually
+
+1401
+00:48:33,679 --> 00:48:38,639
+pay off in the long term yeah so this
+
+1402
+00:48:36,000 --> 00:48:41,119
+kind of silo thinking of like i want to
+
+1403
+00:48:38,639 --> 00:48:43,118
+prove to a small set of people around me
+
+1404
+00:48:41,119 --> 00:48:44,000
+that i'm really smart
+
+1405
+00:48:43,119 --> 00:48:45,200
+and
+
+1406
+00:48:44,000 --> 00:48:47,920
+do so
+
+1407
+00:48:45,199 --> 00:48:49,598
+by basically not celebrating how smart
+
+1408
+00:48:47,920 --> 00:48:51,440
+the other people are that's actually
+
+1409
+00:48:49,599 --> 00:48:53,359
+maybe short term
+
+1410
+00:48:51,440 --> 00:48:55,200
+it seems like a good strategy but long
+
+1411
+00:48:53,358 --> 00:48:56,719
+term it's not and i think if you
+
+1412
+00:48:55,199 --> 00:48:58,879
+practice at the student level and then
+
+1413
+00:48:56,719 --> 00:49:00,959
+at the career la at every single stage i
+
+1414
+00:48:58,880 --> 00:49:02,318
+think that's ultimately i i agree with
+
+1415
+00:49:00,960 --> 00:49:04,318
+you i think that's a really good way of
+
+1416
+00:49:02,318 --> 00:49:07,199
+thinking about it
+
+1417
+00:49:04,318 --> 00:49:08,960
+you mentioned textbooks you said and you
+
+1418
+00:49:07,199 --> 00:49:10,159
+didn't say it
+
+1419
+00:49:08,960 --> 00:49:11,199
+you know
+
+1420
+00:49:10,159 --> 00:49:13,838
+um
+
+1421
+00:49:11,199 --> 00:49:16,879
+maybe textbooks isn't the perfect way to
+
+1422
+00:49:13,838 --> 00:49:18,558
+teach mathematics but i i love textbooks
+
+1423
+00:49:16,880 --> 00:49:20,160
+there's they're like pretty pictures and
+
+1424
+00:49:18,559 --> 00:49:22,160
+they smell nice and they open i mean i
+
+1425
+00:49:20,159 --> 00:49:24,078
+talk about like physical some of my
+
+1426
+00:49:22,159 --> 00:49:24,799
+greatest experiences have been just like
+
+1427
+00:49:24,079 --> 00:49:27,200
+oh
+
+1428
+00:49:24,800 --> 00:49:29,440
+like because they're really well done
+
+1429
+00:49:27,199 --> 00:49:30,480
+when we're talking about basic like high
+
+1430
+00:49:29,440 --> 00:49:32,639
+school
+
+1431
+00:49:30,480 --> 00:49:35,039
+calculus
+
+1432
+00:49:32,639 --> 00:49:36,719
+biology chemistry those are like those
+
+1433
+00:49:35,039 --> 00:49:39,199
+are incredible
+
+1434
+00:49:36,719 --> 00:49:41,039
+it's like wikipedia but with color and
+
+1435
+00:49:39,199 --> 00:49:42,960
+and nice little you must have seen some
+
+1436
+00:49:41,039 --> 00:49:44,558
+good textbooks if they had pretty
+
+1437
+00:49:42,960 --> 00:49:46,880
+pictures in color
+
+1438
+00:49:44,559 --> 00:49:49,040
+yeah i mean i remember i guess it was
+
+1439
+00:49:46,880 --> 00:49:50,160
+very very standard
+
+1440
+00:49:49,039 --> 00:49:53,599
+like ap
+
+1441
+00:49:50,159 --> 00:49:55,199
+ap calculus ap biology ap chemistry i
+
+1442
+00:49:53,599 --> 00:49:57,039
+felt those are like some of the happiest
+
+1443
+00:49:55,199 --> 00:49:59,358
+days of my life in terms of learning was
+
+1444
+00:49:57,039 --> 00:50:01,920
+high school because it was it's very
+
+1445
+00:49:59,358 --> 00:50:03,920
+easy honestly
+
+1446
+00:50:01,920 --> 00:50:05,920
+it felt hard at the time but you're
+
+1447
+00:50:03,920 --> 00:50:09,039
+basically doing a um
+
+1448
+00:50:05,920 --> 00:50:11,680
+whirlwind tour of all of science yeah
+
+1449
+00:50:09,039 --> 00:50:13,920
+yeah without having to pick you do
+
+1450
+00:50:11,679 --> 00:50:17,598
+literature you do like shakespeare your
+
+1451
+00:50:13,920 --> 00:50:20,240
+calculus biology physics
+
+1452
+00:50:17,599 --> 00:50:22,000
+chemistry what else anatomy
+
+1453
+00:50:20,239 --> 00:50:24,639
+physiology
+
+1454
+00:50:22,000 --> 00:50:26,639
+computer science without like nobody's
+
+1455
+00:50:24,639 --> 00:50:28,000
+telling you what to do with your life
+
+1456
+00:50:26,639 --> 00:50:29,920
+you're just doing all those things
+
+1457
+00:50:28,000 --> 00:50:32,318
+that's a good thing you're right but i
+
+1458
+00:50:29,920 --> 00:50:33,280
+remember the textbooks weren't
+
+1459
+00:50:32,318 --> 00:50:35,519
+i mean
+
+1460
+00:50:33,280 --> 00:50:37,280
+maybe i'm romanticizing the past but i
+
+1461
+00:50:35,519 --> 00:50:38,159
+remember they weren't they're pretty
+
+1462
+00:50:37,280 --> 00:50:40,079
+good
+
+1463
+00:50:38,159 --> 00:50:41,920
+um but so you think what role do you
+
+1464
+00:50:40,079 --> 00:50:44,400
+think they play still
+
+1465
+00:50:41,920 --> 00:50:47,039
+and like in this more modern
+
+1466
+00:50:44,400 --> 00:50:48,800
+digital age what what's the best
+
+1467
+00:50:47,039 --> 00:50:51,358
+materials with which to do these kinds
+
+1468
+00:50:48,800 --> 00:50:52,880
+of educations well i'm intrigued that
+
+1469
+00:50:51,358 --> 00:50:54,960
+you have such a good experience with
+
+1470
+00:50:52,880 --> 00:50:57,039
+textbooks i mean i can
+
+1471
+00:50:54,960 --> 00:50:59,519
+remember loving some textbooks i had
+
+1472
+00:50:57,039 --> 00:51:01,838
+when i was learning and i love books i
+
+1473
+00:50:59,519 --> 00:51:03,039
+love to pick up books and look through
+
+1474
+00:51:01,838 --> 00:51:04,880
+them
+
+1475
+00:51:03,039 --> 00:51:07,519
+but
+
+1476
+00:51:04,880 --> 00:51:09,760
+a lot of maths textbooks are not good
+
+1477
+00:51:07,519 --> 00:51:10,800
+experiences for kids they
+
+1478
+00:51:09,760 --> 00:51:12,960
+um
+
+1479
+00:51:10,800 --> 00:51:14,559
+we have a video on our website of the
+
+1480
+00:51:12,960 --> 00:51:16,480
+kids who came to our camp and one of the
+
+1481
+00:51:14,559 --> 00:51:18,720
+students says
+
+1482
+00:51:16,480 --> 00:51:20,639
+in maths you have to follow the textbook
+
+1483
+00:51:18,719 --> 00:51:22,399
+the textbooks kind of like the bible you
+
+1484
+00:51:20,639 --> 00:51:23,358
+have to follow it
+
+1485
+00:51:22,400 --> 00:51:24,720
+and
+
+1486
+00:51:23,358 --> 00:51:26,558
+every day
+
+1487
+00:51:24,719 --> 00:51:28,719
+it's slightly different like on monday
+
+1488
+00:51:26,559 --> 00:51:31,359
+you do 2.3.2
+
+1489
+00:51:28,719 --> 00:51:32,480
+and on tuesday you do 2.3.3 and on
+
+1490
+00:51:31,358 --> 00:51:33,440
+wednesday
+
+1491
+00:51:32,480 --> 00:51:36,000
+and
+
+1492
+00:51:33,440 --> 00:51:37,838
+you never go off that that's like every
+
+1493
+00:51:36,000 --> 00:51:39,039
+single day
+
+1494
+00:51:37,838 --> 00:51:41,358
+and
+
+1495
+00:51:39,039 --> 00:51:43,599
+that's not inspiring for
+
+1496
+00:51:41,358 --> 00:51:45,039
+a lot of the kids
+
+1497
+00:51:43,599 --> 00:51:46,160
+so one of the things they loved about
+
+1498
+00:51:45,039 --> 00:51:48,960
+our camp was just that there were no
+
+1499
+00:51:46,159 --> 00:51:50,639
+books even though we gave them
+
+1500
+00:51:48,960 --> 00:51:53,199
+sheets of paper instead
+
+1501
+00:51:50,639 --> 00:51:55,118
+they still felt more free
+
+1502
+00:51:53,199 --> 00:51:58,078
+because they weren't just like trotting
+
+1503
+00:51:55,119 --> 00:52:01,440
+through exercises exercises
+
+1504
+00:51:58,079 --> 00:52:03,440
+so um like what a textbook allows you is
+
+1505
+00:52:01,440 --> 00:52:05,920
+like you're
+
+1506
+00:52:03,440 --> 00:52:08,318
+the the very thing you said they might
+
+1507
+00:52:05,920 --> 00:52:10,159
+not like the two point yeah point three
+
+1508
+00:52:08,318 --> 00:52:11,920
+two point if you feels like you're
+
+1509
+00:52:10,159 --> 00:52:14,799
+making progress and like it's little
+
+1510
+00:52:11,920 --> 00:52:16,480
+celebrations because you do the problem
+
+1511
+00:52:14,800 --> 00:52:18,400
+and it seems really hard and you don't
+
+1512
+00:52:16,480 --> 00:52:20,800
+know how to do it and then you
+
+1513
+00:52:18,400 --> 00:52:22,639
+try and try and then eventually succeed
+
+1514
+00:52:20,800 --> 00:52:25,200
+then you make that little step and yeah
+
+1515
+00:52:22,639 --> 00:52:27,118
+further progress and then you get to the
+
+1516
+00:52:25,199 --> 00:52:28,799
+end of a chapter and you get to like
+
+1517
+00:52:27,119 --> 00:52:30,160
+it's closure you're like yeah all right
+
+1518
+00:52:28,800 --> 00:52:32,240
+i got that figured out and then you go
+
+1519
+00:52:30,159 --> 00:52:33,519
+on to the next chapter i can see that i
+
+1520
+00:52:32,239 --> 00:52:36,558
+mean i think
+
+1521
+00:52:33,519 --> 00:52:38,880
+it could be in a textbook you can have
+
+1522
+00:52:36,559 --> 00:52:40,800
+a good experience with a textbook
+
+1523
+00:52:38,880 --> 00:52:43,119
+but it what's really important is what
+
+1524
+00:52:40,800 --> 00:52:46,640
+is what is in that textbook
+
+1525
+00:52:43,119 --> 00:52:49,358
+what are you doing inside it and i mean
+
+1526
+00:52:46,639 --> 00:52:51,440
+i grew up in england and in england we
+
+1527
+00:52:49,358 --> 00:52:54,318
+learn maths we don't have this
+
+1528
+00:52:51,440 --> 00:52:56,000
+separation of algebra and geometry
+
+1529
+00:52:54,318 --> 00:52:58,159
+and i don't think any other country
+
+1530
+00:52:56,000 --> 00:52:59,119
+apart from the us has that
+
+1531
+00:52:58,159 --> 00:53:01,279
+but
+
+1532
+00:52:59,119 --> 00:53:02,960
+i look at kids in algebra classes where
+
+1533
+00:53:01,280 --> 00:53:05,119
+they're doing algebra for a year and i
+
+1534
+00:53:02,960 --> 00:53:07,440
+think i would have been pretty bored
+
+1535
+00:53:05,119 --> 00:53:08,318
+doing that
+
+1536
+00:53:07,440 --> 00:53:11,039
+um
+
+1537
+00:53:08,318 --> 00:53:13,358
+by the way can we can we analyze your
+
+1538
+00:53:11,039 --> 00:53:14,480
+upbringing real quick um
+
+1539
+00:53:13,358 --> 00:53:17,440
+why
+
+1540
+00:53:14,480 --> 00:53:19,920
+do british folks call
+
+1541
+00:53:17,440 --> 00:53:22,079
+mathematics maths
+
+1542
+00:53:19,920 --> 00:53:23,358
+why is it the plural is it is it because
+
+1543
+00:53:22,079 --> 00:53:26,480
+of everything you're saying where it's a
+
+1544
+00:53:23,358 --> 00:53:29,759
+bunch of sub-disciplines yeah i mean
+
+1545
+00:53:26,480 --> 00:53:30,639
+mathematics is sure is supposed to be
+
+1546
+00:53:29,760 --> 00:53:31,680
+the
+
+1547
+00:53:30,639 --> 00:53:33,920
+uh
+
+1548
+00:53:31,679 --> 00:53:35,039
+the map the different maths that you
+
+1549
+00:53:33,920 --> 00:53:38,079
+look at
+
+1550
+00:53:35,039 --> 00:53:40,800
+whether you think of that as topics like
+
+1551
+00:53:38,079 --> 00:53:41,760
+geometry and probability or
+
+1552
+00:53:40,800 --> 00:53:43,599
+or
+
+1553
+00:53:41,760 --> 00:53:45,440
+i think of it as
+
+1554
+00:53:43,599 --> 00:53:46,720
+maths is just multi-dimensional lots of
+
+1555
+00:53:45,440 --> 00:53:48,720
+ways but
+
+1556
+00:53:46,719 --> 00:53:51,519
+that's why it was called mathematics and
+
+1557
+00:53:48,719 --> 00:53:52,959
+then it was shortened to maths and then
+
+1558
+00:53:51,519 --> 00:53:54,318
+for some reason it was just math in the
+
+1559
+00:53:52,960 --> 00:53:57,838
+us but
+
+1560
+00:53:54,318 --> 00:53:59,759
+to me math has that more singular feel
+
+1561
+00:53:57,838 --> 00:54:01,759
+to it and
+
+1562
+00:53:59,760 --> 00:54:02,880
+there's an expression here which is do
+
+1563
+00:54:01,760 --> 00:54:05,040
+the math
+
+1564
+00:54:02,880 --> 00:54:07,519
+which basically means do a calculation
+
+1565
+00:54:05,039 --> 00:54:09,920
+that's what people mean by do the math
+
+1566
+00:54:07,519 --> 00:54:11,358
+so i don't like that expression because
+
+1567
+00:54:09,920 --> 00:54:13,358
+no math could be anything it doesn't
+
+1568
+00:54:11,358 --> 00:54:15,279
+have to be calculation and
+
+1569
+00:54:13,358 --> 00:54:17,598
+so yeah i like maths because it has more
+
+1570
+00:54:15,280 --> 00:54:19,119
+of that broad feel to it yeah i love
+
+1571
+00:54:17,599 --> 00:54:20,800
+that maths kind of emphasizes the
+
+1572
+00:54:19,119 --> 00:54:22,800
+multi-dimensional like yeah variety of
+
+1573
+00:54:20,800 --> 00:54:25,280
+different different disciplines
+
+1574
+00:54:22,800 --> 00:54:28,000
+different approaches yeah
+
+1575
+00:54:25,280 --> 00:54:30,800
+okay uh what so but outside of the
+
+1576
+00:54:28,000 --> 00:54:33,679
+textbook what do you
+
+1577
+00:54:30,800 --> 00:54:36,798
+see like broadly being used you
+
+1578
+00:54:33,679 --> 00:54:38,639
+mentioned sebastian through and moocs
+
+1579
+00:54:36,798 --> 00:54:40,798
+online education do you think that's an
+
+1580
+00:54:38,639 --> 00:54:42,960
+effective so can be
+
+1581
+00:54:40,798 --> 00:54:45,920
+i mean online
+
+1582
+00:54:42,960 --> 00:54:47,599
+having great teachers online obviously
+
+1583
+00:54:45,920 --> 00:54:50,318
+extends those teachers to many more
+
+1584
+00:54:47,599 --> 00:54:51,359
+people and that's a wonderful thing
+
+1585
+00:54:50,318 --> 00:54:52,400
+um
+
+1586
+00:54:51,358 --> 00:54:54,558
+i have
+
+1587
+00:54:52,400 --> 00:54:56,559
+quite a few online courses myself i got
+
+1588
+00:54:54,559 --> 00:54:57,440
+the bug working with sebastian when he
+
+1589
+00:54:56,559 --> 00:54:59,760
+was
+
+1590
+00:54:57,440 --> 00:55:02,240
+had released his first mooc
+
+1591
+00:54:59,760 --> 00:55:04,160
+and i thought maybe i could do one in
+
+1592
+00:55:02,239 --> 00:55:06,798
+maths education and i didn't know if
+
+1593
+00:55:04,159 --> 00:55:08,558
+anybody would take it um i remember
+
+1594
+00:55:06,798 --> 00:55:10,559
+releasing it that first summer and it
+
+1595
+00:55:08,559 --> 00:55:12,960
+was a free online class and
+
+1596
+00:55:10,559 --> 00:55:15,200
+30 000 maths teachers took it that first
+
+1597
+00:55:12,960 --> 00:55:17,039
+summer and they were all talking about
+
+1598
+00:55:15,199 --> 00:55:19,039
+it with each other and sharing it and it
+
+1599
+00:55:17,039 --> 00:55:21,599
+was like took off in fact
+
+1600
+00:55:19,039 --> 00:55:22,880
+it was that mooc that caught
+
+1601
+00:55:21,599 --> 00:55:26,000
+got me to
+
+1602
+00:55:22,880 --> 00:55:28,559
+create you cubed with kathy williams
+
+1603
+00:55:26,000 --> 00:55:31,039
+who's the co-founder um because people
+
+1604
+00:55:28,559 --> 00:55:32,160
+took the mooc and then they said okay
+
+1605
+00:55:31,039 --> 00:55:35,279
+what now
+
+1606
+00:55:32,159 --> 00:55:36,798
+i finished what what can i have next and
+
+1607
+00:55:35,280 --> 00:55:37,920
+so that was where we made our website
+
+1608
+00:55:36,798 --> 00:55:40,079
+but
+
+1609
+00:55:37,920 --> 00:55:43,920
+um so yeah i think online education can
+
+1610
+00:55:40,079 --> 00:55:46,079
+be great i do think a lot of the moocs
+
+1611
+00:55:43,920 --> 00:55:47,519
+don't have great pedagogy they're just a
+
+1612
+00:55:46,079 --> 00:55:49,680
+talking head
+
+1613
+00:55:47,519 --> 00:55:51,599
+and
+
+1614
+00:55:49,679 --> 00:55:54,798
+it you can actually engage people in
+
+1615
+00:55:51,599 --> 00:55:57,599
+more active ways even in online learning
+
+1616
+00:55:54,798 --> 00:56:00,079
+so i learned from the udacity principle
+
+1617
+00:55:57,599 --> 00:56:02,880
+when i was working udacity never to talk
+
+1618
+00:56:00,079 --> 00:56:05,760
+more than like five minutes and but then
+
+1619
+00:56:02,880 --> 00:56:06,960
+and then to ask people to do something
+
+1620
+00:56:05,760 --> 00:56:08,640
+so
+
+1621
+00:56:06,960 --> 00:56:10,159
+that's the sort of pedagogy of the
+
+1622
+00:56:08,639 --> 00:56:11,598
+online classes i have there's a little
+
+1623
+00:56:10,159 --> 00:56:13,039
+bit of
+
+1624
+00:56:11,599 --> 00:56:15,039
+presenting something and then people do
+
+1625
+00:56:13,039 --> 00:56:16,639
+something and there's a little bit more
+
+1626
+00:56:15,039 --> 00:56:19,119
+because i think if you have a half hour
+
+1627
+00:56:16,639 --> 00:56:20,798
+video you just you know
+
+1628
+00:56:19,119 --> 00:56:23,358
+switch off and start doing other things
+
+1629
+00:56:20,798 --> 00:56:26,719
+so the the way udaci did it is uh like
+
+1630
+00:56:23,358 --> 00:56:27,759
+five ten minute like bit of
+
+1631
+00:56:26,719 --> 00:56:29,598
+teaching
+
+1632
+00:56:27,760 --> 00:56:31,200
+and then with some visual stuff perhaps
+
+1633
+00:56:29,599 --> 00:56:33,359
+and then there's like a quiz then you
+
+1634
+00:56:31,199 --> 00:56:34,798
+answer a question yeah yeah now that
+
+1635
+00:56:33,358 --> 00:56:37,039
+that's that's yeah that's really
+
+1636
+00:56:34,798 --> 00:56:39,039
+effective you mentioned youtube so
+
+1637
+00:56:37,039 --> 00:56:42,159
+what's the mission what's the goal you
+
+1638
+00:56:39,039 --> 00:56:44,960
+mentioned how it started but what's uh
+
+1639
+00:56:42,159 --> 00:56:46,879
+um yeah where are you at now and what do
+
+1640
+00:56:44,960 --> 00:56:48,480
+you what's your dream with it or what
+
+1641
+00:56:46,880 --> 00:56:50,318
+are the kind of things that people
+
+1642
+00:56:48,480 --> 00:56:52,798
+should go and check out on there
+
+1643
+00:56:50,318 --> 00:56:54,719
+yeah we started you cubed i guess it was
+
+1644
+00:56:52,798 --> 00:56:57,358
+about five years ago now and we've had
+
+1645
+00:56:54,719 --> 00:57:00,239
+over 52 million visitors to the site so
+
+1646
+00:56:57,358 --> 00:57:02,000
+i'm very happy about that and our goal
+
+1647
+00:57:00,239 --> 00:57:05,039
+is to share
+
+1648
+00:57:02,000 --> 00:57:07,199
+good ideas for teaching with
+
+1649
+00:57:05,039 --> 00:57:09,199
+teachers students parents
+
+1650
+00:57:07,199 --> 00:57:11,199
+in maths and to help
+
+1651
+00:57:09,199 --> 00:57:13,358
+we have a sort of subgoal of erasing
+
+1652
+00:57:11,199 --> 00:57:14,239
+maths anxiety that's important to us but
+
+1653
+00:57:13,358 --> 00:57:15,920
+also
+
+1654
+00:57:14,239 --> 00:57:17,838
+to share maths as this beautiful
+
+1655
+00:57:15,920 --> 00:57:19,838
+creative subject
+
+1656
+00:57:17,838 --> 00:57:22,400
+and um
+
+1657
+00:57:19,838 --> 00:57:25,119
+it's been really great we have lessons
+
+1658
+00:57:22,400 --> 00:57:27,440
+on the site but one of the things one of
+
+1659
+00:57:25,119 --> 00:57:28,960
+the reasons i thought this was needed is
+
+1660
+00:57:27,440 --> 00:57:31,119
+there's a lot of knowledge in the
+
+1661
+00:57:28,960 --> 00:57:32,639
+academy about how to teach maths well
+
+1662
+00:57:31,119 --> 00:57:35,440
+loads and loads of
+
+1663
+00:57:32,639 --> 00:57:38,239
+research and journals and lots of things
+
+1664
+00:57:35,440 --> 00:57:40,960
+written up but teachers don't read it
+
+1665
+00:57:38,239 --> 00:57:43,118
+they they don't have access to it
+
+1666
+00:57:40,960 --> 00:57:44,240
+they're often behind pay walls
+
+1667
+00:57:43,119 --> 00:57:45,920
+they
+
+1668
+00:57:44,239 --> 00:57:47,598
+they're written in really inaccessible
+
+1669
+00:57:45,920 --> 00:57:50,400
+ways so people wouldn't want to read
+
+1670
+00:57:47,599 --> 00:57:52,000
+them or understand them so this i see is
+
+1671
+00:57:50,400 --> 00:57:53,680
+a big problem you have this whole
+
+1672
+00:57:52,000 --> 00:57:55,679
+industry of people
+
+1673
+00:57:53,679 --> 00:57:57,519
+finding out how to teach well
+
+1674
+00:57:55,679 --> 00:57:58,798
+not sharing it with the people who are
+
+1675
+00:57:57,519 --> 00:57:59,519
+teaching
+
+1676
+00:57:58,798 --> 00:58:01,519
+so
+
+1677
+00:57:59,519 --> 00:58:03,280
+um that's why we made youtube and
+
+1678
+00:58:01,519 --> 00:58:04,719
+instead of just putting articles up
+
+1679
+00:58:03,280 --> 00:58:07,200
+saying here's some things to read about
+
+1680
+00:58:04,719 --> 00:58:09,199
+how to teach well we translated what was
+
+1681
+00:58:07,199 --> 00:58:11,519
+coming from research into
+
+1682
+00:58:09,199 --> 00:58:14,399
+things that teacher could use so lessons
+
+1683
+00:58:11,519 --> 00:58:16,400
+there were videos to show kids and
+
+1684
+00:58:14,400 --> 00:58:18,960
+um there were tips for parents there
+
+1685
+00:58:16,400 --> 00:58:20,480
+were all sorts of things on the site and
+
+1686
+00:58:18,960 --> 00:58:22,559
+it's been amazing
+
+1687
+00:58:20,480 --> 00:58:24,798
+as we had we
+
+1688
+00:58:22,559 --> 00:58:26,640
+took inspiration from the week of code
+
+1689
+00:58:24,798 --> 00:58:29,039
+which
+
+1690
+00:58:26,639 --> 00:58:31,279
+got teachers to focus on coding for a
+
+1691
+00:58:29,039 --> 00:58:33,759
+week and um we have this thing called
+
+1692
+00:58:31,280 --> 00:58:36,160
+the week of inspirational maths
+
+1693
+00:58:33,760 --> 00:58:38,160
+and we say just try it for a week just
+
+1694
+00:58:36,159 --> 00:58:39,279
+just give us one week and try it and see
+
+1695
+00:58:38,159 --> 00:58:42,239
+what happens
+
+1696
+00:58:39,280 --> 00:58:43,519
+and so it's been downloaded millions of
+
+1697
+00:58:42,239 --> 00:58:45,358
+times teachers
+
+1698
+00:58:43,519 --> 00:58:46,480
+use it every year they start the school
+
+1699
+00:58:45,358 --> 00:58:49,440
+year with it
+
+1700
+00:58:46,480 --> 00:58:50,880
+and what they tell us is it was amazing
+
+1701
+00:58:49,440 --> 00:58:52,880
+the kids lights were on they were
+
+1702
+00:58:50,880 --> 00:58:54,880
+excited they loved it
+
+1703
+00:58:52,880 --> 00:58:56,798
+and then the week finished and i opened
+
+1704
+00:58:54,880 --> 00:58:58,880
+my textbooks and the
+
+1705
+00:58:56,798 --> 00:58:59,920
+lights went out and they were not
+
+1706
+00:58:58,880 --> 00:59:02,079
+interested
+
+1707
+00:58:59,920 --> 00:59:04,240
+yeah but uh but getting that first
+
+1708
+00:59:02,079 --> 00:59:06,720
+inspiration is still powerful i mean it
+
+1709
+00:59:04,239 --> 00:59:08,719
+is i i wish i mean my
+
+1710
+00:59:06,719 --> 00:59:10,078
+what i would love is if
+
+1711
+00:59:08,719 --> 00:59:11,519
+we could actually extend that for the
+
+1712
+00:59:10,079 --> 00:59:14,960
+whole year
+
+1713
+00:59:11,519 --> 00:59:17,039
+we're a small team at stanford and we're
+
+1714
+00:59:14,960 --> 00:59:19,599
+trying to keep up with great things to
+
+1715
+00:59:17,039 --> 00:59:22,639
+put on the site um
+
+1716
+00:59:19,599 --> 00:59:24,480
+we haven't the capacity to produce these
+
+1717
+00:59:22,639 --> 00:59:26,159
+creative visual math tasks for every
+
+1718
+00:59:24,480 --> 00:59:28,079
+year group for every day but i would
+
+1719
+00:59:26,159 --> 00:59:29,598
+love to do that how difficult is it to
+
+1720
+00:59:28,079 --> 00:59:32,400
+do i mean
+
+1721
+00:59:29,599 --> 00:59:36,240
+to come up
+
+1722
+00:59:32,400 --> 00:59:38,000
+with uh visual formulations of these uh
+
+1723
+00:59:36,239 --> 00:59:39,039
+big important topics you need to think
+
+1724
+00:59:38,000 --> 00:59:40,798
+about
+
+1725
+00:59:39,039 --> 00:59:43,599
+in a way that you know
+
+1726
+00:59:40,798 --> 00:59:46,159
+that uh that that you could teach i mean
+
+1727
+00:59:43,599 --> 00:59:47,680
+it we can do it we actually we went from
+
+1728
+00:59:46,159 --> 00:59:48,639
+the week of inspirational maths and we
+
+1729
+00:59:47,679 --> 00:59:52,159
+made
+
+1730
+00:59:48,639 --> 00:59:55,440
+k-8 maths books with exactly that big
+
+1731
+00:59:52,159 --> 00:59:57,118
+ideas rich activities visuals we just
+
+1732
+00:59:55,440 --> 00:59:58,240
+finished the last one we've been doing
+
+1733
+00:59:57,119 --> 01:00:00,798
+it for
+
+1734
+00:59:58,239 --> 01:00:03,118
+five years and it's been exhausting and
+
+1735
+01:00:00,798 --> 01:00:05,519
+we just finished so now there's a whole
+
+1736
+01:00:03,119 --> 01:00:07,280
+k-8 set of books
+
+1737
+01:00:05,519 --> 01:00:09,280
+and they're organized in that way these
+
+1738
+01:00:07,280 --> 01:00:10,640
+are the big ideas here are rich deep
+
+1739
+01:00:09,280 --> 01:00:11,920
+activities
+
+1740
+01:00:10,639 --> 01:00:14,639
+um
+
+1741
+01:00:11,920 --> 01:00:17,599
+they're not though what you can do every
+
+1742
+01:00:14,639 --> 01:00:19,598
+day for a year that so some teachers use
+
+1743
+01:00:17,599 --> 01:00:22,640
+them as a kind of supplement to their
+
+1744
+01:00:19,599 --> 01:00:24,960
+boring textbook and some people have
+
+1745
+01:00:22,639 --> 01:00:27,118
+said okay this is the year this book
+
+1746
+01:00:24,960 --> 01:00:29,920
+tells us what the year is and then we'll
+
+1747
+01:00:27,119 --> 01:00:32,798
+supplement these big activities with
+
+1748
+01:00:29,920 --> 01:00:33,760
+um so they're being used and teachers
+
+1749
+01:00:32,798 --> 01:00:35,280
+really
+
+1750
+01:00:33,760 --> 01:00:36,079
+like them and are really happy about
+
+1751
+01:00:35,280 --> 01:00:38,240
+them
+
+1752
+01:00:36,079 --> 01:00:40,079
+i just always want more and i guess one
+
+1753
+01:00:38,239 --> 01:00:42,639
+of the things i would like for you cubed
+
+1754
+01:00:40,079 --> 01:00:45,519
+one of my personal goals is that every
+
+1755
+01:00:42,639 --> 01:00:48,000
+teacher of maths knows about youtube
+
+1756
+01:00:45,519 --> 01:00:49,519
+at the moment um a lot of teachers who
+
+1757
+01:00:48,000 --> 01:00:51,119
+come to us are really happy they found
+
+1758
+01:00:49,519 --> 01:00:52,318
+it but there's a lot of other teachers
+
+1759
+01:00:51,119 --> 01:00:54,079
+who
+
+1760
+01:00:52,318 --> 01:00:57,920
+don't know that it exists i hope this
+
+1761
+01:00:54,079 --> 01:01:00,640
+helps yeah from a student perspective
+
+1762
+01:00:57,920 --> 01:01:02,240
+and not in the classroom but at home
+
+1763
+01:01:00,639 --> 01:01:03,759
+studying
+
+1764
+01:01:02,239 --> 01:01:05,919
+and you know
+
+1765
+01:01:03,760 --> 01:01:08,559
+is there some
+
+1766
+01:01:05,920 --> 01:01:10,720
+advice you can give on how to best study
+
+1767
+01:01:08,559 --> 01:01:13,680
+mathematics so what's the role of the
+
+1768
+01:01:10,719 --> 01:01:17,118
+student outside the classroom
+
+1769
+01:01:13,679 --> 01:01:19,519
+yeah i think one thing we know is a lot
+
+1770
+01:01:17,119 --> 01:01:21,280
+of people when they review material
+
+1771
+01:01:19,519 --> 01:01:23,519
+whether it's maths or anything else
+
+1772
+01:01:21,280 --> 01:01:25,760
+don't do it in the best way
+
+1773
+01:01:23,519 --> 01:01:27,838
+i think a problem a lot of people have
+
+1774
+01:01:25,760 --> 01:01:31,440
+is they read through maybe a teacher's
+
+1775
+01:01:27,838 --> 01:01:33,199
+explanation or a way of doing maths
+
+1776
+01:01:31,440 --> 01:01:36,240
+and it makes sense and they think oh
+
+1777
+01:01:33,199 --> 01:01:38,798
+yeah i've got that and they move on
+
+1778
+01:01:36,239 --> 01:01:40,479
+but then it's not until you come to try
+
+1779
+01:01:38,798 --> 01:01:41,519
+and work on something and do a problem
+
+1780
+01:01:40,480 --> 01:01:43,280
+that you actually realize you didn't
+
+1781
+01:01:41,519 --> 01:01:44,798
+really understand it just seemed to make
+
+1782
+01:01:43,280 --> 01:01:47,200
+sense
+
+1783
+01:01:44,798 --> 01:01:48,719
+so i would say
+
+1784
+01:01:47,199 --> 01:01:50,558
+this is also something that
+
+1785
+01:01:48,719 --> 01:01:53,679
+neuroscientists talk about
+
+1786
+01:01:50,559 --> 01:01:55,359
+to keep giving yourself questions is a
+
+1787
+01:01:53,679 --> 01:01:56,558
+really good way to
+
+1788
+01:01:55,358 --> 01:01:58,078
+study
+
+1789
+01:01:56,559 --> 01:02:00,319
+rather than looking through lots of
+
+1790
+01:01:58,079 --> 01:02:02,559
+material it's almost like giving
+
+1791
+01:02:00,318 --> 01:02:04,639
+yourself lots of tests
+
+1792
+01:02:02,559 --> 01:02:06,079
+is a good way to actually deeply
+
+1793
+01:02:04,639 --> 01:02:08,318
+understand things and know what you do
+
+1794
+01:02:06,079 --> 01:02:09,760
+when you don't understand so would the
+
+1795
+01:02:08,318 --> 01:02:11,358
+questions be
+
+1796
+01:02:09,760 --> 01:02:13,280
+in the form of
+
+1797
+01:02:11,358 --> 01:02:15,199
+the material you're reviewing is the
+
+1798
+01:02:13,280 --> 01:02:17,200
+answer to that question or is it almost
+
+1799
+01:02:15,199 --> 01:02:19,358
+like beyond it's the polygon thing you
+
+1800
+01:02:17,199 --> 01:02:21,439
+mentioned from a square is it almost
+
+1801
+01:02:19,358 --> 01:02:23,519
+like i wonder
+
+1802
+01:02:21,440 --> 01:02:24,480
+what is the bigger picture i was kind of
+
+1803
+01:02:23,519 --> 01:02:27,199
+asking
+
+1804
+01:02:24,480 --> 01:02:29,519
+like how's this extended and so on yeah
+
+1805
+01:02:27,199 --> 01:02:31,199
+that that that would be great and it's a
+
+1806
+01:02:29,519 --> 01:02:32,960
+similar i mean a question i get asked a
+
+1807
+01:02:31,199 --> 01:02:34,879
+lot is about homework well it's a good
+
+1808
+01:02:32,960 --> 01:02:37,920
+thing for kids to do for homework
+
+1809
+01:02:34,880 --> 01:02:38,720
+and one of the recommendations i give is
+
+1810
+01:02:37,920 --> 01:02:41,519
+to
+
+1811
+01:02:38,719 --> 01:02:42,719
+not have kids just do lots of questions
+
+1812
+01:02:41,519 --> 01:02:45,119
+for homework
+
+1813
+01:02:42,719 --> 01:02:46,798
+but to actually ask them to reflect on
+
+1814
+01:02:45,119 --> 01:02:49,838
+what they've learned like what was the
+
+1815
+01:02:46,798 --> 01:02:51,199
+big idea you were you learned today or
+
+1816
+01:02:49,838 --> 01:02:52,639
+what did you
+
+1817
+01:02:51,199 --> 01:02:55,279
+find difficult what did you struggle
+
+1818
+01:02:52,639 --> 01:02:56,719
+with what was something that was
+
+1819
+01:02:55,280 --> 01:02:58,160
+exciting
+
+1820
+01:02:56,719 --> 01:03:00,399
+um
+
+1821
+01:02:58,159 --> 01:03:02,798
+then kids go home and they have to kind
+
+1822
+01:03:00,400 --> 01:03:04,000
+of reflect in a deeper way a lot of
+
+1823
+01:03:02,798 --> 01:03:05,519
+times i don't if you have this
+
+1824
+01:03:04,000 --> 01:03:07,838
+experience as a math student lots of
+
+1825
+01:03:05,519 --> 01:03:09,838
+people do kids are going through maths
+
+1826
+01:03:07,838 --> 01:03:11,679
+questions they're successful they get
+
+1827
+01:03:09,838 --> 01:03:14,639
+them right but they don't even really
+
+1828
+01:03:11,679 --> 01:03:16,399
+know what they're about they and a lot
+
+1829
+01:03:14,639 --> 01:03:18,239
+of kids go through many years of maths
+
+1830
+01:03:16,400 --> 01:03:20,880
+like that doing lots of questions but
+
+1831
+01:03:18,239 --> 01:03:23,519
+that really knowing what even
+
+1832
+01:03:20,880 --> 01:03:25,440
+the topic is or what it's about what
+
+1833
+01:03:23,519 --> 01:03:28,000
+it's important for so
+
+1834
+01:03:25,440 --> 01:03:30,480
+having students go back and think at the
+
+1835
+01:03:28,000 --> 01:03:32,159
+end of the day what was the big idea
+
+1836
+01:03:30,480 --> 01:03:33,358
+from this maths lesson why is it
+
+1837
+01:03:32,159 --> 01:03:35,920
+important
+
+1838
+01:03:33,358 --> 01:03:38,558
+where would i find that in real life
+
+1839
+01:03:35,920 --> 01:03:40,798
+those are really good questions for kids
+
+1840
+01:03:38,559 --> 01:03:42,720
+to be thinking about it's probably for
+
+1841
+01:03:40,798 --> 01:03:44,400
+everybody to be thinking about i think
+
+1842
+01:03:42,719 --> 01:03:46,480
+most of us go through life
+
+1843
+01:03:44,400 --> 01:03:49,358
+never asking
+
+1844
+01:03:46,480 --> 01:03:51,039
+like the bigger question almost like
+
+1845
+01:03:49,358 --> 01:03:52,719
+you know those like layers of why
+
+1846
+01:03:51,039 --> 01:03:55,119
+questions that kids ask when they're
+
+1847
+01:03:52,719 --> 01:03:55,919
+very young yeah we need to keep doing
+
+1848
+01:03:55,119 --> 01:03:58,640
+that
+
+1849
+01:03:55,920 --> 01:04:00,240
+we do like what uh that's the you know
+
+1850
+01:03:58,639 --> 01:04:02,480
+whatever the term is you call first
+
+1851
+01:04:00,239 --> 01:04:05,519
+principles thinking some people call it
+
+1852
+01:04:02,480 --> 01:04:06,719
+that which is like
+
+1853
+01:04:05,519 --> 01:04:08,400
+why
+
+1854
+01:04:06,719 --> 01:04:11,038
+are we doing it this way
+
+1855
+01:04:08,400 --> 01:04:12,480
+so one nice thing
+
+1856
+01:04:11,039 --> 01:04:14,319
+is to do that because there's usually a
+
+1857
+01:04:12,480 --> 01:04:16,639
+good answer like the reason we did it
+
+1858
+01:04:14,318 --> 01:04:17,599
+this way is because it works for this
+
+1859
+01:04:16,639 --> 01:04:19,440
+reason
+
+1860
+01:04:17,599 --> 01:04:22,400
+but then if you want to do something
+
+1861
+01:04:19,440 --> 01:04:25,039
+totally novel is you'll say well
+
+1862
+01:04:22,400 --> 01:04:28,720
+we've been doing it this way
+
+1863
+01:04:25,039 --> 01:04:30,400
+um because of historical reasons but
+
+1864
+01:04:28,719 --> 01:04:32,159
+really this is not the best way to do it
+
+1865
+01:04:30,400 --> 01:04:34,318
+there might be other ways
+
+1866
+01:04:32,159 --> 01:04:36,000
+and that's how invention happens right
+
+1867
+01:04:34,318 --> 01:04:38,798
+and then you get you know that's really
+
+1868
+01:04:36,000 --> 01:04:40,400
+useful in every aspect of life like
+
+1869
+01:04:38,798 --> 01:04:42,239
+choosing your career
+
+1870
+01:04:40,400 --> 01:04:44,720
+choosing your um
+
+1871
+01:04:42,239 --> 01:04:47,038
+i don't know what where you live yeah
+
+1872
+01:04:44,719 --> 01:04:49,679
+who your like romantic partner is like
+
+1873
+01:04:47,039 --> 01:04:51,599
+everything everything yeah and i think
+
+1874
+01:04:49,679 --> 01:04:54,159
+it probably starts
+
+1875
+01:04:51,599 --> 01:04:55,920
+doing that in math class
+
+1876
+01:04:54,159 --> 01:04:57,679
+that would be good if we started doing i
+
+1877
+01:04:55,920 --> 01:04:58,798
+want i mean i wonder
+
+1878
+01:04:57,679 --> 01:05:00,960
+i
+
+1879
+01:04:58,798 --> 01:05:03,759
+i probably didn't do very much of that
+
+1880
+01:05:00,960 --> 01:05:07,199
+for most of my education asking why
+
+1881
+01:05:03,760 --> 01:05:10,079
+except for later much later
+
+1882
+01:05:07,199 --> 01:05:12,159
+in the subjects on like grad school when
+
+1883
+01:05:10,079 --> 01:05:13,680
+you're doing research on them
+
+1884
+01:05:12,159 --> 01:05:15,118
+when you're first tasked with doing
+
+1885
+01:05:13,679 --> 01:05:16,719
+something novel
+
+1886
+01:05:15,119 --> 01:05:18,960
+using this
+
+1887
+01:05:16,719 --> 01:05:21,038
+or solving a problem really outside the
+
+1888
+01:05:18,960 --> 01:05:22,559
+classroom they have to publish on it's
+
+1889
+01:05:21,039 --> 01:05:25,200
+the first time you think
+
+1890
+01:05:22,559 --> 01:05:27,599
+wait why are these things
+
+1891
+01:05:25,199 --> 01:05:29,358
+uh interesting useful which are the
+
+1892
+01:05:27,599 --> 01:05:31,359
+things that are useful
+
+1893
+01:05:29,358 --> 01:05:33,679
+and yeah i guess that was that would be
+
+1894
+01:05:31,358 --> 01:05:36,880
+nice if we did that much earlier that uh
+
+1895
+01:05:33,679 --> 01:05:39,358
+the quest of invention yeah yeah
+
+1896
+01:05:36,880 --> 01:05:41,920
+i mean one of the sad pieces of research
+
+1897
+01:05:39,358 --> 01:05:43,358
+data i think about is the questions kids
+
+1898
+01:05:41,920 --> 01:05:47,920
+ask
+
+1899
+01:05:43,358 --> 01:05:50,558
+um in school goes down like in a linear
+
+1900
+01:05:47,920 --> 01:05:52,798
+uh you know progression from in the
+
+1901
+01:05:50,559 --> 01:05:55,039
+early years you can't stop kids asking
+
+1902
+01:05:52,798 --> 01:05:57,119
+those questions but they learn
+
+1903
+01:05:55,039 --> 01:05:58,079
+not to ask the questions i think you
+
+1904
+01:05:57,119 --> 01:06:00,400
+told
+
+1905
+01:05:58,079 --> 01:06:02,400
+somewhere about an early memory you had
+
+1906
+01:06:00,400 --> 01:06:04,559
+in your own education
+
+1907
+01:06:02,400 --> 01:06:06,160
+where you asked the question
+
+1908
+01:06:04,559 --> 01:06:08,798
+or maybe that was an example you gave
+
+1909
+01:06:06,159 --> 01:06:12,078
+but it was shut down oh yeah
+
+1910
+01:06:08,798 --> 01:06:13,440
+you've listened to something i said yeah
+
+1911
+01:06:12,079 --> 01:06:15,599
+i don't remember where it was it was
+
+1912
+01:06:13,440 --> 01:06:17,599
+something yeah it caught me yeah i
+
+1913
+01:06:15,599 --> 01:06:20,240
+remember it really vividly
+
+1914
+01:06:17,599 --> 01:06:22,079
+what can you tell uh the memory yeah it
+
+1915
+01:06:20,239 --> 01:06:23,919
+was it's funny i can remember it must
+
+1916
+01:06:22,079 --> 01:06:25,599
+have really impacted me in that moment
+
+1917
+01:06:23,920 --> 01:06:27,039
+because you know how there's lots of
+
+1918
+01:06:25,599 --> 01:06:29,838
+hours of school you don't remember at
+
+1919
+01:06:27,039 --> 01:06:31,200
+all but anyway um i i remember where i
+
+1920
+01:06:29,838 --> 01:06:33,679
+was sitting and everything i was in a
+
+1921
+01:06:31,199 --> 01:06:35,279
+high school maths class although they
+
+1922
+01:06:33,679 --> 01:06:37,440
+don't call it in england
+
+1923
+01:06:35,280 --> 01:06:39,599
+and um
+
+1924
+01:06:37,440 --> 01:06:42,000
+the teacher said and it was like the
+
+1925
+01:06:39,599 --> 01:06:44,400
+first class of this teacher's class and
+
+1926
+01:06:42,000 --> 01:06:46,639
+he said ask if you have any questions
+
+1927
+01:06:44,400 --> 01:06:48,160
+so at one point i put my hand up and i
+
+1928
+01:06:46,639 --> 01:06:49,759
+said i have a question
+
+1929
+01:06:48,159 --> 01:06:51,118
+and he said something like that's your
+
+1930
+01:06:49,760 --> 01:06:52,230
+question
+
+1931
+01:06:51,119 --> 01:06:53,760
+um
+
+1932
+01:06:52,230 --> 01:06:56,000
+[Laughter]
+
+1933
+01:06:53,760 --> 01:06:57,440
+and i was like oh okay i'm not asking
+
+1934
+01:06:56,000 --> 01:06:59,920
+any more questions
+
+1935
+01:06:57,440 --> 01:07:01,440
+hard in a way where you didn't wanna you
+
+1936
+01:06:59,920 --> 01:07:03,280
+the lesson you learned from that is i'm
+
+1937
+01:07:01,440 --> 01:07:05,200
+not gonna ask yeah that was absolutely
+
+1938
+01:07:03,280 --> 01:07:06,319
+that's nice that's the last question i'm
+
+1939
+01:07:05,199 --> 01:07:07,119
+asking
+
+1940
+01:07:06,318 --> 01:07:08,480
+and um
+
+1941
+01:07:07,119 --> 01:07:09,920
+[Music]
+
+1942
+01:07:08,480 --> 01:07:11,440
+i was
+
+1943
+01:07:09,920 --> 01:07:13,680
+yeah he was the chair of the maths
+
+1944
+01:07:11,440 --> 01:07:15,838
+department i remember that really well
+
+1945
+01:07:13,679 --> 01:07:15,838
+so
+
+1946
+01:07:16,318 --> 01:07:20,079
+maybe because of that experience one of
+
+1947
+01:07:18,318 --> 01:07:22,159
+the things we encourage when we teach
+
+1948
+01:07:20,079 --> 01:07:23,519
+kids is asking questions and we value it
+
+1949
+01:07:22,159 --> 01:07:26,838
+when they ask questions we put them up
+
+1950
+01:07:23,519 --> 01:07:29,599
+on walls and celebrate and
+
+1951
+01:07:26,838 --> 01:07:31,358
+um it's funny because
+
+1952
+01:07:29,599 --> 01:07:33,359
+i wish there was a feedback signal
+
+1953
+01:07:31,358 --> 01:07:35,598
+because he probably
+
+1954
+01:07:33,358 --> 01:07:37,598
+to put a positive spin on it he probably
+
+1955
+01:07:35,599 --> 01:07:40,318
+didn't realize the negative impact he's
+
+1956
+01:07:37,599 --> 01:07:41,680
+had in that moment right if he only knew
+
+1957
+01:07:40,318 --> 01:07:44,000
+see this is probably when you're more
+
+1958
+01:07:41,679 --> 01:07:46,159
+mature in grad school
+
+1959
+01:07:44,000 --> 01:07:48,960
+i had an amazing professor named ali
+
+1960
+01:07:46,159 --> 01:07:51,279
+shakafande in uh computer science and he
+
+1961
+01:07:48,960 --> 01:07:52,880
+would get he encouraged questions but
+
+1962
+01:07:51,280 --> 01:07:54,240
+then he would tell everybody how dumb
+
+1963
+01:07:52,880 --> 01:07:55,440
+their questions are
+
+1964
+01:07:54,239 --> 01:07:58,078
+but it was
+
+1965
+01:07:55,440 --> 01:08:00,720
+it was done i guess if you show if you
+
+1966
+01:07:58,079 --> 01:08:03,039
+say it with love and respect behind it
+
+1967
+01:08:00,719 --> 01:08:05,199
+then it's more like a friendly humorous
+
+1968
+01:08:03,039 --> 01:08:07,440
+encouragement for more questions
+
+1969
+01:08:05,199 --> 01:08:09,118
+yeah it's an art right yeah to do it
+
+1970
+01:08:07,440 --> 01:08:11,200
+you're right and then it's very hard you
+
+1971
+01:08:09,119 --> 01:08:12,720
+have to time it right because that's
+
+1972
+01:08:11,199 --> 01:08:14,318
+probably that kind of humor is probably
+
+1973
+01:08:12,719 --> 01:08:16,479
+better for when you're
+
+1974
+01:08:14,318 --> 01:08:18,719
+uh in grad school versus when you're in
+
+1975
+01:08:16,479 --> 01:08:20,559
+the early education right
+
+1976
+01:08:18,719 --> 01:08:24,880
+well and i guess kids
+
+1977
+01:08:20,560 --> 01:08:28,159
+or young people get whether somebody's
+
+1978
+01:08:24,880 --> 01:08:30,079
+doing it to be funny or you know
+
+1979
+01:08:28,158 --> 01:08:32,879
+has it there's i mean this is why i
+
+1980
+01:08:30,079 --> 01:08:35,119
+teach you so hard even your tone
+
+1981
+01:08:32,880 --> 01:08:38,079
+can be impactful
+
+1982
+01:08:35,119 --> 01:08:40,559
+it's so sad because like for
+
+1983
+01:08:38,079 --> 01:08:43,119
+for that particular human the teacher
+
+1984
+01:08:40,560 --> 01:08:45,440
+you could just had a bad day and one
+
+1985
+01:08:43,119 --> 01:08:48,960
+statement can have a profound negative
+
+1986
+01:08:45,439 --> 01:08:51,278
+impact i know sadly that maths there's a
+
+1987
+01:08:48,960 --> 01:08:54,000
+lot of maths teachers who have that kind
+
+1988
+01:08:51,279 --> 01:08:55,920
+of approach and they
+
+1989
+01:08:54,000 --> 01:08:57,198
+i think they're suffering from the fact
+
+1990
+01:08:55,920 --> 01:08:58,880
+that they think people are math people
+
+1991
+01:08:57,198 --> 01:09:01,039
+are not math people and that comes
+
+1992
+01:08:58,880 --> 01:09:02,960
+across in their teaching
+
+1993
+01:09:01,039 --> 01:09:04,880
+but on the flip side one positive
+
+1994
+01:09:02,960 --> 01:09:07,198
+statement yeah keep them going that's
+
+1995
+01:09:04,880 --> 01:09:10,079
+right that is the flip side of that
+
+1996
+01:09:07,198 --> 01:09:12,798
+and i myself had like one teacher who
+
+1997
+01:09:10,079 --> 01:09:14,719
+was really amazing for me in maths and
+
+1998
+01:09:12,798 --> 01:09:16,319
+she kept me in the subject
+
+1999
+01:09:14,719 --> 01:09:18,319
+like
+
+2000
+01:09:16,319 --> 01:09:19,199
+who was she she was
+
+2001
+01:09:18,319 --> 01:09:20,600
+um
+
+2002
+01:09:19,198 --> 01:09:24,238
+her name was mrs marshall
+
+2003
+01:09:20,600 --> 01:09:27,920
+[Laughter]
+
+2004
+01:09:24,238 --> 01:09:30,718
+um she was my a level maths teacher so i
+
+2005
+01:09:27,920 --> 01:09:32,838
+was in i mean in england you do lots of
+
+2006
+01:09:30,719 --> 01:09:35,679
+subjects so you're 16 and then you
+
+2007
+01:09:32,838 --> 01:09:37,838
+choose like three or four subjects so i
+
+2008
+01:09:35,679 --> 01:09:39,600
+chosen maths and
+
+2009
+01:09:37,838 --> 01:09:41,439
+you go to
+
+2010
+01:09:39,600 --> 01:09:43,520
+higher levels
+
+2011
+01:09:41,439 --> 01:09:45,358
+probably equivalent more to a master's
+
+2012
+01:09:43,520 --> 01:09:48,159
+degree in the us because you're more
+
+2013
+01:09:45,359 --> 01:09:50,400
+specialized but anyways she was my
+
+2014
+01:09:48,158 --> 01:09:52,639
+teacher and for the first time in my
+
+2015
+01:09:50,399 --> 01:09:55,439
+whole career in maths
+
+2016
+01:09:52,640 --> 01:09:57,920
+she would give us problems and tell us
+
+2017
+01:09:55,439 --> 01:10:00,960
+to talk about them with each other
+
+2018
+01:09:57,920 --> 01:10:02,960
+and so here i was sitting there like 17
+
+2019
+01:10:00,960 --> 01:10:04,960
+talking with friends about how to solve
+
+2020
+01:10:02,960 --> 01:10:07,679
+a math problem and that was it that was
+
+2021
+01:10:04,960 --> 01:10:10,800
+the change that she made
+
+2022
+01:10:07,679 --> 01:10:11,840
+but it was profound for me i because
+
+2023
+01:10:10,800 --> 01:10:14,239
+like those
+
+2024
+01:10:11,840 --> 01:10:16,239
+calculus students i started to hear
+
+2025
+01:10:14,238 --> 01:10:18,559
+other people's ways of thinking and
+
+2026
+01:10:16,238 --> 01:10:20,158
+seeing it we would talk together and
+
+2027
+01:10:18,560 --> 01:10:22,400
+come up with solutions and i was like
+
+2028
+01:10:20,158 --> 01:10:24,000
+that was it that changed maths for me
+
+2029
+01:10:22,399 --> 01:10:25,759
+and i know so it wasn't some kind of
+
+2030
+01:10:24,000 --> 01:10:26,880
+personal interaction with her it was
+
+2031
+01:10:25,760 --> 01:10:28,239
+more like
+
+2032
+01:10:26,880 --> 01:10:29,440
+she uh
+
+2033
+01:10:28,238 --> 01:10:31,919
+she was the catalyst for that
+
+2034
+01:10:29,439 --> 01:10:34,000
+collaborative experience
+
+2035
+01:10:31,920 --> 01:10:36,000
+i mean yeah the many ways teachers can
+
+2036
+01:10:34,000 --> 01:10:37,600
+inspire kids i mean sometimes it's a
+
+2037
+01:10:36,000 --> 01:10:40,560
+personal message but
+
+2038
+01:10:37,600 --> 01:10:42,320
+it can be your teaching approach that
+
+2039
+01:10:40,560 --> 01:10:44,880
+changes maths for kids
+
+2040
+01:10:42,319 --> 01:10:48,479
+you know uh cal newport
+
+2041
+01:10:44,880 --> 01:10:50,400
+he uh he wrote a book called deep work
+
+2042
+01:10:48,479 --> 01:10:52,879
+and he's a mathematician a theoretical
+
+2043
+01:10:50,399 --> 01:10:55,279
+computer scientist and he talks about
+
+2044
+01:10:52,880 --> 01:10:58,480
+the kind of the focus required
+
+2045
+01:10:55,279 --> 01:10:59,439
+yeah to do that kind of work is there
+
+2046
+01:10:58,479 --> 01:11:01,599
+something
+
+2047
+01:10:59,439 --> 01:11:03,279
+you can comment on
+
+2048
+01:11:01,600 --> 01:11:04,880
+you know we live in a in a world full of
+
+2049
+01:11:03,279 --> 01:11:07,279
+distractions
+
+2050
+01:11:04,880 --> 01:11:09,119
+that that seems like one of the elements
+
+2051
+01:11:07,279 --> 01:11:10,800
+that makes studying and especially the
+
+2052
+01:11:09,119 --> 01:11:13,279
+studying of subjects that require
+
+2053
+01:11:10,800 --> 01:11:14,400
+thinking like math does
+
+2054
+01:11:13,279 --> 01:11:16,800
+difficult
+
+2055
+01:11:14,399 --> 01:11:18,559
+is there something from a student
+
+2056
+01:11:16,800 --> 01:11:20,480
+perspective from a teacher perspective
+
+2057
+01:11:18,560 --> 01:11:23,280
+that encourages deep work
+
+2058
+01:11:20,479 --> 01:11:24,839
+that you can come up with yeah i think
+
+2059
+01:11:23,279 --> 01:11:29,039
+giving kids
+
+2060
+01:11:24,840 --> 01:11:31,440
+really inspiring deep problems and we
+
+2061
+01:11:29,039 --> 01:11:33,439
+have some on our website
+
+2062
+01:11:31,439 --> 01:11:34,238
+is a really important experience for
+
+2063
+01:11:33,439 --> 01:11:38,158
+them
+
+2064
+01:11:34,238 --> 01:11:39,039
+um even if they only do it occasionally
+
+2065
+01:11:38,158 --> 01:11:41,119
+but
+
+2066
+01:11:39,039 --> 01:11:43,920
+it's really important they actually
+
+2067
+01:11:41,119 --> 01:11:45,599
+realize i i do i give a problem out
+
+2068
+01:11:43,920 --> 01:11:47,600
+often when i'm working with teachers and
+
+2069
+01:11:45,600 --> 01:11:49,679
+i say to them all right i'm going to
+
+2070
+01:11:47,600 --> 01:11:52,320
+check in with you after an hour
+
+2071
+01:11:49,679 --> 01:11:53,440
+and they're like an hour they think it's
+
+2072
+01:11:52,319 --> 01:11:55,519
+shocking
+
+2073
+01:11:53,439 --> 01:11:57,279
+and then they work on this problem and
+
+2074
+01:11:55,520 --> 01:12:00,480
+after an hour i say okay how are we
+
+2075
+01:11:57,279 --> 01:12:03,119
+doing like an hour's gone by
+
+2076
+01:12:00,479 --> 01:12:03,919
+how is this possible yeah and
+
+2077
+01:12:03,119 --> 01:12:06,880
+so
+
+2078
+01:12:03,920 --> 01:12:09,840
+everybody needs those like rich deep
+
+2079
+01:12:06,880 --> 01:12:13,039
+problems most kids go through their
+
+2080
+01:12:09,840 --> 01:12:14,880
+whole maths experience of however many
+
+2081
+01:12:13,039 --> 01:12:16,640
+years never once
+
+2082
+01:12:14,880 --> 01:12:18,000
+working on a problem in that kind of
+
+2083
+01:12:16,640 --> 01:12:18,800
+deep way
+
+2084
+01:12:18,000 --> 01:12:21,359
+so
+
+2085
+01:12:18,800 --> 01:12:23,360
+i the the undergrad class i teach at
+
+2086
+01:12:21,359 --> 01:12:24,719
+stanford we do that we work on these
+
+2087
+01:12:23,359 --> 01:12:26,238
+deep problems
+
+2088
+01:12:24,719 --> 01:12:28,319
+every session
+
+2089
+01:12:26,238 --> 01:12:30,479
+and the students come away going okay i
+
+2090
+01:12:28,319 --> 01:12:31,920
+never want to go back to that maths
+
+2091
+01:12:30,479 --> 01:12:34,079
+relationship i had where it was just all
+
+2092
+01:12:31,920 --> 01:12:36,960
+about quick answers i
+
+2093
+01:12:34,079 --> 01:12:38,399
+i just don't want to go back to that and
+
+2094
+01:12:36,960 --> 01:12:40,719
+so
+
+2095
+01:12:38,399 --> 01:12:42,479
+we can all all teachers can incorporate
+
+2096
+01:12:40,719 --> 01:12:44,480
+those problems in their classrooms maybe
+
+2097
+01:12:42,479 --> 01:12:47,119
+they don't do them every day but
+
+2098
+01:12:44,479 --> 01:12:48,079
+they at least give kids some experience
+
+2099
+01:12:47,119 --> 01:12:50,880
+of
+
+2100
+01:12:48,079 --> 01:12:53,760
+being able to work slowly and deeply and
+
+2101
+01:12:50,880 --> 01:12:55,279
+to go to deeper places and
+
+2102
+01:12:53,760 --> 01:12:56,239
+not
+
+2103
+01:12:55,279 --> 01:12:58,158
+be
+
+2104
+01:12:56,238 --> 01:13:00,399
+told they've got five minutes to finish
+
+2105
+01:12:58,158 --> 01:13:02,960
+20 questions yeah well part of it is
+
+2106
+01:13:00,399 --> 01:13:04,399
+also just the um
+
+2107
+01:13:02,960 --> 01:13:06,079
+the exercise of sitting there
+
+2108
+01:13:04,399 --> 01:13:07,039
+maintaining focus for prolonged periods
+
+2109
+01:13:06,079 --> 01:13:09,359
+of time
+
+2110
+01:13:07,039 --> 01:13:12,238
+that's not often
+
+2111
+01:13:09,359 --> 01:13:13,599
+i mean um that's a skill yeah it's a
+
+2112
+01:13:12,238 --> 01:13:15,919
+skill
+
+2113
+01:13:13,600 --> 01:13:18,320
+that uh that also could be discouraging
+
+2114
+01:13:15,920 --> 01:13:20,560
+like if you don't practice it just
+
+2115
+01:13:18,319 --> 01:13:21,920
+sitting down for 10 minutes straight and
+
+2116
+01:13:20,560 --> 01:13:24,080
+maintaining deep focus could be
+
+2117
+01:13:21,920 --> 01:13:26,560
+exceptionally challenging like if you're
+
+2118
+01:13:24,079 --> 01:13:28,640
+really thinking about a problem
+
+2119
+01:13:26,560 --> 01:13:30,159
+and to re i think it's really important
+
+2120
+01:13:28,640 --> 01:13:30,960
+to realize that that's a skill that you
+
+2121
+01:13:30,158 --> 01:13:32,559
+can
+
+2122
+01:13:30,960 --> 01:13:34,079
+just like a muscle you can build you can
+
+2123
+01:13:32,560 --> 01:13:36,719
+start with five minutes it goes to 10
+
+2124
+01:13:34,079 --> 01:13:38,479
+minutes to 30 into an hour and
+
+2125
+01:13:36,719 --> 01:13:41,119
+and to be successful i think in certain
+
+2126
+01:13:38,479 --> 01:13:43,678
+subjects like mathematics you want to be
+
+2127
+01:13:41,119 --> 01:13:47,920
+able to develop that skill otherwise
+
+2128
+01:13:43,679 --> 01:13:50,480
+you're not going to get to the the
+
+2129
+01:13:47,920 --> 01:13:52,399
+really rewarding experience of solving
+
+2130
+01:13:50,479 --> 01:13:53,439
+these problems
+
+2131
+01:13:52,399 --> 01:13:55,599
+definitely
+
+2132
+01:13:53,439 --> 01:13:56,960
+there was a survey done of kids in
+
+2133
+01:13:55,600 --> 01:13:58,560
+school where they were asked how long
+
+2134
+01:13:56,960 --> 01:14:00,719
+will you work on a maths problem before
+
+2135
+01:13:58,560 --> 01:14:03,440
+you give up and decide it's not
+
+2136
+01:14:00,719 --> 01:14:05,920
+possible to solve that question and the
+
+2137
+01:14:03,439 --> 01:14:08,479
+result on average across the kids was
+
+2138
+01:14:05,920 --> 01:14:08,480
+two minutes
+
+2139
+01:14:09,198 --> 01:14:12,719
+yeah
+
+2140
+01:14:11,279 --> 01:14:14,559
+so that's
+
+2141
+01:14:12,719 --> 01:14:17,439
+a bad sign but that's that was the
+
+2142
+01:14:14,560 --> 01:14:19,440
+powerful sign that uh they need to learn
+
+2143
+01:14:17,439 --> 01:14:20,319
+to not give up so quickly
+
+2144
+01:14:19,439 --> 01:14:22,799
+yeah
+
+2145
+01:14:20,319 --> 01:14:24,479
+uh we mentioned offline
+
+2146
+01:14:22,800 --> 01:14:26,400
+because we've been talking so much about
+
+2147
+01:14:24,479 --> 01:14:29,198
+visualization
+
+2148
+01:14:26,399 --> 01:14:30,238
+uh grant sanderson three luanne brown
+
+2149
+01:14:29,198 --> 01:14:32,238
+so
+
+2150
+01:14:30,238 --> 01:14:34,879
+he's inspired millions of people with
+
+2151
+01:14:32,238 --> 01:14:36,238
+the kind of uh exactly the kind of way
+
+2152
+01:14:34,880 --> 01:14:38,480
+of thinking that you've been talking
+
+2153
+01:14:36,238 --> 01:14:41,198
+about yeah i love his
+
+2154
+01:14:38,479 --> 01:14:44,799
+work converting sort of uh
+
+2155
+01:14:41,198 --> 01:14:45,678
+mathematical concepts into visual
+
+2156
+01:14:44,800 --> 01:14:48,079
+uh
+
+2157
+01:14:45,679 --> 01:14:50,319
+like uh visually representing them
+
+2158
+01:14:48,079 --> 01:14:52,719
+exploring them in ways that uh help you
+
+2159
+01:14:50,319 --> 01:14:53,599
+illuminate like the concepts
+
+2160
+01:14:52,719 --> 01:14:55,119
+um
+
+2161
+01:14:53,600 --> 01:14:57,199
+what do you think is the role of that so
+
+2162
+01:14:55,119 --> 01:14:58,719
+he uses mostly programmatic
+
+2163
+01:14:57,198 --> 01:15:01,359
+visualization so it's the thing i
+
+2164
+01:14:58,719 --> 01:15:05,039
+mentioned where there's like animations
+
+2165
+01:15:01,359 --> 01:15:07,119
+created by writing uh computer programs
+
+2166
+01:15:05,039 --> 01:15:09,198
+um like what what do you think how
+
+2167
+01:15:07,119 --> 01:15:10,399
+scalable is that approach but in general
+
+2168
+01:15:09,198 --> 01:15:12,639
+what do you think about his impression i
+
+2169
+01:15:10,399 --> 01:15:14,559
+think it's amazing i should work with
+
+2170
+01:15:12,640 --> 01:15:17,199
+him
+
+2171
+01:15:14,560 --> 01:15:20,880
+i i can share some of our visuals and he
+
+2172
+01:15:17,198 --> 01:15:23,359
+can make them in that amazing way um
+
+2173
+01:15:20,880 --> 01:15:24,880
+so part of his storytelling part of it
+
+2174
+01:15:23,359 --> 01:15:26,960
+is like
+
+2175
+01:15:24,880 --> 01:15:29,359
+it's creating the visuals and then
+
+2176
+01:15:26,960 --> 01:15:32,079
+weaving a story with those visuals
+
+2177
+01:15:29,359 --> 01:15:33,119
+that kind of builds like there's also i
+
+2178
+01:15:32,079 --> 01:15:35,439
+mean
+
+2179
+01:15:33,119 --> 01:15:37,760
+there's also drama in it you start with
+
+2180
+01:15:35,439 --> 01:15:40,639
+a small example and then you kind of all
+
+2181
+01:15:37,760 --> 01:15:42,800
+of a sudden there's a surprise yeah yeah
+
+2182
+01:15:40,640 --> 01:15:44,719
+yeah and it really i mean it makes you
+
+2183
+01:15:42,800 --> 01:15:48,400
+fall in love with the that's right with
+
+2184
+01:15:44,719 --> 01:15:51,520
+the concept yeah he does talk about that
+
+2185
+01:15:48,399 --> 01:15:55,198
+his sense is like some of the stuff he
+
+2186
+01:15:51,520 --> 01:15:57,679
+he he doesn't feel like he's teaching
+
+2187
+01:15:55,198 --> 01:16:00,000
+like the core curriculum which is
+
+2188
+01:15:57,679 --> 01:16:02,560
+something you know
+
+2189
+01:16:00,000 --> 01:16:03,520
+he sees himself as an inspirational
+
+2190
+01:16:02,560 --> 01:16:05,679
+figure
+
+2191
+01:16:03,520 --> 01:16:08,000
+but because i think it's too difficult
+
+2192
+01:16:05,679 --> 01:16:09,600
+to kind of convert all of the curriculum
+
+2193
+01:16:08,000 --> 01:16:11,760
+into those elements
+
+2194
+01:16:09,600 --> 01:16:12,640
+and probably you don't need to i mean
+
+2195
+01:16:11,760 --> 01:16:13,440
+you
+
+2196
+01:16:12,640 --> 01:16:15,440
+if
+
+2197
+01:16:13,439 --> 01:16:18,319
+people get to experience mathematical
+
+2198
+01:16:15,439 --> 01:16:20,238
+ideas in the way that he shares them
+
+2199
+01:16:18,319 --> 01:16:21,920
+um that will change them and it will
+
+2200
+01:16:20,238 --> 01:16:23,519
+change the way they they think and maybe
+
+2201
+01:16:21,920 --> 01:16:25,039
+they could go on to
+
+2202
+01:16:23,520 --> 01:16:27,760
+take some other mathematical idea and
+
+2203
+01:16:25,039 --> 01:16:28,960
+make it that beautiful well he does that
+
+2204
+01:16:27,760 --> 01:16:31,760
+uh there's a
+
+2205
+01:16:28,960 --> 01:16:34,158
+he created a library called manum
+
+2206
+01:16:31,760 --> 01:16:36,400
+and he open-sourced it and that library
+
+2207
+01:16:34,158 --> 01:16:37,679
+is the uh people should check it out
+
+2208
+01:16:36,399 --> 01:16:39,519
+it's
+
+2209
+01:16:37,679 --> 01:16:41,920
+written in python
+
+2210
+01:16:39,520 --> 01:16:44,000
+and it uses some of those same elements
+
+2211
+01:16:41,920 --> 01:16:46,399
+like it allows you to animate equations
+
+2212
+01:16:44,000 --> 01:16:47,279
+and animate little shapes like people
+
+2213
+01:16:46,399 --> 01:16:49,198
+that
+
+2214
+01:16:47,279 --> 01:16:51,679
+you know he has a very distinct style in
+
+2215
+01:16:49,198 --> 01:16:53,599
+his videos and what that resulted in
+
+2216
+01:16:51,679 --> 01:16:55,440
+even though from a software engineer
+
+2217
+01:16:53,600 --> 01:16:56,400
+perspective the code he released is not
+
+2218
+01:16:55,439 --> 01:16:58,960
+like
+
+2219
+01:16:56,399 --> 01:17:01,759
+super well documented or perfect
+
+2220
+01:16:58,960 --> 01:17:04,079
+but him releasing that
+
+2221
+01:17:01,760 --> 01:17:06,400
+now there's all of these other people
+
+2222
+01:17:04,079 --> 01:17:08,079
+educating it and the cool to me
+
+2223
+01:17:06,399 --> 01:17:09,839
+personally the coolest thing is to see
+
+2224
+01:17:08,079 --> 01:17:12,000
+like
+
+2225
+01:17:09,840 --> 01:17:13,920
+people they're not you know
+
+2226
+01:17:12,000 --> 01:17:16,158
+don't have like a million subscribers or
+
+2227
+01:17:13,920 --> 01:17:18,640
+something is they they they have just a
+
+2228
+01:17:16,158 --> 01:17:19,439
+few views on the video but it just seems
+
+2229
+01:17:18,640 --> 01:17:22,560
+like
+
+2230
+01:17:19,439 --> 01:17:24,319
+the process of them creating a video
+
+2231
+01:17:22,560 --> 01:17:26,239
+where they teach
+
+2232
+01:17:24,319 --> 01:17:27,599
+is like transformative to them yeah from
+
+2233
+01:17:26,238 --> 01:17:29,279
+a student perspective it's the old
+
+2234
+01:17:27,600 --> 01:17:31,280
+feynman thing the best way to learn is
+
+2235
+01:17:29,279 --> 01:17:33,840
+to teach right and then him releasing
+
+2236
+01:17:31,279 --> 01:17:36,158
+that into the wild is yeah
+
+2237
+01:17:33,840 --> 01:17:37,440
+it shows that that impact yeah
+
+2238
+01:17:36,158 --> 01:17:39,759
+absolutely
+
+2239
+01:17:37,439 --> 01:17:42,158
+i think just giving people that idea
+
+2240
+01:17:39,760 --> 01:17:43,840
+that you can do that with maths and
+
+2241
+01:17:42,158 --> 01:17:46,399
+other subjects they're
+
+2242
+01:17:43,840 --> 01:17:49,119
+bound to be people all around who can
+
+2243
+01:17:46,399 --> 01:17:51,279
+create more which is cool yeah i
+
+2244
+01:17:49,119 --> 01:17:53,198
+definitely so i recommend people do like
+
+2245
+01:17:51,279 --> 01:17:55,439
+javascript or python you can you can
+
+2246
+01:17:53,198 --> 01:17:57,919
+build like visualizations of
+
+2247
+01:17:55,439 --> 01:17:59,919
+most concepts in high school math you
+
+2248
+01:17:57,920 --> 01:18:01,440
+can do a lot of kinds of visualizations
+
+2249
+01:17:59,920 --> 01:18:03,199
+and doing that yourself
+
+2250
+01:18:01,439 --> 01:18:06,238
+plus if you do that yourself people
+
+2251
+01:18:03,198 --> 01:18:08,960
+really love it people actually
+
+2252
+01:18:06,238 --> 01:18:10,718
+people love visualizations of math
+
+2253
+01:18:08,960 --> 01:18:12,960
+yeah because they i mean it's something
+
+2254
+01:18:10,719 --> 01:18:16,399
+in us that loves patterns loves figuring
+
+2255
+01:18:12,960 --> 01:18:18,960
+out difficult things and the patterns in
+
+2256
+01:18:16,399 --> 01:18:21,920
+that are then are unexpected in some way
+
+2257
+01:18:18,960 --> 01:18:24,079
+yeah have you ever noticed that hotels
+
+2258
+01:18:21,920 --> 01:18:25,600
+are always filled with patterns
+
+2259
+01:18:24,079 --> 01:18:28,079
+i was just noticing at the hotel i mean
+
+2260
+01:18:25,600 --> 01:18:29,760
+now all of their carpets are patent
+
+2261
+01:18:28,079 --> 01:18:30,800
+carpets and then they have patterns on
+
+2262
+01:18:29,760 --> 01:18:32,480
+the walls
+
+2263
+01:18:30,800 --> 01:18:34,800
+yeah so
+
+2264
+01:18:32,479 --> 01:18:36,879
+yeah we humans love
+
+2265
+01:18:34,800 --> 01:18:38,840
+the symmetry and patterns the breaking
+
+2266
+01:18:36,880 --> 01:18:42,079
+of symmetry patterns
+
+2267
+01:18:38,840 --> 01:18:43,920
+yeah and it's funny that we don't see
+
+2268
+01:18:42,079 --> 01:18:46,158
+mathematics is somehow intricately
+
+2269
+01:18:43,920 --> 01:18:47,760
+connected to that but it is right i mean
+
+2270
+01:18:46,158 --> 01:18:49,679
+that's one of the perspectives i love
+
+2271
+01:18:47,760 --> 01:18:50,960
+students to take is to be a pattern
+
+2272
+01:18:49,679 --> 01:18:52,960
+seeker
+
+2273
+01:18:50,960 --> 01:18:54,800
+in everything in in yeah certainly in
+
+2274
+01:18:52,960 --> 01:18:56,480
+all of maths i mean you can think of all
+
+2275
+01:18:54,800 --> 01:18:58,000
+of maths as a kind of subject of
+
+2276
+01:18:56,479 --> 01:19:01,198
+patterns and
+
+2277
+01:18:58,000 --> 01:19:03,279
+not just visual patterns but
+
+2278
+01:19:01,198 --> 01:19:05,678
+you know when you think about
+
+2279
+01:19:03,279 --> 01:19:07,679
+multiplying by five
+
+2280
+01:19:05,679 --> 01:19:09,840
+and the fact you can
+
+2281
+01:19:07,679 --> 01:19:11,199
+you know if you if you're multiplying 18
+
+2282
+01:19:09,840 --> 01:19:14,640
+times 5
+
+2283
+01:19:11,198 --> 01:19:16,639
+you can instead think of 9 times 10.
+
+2284
+01:19:14,640 --> 01:19:18,000
+that's a pattern that always works in
+
+2285
+01:19:16,640 --> 01:19:20,079
+mathematics you can have a number and
+
+2286
+01:19:18,000 --> 01:19:21,520
+double number and so yeah i just think
+
+2287
+01:19:20,079 --> 01:19:23,840
+there are patterns everywhere and if
+
+2288
+01:19:21,520 --> 01:19:26,640
+kids are thinking their role is to see
+
+2289
+01:19:23,840 --> 01:19:28,480
+patterns and find patterns it's
+
+2290
+01:19:26,640 --> 01:19:30,640
+really exciting
+
+2291
+01:19:28,479 --> 01:19:31,919
+what do you think about like mit open
+
+2292
+01:19:30,640 --> 01:19:34,880
+courseware
+
+2293
+01:19:31,920 --> 01:19:37,679
+and the release of lectures by
+
+2294
+01:19:34,880 --> 01:19:39,600
+universities i think it's good
+
+2295
+01:19:37,679 --> 01:19:42,158
+i think it's good i think the
+
+2296
+01:19:39,600 --> 01:19:43,039
+that is what started
+
+2297
+01:19:42,158 --> 01:19:44,879
+the
+
+2298
+01:19:43,039 --> 01:19:46,880
+mooc i did was
+
+2299
+01:19:44,880 --> 01:19:49,119
+using that platform so you ultimately
+
+2300
+01:19:46,880 --> 01:19:50,400
+think like the udacity model is a little
+
+2301
+01:19:49,119 --> 01:19:52,559
+bit more effective
+
+2302
+01:19:50,399 --> 01:19:54,079
+than just a plain two-hour lecture i
+
+2303
+01:19:52,560 --> 01:19:56,960
+think there's definitely you can bring
+
+2304
+01:19:54,079 --> 01:19:59,119
+in good pedagogy into online learning
+
+2305
+01:19:56,960 --> 01:20:00,960
+and i think the idea of putting things
+
+2306
+01:19:59,119 --> 01:20:03,119
+online so that people all over the world
+
+2307
+01:20:00,960 --> 01:20:06,000
+can access them it's great i don't think
+
+2308
+01:20:03,119 --> 01:20:08,399
+the initial excitement around moocs
+
+2309
+01:20:06,000 --> 01:20:10,000
+sort of democratizing education and
+
+2310
+01:20:08,399 --> 01:20:11,039
+making it more equal
+
+2311
+01:20:10,000 --> 01:20:13,039
+um
+
+2312
+01:20:11,039 --> 01:20:14,719
+came about because they found that the
+
+2313
+01:20:13,039 --> 01:20:17,039
+people taking moocs tended to be the
+
+2314
+01:20:14,719 --> 01:20:19,679
+more privileged people
+
+2315
+01:20:17,039 --> 01:20:21,600
+so that was i think there's still
+
+2316
+01:20:19,679 --> 01:20:23,760
+something to be found in that there's
+
+2317
+01:20:21,600 --> 01:20:24,560
+still more to be done to
+
+2318
+01:20:23,760 --> 01:20:26,880
+help
+
+2319
+01:20:24,560 --> 01:20:28,400
+that online learning reach those
+
+2320
+01:20:26,880 --> 01:20:30,960
+principles but
+
+2321
+01:20:28,399 --> 01:20:33,839
+um definitely i think it's it's a good
+
+2322
+01:20:30,960 --> 01:20:36,639
+invention and i have an online class
+
+2323
+01:20:33,840 --> 01:20:38,560
+that's for kids that's little free class
+
+2324
+01:20:36,639 --> 01:20:41,359
+that gives them a topic it's called how
+
+2325
+01:20:38,560 --> 01:20:41,360
+to learn maths
+
+2326
+01:20:41,760 --> 01:20:46,159
+it shows maths as this visual creative
+
+2327
+01:20:43,840 --> 01:20:48,079
+subject and it shares mindset and some
+
+2328
+01:20:46,158 --> 01:20:49,119
+brain science and
+
+2329
+01:20:48,079 --> 01:20:50,880
+um
+
+2330
+01:20:49,119 --> 01:20:52,639
+kids who take it do better in maths
+
+2331
+01:20:50,880 --> 01:20:55,199
+class we've studied it with like
+
+2332
+01:20:52,639 --> 01:20:58,319
+randomized controlled trials and
+
+2333
+01:20:55,198 --> 01:21:00,158
+given it to middle school kids and other
+
+2334
+01:20:58,319 --> 01:21:01,679
+middle school kids who don't take it but
+
+2335
+01:21:00,158 --> 01:21:03,679
+are taught by the same teachers so their
+
+2336
+01:21:01,679 --> 01:21:05,840
+teachers are the same and the kids who
+
+2337
+01:21:03,679 --> 01:21:09,359
+take the online class end up
+
+2338
+01:21:05,840 --> 01:21:11,600
+68 more engaged in their maths class and
+
+2339
+01:21:09,359 --> 01:21:14,639
+do better at the end of the year so
+
+2340
+01:21:11,600 --> 01:21:16,560
+that's a little six session 15 minute
+
+2341
+01:21:14,639 --> 01:21:19,920
+class and
+
+2342
+01:21:16,560 --> 01:21:23,199
+it changes kids maths relationships so
+
+2343
+01:21:19,920 --> 01:21:24,880
+it is true that we can do that with some
+
+2344
+01:21:23,198 --> 01:21:27,279
+words
+
+2345
+01:21:24,880 --> 01:21:30,319
+that aren't you know not it's not a huge
+
+2346
+01:21:27,279 --> 01:21:33,119
+change to the education system
+
+2347
+01:21:30,319 --> 01:21:34,719
+do you have advice for young people
+
+2348
+01:21:33,119 --> 01:21:36,000
+we've been talking about mathematics
+
+2349
+01:21:34,719 --> 01:21:38,480
+quite a bit
+
+2350
+01:21:36,000 --> 01:21:40,800
+but in terms of their journey through
+
+2351
+01:21:38,479 --> 01:21:43,519
+education through their career choices
+
+2352
+01:21:40,800 --> 01:21:46,239
+through life maybe middle school high
+
+2353
+01:21:43,520 --> 01:21:48,000
+school undergrad students
+
+2354
+01:21:46,238 --> 01:21:50,479
+how to live a life that they can be
+
+2355
+01:21:48,000 --> 01:21:50,479
+proud of
+
+2356
+01:21:50,639 --> 01:21:56,719
+i think if i were to give advice to
+
+2357
+01:21:53,359 --> 01:21:58,799
+people especially young people my advice
+
+2358
+01:21:56,719 --> 01:22:02,399
+would be to
+
+2359
+01:21:58,800 --> 01:22:04,320
+always it sounds really corny but always
+
+2360
+01:22:02,399 --> 01:22:06,479
+believe in yourself and know that you
+
+2361
+01:22:04,319 --> 01:22:08,000
+can achieve because
+
+2362
+01:22:06,479 --> 01:22:09,439
+although that sounds like obvious of
+
+2363
+01:22:08,000 --> 01:22:11,840
+course we want kids to know that they
+
+2364
+01:22:09,439 --> 01:22:13,198
+can achieve things i know that
+
+2365
+01:22:11,840 --> 01:22:15,360
+millions of kids are in the school
+
+2366
+01:22:13,198 --> 01:22:17,279
+system have been given the message they
+
+2367
+01:22:15,359 --> 01:22:19,439
+cannot do things
+
+2368
+01:22:17,279 --> 01:22:21,840
+and adults too
+
+2369
+01:22:19,439 --> 01:22:24,158
+they have the idea oh i did okay in this
+
+2370
+01:22:21,840 --> 01:22:26,880
+i went into this job because those other
+
+2371
+01:22:24,158 --> 01:22:29,279
+things i could never have done okay in
+
+2372
+01:22:26,880 --> 01:22:31,520
+so actually when they hear hey maybe you
+
+2373
+01:22:29,279 --> 01:22:34,319
+could do those other things
+
+2374
+01:22:31,520 --> 01:22:36,400
+even adults think you know
+
+2375
+01:22:34,319 --> 01:22:38,238
+maybe i can and they go back and they
+
+2376
+01:22:36,399 --> 01:22:40,719
+encounter this knowledge and they
+
+2377
+01:22:38,238 --> 01:22:41,519
+relearn things and they change careers
+
+2378
+01:22:40,719 --> 01:22:43,520
+and
+
+2379
+01:22:41,520 --> 01:22:45,360
+amazing things happen so
+
+2380
+01:22:43,520 --> 01:22:47,840
+for me i think that message is really
+
+2381
+01:22:45,359 --> 01:22:50,238
+important you can learn anything
+
+2382
+01:22:47,840 --> 01:22:51,440
+scientists try and find a limit they're
+
+2383
+01:22:50,238 --> 01:22:52,799
+always trying to find a limit like how
+
+2384
+01:22:51,439 --> 01:22:54,479
+much can you really learn what's the
+
+2385
+01:22:52,800 --> 01:22:56,159
+limit to how much you can earn and they
+
+2386
+01:22:54,479 --> 01:22:58,079
+always come away not being able to find
+
+2387
+01:22:56,158 --> 01:23:00,638
+it people can just go further and
+
+2388
+01:22:58,079 --> 01:23:01,439
+further and further and that is true of
+
+2389
+01:23:00,639 --> 01:23:03,440
+people
+
+2390
+01:23:01,439 --> 01:23:05,439
+born with brain
+
+2391
+01:23:03,439 --> 01:23:06,879
+um you know areas of their brain that
+
+2392
+01:23:05,439 --> 01:23:08,638
+aren't functioning well that have what
+
+2393
+01:23:06,880 --> 01:23:10,319
+we call special needs
+
+2394
+01:23:08,639 --> 01:23:11,679
+some of those people also go on to
+
+2395
+01:23:10,319 --> 01:23:13,920
+develop and
+
+2396
+01:23:11,679 --> 01:23:17,440
+do amazing things so
+
+2397
+01:23:13,920 --> 01:23:19,440
+i think that really experiencing that
+
+2398
+01:23:17,439 --> 01:23:21,198
+knowing that feeling not just saying it
+
+2399
+01:23:19,439 --> 01:23:22,238
+but knowing it
+
+2400
+01:23:21,198 --> 01:23:24,158
+deeply
+
+2401
+01:23:22,238 --> 01:23:26,319
+you can learn anything
+
+2402
+01:23:24,158 --> 01:23:28,719
+is um
+
+2403
+01:23:26,319 --> 01:23:30,238
+something i wish all people would have
+
+2404
+01:23:28,719 --> 01:23:32,560
+actually also applies when you've
+
+2405
+01:23:30,238 --> 01:23:33,759
+achieved some level of success too what
+
+2406
+01:23:32,560 --> 01:23:36,320
+i find
+
+2407
+01:23:33,760 --> 01:23:38,159
+like in my life with people that love me
+
+2408
+01:23:36,319 --> 01:23:40,399
+when you achieve success
+
+2409
+01:23:38,158 --> 01:23:42,799
+they keep celebrating your success and
+
+2410
+01:23:40,399 --> 01:23:45,519
+they want you to keep doing the thing
+
+2411
+01:23:42,800 --> 01:23:48,560
+that you were successful at as opposed
+
+2412
+01:23:45,520 --> 01:23:49,920
+to believing in that you can do
+
+2413
+01:23:48,560 --> 01:23:52,239
+something else something big whatever
+
+2414
+01:23:49,920 --> 01:23:54,319
+your heart says to do right and one of
+
+2415
+01:23:52,238 --> 01:23:55,678
+the things that i realized the value of
+
+2416
+01:23:54,319 --> 01:23:57,279
+this
+
+2417
+01:23:55,679 --> 01:23:59,600
+um
+
+2418
+01:23:57,279 --> 01:24:00,479
+you know quite recently which is sad to
+
+2419
+01:23:59,600 --> 01:24:03,199
+say
+
+2420
+01:24:00,479 --> 01:24:04,959
+is how important it is to seek out uh
+
+2421
+01:24:03,198 --> 01:24:06,479
+when you're younger to seek out mentors
+
+2422
+01:24:04,960 --> 01:24:07,359
+to seek out the
+
+2423
+01:24:06,479 --> 01:24:08,959
+people
+
+2424
+01:24:07,359 --> 01:24:11,439
+like surround yourself with people that
+
+2425
+01:24:08,960 --> 01:24:14,079
+will believe in you yeah it's like a
+
+2426
+01:24:11,439 --> 01:24:17,759
+little bit of is on you
+
+2427
+01:24:14,079 --> 01:24:20,319
+it's like uh you don't get that um
+
+2428
+01:24:17,760 --> 01:24:22,320
+sometimes if you go to like grad school
+
+2429
+01:24:20,319 --> 01:24:24,079
+you think you kind of land on a mentor
+
+2430
+01:24:22,319 --> 01:24:26,000
+maybe you pick a mentor based on the
+
+2431
+01:24:24,079 --> 01:24:27,760
+topic they're interested in but the
+
+2432
+01:24:26,000 --> 01:24:28,960
+reality is the people you surround
+
+2433
+01:24:27,760 --> 01:24:30,639
+yourself with
+
+2434
+01:24:28,960 --> 01:24:34,239
+they're going to define
+
+2435
+01:24:30,639 --> 01:24:36,400
+your life yeah trajectory so select
+
+2436
+01:24:34,238 --> 01:24:37,919
+people they're really true and get away
+
+2437
+01:24:36,399 --> 01:24:38,719
+from people who don't believe you don't
+
+2438
+01:24:37,920 --> 01:24:40,719
+yeah
+
+2439
+01:24:38,719 --> 01:24:44,560
+sometimes parents can be that they love
+
+2440
+01:24:40,719 --> 01:24:46,560
+you deeply but they be you know they set
+
+2441
+01:24:44,560 --> 01:24:48,239
+it's the math thing we mentioned they
+
+2442
+01:24:46,560 --> 01:24:50,960
+might set certain
+
+2443
+01:24:48,238 --> 01:24:52,000
+constraints on the beliefs that you have
+
+2444
+01:24:50,960 --> 01:24:52,880
+and
+
+2445
+01:24:52,000 --> 01:24:54,479
+so
+
+2446
+01:24:52,880 --> 01:24:56,079
+in that if you're interested in
+
+2447
+01:24:54,479 --> 01:24:57,359
+mathematics and your parents are not
+
+2448
+01:24:56,079 --> 01:24:59,679
+that interested in it don't listen to
+
+2449
+01:24:57,359 --> 01:25:00,880
+your parents on that one dimension
+
+2450
+01:24:59,679 --> 01:25:02,560
+exactly
+
+2451
+01:25:00,880 --> 01:25:04,239
+yeah and if people tell you you can't do
+
+2452
+01:25:02,560 --> 01:25:06,480
+things you have to
+
+2453
+01:25:04,238 --> 01:25:08,319
+hear from other people who who believe
+
+2454
+01:25:06,479 --> 01:25:09,359
+you i think you're absolutely right
+
+2455
+01:25:08,319 --> 01:25:11,279
+about that
+
+2456
+01:25:09,359 --> 01:25:14,079
+so sad the number of people who've had
+
+2457
+01:25:11,279 --> 01:25:16,079
+those negative messages from parents
+
+2458
+01:25:14,079 --> 01:25:17,760
+in my limitless mind book i interviewed
+
+2459
+01:25:16,079 --> 01:25:20,000
+quite a few people who'd been told they
+
+2460
+01:25:17,760 --> 01:25:21,760
+couldn't do math sometimes by parents
+
+2461
+01:25:20,000 --> 01:25:22,639
+sometimes by teachers
+
+2462
+01:25:21,760 --> 01:25:24,960
+and
+
+2463
+01:25:22,639 --> 01:25:26,800
+fortunately they had got other ideas at
+
+2464
+01:25:24,960 --> 01:25:29,359
+some point in their life and
+
+2465
+01:25:26,800 --> 01:25:31,360
+realized there was this whole world of
+
+2466
+01:25:29,359 --> 01:25:32,399
+mathematical thinking that was open to
+
+2467
+01:25:31,359 --> 01:25:33,359
+them
+
+2468
+01:25:32,399 --> 01:25:35,839
+so
+
+2469
+01:25:33,359 --> 01:25:36,960
+it's really important that people
+
+2470
+01:25:35,840 --> 01:25:39,119
+do
+
+2471
+01:25:36,960 --> 01:25:40,960
+connect with people who believe in them
+
+2472
+01:25:39,119 --> 01:25:42,079
+however hard that might be to find those
+
+2473
+01:25:40,960 --> 01:25:44,880
+people
+
+2474
+01:25:42,079 --> 01:25:48,000
+what do you hope the education system
+
+2475
+01:25:44,880 --> 01:25:49,520
+education in general looks like 10 20 50
+
+2476
+01:25:48,000 --> 01:25:51,679
+100 years from now
+
+2477
+01:25:49,520 --> 01:25:53,920
+are you optimistic about this future
+
+2478
+01:25:51,679 --> 01:25:55,760
+yeah i definitely have hope there is
+
+2479
+01:25:53,920 --> 01:25:58,600
+change can happen in the education
+
+2480
+01:25:55,760 --> 01:26:01,039
+system in recent years it's been
+
+2481
+01:25:58,600 --> 01:26:01,840
+microscopically slow
+
+2482
+01:26:01,039 --> 01:26:03,359
+and
+
+2483
+01:26:01,840 --> 01:26:04,800
+um
+
+2484
+01:26:03,359 --> 01:26:07,279
+but
+
+2485
+01:26:04,800 --> 01:26:09,360
+i do actually see change happening like
+
+2486
+01:26:07,279 --> 01:26:11,439
+we were talking earlier that
+
+2487
+01:26:09,359 --> 01:26:14,319
+data science is now a course you can
+
+2488
+01:26:11,439 --> 01:26:16,638
+take in high school instead of algebra 2
+
+2489
+01:26:14,319 --> 01:26:20,079
+and that's pretty amazing because
+
+2490
+01:26:16,639 --> 01:26:23,279
+that content was set out in 1892 and
+
+2491
+01:26:20,079 --> 01:26:25,519
+hasn't changed since then and so now
+
+2492
+01:26:23,279 --> 01:26:27,840
+we're actually seeing a change in the
+
+2493
+01:26:25,520 --> 01:26:29,679
+content of high school so
+
+2494
+01:26:27,840 --> 01:26:31,279
+i'm amazed that that's happening and
+
+2495
+01:26:29,679 --> 01:26:33,600
+very happy it's happening but
+
+2496
+01:26:31,279 --> 01:26:35,359
+so change is very slow in education
+
+2497
+01:26:33,600 --> 01:26:37,600
+usually but
+
+2498
+01:26:35,359 --> 01:26:40,719
+when you look ahead
+
+2499
+01:26:37,600 --> 01:26:42,719
+and think about all that we know
+
+2500
+01:26:40,719 --> 01:26:45,279
+and all that we can offer kids in terms
+
+2501
+01:26:42,719 --> 01:26:47,760
+of technology
+
+2502
+01:26:45,279 --> 01:26:48,559
+you've got to think that 100 years from
+
+2503
+01:26:47,760 --> 01:26:51,360
+now
+
+2504
+01:26:48,560 --> 01:26:53,520
+education will be totally different to
+
+2505
+01:26:51,359 --> 01:26:56,000
+the way it is now maybe we won't have
+
+2506
+01:26:53,520 --> 01:26:58,159
+subject boundaries anymore
+
+2507
+01:26:56,000 --> 01:27:01,198
+because those don't really make much
+
+2508
+01:26:58,158 --> 01:27:04,399
+sense it's interesting to think
+
+2509
+01:27:01,198 --> 01:27:05,678
+how certain tools like programming maybe
+
+2510
+01:27:04,399 --> 01:27:07,279
+they'll be deeply integrated and
+
+2511
+01:27:05,679 --> 01:27:08,880
+everything you think yeah you would
+
+2512
+01:27:07,279 --> 01:27:10,479
+think that all kids are growing up
+
+2513
+01:27:08,880 --> 01:27:11,359
+learning to program
+
+2514
+01:27:10,479 --> 01:27:12,799
+and
+
+2515
+01:27:11,359 --> 01:27:15,359
+create
+
+2516
+01:27:12,800 --> 01:27:17,279
+so um i just think i mean the system of
+
+2517
+01:27:15,359 --> 01:27:18,880
+schooling we have now people call it a
+
+2518
+01:27:17,279 --> 01:27:19,759
+factory model
+
+2519
+01:27:18,880 --> 01:27:24,960
+it's
+
+2520
+01:27:19,760 --> 01:27:27,600
+not designed to inspire creativity and
+
+2521
+01:27:24,960 --> 01:27:29,279
+i feel like that will also change people
+
+2522
+01:27:27,600 --> 01:27:31,360
+might look back on these days and think
+
+2523
+01:27:29,279 --> 01:27:34,238
+they were hilarious but
+
+2524
+01:27:31,359 --> 01:27:35,279
+um maybe we'll in the future kids will
+
+2525
+01:27:34,238 --> 01:27:37,039
+be doing their own programming and
+
+2526
+01:27:35,279 --> 01:27:38,880
+they'll be able to learn things and find
+
+2527
+01:27:37,039 --> 01:27:41,600
+out things and create things even as
+
+2528
+01:27:38,880 --> 01:27:44,800
+they're learning and
+
+2529
+01:27:41,600 --> 01:27:45,840
+maybe the individual subjects boundaries
+
+2530
+01:27:44,800 --> 01:27:47,920
+will go
+
+2531
+01:27:45,840 --> 01:27:49,760
+data science itself coming into the
+
+2532
+01:27:47,920 --> 01:27:51,119
+education system kind of illustrates
+
+2533
+01:27:49,760 --> 01:27:53,440
+that because
+
+2534
+01:27:51,119 --> 01:27:56,479
+people realize it doesn't really fit
+
+2535
+01:27:53,439 --> 01:27:58,319
+inside any of the subjects
+
+2536
+01:27:56,479 --> 01:28:02,479
+so what do we do with it where does it
+
+2537
+01:27:58,319 --> 01:28:05,039
+go and who teaches it so it's already
+
+2538
+01:28:02,479 --> 01:28:07,039
+raising those kind of questions and
+
+2539
+01:28:05,039 --> 01:28:08,960
+questioning how we have these different
+
+2540
+01:28:07,039 --> 01:28:10,238
+subject boundaries
+
+2541
+01:28:08,960 --> 01:28:12,158
+so you've seen data science be
+
+2542
+01:28:10,238 --> 01:28:14,399
+integrated into the curriculum
+
+2543
+01:28:12,158 --> 01:28:16,319
+yes it's happening across the united
+
+2544
+01:28:14,399 --> 01:28:18,319
+states as we speak i wonder how that got
+
+2545
+01:28:16,319 --> 01:28:20,559
+initiated like how does change happen in
+
+2546
+01:28:18,319 --> 01:28:22,799
+the education system is it just a few
+
+2547
+01:28:20,560 --> 01:28:25,120
+revolutionary like it does
+
+2548
+01:28:22,800 --> 01:28:26,800
+i think so i think so it's been an
+
+2549
+01:28:25,119 --> 01:28:29,279
+interesting journey seeing data science
+
+2550
+01:28:26,800 --> 01:28:31,360
+take off actually it um
+
+2551
+01:28:29,279 --> 01:28:34,800
+there was a
+
+2552
+01:28:31,359 --> 01:28:36,960
+course that was developed in 2014
+
+2553
+01:28:34,800 --> 01:28:39,360
+by some people who thought data science
+
+2554
+01:28:36,960 --> 01:28:42,158
+was a good idea for high schoolers
+
+2555
+01:28:39,359 --> 01:28:44,238
+and then after some kids took the course
+
+2556
+01:28:42,158 --> 01:28:46,399
+and nothing bad happened to them
+
+2557
+01:28:44,238 --> 01:28:49,198
+they went to college and
+
+2558
+01:28:46,399 --> 01:28:51,119
+people started to accept it more
+
+2559
+01:28:49,198 --> 01:28:53,359
+and then this was a big piece of the
+
+2560
+01:28:51,119 --> 01:28:56,000
+change in california the uc system
+
+2561
+01:28:53,359 --> 01:28:58,158
+communicated they sent out an email last
+
+2562
+01:28:56,000 --> 01:29:00,319
+year to 50 000 high schools saying we
+
+2563
+01:28:58,158 --> 01:29:02,158
+now accept data science kids can take it
+
+2564
+01:29:00,319 --> 01:29:04,880
+instead of algebra two that's a
+
+2565
+01:29:02,158 --> 01:29:07,279
+perfectly legitimate college pathway so
+
+2566
+01:29:04,880 --> 01:29:09,440
+that was like a big green light for a
+
+2567
+01:29:07,279 --> 01:29:11,439
+lot of schools who are like wondering
+
+2568
+01:29:09,439 --> 01:29:13,919
+about whether they could teach it so i
+
+2569
+01:29:11,439 --> 01:29:16,638
+think it happens in small spaces and
+
+2570
+01:29:13,920 --> 01:29:18,639
+expands so now it goes viral yeah in
+
+2571
+01:29:16,639 --> 01:29:20,960
+this latter age then it goes viral
+
+2572
+01:29:18,639 --> 01:29:23,840
+california's ahead
+
+2573
+01:29:20,960 --> 01:29:27,679
+um i think in creating courses and
+
+2574
+01:29:23,840 --> 01:29:29,279
+having kids go through it but it's
+
+2575
+01:29:27,679 --> 01:29:31,359
+suddenly when i last looked there were
+
+2576
+01:29:29,279 --> 01:29:32,719
+12 states that were allowing data
+
+2577
+01:29:31,359 --> 01:29:33,439
+science as a high school course and i
+
+2578
+01:29:32,719 --> 01:29:34,800
+think
+
+2579
+01:29:33,439 --> 01:29:36,638
+by next year
+
+2580
+01:29:34,800 --> 01:29:39,440
+that will have doubled
+
+2581
+01:29:36,639 --> 01:29:41,039
+or more so
+
+2582
+01:29:39,439 --> 01:29:44,079
+change is happening
+
+2583
+01:29:41,039 --> 01:29:46,238
+joe i as i said i think
+
+2584
+01:29:44,079 --> 01:29:48,960
+mathematics is uh
+
+2585
+01:29:46,238 --> 01:29:50,799
+is truly a beautiful subject and
+
+2586
+01:29:48,960 --> 01:29:53,840
+you having an impact on millions of
+
+2587
+01:29:50,800 --> 01:29:56,079
+people's lives by educating them by
+
+2588
+01:29:53,840 --> 01:29:58,000
+inspiring teachers to educate
+
+2589
+01:29:56,079 --> 01:30:01,359
+in the ways that you've talked about in
+
+2590
+01:29:58,000 --> 01:30:03,359
+multi-dimensional ways in visual ways um
+
+2591
+01:30:01,359 --> 01:30:06,000
+i think is incredible so you're
+
+2592
+01:30:03,359 --> 01:30:07,759
+spreading beauty appreciate that
+
+2593
+01:30:06,000 --> 01:30:09,198
+so i really really appreciate that you
+
+2594
+01:30:07,760 --> 01:30:10,400
+spend your valuable time with me today
+
+2595
+01:30:09,198 --> 01:30:12,479
+thank you for talking thank you it's
+
+2596
+01:30:10,399 --> 01:30:13,519
+really good to talk to you
+
+2597
+01:30:12,479 --> 01:30:15,599
+thanks for listening to this
+
+2598
+01:30:13,520 --> 01:30:17,360
+conversation with joe bowler to support
+
+2599
+01:30:15,600 --> 01:30:19,440
+this podcast please check out our
+
+2600
+01:30:17,359 --> 01:30:21,359
+sponsors in the description
+
+2601
+01:30:19,439 --> 01:30:23,519
+and now let me leave you with some words
+
+2602
+01:30:21,359 --> 01:30:26,399
+from albert einstein
+
+2603
+01:30:23,520 --> 01:30:28,719
+pure mathematics is the poetry of
+
+2604
+01:30:26,399 --> 01:30:30,719
+logical ideas
+
+2605
+01:30:28,719 --> 01:30:33,960
+thanks for listening and hope to see you
+
+2606
+01:30:30,719 --> 01:30:33,960
+next time
+
+2607
+01:30:40,000 --> 01:30:42,079
+you
+

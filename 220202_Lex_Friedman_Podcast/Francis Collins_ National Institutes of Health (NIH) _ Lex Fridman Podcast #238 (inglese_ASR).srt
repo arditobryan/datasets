@@ -1,0 +1,9628 @@
+1
+00:00:00,160 --> 00:00:04,879
+the following is a conversation with
+
+2
+00:00:01,760 --> 00:00:07,679
+francis collins director of the nih the
+
+3
+00:00:04,879 --> 00:00:09,519
+national institutes of health appointed
+
+4
+00:00:07,679 --> 00:00:13,039
+and reappointed to the role by three
+
+5
+00:00:09,519 --> 00:00:15,839
+presidents obama trump and biden
+
+6
+00:00:13,039 --> 00:00:18,640
+he oversees 27 separate institutes and
+
+7
+00:00:15,839 --> 00:00:20,719
+centers including nyad which makes him
+
+8
+00:00:18,640 --> 00:00:23,920
+anthony fauci's boss
+
+9
+00:00:20,719 --> 00:00:26,479
+at the nih francis helped launch and led
+
+10
+00:00:23,920 --> 00:00:28,480
+a huge number of projects that pushed
+
+11
+00:00:26,480 --> 00:00:31,278
+the frontiers of science health and
+
+12
+00:00:28,480 --> 00:00:33,520
+medicine including one of my favorites
+
+13
+00:00:31,278 --> 00:00:36,159
+the brain initiative that seeks to map
+
+14
+00:00:33,520 --> 00:00:39,440
+the human brain and understand how the
+
+15
+00:00:36,159 --> 00:00:41,839
+function arises from neural circuitry
+
+16
+00:00:39,439 --> 00:00:44,159
+before the nih francis led the human
+
+17
+00:00:41,840 --> 00:00:46,399
+genome project one of the largest and
+
+18
+00:00:44,159 --> 00:00:47,759
+most ambitious efforts in the history of
+
+19
+00:00:46,399 --> 00:00:50,719
+science
+
+20
+00:00:47,759 --> 00:00:52,558
+given all that francis is a humble
+
+21
+00:00:50,719 --> 00:00:54,640
+thoughtful kind man
+
+22
+00:00:52,558 --> 00:00:57,039
+and because of this to me he's one of
+
+23
+00:00:54,640 --> 00:01:00,480
+the best representatives of science in
+
+24
+00:00:57,039 --> 00:01:02,239
+the world he is a man of god and yet
+
+25
+00:01:00,479 --> 00:01:05,198
+also a friend of the late christopher
+
+26
+00:01:02,238 --> 00:01:08,158
+hitchens who called him quote one of the
+
+27
+00:01:05,198 --> 00:01:10,319
+greatest living americans
+
+28
+00:01:08,159 --> 00:01:12,320
+this is a lex friedman podcast to
+
+29
+00:01:10,319 --> 00:01:14,559
+support it please check out our sponsors
+
+30
+00:01:12,319 --> 00:01:18,319
+in the description and now here's my
+
+31
+00:01:14,560 --> 00:01:21,280
+conversation with francis collins
+
+32
+00:01:18,319 --> 00:01:23,359
+science at his best is a source of hope
+
+33
+00:01:21,280 --> 00:01:26,079
+so for me it's been difficult to watch
+
+34
+00:01:23,359 --> 00:01:28,000
+as it has during the pandemic become at
+
+35
+00:01:26,079 --> 00:01:29,039
+times a source of division
+
+36
+00:01:28,000 --> 00:01:30,879
+what i would love to do in this
+
+37
+00:01:29,040 --> 00:01:33,360
+conversation with you
+
+38
+00:01:30,879 --> 00:01:36,078
+is touch some difficult topics and do so
+
+39
+00:01:33,359 --> 00:01:38,000
+with empathy and humility so that we may
+
+40
+00:01:36,078 --> 00:01:40,078
+begin to regain a sense of trust in
+
+41
+00:01:38,000 --> 00:01:41,759
+science and then it may once again
+
+42
+00:01:40,078 --> 00:01:43,599
+become a source of hope
+
+43
+00:01:41,759 --> 00:01:44,879
+i hope that's okay with you i love the
+
+44
+00:01:43,599 --> 00:01:47,519
+goal
+
+45
+00:01:44,879 --> 00:01:50,158
+let's start with some hard questions
+
+46
+00:01:47,519 --> 00:01:52,239
+you called for quote thorough expert
+
+47
+00:01:50,159 --> 00:01:55,439
+driven and objective inquiry into the
+
+48
+00:01:52,239 --> 00:01:57,359
+origins of coven 19 so let me ask
+
+49
+00:01:55,438 --> 00:02:00,078
+is there a reasonable chance that covet
+
+50
+00:01:57,359 --> 00:02:02,959
+19 leaked from a lab
+
+51
+00:02:00,078 --> 00:02:06,000
+i can't exclude that i think it's fairly
+
+52
+00:02:02,959 --> 00:02:08,239
+unlikely i wish we had more ability to
+
+53
+00:02:06,000 --> 00:02:09,840
+be able to ask questions of the chinese
+
+54
+00:02:08,239 --> 00:02:11,759
+government and
+
+55
+00:02:09,840 --> 00:02:13,520
+learn more about what kind of records
+
+56
+00:02:11,759 --> 00:02:15,439
+might have been in the lab that we've
+
+57
+00:02:13,520 --> 00:02:17,920
+never been able to see
+
+58
+00:02:15,439 --> 00:02:20,400
+but most likely this was a natural
+
+59
+00:02:17,919 --> 00:02:22,399
+origin of a virus probably starting in a
+
+60
+00:02:20,400 --> 00:02:25,039
+bat perhaps traveling through some other
+
+61
+00:02:22,400 --> 00:02:27,360
+intermediate yet to be identified host
+
+62
+00:02:25,039 --> 00:02:28,799
+and finding its way into humans
+
+63
+00:02:27,360 --> 00:02:30,879
+is answering this question within the
+
+64
+00:02:28,800 --> 00:02:33,280
+realm of science do you think will we
+
+65
+00:02:30,878 --> 00:02:35,759
+ever know i think we might know if we
+
+66
+00:02:33,280 --> 00:02:37,759
+find that intermediate host
+
+67
+00:02:35,759 --> 00:02:38,560
+and there has not yet been a thorough
+
+68
+00:02:37,759 --> 00:02:40,318
+enough
+
+69
+00:02:38,560 --> 00:02:41,680
+investigation to say that that's not
+
+70
+00:02:40,318 --> 00:02:44,560
+going to happen
+
+71
+00:02:41,680 --> 00:02:47,040
+and remember it takes a while to do this
+
+72
+00:02:44,560 --> 00:02:49,120
+with sars it was 14 years before we
+
+73
+00:02:47,039 --> 00:02:51,359
+figured out it was the civet cat that
+
+74
+00:02:49,120 --> 00:02:52,800
+was the intermediate host with mers it
+
+75
+00:02:51,360 --> 00:02:53,920
+was a little quicker to discover it was
+
+76
+00:02:52,800 --> 00:02:56,640
+the camel
+
+77
+00:02:53,919 --> 00:02:58,559
+with sarsko v2 there's been some looking
+
+78
+00:02:56,639 --> 00:03:01,439
+but especially now with everything
+
+79
+00:02:58,560 --> 00:03:02,800
+really tense between the us and china if
+
+80
+00:03:01,439 --> 00:03:04,878
+there's looking going on we're not
+
+81
+00:03:02,800 --> 00:03:06,480
+getting told about it
+
+82
+00:03:04,878 --> 00:03:08,399
+do you think it's a scientific question
+
+83
+00:03:06,479 --> 00:03:10,639
+or a political question it's a
+
+84
+00:03:08,400 --> 00:03:12,239
+scientific question but it has political
+
+85
+00:03:10,639 --> 00:03:14,479
+implications
+
+86
+00:03:12,239 --> 00:03:16,239
+so the world is full of scientists that
+
+87
+00:03:14,479 --> 00:03:17,679
+are working together but in the
+
+88
+00:03:16,239 --> 00:03:19,519
+political space in the political
+
+89
+00:03:17,680 --> 00:03:21,360
+political science space
+
+90
+00:03:19,519 --> 00:03:24,000
+there's tensions
+
+91
+00:03:21,360 --> 00:03:26,319
+what is it like to do great science in a
+
+92
+00:03:24,000 --> 00:03:29,840
+time of a pandemic when there's
+
+93
+00:03:26,318 --> 00:03:32,639
+political tensions it's very unfortunate
+
+94
+00:03:29,840 --> 00:03:33,920
+pasteur said science knows no one
+
+95
+00:03:32,639 --> 00:03:37,279
+country
+
+96
+00:03:33,919 --> 00:03:39,280
+he was right about that my whole career
+
+97
+00:03:37,280 --> 00:03:41,360
+in genetics especially
+
+98
+00:03:39,280 --> 00:03:43,519
+is dependent upon international
+
+99
+00:03:41,360 --> 00:03:44,400
+collaboration between scientists as a
+
+100
+00:03:43,519 --> 00:03:46,239
+way
+
+101
+00:03:44,400 --> 00:03:48,560
+to make discoveries get things done
+
+102
+00:03:46,239 --> 00:03:51,120
+scientists by their nature
+
+103
+00:03:48,560 --> 00:03:53,840
+like to be involved in international
+
+104
+00:03:51,120 --> 00:03:56,640
+collaborations the human genome project
+
+105
+00:03:53,840 --> 00:03:58,878
+for heaven's sake 2 400 scientists in
+
+106
+00:03:56,639 --> 00:04:00,318
+six countries working together not
+
+107
+00:03:58,878 --> 00:04:02,560
+worrying who is going to get the credit
+
+108
+00:04:00,318 --> 00:04:04,079
+giving all the data away i was the
+
+109
+00:04:02,560 --> 00:04:05,759
+person who was supposed to keep all that
+
+110
+00:04:04,080 --> 00:04:07,120
+coordinated it was a wonderful
+
+111
+00:04:05,759 --> 00:04:08,798
+experience
+
+112
+00:04:07,120 --> 00:04:11,438
+and that included china that was sort of
+
+113
+00:04:08,799 --> 00:04:12,719
+their first real entry into a big
+
+114
+00:04:11,438 --> 00:04:15,039
+international
+
+115
+00:04:12,719 --> 00:04:17,040
+big science kind of project and they did
+
+116
+00:04:15,039 --> 00:04:19,039
+their part
+
+117
+00:04:17,040 --> 00:04:20,799
+it's very different now
+
+118
+00:04:19,040 --> 00:04:23,199
+continue on the line of difficult
+
+119
+00:04:20,798 --> 00:04:23,198
+questions
+
+120
+00:04:23,759 --> 00:04:28,240
+especially difficult ethical questions
+
+121
+00:04:26,399 --> 00:04:30,159
+in 2014
+
+122
+00:04:28,240 --> 00:04:32,319
+us put a hold on gain and function
+
+123
+00:04:30,160 --> 00:04:34,000
+research in response to a number of
+
+124
+00:04:32,319 --> 00:04:36,879
+laboratory biosecurity incidents
+
+125
+00:04:34,000 --> 00:04:39,120
+including anthrax smallpox and influenza
+
+126
+00:04:36,879 --> 00:04:41,279
+in december 2017
+
+127
+00:04:39,120 --> 00:04:42,879
+nih lifted this ban
+
+128
+00:04:41,279 --> 00:04:44,638
+because quote gain of functional
+
+129
+00:04:42,879 --> 00:04:47,120
+research is important in helping us
+
+130
+00:04:44,639 --> 00:04:49,040
+identify understand and develop
+
+131
+00:04:47,120 --> 00:04:51,040
+strategies and effective countermeasures
+
+132
+00:04:49,040 --> 00:04:54,479
+against rapidly evolving pathogens that
+
+133
+00:04:51,040 --> 00:04:56,400
+pose a threat to public health
+
+134
+00:04:54,478 --> 00:04:59,120
+all difficult questions have arguments
+
+135
+00:04:56,399 --> 00:05:01,679
+on both sides can you argue the pros and
+
+136
+00:04:59,120 --> 00:05:03,280
+cons of getting a function research with
+
+137
+00:05:01,680 --> 00:05:04,879
+viruses
+
+138
+00:05:03,279 --> 00:05:07,599
+i can
+
+139
+00:05:04,879 --> 00:05:08,879
+and first let me say this term gain of
+
+140
+00:05:07,600 --> 00:05:11,520
+function
+
+141
+00:05:08,879 --> 00:05:13,519
+is causing such confusion that i need to
+
+142
+00:05:11,519 --> 00:05:16,159
+take a minute and just sort of talk
+
+143
+00:05:13,519 --> 00:05:19,279
+about what the common scientific
+
+144
+00:05:16,160 --> 00:05:21,120
+use of that term is and where it is very
+
+145
+00:05:19,279 --> 00:05:23,439
+different when we're talking about the
+
+146
+00:05:21,120 --> 00:05:26,959
+current oversight of potentially
+
+147
+00:05:23,439 --> 00:05:26,959
+dangerous human pathogens
+
+148
+00:05:27,038 --> 00:05:32,079
+as you know in science we're doing gain
+
+149
+00:05:28,800 --> 00:05:34,560
+of function experiments all the time
+
+150
+00:05:32,079 --> 00:05:36,159
+we support a lot of cancer immunotherapy
+
+151
+00:05:34,560 --> 00:05:38,000
+at nih
+
+152
+00:05:36,160 --> 00:05:40,080
+right here in our clinical center there
+
+153
+00:05:38,000 --> 00:05:42,800
+are trials going on where people's
+
+154
+00:05:40,079 --> 00:05:45,038
+immune cells are taken out of their body
+
+155
+00:05:42,800 --> 00:05:47,280
+treated with a genetic therapy that revs
+
+156
+00:05:45,038 --> 00:05:49,439
+up their ability to discover the cancer
+
+157
+00:05:47,279 --> 00:05:51,439
+that that patient currently has maybe
+
+158
+00:05:49,439 --> 00:05:52,560
+even at stage four and then give them
+
+159
+00:05:51,439 --> 00:05:55,120
+back
+
+160
+00:05:52,560 --> 00:05:57,600
+as those little ninja warriors uh go
+
+161
+00:05:55,120 --> 00:06:00,160
+after the cancer and it sometimes works
+
+162
+00:05:57,600 --> 00:06:02,000
+dramatically that's a gain of function
+
+163
+00:06:00,160 --> 00:06:03,520
+you gave that patient a gain in their
+
+164
+00:06:02,000 --> 00:06:04,478
+immune function that may have saved
+
+165
+00:06:03,519 --> 00:06:06,478
+their life
+
+166
+00:06:04,478 --> 00:06:08,159
+so gotta be careful not to say oh gain
+
+167
+00:06:06,478 --> 00:06:09,839
+of function is bad
+
+168
+00:06:08,160 --> 00:06:12,560
+most of what we do
+
+169
+00:06:09,839 --> 00:06:14,000
+in science that's good involves quite a
+
+170
+00:06:12,560 --> 00:06:15,519
+bit of the hat
+
+171
+00:06:14,000 --> 00:06:16,800
+and we are all living with gains of
+
+172
+00:06:15,519 --> 00:06:18,399
+function every day i have a gain of
+
+173
+00:06:16,800 --> 00:06:20,478
+function because i'm wearing these
+
+174
+00:06:18,399 --> 00:06:22,799
+eyeglasses otherwise i would not be
+
+175
+00:06:20,478 --> 00:06:24,719
+seeing you as clearly i'm happy for that
+
+176
+00:06:22,800 --> 00:06:25,439
+gain of function
+
+177
+00:06:24,720 --> 00:06:27,039
+so
+
+178
+00:06:25,439 --> 00:06:29,360
+that's where a lot of confusion has
+
+179
+00:06:27,038 --> 00:06:32,639
+happened the kind of gain of function
+
+180
+00:06:29,360 --> 00:06:35,360
+which is now subject to very rigorous
+
+181
+00:06:32,639 --> 00:06:36,960
+and very carefully defined oversight
+
+182
+00:06:35,360 --> 00:06:39,759
+is when you are working with an
+
+183
+00:06:36,959 --> 00:06:42,638
+established human pathogen that is known
+
+184
+00:06:39,759 --> 00:06:45,600
+to be potentially causing a pandemic
+
+185
+00:06:42,639 --> 00:06:48,478
+and you are enhancing or potentially
+
+186
+00:06:45,600 --> 00:06:49,840
+enhancing its transmissibility or its
+
+187
+00:06:48,478 --> 00:06:52,159
+virulence
+
+188
+00:06:49,839 --> 00:06:56,399
+we call that epp
+
+189
+00:06:52,160 --> 00:06:58,160
+enhanced potential pandemic pathogen
+
+190
+00:06:56,399 --> 00:07:01,519
+that requires
+
+191
+00:06:58,160 --> 00:07:03,439
+this very stringent oversight worked out
+
+192
+00:07:01,519 --> 00:07:05,120
+over three years
+
+193
+00:07:03,439 --> 00:07:08,240
+by the national
+
+194
+00:07:05,120 --> 00:07:11,199
+science advisory board on biosecurity
+
+195
+00:07:08,240 --> 00:07:13,840
+that needs to be looked at by a panel
+
+196
+00:07:11,199 --> 00:07:16,240
+that goes well beyond nih to decide are
+
+197
+00:07:13,839 --> 00:07:18,159
+the benefits worth the risks in that
+
+198
+00:07:16,240 --> 00:07:19,598
+situation
+
+199
+00:07:18,160 --> 00:07:22,560
+most of the time
+
+200
+00:07:19,598 --> 00:07:25,038
+it's not worth the risk only three times
+
+201
+00:07:22,560 --> 00:07:27,280
+uh in the last three or four years uh
+
+202
+00:07:25,038 --> 00:07:30,719
+have experiments been given permission
+
+203
+00:07:27,279 --> 00:07:33,119
+to go forward they were all an influenza
+
+204
+00:07:30,720 --> 00:07:35,520
+so i will argue that if you're worried
+
+205
+00:07:33,120 --> 00:07:37,759
+about the next pandemic
+
+206
+00:07:35,519 --> 00:07:39,918
+the more you know about the coming enemy
+
+207
+00:07:37,759 --> 00:07:41,840
+the better chance you have to recognize
+
+208
+00:07:39,918 --> 00:07:44,399
+when trouble is starting
+
+209
+00:07:41,839 --> 00:07:46,399
+and so if you can do it safely
+
+210
+00:07:44,399 --> 00:07:48,878
+studying influenza
+
+211
+00:07:46,399 --> 00:07:50,399
+or coronaviruses like sars mers and
+
+212
+00:07:48,879 --> 00:07:52,639
+sarsko v2
+
+213
+00:07:50,399 --> 00:07:54,719
+would be a good thing to be able to know
+
+214
+00:07:52,639 --> 00:07:57,120
+about but you have to be able to do it
+
+215
+00:07:54,720 --> 00:07:59,680
+safely because we all know
+
+216
+00:07:57,120 --> 00:08:01,598
+lab accidents can happen and i mean look
+
+217
+00:07:59,680 --> 00:08:03,840
+at sars where there have been lab
+
+218
+00:08:01,598 --> 00:08:05,038
+accidents and people have gotten sick as
+
+219
+00:08:03,839 --> 00:08:06,878
+a result
+
+220
+00:08:05,038 --> 00:08:08,800
+we don't want to take that chance unless
+
+221
+00:08:06,879 --> 00:08:11,759
+there's a compelling scientific reason
+
+222
+00:08:08,800 --> 00:08:13,280
+that's why we have this very stringent
+
+223
+00:08:11,759 --> 00:08:15,680
+oversight
+
+224
+00:08:13,279 --> 00:08:17,598
+the experiments being done at the wuhan
+
+225
+00:08:15,680 --> 00:08:20,639
+institute of virology
+
+226
+00:08:17,598 --> 00:08:21,759
+as a sub-award to our grant to eco
+
+227
+00:08:20,639 --> 00:08:22,879
+health
+
+228
+00:08:21,759 --> 00:08:25,520
+in new york
+
+229
+00:08:22,879 --> 00:08:27,680
+did not meet that standard of requiring
+
+230
+00:08:25,519 --> 00:08:29,198
+that kind of stringent oversight i want
+
+231
+00:08:27,680 --> 00:08:31,280
+to be really clear about that because
+
+232
+00:08:29,199 --> 00:08:32,158
+there's been so much thrown around about
+
+233
+00:08:31,279 --> 00:08:34,079
+it
+
+234
+00:08:32,158 --> 00:08:36,479
+was it gain a function well in the
+
+235
+00:08:34,080 --> 00:08:38,479
+standard use of that term that you would
+
+236
+00:08:36,479 --> 00:08:41,120
+use in science in general you might say
+
+237
+00:08:38,479 --> 00:08:43,120
+it was but in the use of that term that
+
+238
+00:08:41,120 --> 00:08:45,360
+applies to this very
+
+239
+00:08:43,120 --> 00:08:48,320
+specific
+
+240
+00:08:45,360 --> 00:08:50,000
+example of a potential pandemic pathogen
+
+241
+00:08:48,320 --> 00:08:52,959
+absolutely not
+
+242
+00:08:50,000 --> 00:08:55,679
+so nothing went on there that should not
+
+243
+00:08:52,958 --> 00:08:57,518
+have happened based upon the oversight
+
+244
+00:08:55,679 --> 00:09:00,319
+there was an instance
+
+245
+00:08:57,519 --> 00:09:02,320
+where the grantee institution failed to
+
+246
+00:09:00,320 --> 00:09:03,600
+notify us about the result of an
+
+247
+00:09:02,320 --> 00:09:05,040
+experiment that they were supposed to
+
+248
+00:09:03,600 --> 00:09:07,920
+tell us where they
+
+249
+00:09:05,039 --> 00:09:11,199
+mixed and matched uh some viral genomes
+
+250
+00:09:07,919 --> 00:09:15,120
+and got a somewhat larger viral load as
+
+251
+00:09:11,200 --> 00:09:17,120
+a result but it was not epp it was not
+
+252
+00:09:15,120 --> 00:09:19,200
+getting into that zone that would have
+
+253
+00:09:17,120 --> 00:09:21,440
+required this higher level of scrutiny
+
+254
+00:09:19,200 --> 00:09:23,680
+it was all bat viruses these were not
+
+255
+00:09:21,440 --> 00:09:26,080
+human pathogens
+
+256
+00:09:23,679 --> 00:09:29,039
+so they didn't cross a threshold within
+
+257
+00:09:26,080 --> 00:09:31,519
+that gray area that makes for an eppp
+
+258
+00:09:29,039 --> 00:09:32,958
+they did not and anybody who's willing
+
+259
+00:09:31,519 --> 00:09:35,200
+to take the time
+
+260
+00:09:32,958 --> 00:09:37,838
+to look at what epp means and what those
+
+261
+00:09:35,200 --> 00:09:39,519
+experiments were would have to agree
+
+262
+00:09:37,839 --> 00:09:41,360
+with what i just said what is the
+
+263
+00:09:39,519 --> 00:09:43,440
+biggest reason it didn't cross that
+
+264
+00:09:41,360 --> 00:09:45,440
+threshold is it because it wasn't
+
+265
+00:09:43,440 --> 00:09:47,760
+jumping to humans
+
+266
+00:09:45,440 --> 00:09:49,120
+is it because it did not have a
+
+267
+00:09:47,759 --> 00:09:51,360
+sufficient increase in virulence and
+
+268
+00:09:49,120 --> 00:09:53,679
+transmissibility what's your sense
+
+269
+00:09:51,360 --> 00:09:57,919
+eppp only applies
+
+270
+00:09:53,679 --> 00:10:00,719
+to agents that are known human pathogens
+
+271
+00:09:57,919 --> 00:10:03,360
+of potent of pandemic potential
+
+272
+00:10:00,720 --> 00:10:04,639
+these were all bat viruses derived in
+
+273
+00:10:03,360 --> 00:10:07,200
+the wild
+
+274
+00:10:04,639 --> 00:10:08,799
+not shown to be infectious to humans
+
+275
+00:10:07,200 --> 00:10:10,959
+just looking at what happened if you
+
+276
+00:10:08,799 --> 00:10:13,599
+took four different bat viruses and you
+
+277
+00:10:10,958 --> 00:10:15,439
+tried moving the spike protein gene from
+
+278
+00:10:13,600 --> 00:10:18,000
+one into one of the others to see
+
+279
+00:10:15,440 --> 00:10:20,560
+whether it would bind better to the ace2
+
+280
+00:10:18,000 --> 00:10:22,799
+receptor that doesn't get across that
+
+281
+00:10:20,559 --> 00:10:23,838
+threshold and let me also say for those
+
+282
+00:10:22,799 --> 00:10:25,599
+who are
+
+283
+00:10:23,839 --> 00:10:27,760
+trying to connect the dots here which is
+
+284
+00:10:25,600 --> 00:10:31,040
+the most troubling part of this and say
+
+285
+00:10:27,759 --> 00:10:34,639
+well this is how sarsko v2 got started
+
+286
+00:10:31,039 --> 00:10:36,639
+that is absolutely demonstrably false uh
+
+287
+00:10:34,639 --> 00:10:39,439
+these bat viruses that were being
+
+288
+00:10:36,639 --> 00:10:42,240
+studied had only about 80 percent
+
+289
+00:10:39,440 --> 00:10:43,920
+similarity in their genomes to sars cov2
+
+290
+00:10:42,240 --> 00:10:45,680
+they were like decades away in
+
+291
+00:10:43,919 --> 00:10:47,679
+evolutionary terms
+
+292
+00:10:45,679 --> 00:10:50,799
+and it is really irresponsible for
+
+293
+00:10:47,679 --> 00:10:50,799
+people to claim otherwise
+
+294
+00:10:51,039 --> 00:10:56,559
+speaking of people who claim otherwise
+
+295
+00:10:54,720 --> 00:10:58,399
+rand paul
+
+296
+00:10:56,559 --> 00:11:01,119
+what do you make of the battle of wars
+
+297
+00:10:58,399 --> 00:11:04,720
+between senator rand paul and dr anthony
+
+298
+00:11:01,120 --> 00:11:06,159
+fauci over this particular point
+
+299
+00:11:04,720 --> 00:11:08,079
+i don't want to talk about specific
+
+300
+00:11:06,159 --> 00:11:10,958
+members of congress but i will say it's
+
+301
+00:11:08,078 --> 00:11:13,519
+really unfortunate that tony fauci who
+
+302
+00:11:10,958 --> 00:11:14,719
+is the epitome of a dedicated public
+
+303
+00:11:13,519 --> 00:11:17,519
+servant
+
+304
+00:11:14,720 --> 00:11:19,120
+has now somehow been targeted for
+
+305
+00:11:17,519 --> 00:11:21,200
+political reasons
+
+306
+00:11:19,120 --> 00:11:23,360
+as somebody that
+
+307
+00:11:21,200 --> 00:11:24,959
+certain figures are trying to discredit
+
+308
+00:11:23,360 --> 00:11:26,399
+perhaps to try to distract from their
+
+309
+00:11:24,958 --> 00:11:28,879
+own failings
+
+310
+00:11:26,399 --> 00:11:31,839
+this never should have happened here's a
+
+311
+00:11:28,879 --> 00:11:34,000
+person who's dedicated his whole life uh
+
+312
+00:11:31,839 --> 00:11:37,120
+to trying to prevent illnesses from
+
+313
+00:11:34,000 --> 00:11:39,679
+infectious diseases including hiv
+
+314
+00:11:37,120 --> 00:11:41,600
+in the 1980s and 90s and now
+
+315
+00:11:39,679 --> 00:11:43,439
+probably the most
+
+316
+00:11:41,600 --> 00:11:46,240
+knowledgeable infectious disease
+
+317
+00:11:43,440 --> 00:11:48,160
+physician in the world and also a really
+
+318
+00:11:46,240 --> 00:11:50,399
+good communicator
+
+319
+00:11:48,159 --> 00:11:52,639
+is out there telling the truth about
+
+320
+00:11:50,399 --> 00:11:54,320
+where we are with sarsko v2
+
+321
+00:11:52,639 --> 00:11:56,320
+to certain political figures who don't
+
+322
+00:11:54,320 --> 00:11:58,480
+want to hear it and who are therefore
+
+323
+00:11:56,320 --> 00:12:00,720
+determined to discredit him
+
+324
+00:11:58,480 --> 00:12:02,800
+and that is disgraceful so with
+
+325
+00:12:00,720 --> 00:12:04,560
+politicians there they often play games
+
+326
+00:12:02,799 --> 00:12:08,240
+with black and white
+
+327
+00:12:04,559 --> 00:12:10,399
+they try to sort of uh use
+
+328
+00:12:08,240 --> 00:12:12,000
+the gray areas of science and then paint
+
+329
+00:12:10,399 --> 00:12:13,839
+their own picture
+
+330
+00:12:12,000 --> 00:12:16,639
+but i have a question about the gray
+
+331
+00:12:13,839 --> 00:12:18,639
+areas of science so like you mentioned
+
+332
+00:12:16,639 --> 00:12:21,200
+gain of function is a term there's very
+
+333
+00:12:18,639 --> 00:12:24,159
+specific scientific meaning but it also
+
+334
+00:12:21,200 --> 00:12:26,240
+has a more general term and it's very
+
+335
+00:12:24,159 --> 00:12:28,480
+possible to argue that the
+
+336
+00:12:26,240 --> 00:12:30,079
+not to argue not the way politicians
+
+337
+00:12:28,480 --> 00:12:32,639
+argue but just as human beings and
+
+338
+00:12:30,078 --> 00:12:34,719
+scientists that there was a gain of
+
+339
+00:12:32,639 --> 00:12:36,839
+function achieved
+
+340
+00:12:34,720 --> 00:12:39,600
+at the wuhan institute of
+
+341
+00:12:36,839 --> 00:12:42,240
+biology but it didn't cross a threshold
+
+342
+00:12:39,600 --> 00:12:44,560
+i mean there's a it's it's uh it but it
+
+343
+00:12:42,240 --> 00:12:47,200
+could have too so here's the thing when
+
+344
+00:12:44,559 --> 00:12:50,319
+you do these kinds of experiments
+
+345
+00:12:47,200 --> 00:12:52,639
+unexpected results may be achieved and
+
+346
+00:12:50,320 --> 00:12:54,240
+that's the gray area of science you're
+
+347
+00:12:52,639 --> 00:12:56,399
+you're taking risks with such
+
+348
+00:12:54,240 --> 00:12:58,799
+experiments
+
+349
+00:12:56,399 --> 00:13:00,320
+and i am very uncomfortable that we
+
+350
+00:12:58,799 --> 00:13:02,319
+can't
+
+351
+00:13:00,320 --> 00:13:03,440
+discuss the uncertainty in the gray area
+
+352
+00:13:02,320 --> 00:13:05,680
+of this
+
+353
+00:13:03,440 --> 00:13:07,760
+oh i'm comfortable discussing the gray
+
+354
+00:13:05,679 --> 00:13:10,638
+area what i'm uncomfortable with is
+
+355
+00:13:07,759 --> 00:13:13,278
+people deciding to define for themselves
+
+356
+00:13:10,639 --> 00:13:15,519
+what that threshold is based on sort of
+
+357
+00:13:13,278 --> 00:13:18,639
+some political argument the threshold
+
+358
+00:13:15,519 --> 00:13:20,639
+was very explicitly laid out
+
+359
+00:13:18,639 --> 00:13:22,480
+everybody agreed to that
+
+360
+00:13:20,639 --> 00:13:24,799
+in the basis of this three years of
+
+361
+00:13:22,480 --> 00:13:27,120
+deliberation so that's what it is if
+
+362
+00:13:24,799 --> 00:13:30,000
+that threshold needs to be reconsidered
+
+363
+00:13:27,120 --> 00:13:31,600
+let's reconsider it but let's not try to
+
+364
+00:13:30,000 --> 00:13:34,078
+take an experiment that's already been
+
+365
+00:13:31,600 --> 00:13:36,399
+done and decide that the threshold isn't
+
+366
+00:13:34,078 --> 00:13:38,719
+what it was because that that really is
+
+367
+00:13:36,399 --> 00:13:40,639
+doing a disservice to the whole process
+
+368
+00:13:38,720 --> 00:13:42,000
+i wish there was a discussion even in
+
+369
+00:13:40,639 --> 00:13:43,759
+response to
+
+370
+00:13:42,000 --> 00:13:45,839
+uh rand paul and i know we're not
+
+371
+00:13:43,759 --> 00:13:47,679
+talking about specific senators but just
+
+372
+00:13:45,839 --> 00:13:49,360
+that particular case i'm saying stuff
+
+373
+00:13:47,679 --> 00:13:51,039
+here i wish there's an opportunity to
+
+374
+00:13:49,360 --> 00:13:53,440
+talk about
+
+375
+00:13:51,039 --> 00:13:54,799
+given the current threshold this is not
+
+376
+00:13:53,440 --> 00:13:56,240
+gain of function
+
+377
+00:13:54,799 --> 00:13:57,838
+but maybe we need to reconsider the
+
+378
+00:13:56,240 --> 00:13:59,839
+threshold and have an action that's an
+
+379
+00:13:57,839 --> 00:14:01,920
+opportunity for discussion about the
+
+380
+00:13:59,839 --> 00:14:03,600
+ethics of gain or function you said that
+
+381
+00:14:01,919 --> 00:14:05,519
+there was three studies that passed that
+
+382
+00:14:03,600 --> 00:14:07,680
+threshold with influenza that's a
+
+383
+00:14:05,519 --> 00:14:10,078
+fascinating human question scientific
+
+384
+00:14:07,679 --> 00:14:11,919
+question about ethics because
+
+385
+00:14:10,078 --> 00:14:13,759
+you're playing like you said there's uh
+
+386
+00:14:11,919 --> 00:14:18,240
+there's pros and cons
+
+387
+00:14:13,759 --> 00:14:18,240
+you're taking risks here to prevent
+
+388
+00:14:18,399 --> 00:14:21,519
+horribly destructive viruses in the
+
+389
+00:14:20,320 --> 00:14:22,959
+future
+
+390
+00:14:21,519 --> 00:14:25,839
+but you also
+
+391
+00:14:22,958 --> 00:14:28,399
+are risking creating such viruses in the
+
+392
+00:14:25,839 --> 00:14:30,000
+future with nuclear weapons and nuclear
+
+393
+00:14:28,399 --> 00:14:31,519
+energy
+
+394
+00:14:30,000 --> 00:14:32,879
+you are
+
+395
+00:14:31,519 --> 00:14:35,198
+nuclear energy
+
+396
+00:14:32,879 --> 00:14:37,120
+promises a lot of positive effects and
+
+397
+00:14:35,198 --> 00:14:39,759
+yet you're taking risks here
+
+398
+00:14:37,120 --> 00:14:42,720
+with uh mutually sure destruction uh
+
+399
+00:14:39,759 --> 00:14:44,480
+nations possessing nuclear weapons oh my
+
+400
+00:14:42,720 --> 00:14:46,879
+you're a lot i hope we're not going
+
+401
+00:14:44,480 --> 00:14:48,240
+there well we're not but
+
+402
+00:14:46,879 --> 00:14:49,838
+a lot of people argue that that's the
+
+403
+00:14:48,240 --> 00:14:52,320
+reason we've nuclear weapons is the
+
+404
+00:14:49,839 --> 00:14:55,120
+reason we've prevented world wars
+
+405
+00:14:52,320 --> 00:14:57,440
+and yet they also have the risk of
+
+406
+00:14:55,120 --> 00:14:59,120
+starting world wars and this is what we
+
+407
+00:14:57,440 --> 00:15:01,199
+have to be honest about
+
+408
+00:14:59,120 --> 00:15:02,959
+with the with the benefits of risks of
+
+409
+00:15:01,198 --> 00:15:04,879
+science that you have to
+
+410
+00:15:02,958 --> 00:15:06,638
+make that calculation of what are the
+
+411
+00:15:04,879 --> 00:15:09,198
+pros and what are the cons i'm totally
+
+412
+00:15:06,639 --> 00:15:10,959
+with you but i want to reassure you lex
+
+413
+00:15:09,198 --> 00:15:14,159
+that this is not an issue that's been
+
+414
+00:15:10,958 --> 00:15:15,599
+ignored yes that this issue about the
+
+415
+00:15:14,159 --> 00:15:18,480
+kind of gain of function that might
+
+416
+00:15:15,600 --> 00:15:20,720
+result in a serious human pathogen has
+
+417
+00:15:18,480 --> 00:15:22,959
+been front and center in many
+
+418
+00:15:20,720 --> 00:15:24,720
+deliberations for a decade or more
+
+419
+00:15:22,958 --> 00:15:27,359
+involved a lot of my time along the way
+
+420
+00:15:24,720 --> 00:15:30,079
+by the way and has been discussed
+
+421
+00:15:27,360 --> 00:15:32,079
+publicly on multiple occasions including
+
+422
+00:15:30,078 --> 00:15:34,078
+two major meetings of the national
+
+423
+00:15:32,078 --> 00:15:35,919
+academy of sciences
+
+424
+00:15:34,078 --> 00:15:37,838
+getting input from everybody and
+
+425
+00:15:35,919 --> 00:15:39,278
+ultimately arriving at our current
+
+426
+00:15:37,839 --> 00:15:43,519
+framework now
+
+427
+00:15:39,278 --> 00:15:46,559
+we actually back in january of 2020 just
+
+428
+00:15:43,519 --> 00:15:49,278
+before covet 19 changed everything
+
+429
+00:15:46,559 --> 00:15:51,278
+had planned and even charged that same
+
+430
+00:15:49,278 --> 00:15:54,078
+national uh
+
+431
+00:15:51,278 --> 00:15:56,320
+science advisory by board on biosecurity
+
+432
+00:15:54,078 --> 00:15:58,479
+to reconvene and look at the current
+
+433
+00:15:56,320 --> 00:16:00,320
+framework and say do we have it right
+
+434
+00:15:58,480 --> 00:16:03,120
+let's look at the experience over those
+
+435
+00:16:00,320 --> 00:16:05,120
+three years and say is the threshold too
+
+436
+00:16:03,120 --> 00:16:06,639
+easy too hard
+
+437
+00:16:05,120 --> 00:16:09,039
+do we need to reconsider it let's look
+
+438
+00:16:06,639 --> 00:16:10,879
+at the experience kovit came along the
+
+439
+00:16:09,039 --> 00:16:12,480
+members of the board said please we're
+
+440
+00:16:10,879 --> 00:16:14,639
+all infectious disease experts we don't
+
+441
+00:16:12,480 --> 00:16:17,199
+have time for this right now but i think
+
+442
+00:16:14,639 --> 00:16:18,560
+the time is right to do this i'm totally
+
+443
+00:16:17,198 --> 00:16:20,639
+supportive of that and that should be
+
+444
+00:16:18,559 --> 00:16:22,479
+just as public a discussion as you can
+
+445
+00:16:20,639 --> 00:16:24,720
+imagine about what are the benefits and
+
+446
+00:16:22,480 --> 00:16:26,800
+the risk and if somebody decided
+
+447
+00:16:24,720 --> 00:16:28,079
+ultimately this came together and said
+
+448
+00:16:26,799 --> 00:16:29,919
+we just shouldn't be doing these
+
+449
+00:16:28,078 --> 00:16:31,599
+experiments under any circumstances if
+
+450
+00:16:29,919 --> 00:16:33,599
+that was the conclusion well that would
+
+451
+00:16:31,600 --> 00:16:34,959
+be the conclusion but it hasn't been so
+
+452
+00:16:33,600 --> 00:16:37,040
+far
+
+453
+00:16:34,958 --> 00:16:40,638
+if we can briefly look out into the next
+
+454
+00:16:37,039 --> 00:16:42,559
+hundred years on this
+
+455
+00:16:40,639 --> 00:16:44,240
+i apologize for the existential
+
+456
+00:16:42,559 --> 00:16:45,039
+questions
+
+457
+00:16:44,240 --> 00:16:47,360
+but
+
+458
+00:16:45,039 --> 00:16:50,240
+it seems obvious to me
+
+459
+00:16:47,360 --> 00:16:53,039
+that as gain of function type of
+
+460
+00:16:50,240 --> 00:16:55,120
+research and development becomes easier
+
+461
+00:16:53,039 --> 00:16:57,919
+and cheaper
+
+462
+00:16:55,120 --> 00:17:00,078
+it will become greater and greater risk
+
+463
+00:16:57,919 --> 00:17:01,599
+so if it doesn't no longer need to be
+
+464
+00:17:00,078 --> 00:17:06,000
+contained
+
+465
+00:17:01,600 --> 00:17:07,599
+within the laboratories of high security
+
+466
+00:17:06,000 --> 00:17:09,119
+it feels like this is one of the
+
+467
+00:17:07,599 --> 00:17:11,678
+greatest threats facing human
+
+468
+00:17:09,119 --> 00:17:14,078
+civilization do you worry that at some
+
+469
+00:17:11,679 --> 00:17:15,919
+point in the future a leaked man-made
+
+470
+00:17:14,078 --> 00:17:18,480
+virus may destroy
+
+471
+00:17:15,919 --> 00:17:21,679
+most of human civilization
+
+472
+00:17:18,480 --> 00:17:23,838
+i do worry about the risks and
+
+473
+00:17:21,679 --> 00:17:25,919
+at the moment where we have the greatest
+
+474
+00:17:23,838 --> 00:17:27,599
+control the greatest oversight
+
+475
+00:17:25,919 --> 00:17:28,960
+is when this is federally funded
+
+476
+00:17:27,599 --> 00:17:30,879
+research
+
+477
+00:17:28,960 --> 00:17:33,200
+but as you're alluding there's no reason
+
+478
+00:17:30,880 --> 00:17:35,679
+to imagine that's the only place that
+
+479
+00:17:33,200 --> 00:17:38,880
+this kind of activity would go on
+
+480
+00:17:35,679 --> 00:17:41,360
+if there was an evil source that wished
+
+481
+00:17:38,880 --> 00:17:43,360
+to create a virus that was highly
+
+482
+00:17:41,359 --> 00:17:46,479
+pathogenic in their garage
+
+483
+00:17:43,359 --> 00:17:49,359
+the technology does get easier
+
+484
+00:17:46,480 --> 00:17:51,360
+and there is no international oversight
+
+485
+00:17:49,359 --> 00:17:53,359
+about this either that you could say has
+
+486
+00:17:51,359 --> 00:17:56,319
+the same stringency as what we have in
+
+487
+00:17:53,359 --> 00:17:58,000
+the united states so yes that is a
+
+488
+00:17:56,319 --> 00:17:59,279
+concern
+
+489
+00:17:58,000 --> 00:18:02,880
+it would take
+
+490
+00:17:59,279 --> 00:18:05,678
+a seriously deranged group or person
+
+491
+00:18:02,880 --> 00:18:08,000
+to undertake this on purpose uh given
+
+492
+00:18:05,679 --> 00:18:09,360
+the likelihood that they too uh would go
+
+493
+00:18:08,000 --> 00:18:12,079
+down we
+
+494
+00:18:09,359 --> 00:18:14,719
+don't imagine there are going to be
+
+495
+00:18:12,079 --> 00:18:16,480
+bioweapons that only kill your enemies
+
+496
+00:18:14,720 --> 00:18:19,360
+and don't kill you sorry we're too much
+
+497
+00:18:16,480 --> 00:18:20,480
+alike for that to work
+
+498
+00:18:19,359 --> 00:18:22,959
+so
+
+499
+00:18:20,480 --> 00:18:25,919
+i don't see it as an imminent risk
+
+500
+00:18:22,960 --> 00:18:28,160
+there's lots of uh scary novels and
+
+501
+00:18:25,919 --> 00:18:31,038
+movies written about it but i do think
+
+502
+00:18:28,160 --> 00:18:32,400
+it's something we have to consider what
+
+503
+00:18:31,038 --> 00:18:34,319
+are all the things that ought to be
+
+504
+00:18:32,400 --> 00:18:36,240
+watched you may not know that if
+
+505
+00:18:34,319 --> 00:18:40,159
+somebody is ordering
+
+506
+00:18:36,240 --> 00:18:42,079
+a particular oligonucleotide
+
+507
+00:18:40,160 --> 00:18:44,640
+from one of the main suppliers and it
+
+508
+00:18:42,079 --> 00:18:47,038
+happens to match smallpox
+
+509
+00:18:44,640 --> 00:18:48,160
+they're going to get caught
+
+510
+00:18:47,038 --> 00:18:50,400
+so there is
+
+511
+00:18:48,160 --> 00:18:52,558
+effort underway to try to track any
+
+512
+00:18:50,400 --> 00:18:54,080
+nefarious actions that might be going on
+
+513
+00:18:52,558 --> 00:18:55,759
+in the united states or international is
+
+514
+00:18:54,079 --> 00:18:58,000
+there an international collaboration of
+
+515
+00:18:55,759 --> 00:19:00,319
+trying to track this stuff there is some
+
+516
+00:18:58,000 --> 00:19:03,279
+i wish it were stronger
+
+517
+00:19:00,319 --> 00:19:05,359
+this is a general issue like in terms of
+
+518
+00:19:03,279 --> 00:19:07,440
+do we have a mechanism particularly when
+
+519
+00:19:05,359 --> 00:19:09,519
+it comes to ethical issues
+
+520
+00:19:07,440 --> 00:19:11,440
+to be able to decide what's allowable
+
+521
+00:19:09,519 --> 00:19:13,759
+and what's not and enforce it i mean
+
+522
+00:19:11,440 --> 00:19:15,840
+look where we are with germline genome
+
+523
+00:19:13,759 --> 00:19:18,000
+editing for humans for instance there's
+
+524
+00:19:15,839 --> 00:19:20,079
+no enforcement mechanism there's just
+
+525
+00:19:18,000 --> 00:19:22,240
+bully pulpits and governments that get
+
+526
+00:19:20,079 --> 00:19:24,480
+to decide for themselves so you talked
+
+527
+00:19:22,240 --> 00:19:26,400
+about evil what about incompetence does
+
+528
+00:19:24,480 --> 00:19:27,919
+that worry you i was born in the soviet
+
+529
+00:19:26,400 --> 00:19:30,880
+union
+
+530
+00:19:27,919 --> 00:19:33,679
+my dad a physicist worked at chernobyl
+
+531
+00:19:30,880 --> 00:19:34,880
+that comes to mind that wasn't evil i
+
+532
+00:19:33,679 --> 00:19:36,160
+was
+
+533
+00:19:34,880 --> 00:19:38,720
+i don't know what word you want to put
+
+534
+00:19:36,160 --> 00:19:40,160
+it maybe incompetence is too harsh maybe
+
+535
+00:19:38,720 --> 00:19:41,919
+it's the inherent incompetence of
+
+536
+00:19:40,160 --> 00:19:43,840
+bureaucracy i don't know but for
+
+537
+00:19:41,919 --> 00:19:46,720
+whatever reason there was an accident
+
+538
+00:19:43,839 --> 00:19:49,359
+does that worry you of course it does
+
+539
+00:19:46,720 --> 00:19:51,919
+we know that sars for instance did
+
+540
+00:19:49,359 --> 00:19:53,279
+manage to leak out of a lab in china two
+
+541
+00:19:51,919 --> 00:19:54,960
+or three times
+
+542
+00:19:53,279 --> 00:19:58,558
+and at least in some instances people
+
+543
+00:19:54,960 --> 00:20:00,558
+died fortunately quickly contained
+
+544
+00:19:58,558 --> 00:20:02,079
+all one can do in that circumstance
+
+545
+00:20:00,558 --> 00:20:04,480
+because you need to
+
+546
+00:20:02,079 --> 00:20:06,639
+study the virus and understand it in
+
+547
+00:20:04,480 --> 00:20:09,279
+order to keep it from causing a broader
+
+548
+00:20:06,640 --> 00:20:12,240
+pandemic but you need to insist
+
+549
+00:20:09,279 --> 00:20:14,798
+upon the kind of biosecurity the bsl 2 3
+
+550
+00:20:12,240 --> 00:20:16,960
+and 4 framework under which those
+
+551
+00:20:14,798 --> 00:20:19,279
+experiments have to be done
+
+552
+00:20:16,960 --> 00:20:21,600
+and certainly at nih we're extremely
+
+553
+00:20:19,279 --> 00:20:23,440
+rigorous about that but you can't count
+
+554
+00:20:21,599 --> 00:20:25,439
+on every human being
+
+555
+00:20:23,440 --> 00:20:27,120
+to always do exactly what they're
+
+556
+00:20:25,440 --> 00:20:29,200
+supposed to so there's a risk there
+
+557
+00:20:27,119 --> 00:20:32,079
+which is another reason why if we're
+
+558
+00:20:29,200 --> 00:20:33,600
+contemplating supporting research on
+
+559
+00:20:32,079 --> 00:20:34,879
+pathogens that might be the next
+
+560
+00:20:33,599 --> 00:20:36,719
+pandemic
+
+561
+00:20:34,880 --> 00:20:38,640
+you have to factor that in not just
+
+562
+00:20:36,720 --> 00:20:40,558
+whether people are going to do something
+
+563
+00:20:38,640 --> 00:20:42,080
+on that we couldn't have predicted where
+
+564
+00:20:40,558 --> 00:20:43,440
+all of a sudden they created a virus
+
+565
+00:20:42,079 --> 00:20:44,879
+that's much worse without knowing they
+
+566
+00:20:43,440 --> 00:20:47,440
+were going to do that but also just
+
+567
+00:20:44,880 --> 00:20:49,840
+having an accident that's that's in the
+
+568
+00:20:47,440 --> 00:20:51,440
+mix when those uh estimates are done
+
+569
+00:20:49,839 --> 00:20:53,678
+about whether the risk is worth it or
+
+570
+00:20:51,440 --> 00:20:53,679
+not
+
+571
+00:20:53,759 --> 00:20:58,558
+continuing online of difficult questions
+
+572
+00:20:57,119 --> 00:21:02,918
+we're gonna get to fun stuff after a
+
+573
+00:20:58,558 --> 00:21:02,918
+while we will soon i promise
+
+574
+00:21:04,400 --> 00:21:10,720
+you are the director of the nih
+
+575
+00:21:07,919 --> 00:21:14,240
+you are dr anthony fauci's technically
+
+576
+00:21:10,720 --> 00:21:16,640
+his boss yep you have stood behind him
+
+577
+00:21:14,240 --> 00:21:18,400
+you have supported him just like you did
+
+578
+00:21:16,640 --> 00:21:20,080
+already in this conversation
+
+579
+00:21:18,400 --> 00:21:21,919
+it is painful for me to see division and
+
+580
+00:21:20,079 --> 00:21:23,038
+distrust
+
+581
+00:21:21,919 --> 00:21:25,120
+but
+
+582
+00:21:23,038 --> 00:21:27,200
+many people in politics and elsewhere
+
+583
+00:21:25,119 --> 00:21:29,119
+have called for anthony fauci to be
+
+584
+00:21:27,200 --> 00:21:30,798
+fired
+
+585
+00:21:29,119 --> 00:21:33,119
+when there's such calls of distrust in
+
+586
+00:21:30,798 --> 00:21:36,158
+public about a leader like anthony fauci
+
+587
+00:21:33,119 --> 00:21:40,319
+who should garner trust do you think
+
+588
+00:21:36,159 --> 00:21:44,480
+he should be fired absolutely not
+
+589
+00:21:40,319 --> 00:21:45,359
+to do so would be basically to give
+
+590
+00:21:44,480 --> 00:21:47,200
+the
+
+591
+00:21:45,359 --> 00:21:48,798
+opportunity
+
+592
+00:21:47,200 --> 00:21:50,159
+for those who want to make up stories
+
+593
+00:21:48,798 --> 00:21:53,359
+about anybody
+
+594
+00:21:50,159 --> 00:21:55,679
+to destroy them there is nothing
+
+595
+00:21:53,359 --> 00:21:59,839
+in the ways in which tony fauci has been
+
+596
+00:21:55,679 --> 00:22:01,759
+targeted that it's based upon truth
+
+597
+00:21:59,839 --> 00:22:03,678
+how could we then
+
+598
+00:22:01,759 --> 00:22:06,879
+accept those cries
+
+599
+00:22:03,679 --> 00:22:08,798
+for his firing as having legitimacy
+
+600
+00:22:06,880 --> 00:22:11,120
+it's a circular argument they've decided
+
+601
+00:22:08,798 --> 00:22:12,960
+they don't like tony so they make up
+
+602
+00:22:11,119 --> 00:22:14,879
+stuff and they twist
+
+603
+00:22:12,960 --> 00:22:16,240
+comments that he's made about things
+
+604
+00:22:14,880 --> 00:22:18,720
+like gain a function where he's
+
+605
+00:22:16,240 --> 00:22:21,359
+referring to the very specific gain of
+
+606
+00:22:18,720 --> 00:22:23,279
+function that's covered by this policy
+
+607
+00:22:21,359 --> 00:22:26,319
+and they're trying to say he lied to the
+
+608
+00:22:23,279 --> 00:22:28,798
+congress that's simply not true they
+
+609
+00:22:26,319 --> 00:22:31,200
+don't like the fact that tony changes
+
+610
+00:22:28,798 --> 00:22:34,000
+the medical recommendations about what
+
+611
+00:22:31,200 --> 00:22:35,440
+to do with covet 19 over the space of
+
+612
+00:22:34,000 --> 00:22:36,960
+more than a year
+
+613
+00:22:35,440 --> 00:22:38,480
+and they call that flip-flopping and you
+
+614
+00:22:36,960 --> 00:22:40,159
+can't trust the guy because he says one
+
+615
+00:22:38,480 --> 00:22:42,558
+thing last year and one thing this year
+
+616
+00:22:40,159 --> 00:22:44,880
+well the science has changed
+
+617
+00:22:42,558 --> 00:22:46,720
+delta variant has changed everything you
+
+618
+00:22:44,880 --> 00:22:48,400
+don't want him to be saying the same
+
+619
+00:22:46,720 --> 00:22:49,919
+thing he did a year ago that would be
+
+620
+00:22:48,400 --> 00:22:52,000
+wrong now it was the best we could do
+
+621
+00:22:49,919 --> 00:22:54,640
+then people don't understand that or
+
+622
+00:22:52,000 --> 00:22:58,079
+else they don't want to understand that
+
+623
+00:22:54,640 --> 00:23:01,200
+so when you basically whip up a largely
+
+624
+00:22:58,079 --> 00:23:03,279
+political argument against a scientist
+
+625
+00:23:01,200 --> 00:23:05,919
+and hammer at it over and over again to
+
+626
+00:23:03,279 --> 00:23:07,918
+the point where he now has to have 24 7
+
+627
+00:23:05,919 --> 00:23:10,480
+security to protect him against people
+
+628
+00:23:07,919 --> 00:23:12,559
+who really want to do violence to him
+
+629
+00:23:10,480 --> 00:23:15,679
+for that to be a reason to say that then
+
+630
+00:23:12,558 --> 00:23:20,000
+he should be fired is to hand the evil
+
+631
+00:23:15,679 --> 00:23:20,000
+forces the victory i will not do that
+
+632
+00:23:21,440 --> 00:23:26,159
+yet there's something difficult i'm
+
+633
+00:23:23,679 --> 00:23:26,880
+going to try to express to you
+
+634
+00:23:26,159 --> 00:23:29,600
+so
+
+635
+00:23:26,880 --> 00:23:31,520
+it may be your guitar playing
+
+636
+00:23:29,599 --> 00:23:33,918
+uh it may be something else
+
+637
+00:23:31,519 --> 00:23:36,480
+but there's a humility to you it may be
+
+638
+00:23:33,919 --> 00:23:39,200
+because you're a man of god there's a
+
+639
+00:23:36,480 --> 00:23:41,038
+humility to you
+
+640
+00:23:39,200 --> 00:23:43,919
+that
+
+641
+00:23:41,038 --> 00:23:43,919
+garners trust
+
+642
+00:23:44,798 --> 00:23:47,839
+and
+
+643
+00:23:45,679 --> 00:23:49,919
+when you're in a leadership position
+
+644
+00:23:47,839 --> 00:23:53,678
+representing science especially in
+
+645
+00:23:49,919 --> 00:23:57,038
+catastrophic events like the pandemic
+
+646
+00:23:53,679 --> 00:24:01,120
+it feels like as a leader you have to go
+
+647
+00:23:57,038 --> 00:24:03,278
+far above and beyond your usual duties
+
+648
+00:24:01,119 --> 00:24:05,678
+and i think there's no question that
+
+649
+00:24:03,278 --> 00:24:06,798
+anthony falci has delivered on his
+
+650
+00:24:05,679 --> 00:24:09,600
+duties
+
+651
+00:24:06,798 --> 00:24:11,440
+but it feels like he needs to go above
+
+652
+00:24:09,599 --> 00:24:13,199
+as a science communicator and if there's
+
+653
+00:24:11,440 --> 00:24:16,880
+a large number of people
+
+654
+00:24:13,200 --> 00:24:16,880
+that are that are distrusting him
+
+655
+00:24:17,519 --> 00:24:23,278
+it's also his responsibility to garner
+
+656
+00:24:19,839 --> 00:24:25,199
+their trust to gain their trust
+
+657
+00:24:23,278 --> 00:24:28,159
+as a as a person who's the face of
+
+658
+00:24:25,200 --> 00:24:29,600
+science do you are you torn on this the
+
+659
+00:24:28,159 --> 00:24:32,000
+responsibility
+
+660
+00:24:29,599 --> 00:24:33,599
+of anthology of yourself to represent
+
+661
+00:24:32,000 --> 00:24:36,159
+science
+
+662
+00:24:33,599 --> 00:24:37,839
+not just the communication of advising
+
+663
+00:24:36,159 --> 00:24:39,440
+what should be done
+
+664
+00:24:37,839 --> 00:24:41,759
+but
+
+665
+00:24:39,440 --> 00:24:42,960
+giving people hope giving people trust
+
+666
+00:24:41,759 --> 00:24:45,278
+in science
+
+667
+00:24:42,960 --> 00:24:46,240
+and alleviating division
+
+668
+00:24:45,278 --> 00:24:48,319
+do you think that's also a
+
+669
+00:24:46,240 --> 00:24:50,480
+responsibility of a leader or is that
+
+670
+00:24:48,319 --> 00:24:52,240
+unfair to ask
+
+671
+00:24:50,480 --> 00:24:54,159
+i think the best way you give people
+
+672
+00:24:52,240 --> 00:24:56,159
+trust is to tell them the truth
+
+673
+00:24:54,159 --> 00:24:58,240
+and so they recognize that when you're
+
+674
+00:24:56,159 --> 00:25:00,640
+sharing information it's the best you've
+
+675
+00:24:58,240 --> 00:25:02,798
+got at that point and tony fauci does
+
+676
+00:25:00,640 --> 00:25:04,880
+that at every moment
+
+677
+00:25:02,798 --> 00:25:06,240
+i don't think him expressing more
+
+678
+00:25:04,880 --> 00:25:07,919
+humility
+
+679
+00:25:06,240 --> 00:25:09,919
+would change the fact that they're
+
+680
+00:25:07,919 --> 00:25:11,120
+looking for a target of somebody to
+
+681
+00:25:09,919 --> 00:25:13,679
+blame
+
+682
+00:25:11,119 --> 00:25:16,798
+to basically distract people from the
+
+683
+00:25:13,679 --> 00:25:19,840
+failings of their own political party
+
+684
+00:25:16,798 --> 00:25:21,759
+maybe i'm less targeted not because of a
+
+685
+00:25:19,839 --> 00:25:24,720
+difference in oh the way in which i
+
+686
+00:25:21,759 --> 00:25:27,278
+convey the information i'm less visible
+
+687
+00:25:24,720 --> 00:25:30,079
+if tony were out of the scene and i was
+
+688
+00:25:27,278 --> 00:25:32,159
+placed in that role i'd probably be
+
+689
+00:25:30,079 --> 00:25:34,399
+seeing a ratcheting up of that same
+
+690
+00:25:32,159 --> 00:25:36,400
+targeting
+
+691
+00:25:34,400 --> 00:25:38,000
+i would like to believe
+
+692
+00:25:36,400 --> 00:25:40,080
+that if
+
+693
+00:25:38,000 --> 00:25:41,759
+tony fauci said
+
+694
+00:25:40,079 --> 00:25:44,399
+that when i originally made
+
+695
+00:25:41,759 --> 00:25:46,400
+recommendations not to wear masks
+
+696
+00:25:44,400 --> 00:25:48,880
+that was given on the on our best
+
+697
+00:25:46,400 --> 00:25:50,320
+available data and now we know that is a
+
+698
+00:25:48,880 --> 00:25:52,559
+mistake
+
+699
+00:25:50,319 --> 00:25:54,319
+so admit with humility that there's an
+
+700
+00:25:52,558 --> 00:25:56,720
+error that's not
+
+701
+00:25:54,319 --> 00:25:59,119
+that's not actually correct
+
+702
+00:25:56,720 --> 00:26:02,079
+but that's a that's a statement of
+
+703
+00:25:59,119 --> 00:26:04,239
+humility and i would like to believe
+
+704
+00:26:02,079 --> 00:26:05,918
+despite the attacks
+
+705
+00:26:04,240 --> 00:26:06,880
+he would win a lot of people over with
+
+706
+00:26:05,919 --> 00:26:08,960
+that
+
+707
+00:26:06,880 --> 00:26:11,760
+so a lot of people as you're saying
+
+708
+00:26:08,960 --> 00:26:14,480
+would use that see that here we go
+
+709
+00:26:11,759 --> 00:26:16,000
+here's that dr anthony fauci making
+
+710
+00:26:14,480 --> 00:26:19,440
+mistakes how can we trust him at
+
+711
+00:26:16,000 --> 00:26:22,720
+anything i believe if he was
+
+712
+00:26:19,440 --> 00:26:26,080
+the sp that public display of humility
+
+713
+00:26:22,720 --> 00:26:27,919
+to say that i made an error
+
+714
+00:26:26,079 --> 00:26:31,199
+that would win a lot of people over
+
+715
+00:26:27,919 --> 00:26:33,600
+that's my that's kind of
+
+716
+00:26:31,200 --> 00:26:35,840
+my sense to face the fire of the attacks
+
+717
+00:26:33,599 --> 00:26:38,079
+from politics you have like politicians
+
+718
+00:26:35,839 --> 00:26:40,158
+will attack no matter what but the
+
+719
+00:26:38,079 --> 00:26:41,759
+question is the people
+
+720
+00:26:40,159 --> 00:26:44,080
+would you to win over the people that
+
+721
+00:26:41,759 --> 00:26:46,480
+the biggest concern i've had
+
+722
+00:26:44,079 --> 00:26:49,439
+is that there was this
+
+723
+00:26:46,480 --> 00:26:50,798
+distrust of science that's been brewing
+
+724
+00:26:49,440 --> 00:26:52,480
+and i'm
+
+725
+00:26:50,798 --> 00:26:54,639
+maybe you can correct me but i'm a
+
+726
+00:26:52,480 --> 00:26:56,880
+little bit unwilling to fully blame the
+
+727
+00:26:54,640 --> 00:26:59,600
+politicians because politicians play
+
+728
+00:26:56,880 --> 00:27:01,120
+their games no matter what
+
+729
+00:26:59,599 --> 00:27:02,639
+it just feels like this was an
+
+730
+00:27:01,119 --> 00:27:04,558
+opportunity
+
+731
+00:27:02,640 --> 00:27:07,360
+to inspire people with the power of
+
+732
+00:27:04,558 --> 00:27:08,720
+science the development of the vaccines
+
+733
+00:27:07,359 --> 00:27:10,639
+no matter what you think of those
+
+734
+00:27:08,720 --> 00:27:12,000
+vaccines is one of the greatest
+
+735
+00:27:10,640 --> 00:27:13,679
+accomplishments in the history of
+
+736
+00:27:12,000 --> 00:27:14,720
+science indeed
+
+737
+00:27:13,679 --> 00:27:16,960
+and
+
+738
+00:27:14,720 --> 00:27:19,600
+the fact that that's not inspiring
+
+739
+00:27:16,960 --> 00:27:21,360
+listen i host a podcast whenever i say
+
+740
+00:27:19,599 --> 00:27:22,319
+positive stuff about the vaccine i get
+
+741
+00:27:21,359 --> 00:27:25,599
+to hear
+
+742
+00:27:22,319 --> 00:27:28,079
+a lot of different opinions i bet you do
+
+743
+00:27:25,599 --> 00:27:30,240
+the fact that i do is a big problem to
+
+744
+00:27:28,079 --> 00:27:33,199
+me because it's an incredible
+
+745
+00:27:30,240 --> 00:27:34,480
+incredible accomplishment of science
+
+746
+00:27:33,200 --> 00:27:37,519
+and so i
+
+747
+00:27:34,480 --> 00:27:40,798
+yeah i i i'm sorry but i have to put
+
+748
+00:27:37,519 --> 00:27:42,480
+responsibility on the leaders
+
+749
+00:27:40,798 --> 00:27:44,000
+even if it's not their mistakes that's
+
+750
+00:27:42,480 --> 00:27:45,919
+what the leadership is that's what
+
+751
+00:27:44,000 --> 00:27:48,240
+leadership is you take responsibility
+
+752
+00:27:45,919 --> 00:27:49,360
+for the situation i wonder if there's
+
+753
+00:27:48,240 --> 00:27:50,640
+something that could have been done
+
+754
+00:27:49,359 --> 00:27:52,240
+better
+
+755
+00:27:50,640 --> 00:27:54,320
+to
+
+756
+00:27:52,240 --> 00:27:56,640
+give people hope
+
+757
+00:27:54,319 --> 00:27:59,759
+that science will save us as opposed to
+
+758
+00:27:56,640 --> 00:27:59,759
+science will divide us
+
+759
+00:28:00,720 --> 00:28:05,440
+i think you have more confidence
+
+760
+00:28:03,359 --> 00:28:08,558
+in the ability to get beyond our current
+
+761
+00:28:05,440 --> 00:28:11,919
+divisions uh than i do after seeing just
+
+762
+00:28:08,558 --> 00:28:14,720
+how deep and dark they have become
+
+763
+00:28:11,919 --> 00:28:17,440
+tony fauci has said multiple times the
+
+764
+00:28:14,720 --> 00:28:19,200
+recommendation about not wearing masks
+
+765
+00:28:17,440 --> 00:28:21,200
+was for two reasons
+
+766
+00:28:19,200 --> 00:28:22,960
+a shortage of masks which were needed in
+
+767
+00:28:21,200 --> 00:28:25,440
+hospitals and
+
+768
+00:28:22,960 --> 00:28:27,038
+a lack of realization early in the
+
+769
+00:28:25,440 --> 00:28:30,558
+course of the epidemic
+
+770
+00:28:27,038 --> 00:28:33,759
+that this was a virus that could heavily
+
+771
+00:28:30,558 --> 00:28:36,798
+infect asymptomatic people
+
+772
+00:28:33,759 --> 00:28:38,798
+as that changed he changed now did he
+
+773
+00:28:36,798 --> 00:28:41,038
+make an error no he was making a
+
+774
+00:28:38,798 --> 00:28:42,720
+judgment based on the data available at
+
+775
+00:28:41,038 --> 00:28:45,119
+the time but he certainly made that
+
+776
+00:28:42,720 --> 00:28:47,200
+clear over and over again
+
+777
+00:28:45,119 --> 00:28:49,199
+it has not stopped uh those who would
+
+778
+00:28:47,200 --> 00:28:51,120
+like to demonize him from saying well he
+
+779
+00:28:49,200 --> 00:28:53,038
+just flip-flopped
+
+780
+00:28:51,119 --> 00:28:56,398
+he you can't trust a guy he says one
+
+781
+00:28:53,038 --> 00:28:59,200
+thing today and one thing tomorrow
+
+782
+00:28:56,398 --> 00:29:01,519
+well masks is a tricky one so it is a
+
+783
+00:28:59,200 --> 00:29:03,679
+tricky one early on i'm a co-author and
+
+784
+00:29:01,519 --> 00:29:06,558
+a paper one of one of many but this was
+
+785
+00:29:03,679 --> 00:29:07,919
+a survey paper overlooking the
+
+786
+00:29:06,558 --> 00:29:09,519
+the evidence
+
+787
+00:29:07,919 --> 00:29:12,559
+uh it's a summary of the evidence we
+
+788
+00:29:09,519 --> 00:29:14,798
+have for the effectiveness of masks it
+
+789
+00:29:12,558 --> 00:29:17,038
+seems that
+
+790
+00:29:14,798 --> 00:29:19,759
+it's difficult to do rigorous scientific
+
+791
+00:29:17,038 --> 00:29:21,200
+study on masks it is difficult
+
+792
+00:29:19,759 --> 00:29:23,278
+there's a lot of philosophical and
+
+793
+00:29:21,200 --> 00:29:25,759
+ethical questions i want to ask you but
+
+794
+00:29:23,278 --> 00:29:28,240
+within this
+
+795
+00:29:25,759 --> 00:29:30,480
+it's back to your words and anthony
+
+796
+00:29:28,240 --> 00:29:31,919
+fauci's words
+
+797
+00:29:30,480 --> 00:29:33,599
+when you're dealing with so much
+
+798
+00:29:31,919 --> 00:29:36,480
+uncertainty
+
+799
+00:29:33,599 --> 00:29:38,240
+and so much potential uncertainty about
+
+800
+00:29:36,480 --> 00:29:40,480
+how catastrophic this virus is in the
+
+801
+00:29:38,240 --> 00:29:41,359
+early days
+
+802
+00:29:40,480 --> 00:29:43,679
+and
+
+803
+00:29:41,359 --> 00:29:46,000
+knowing that each word you say may
+
+804
+00:29:43,679 --> 00:29:47,840
+create panic
+
+805
+00:29:46,000 --> 00:29:50,079
+how do you communicate science with the
+
+806
+00:29:47,839 --> 00:29:50,079
+world
+
+807
+00:29:51,759 --> 00:29:55,440
+it's a philosophical it's an ethical
+
+808
+00:29:53,359 --> 00:29:57,918
+it's a practical question
+
+809
+00:29:55,440 --> 00:29:59,200
+there was a discussion about masks a
+
+810
+00:29:57,919 --> 00:30:02,880
+century ago
+
+811
+00:29:59,200 --> 00:30:02,880
+and that too led to panic
+
+812
+00:30:03,359 --> 00:30:06,719
+so
+
+813
+00:30:04,880 --> 00:30:09,039
+i mean i'm trying to put myself in the
+
+814
+00:30:06,720 --> 00:30:10,720
+mind in your mind in the mind of anthony
+
+815
+00:30:09,038 --> 00:30:13,038
+fauci in those early days knowing that
+
+816
+00:30:10,720 --> 00:30:14,880
+there's limited supply masks
+
+817
+00:30:13,038 --> 00:30:17,359
+like what do you say
+
+818
+00:30:14,880 --> 00:30:19,760
+do you fully convey the uncertainty of
+
+819
+00:30:17,359 --> 00:30:22,639
+the situation of the
+
+820
+00:30:19,759 --> 00:30:26,480
+of the challenges of the supply chain
+
+821
+00:30:22,640 --> 00:30:29,600
+or do you say that masks don't work
+
+822
+00:30:26,480 --> 00:30:32,399
+that's a complicated calculation
+
+823
+00:30:29,599 --> 00:30:35,278
+how do you make that calculation
+
+824
+00:30:32,398 --> 00:30:37,359
+it is a complicated calculation
+
+825
+00:30:35,278 --> 00:30:38,960
+as a scientist your
+
+826
+00:30:37,359 --> 00:30:41,918
+temptation would be
+
+827
+00:30:38,960 --> 00:30:43,440
+to give a full brain dump of all the
+
+828
+00:30:41,919 --> 00:30:45,038
+details
+
+829
+00:30:43,440 --> 00:30:46,558
+of the information about what's known
+
+830
+00:30:45,038 --> 00:30:48,558
+and what isn't known what experiments
+
+831
+00:30:46,558 --> 00:30:50,000
+need to be done
+
+832
+00:30:48,558 --> 00:30:52,398
+most of the time that's not going to
+
+833
+00:30:50,000 --> 00:30:54,558
+play well in a sound bite on the evening
+
+834
+00:30:52,398 --> 00:30:56,319
+news so you have to kind of distill it
+
+835
+00:30:54,558 --> 00:30:57,839
+down to a recommendation that is the
+
+836
+00:30:56,319 --> 00:30:59,519
+best you can do
+
+837
+00:30:57,839 --> 00:31:01,119
+at that time with the information you've
+
+838
+00:30:59,519 --> 00:31:03,278
+got
+
+839
+00:31:01,119 --> 00:31:05,359
+so you're a man of god
+
+840
+00:31:03,278 --> 00:31:07,119
+and we'll return to that to talk about
+
+841
+00:31:05,359 --> 00:31:09,359
+some
+
+842
+00:31:07,119 --> 00:31:11,678
+some also unanswerable philosophical
+
+843
+00:31:09,359 --> 00:31:13,038
+questions but first let's linger on the
+
+844
+00:31:11,679 --> 00:31:15,679
+vaccine
+
+845
+00:31:13,038 --> 00:31:16,960
+because in the in the religious in the
+
+846
+00:31:15,679 --> 00:31:18,880
+christian community there was some
+
+847
+00:31:16,960 --> 00:31:21,519
+hesitancy with the vaccine
+
+848
+00:31:18,880 --> 00:31:23,360
+still is still is
+
+849
+00:31:21,519 --> 00:31:26,558
+there's a lot of data showing high
+
+850
+00:31:23,359 --> 00:31:27,678
+efficacy and safety of vaccines of covid
+
+851
+00:31:26,558 --> 00:31:30,398
+vaccines
+
+852
+00:31:27,679 --> 00:31:32,798
+but still they are far from perfect as
+
+853
+00:31:30,398 --> 00:31:34,319
+all vaccines are can you empathize with
+
+854
+00:31:32,798 --> 00:31:37,038
+people who are hesitant to take the
+
+855
+00:31:34,319 --> 00:31:39,759
+covet vaccine or to have their children
+
+856
+00:31:37,038 --> 00:31:41,440
+take the covet vaccine i can totally
+
+857
+00:31:39,759 --> 00:31:43,359
+empathize
+
+858
+00:31:41,440 --> 00:31:45,278
+especially when people are barraged by
+
+859
+00:31:43,359 --> 00:31:48,240
+conflicting information coming at them
+
+860
+00:31:45,278 --> 00:31:49,919
+from all kinds of directions
+
+861
+00:31:48,240 --> 00:31:52,640
+i've spent a lot of my time in the last
+
+862
+00:31:49,919 --> 00:31:55,278
+year trying to figure out how to do a
+
+863
+00:31:52,640 --> 00:31:57,759
+better job of listening
+
+864
+00:31:55,278 --> 00:32:00,558
+because i think we have all
+
+865
+00:31:57,759 --> 00:32:03,200
+got the risk of assuming we know the
+
+866
+00:32:00,558 --> 00:32:05,440
+basis for somebody's hesitancy
+
+867
+00:32:03,200 --> 00:32:07,519
+and that often
+
+868
+00:32:05,440 --> 00:32:10,640
+doesn't turn out to be what you thought
+
+869
+00:32:07,519 --> 00:32:12,480
+and the variety of reasons is quite
+
+870
+00:32:10,640 --> 00:32:16,080
+broad
+
+871
+00:32:12,480 --> 00:32:17,599
+i think a big concern is just this sense
+
+872
+00:32:16,079 --> 00:32:20,558
+of uncertainty about whether this was
+
+873
+00:32:17,599 --> 00:32:21,439
+done too fast and that corners were cut
+
+874
+00:32:20,558 --> 00:32:24,398
+and
+
+875
+00:32:21,440 --> 00:32:27,038
+there are good answers to that
+
+876
+00:32:24,398 --> 00:32:29,599
+along with that a sense that maybe this
+
+877
+00:32:27,038 --> 00:32:32,240
+vaccine will have long-term effects that
+
+878
+00:32:29,599 --> 00:32:34,639
+we won't know about for years to come
+
+879
+00:32:32,240 --> 00:32:36,319
+and one can say that hasn't been seen
+
+880
+00:32:34,640 --> 00:32:37,840
+with other vaccines and there's no
+
+881
+00:32:36,319 --> 00:32:39,678
+particular reason to think this one's
+
+882
+00:32:37,839 --> 00:32:41,439
+going to be different than the dozens of
+
+883
+00:32:39,679 --> 00:32:43,759
+others that we have experience with but
+
+884
+00:32:41,440 --> 00:32:45,919
+you can't absolutely say no there's no
+
+885
+00:32:43,759 --> 00:32:47,599
+chance of that
+
+886
+00:32:45,919 --> 00:32:50,480
+so it does
+
+887
+00:32:47,599 --> 00:32:51,918
+come down to listening and then trying
+
+888
+00:32:50,480 --> 00:32:55,038
+in a
+
+889
+00:32:51,919 --> 00:32:57,360
+fashion that doesn't convey a message
+
+890
+00:32:55,038 --> 00:32:58,798
+that you're smarter than the person
+
+891
+00:32:57,359 --> 00:33:00,798
+you're talking to because that isn't
+
+892
+00:32:58,798 --> 00:33:02,720
+going to help
+
+893
+00:33:00,798 --> 00:33:04,879
+to really address what the substance is
+
+894
+00:33:02,720 --> 00:33:07,600
+of the concerns
+
+895
+00:33:04,880 --> 00:33:10,240
+but my heart goes out to so many people
+
+896
+00:33:07,599 --> 00:33:12,879
+who are fearful about this because of
+
+897
+00:33:10,240 --> 00:33:14,798
+all the information that has been dumped
+
+898
+00:33:12,880 --> 00:33:16,720
+on them
+
+899
+00:33:14,798 --> 00:33:18,319
+some of it by politicians a lot of it by
+
+900
+00:33:16,720 --> 00:33:19,839
+the internet
+
+901
+00:33:18,319 --> 00:33:22,960
+some of it by
+
+902
+00:33:19,839 --> 00:33:26,000
+parts of the media that seem to
+
+903
+00:33:22,960 --> 00:33:27,440
+take pleasure in stirring up uh this
+
+904
+00:33:26,000 --> 00:33:29,359
+kind of fear
+
+905
+00:33:27,440 --> 00:33:31,200
+for their own reasons
+
+906
+00:33:29,359 --> 00:33:32,879
+and that is shameful
+
+907
+00:33:31,200 --> 00:33:35,278
+i'm really sympathetic
+
+908
+00:33:32,880 --> 00:33:36,480
+with the people who are confused and
+
+909
+00:33:35,278 --> 00:33:38,480
+fearful
+
+910
+00:33:36,480 --> 00:33:39,839
+i am not sympathetic with people who are
+
+911
+00:33:38,480 --> 00:33:41,519
+distributing information that's
+
+912
+00:33:39,839 --> 00:33:43,359
+demonstrably false
+
+913
+00:33:41,519 --> 00:33:45,278
+and continue to do so
+
+914
+00:33:43,359 --> 00:33:48,719
+they're taking lives
+
+915
+00:33:45,278 --> 00:33:51,759
+i didn't realize how strong that
+
+916
+00:33:48,720 --> 00:33:53,120
+sector of disinformation
+
+917
+00:33:51,759 --> 00:33:54,558
+it would be
+
+918
+00:33:53,119 --> 00:33:56,879
+and it's been
+
+919
+00:33:54,558 --> 00:33:59,359
+in many ways more effective uh than the
+
+920
+00:33:56,880 --> 00:34:01,679
+means of spreading the truth
+
+921
+00:33:59,359 --> 00:34:03,759
+this is going to take us into another
+
+922
+00:34:01,679 --> 00:34:07,120
+place but alex if there's something i'm
+
+923
+00:34:03,759 --> 00:34:08,639
+really worried about in this country and
+
+924
+00:34:07,119 --> 00:34:09,918
+it's not just this country but it's the
+
+925
+00:34:08,639 --> 00:34:12,399
+one i live in
+
+926
+00:34:09,918 --> 00:34:14,239
+is that we have another epidemic besides
+
+927
+00:34:12,398 --> 00:34:17,118
+covet 19
+
+928
+00:34:14,239 --> 00:34:18,838
+and it's an epidemic of the loss
+
+929
+00:34:17,119 --> 00:34:21,760
+of the anchor of
+
+930
+00:34:18,838 --> 00:34:22,878
+truth that truth as a means of making
+
+931
+00:34:21,760 --> 00:34:26,240
+decisions
+
+932
+00:34:22,878 --> 00:34:28,559
+uh truth is a means of figuring out
+
+933
+00:34:26,239 --> 00:34:30,559
+how to wrestle with a question like
+
+934
+00:34:28,559 --> 00:34:32,000
+should i get this vaccine for myself or
+
+935
+00:34:30,559 --> 00:34:35,279
+my children
+
+936
+00:34:32,000 --> 00:34:38,719
+seems to have lost its primacy
+
+937
+00:34:35,280 --> 00:34:40,320
+and instead it's an opinion of somebody
+
+938
+00:34:38,719 --> 00:34:42,480
+who
+
+939
+00:34:40,320 --> 00:34:43,280
+expressed it very strongly
+
+940
+00:34:42,480 --> 00:34:45,519
+or
+
+941
+00:34:43,280 --> 00:34:46,839
+some facebook post that i read
+
+942
+00:34:45,519 --> 00:34:51,119
+two hours
+
+943
+00:34:46,838 --> 00:34:53,759
+ago and for those to become substitutes
+
+944
+00:34:51,119 --> 00:34:54,879
+for objective truth
+
+945
+00:34:53,760 --> 00:34:57,200
+not just
+
+946
+00:34:54,878 --> 00:34:58,719
+of course for vaccines but for many
+
+947
+00:34:57,199 --> 00:35:02,399
+other issues like
+
+948
+00:34:58,719 --> 00:35:04,799
+was the 2020 election actually fair
+
+949
+00:35:02,400 --> 00:35:07,599
+this worries me deeply
+
+950
+00:35:04,800 --> 00:35:09,599
+it's bad enough to have polarization
+
+951
+00:35:07,599 --> 00:35:11,760
+and divisions
+
+952
+00:35:09,599 --> 00:35:14,720
+but to have no way of resolving those by
+
+953
+00:35:11,760 --> 00:35:16,720
+actually saying okay what's true here
+
+954
+00:35:14,719 --> 00:35:19,598
+makes me very worried about the path
+
+955
+00:35:16,719 --> 00:35:21,838
+we're on and i'm usually an optimist
+
+956
+00:35:19,599 --> 00:35:22,720
+well to give you an optimistic angle on
+
+957
+00:35:21,838 --> 00:35:24,400
+this
+
+958
+00:35:22,719 --> 00:35:25,919
+i actually think
+
+959
+00:35:24,400 --> 00:35:28,639
+that
+
+960
+00:35:25,920 --> 00:35:29,599
+this sense that there's no one place for
+
+961
+00:35:28,639 --> 00:35:32,879
+truth
+
+962
+00:35:29,599 --> 00:35:35,200
+it's just a thing that will inspire
+
+963
+00:35:32,880 --> 00:35:37,200
+leaders and science communicators to
+
+964
+00:35:35,199 --> 00:35:39,439
+speak not from a place of authority but
+
+965
+00:35:37,199 --> 00:35:41,679
+from a place of humility i think it's
+
+966
+00:35:39,440 --> 00:35:43,200
+just challenging people to communicate
+
+967
+00:35:41,679 --> 00:35:45,759
+in a new way
+
+968
+00:35:43,199 --> 00:35:47,838
+to be listeners first
+
+969
+00:35:45,760 --> 00:35:49,760
+i think the problem isn't that there's a
+
+970
+00:35:47,838 --> 00:35:52,239
+lot of misinformation
+
+971
+00:35:49,760 --> 00:35:53,520
+i think that
+
+972
+00:35:52,239 --> 00:35:55,358
+um
+
+973
+00:35:53,519 --> 00:35:59,199
+people
+
+974
+00:35:55,358 --> 00:36:02,880
+the the internet and and the world
+
+975
+00:35:59,199 --> 00:36:04,719
+are distrustful of people who
+
+976
+00:36:02,880 --> 00:36:07,200
+who speak as if they possess the truth
+
+977
+00:36:04,719 --> 00:36:10,159
+with an authoritarian kind of
+
+978
+00:36:07,199 --> 00:36:12,399
+tone yeah which was i think defining for
+
+979
+00:36:10,159 --> 00:36:14,078
+what science was in the 20th century
+
+980
+00:36:12,400 --> 00:36:15,599
+i just think it has to sound different
+
+981
+00:36:14,079 --> 00:36:18,960
+in the 21st
+
+982
+00:36:15,599 --> 00:36:22,079
+with uh it's a in the battle of ideas i
+
+983
+00:36:18,960 --> 00:36:23,119
+think humility and love wins
+
+984
+00:36:22,079 --> 00:36:25,359
+and
+
+985
+00:36:23,119 --> 00:36:28,400
+that's how science wins not through
+
+986
+00:36:25,358 --> 00:36:31,358
+having quote unquote truth because now
+
+987
+00:36:28,400 --> 00:36:34,000
+everybody can just say i have the truth
+
+988
+00:36:31,358 --> 00:36:35,679
+um i think you have to speak like i said
+
+989
+00:36:34,000 --> 00:36:38,079
+from humility not authority and so it
+
+990
+00:36:35,679 --> 00:36:39,039
+just challenges our leaders to uh go
+
+991
+00:36:38,079 --> 00:36:40,160
+back
+
+992
+00:36:39,039 --> 00:36:42,239
+and
+
+993
+00:36:40,159 --> 00:36:44,239
+learn to be part of my french less
+
+994
+00:36:42,239 --> 00:36:48,159
+and uh
+
+995
+00:36:44,239 --> 00:36:50,239
+more kind and like you said to listen to
+
+996
+00:36:48,159 --> 00:36:52,078
+listen to the experiences of people
+
+997
+00:36:50,239 --> 00:36:53,519
+that are good people not not the ones
+
+998
+00:36:52,079 --> 00:36:55,760
+who are trying to manipulate the system
+
+999
+00:36:53,519 --> 00:36:58,400
+and play a game and so on but real you
+
+1000
+00:36:55,760 --> 00:37:01,599
+know real people who are just afraid of
+
+1001
+00:36:58,400 --> 00:37:03,200
+uncertainty of hurting those they loved
+
+1002
+00:37:01,599 --> 00:37:05,119
+and so on so i think it's just an
+
+1003
+00:37:03,199 --> 00:37:08,960
+opportunity for leaders to go back and
+
+1004
+00:37:05,119 --> 00:37:12,079
+take a class on effective communication
+
+1005
+00:37:08,960 --> 00:37:14,000
+i'm with you on the shifting uh more
+
+1006
+00:37:12,079 --> 00:37:15,519
+from where we are to humility and love
+
+1007
+00:37:14,000 --> 00:37:18,320
+that's got to be the right answer that's
+
+1008
+00:37:15,519 --> 00:37:20,239
+very biblical by the way
+
+1009
+00:37:18,320 --> 00:37:22,480
+we'll get there
+
+1010
+00:37:20,239 --> 00:37:24,479
+i i have to bring up uh joe rogan i
+
+1011
+00:37:22,480 --> 00:37:27,039
+don't know if you know who he is i do
+
+1012
+00:37:24,480 --> 00:37:28,800
+he's a podcaster comedian fighting
+
+1013
+00:37:27,039 --> 00:37:31,759
+commentator and
+
+1014
+00:37:28,800 --> 00:37:34,240
+my now friend and iver mekton uh
+
+1015
+00:37:31,760 --> 00:37:36,640
+believer too yes that is the question i
+
+1016
+00:37:34,239 --> 00:37:38,159
+have to ask you about
+
+1017
+00:37:36,639 --> 00:37:39,598
+uh he has gotten some flack in the
+
+1018
+00:37:38,159 --> 00:37:42,239
+mainstream media for not getting
+
+1019
+00:37:39,599 --> 00:37:45,039
+vaccinated and when he got coveted
+
+1020
+00:37:42,239 --> 00:37:46,719
+recently taking ivermectin as part of a
+
+1021
+00:37:45,039 --> 00:37:48,838
+cocktail of treatments
+
+1022
+00:37:46,719 --> 00:37:51,519
+the nih actually has a nice page on
+
+1023
+00:37:48,838 --> 00:37:53,599
+ivermectin saying quote there's
+
+1024
+00:37:51,519 --> 00:37:55,039
+insufficient evidence to recommend
+
+1025
+00:37:53,599 --> 00:37:57,280
+either for
+
+1026
+00:37:55,039 --> 00:37:59,279
+or against the use of ivermectin for the
+
+1027
+00:37:57,280 --> 00:38:01,599
+treatment of covin19
+
+1028
+00:37:59,280 --> 00:38:03,359
+results from adequately powered
+
+1029
+00:38:01,599 --> 00:38:05,280
+well-designed and well-conducted
+
+1030
+00:38:03,358 --> 00:38:07,679
+clinical trials are needed to provide
+
+1031
+00:38:05,280 --> 00:38:10,000
+more specific evidence-based guidance on
+
+1032
+00:38:07,679 --> 00:38:12,239
+the role of ivermecton in the treatment
+
+1033
+00:38:10,000 --> 00:38:14,400
+of covenant 19.
+
+1034
+00:38:12,239 --> 00:38:16,959
+so let me ask why do you think there has
+
+1035
+00:38:14,400 --> 00:38:19,200
+been so much attack on joe rogan and
+
+1036
+00:38:16,960 --> 00:38:21,199
+anyone else that's talking about
+
+1037
+00:38:19,199 --> 00:38:24,639
+ivermectin when there's insufficient
+
+1038
+00:38:21,199 --> 00:38:26,480
+evidence for or against
+
+1039
+00:38:24,639 --> 00:38:28,319
+well let's unpack that
+
+1040
+00:38:26,480 --> 00:38:30,838
+first of all i think the concerns about
+
+1041
+00:38:28,320 --> 00:38:33,838
+joe are not limited to his taking
+
+1042
+00:38:30,838 --> 00:38:35,920
+ivermectin that much more seriously his
+
+1043
+00:38:33,838 --> 00:38:37,199
+being fairly publicly negative about
+
+1044
+00:38:35,920 --> 00:38:39,838
+vaccines
+
+1045
+00:38:37,199 --> 00:38:43,118
+at a time where people are dying
+
+1046
+00:38:39,838 --> 00:38:44,239
+700 000 people have died from covet 19
+
+1047
+00:38:43,119 --> 00:38:46,320
+estimates
+
+1048
+00:38:44,239 --> 00:38:48,559
+by kaiser or at least a hundred thousand
+
+1049
+00:38:46,320 --> 00:38:50,320
+of those were unnecessary deaths of
+
+1050
+00:38:48,559 --> 00:38:53,039
+unvaccinated people
+
+1051
+00:38:50,320 --> 00:38:54,720
+and for joe to promote that further even
+
+1052
+00:38:53,039 --> 00:38:58,159
+as this uh
+
+1053
+00:38:54,719 --> 00:39:00,559
+pandemic rages through our population
+
+1054
+00:38:58,159 --> 00:39:02,559
+is simply irresponsible
+
+1055
+00:39:00,559 --> 00:39:05,039
+so yeah the ivermectin is just one other
+
+1056
+00:39:02,559 --> 00:39:08,159
+twist obviously ivermectin has been
+
+1057
+00:39:05,039 --> 00:39:09,920
+controversial for months and months
+
+1058
+00:39:08,159 --> 00:39:11,920
+the reason that it got particular
+
+1059
+00:39:09,920 --> 00:39:13,760
+attention is because of the way in which
+
+1060
+00:39:11,920 --> 00:39:16,559
+it seemed to have captured the
+
+1061
+00:39:13,760 --> 00:39:18,400
+imagination of a lot of people and to
+
+1062
+00:39:16,559 --> 00:39:20,880
+the point where they were taking doses
+
+1063
+00:39:18,400 --> 00:39:22,559
+that were intended for livestock
+
+1064
+00:39:20,880 --> 00:39:25,119
+and some of them got pretty sick as a
+
+1065
+00:39:22,559 --> 00:39:28,400
+result from overdosing on this stuff
+
+1066
+00:39:25,119 --> 00:39:32,079
+that was not good judgment
+
+1067
+00:39:28,400 --> 00:39:34,160
+the drug itself remains uncertain
+
+1068
+00:39:32,079 --> 00:39:36,880
+uh there's a recent review that looks at
+
+1069
+00:39:34,159 --> 00:39:39,039
+all of the studies of ivormectin and
+
+1070
+00:39:36,880 --> 00:39:40,480
+basically concludes that it probably
+
+1071
+00:39:39,039 --> 00:39:42,480
+doesn't work
+
+1072
+00:39:40,480 --> 00:39:44,960
+we are running a study right now i
+
+1073
+00:39:42,480 --> 00:39:47,358
+looked at that data this morning
+
+1074
+00:39:44,960 --> 00:39:49,119
+in a trial called active six which is
+
+1075
+00:39:47,358 --> 00:39:50,239
+one of the ones that my public-private
+
+1076
+00:39:49,119 --> 00:39:52,400
+partnership
+
+1077
+00:39:50,239 --> 00:39:53,919
+is running we're up to about 400
+
+1078
+00:39:52,400 --> 00:39:55,760
+patients who've been randomized to
+
+1079
+00:39:53,920 --> 00:39:57,599
+ivermectin or placebo
+
+1080
+00:39:55,760 --> 00:39:59,760
+and should know
+
+1081
+00:39:57,599 --> 00:40:02,079
+perhaps as soon as a month from now in a
+
+1082
+00:39:59,760 --> 00:40:04,800
+very carefully controlled trial did it
+
+1083
+00:40:02,079 --> 00:40:06,079
+help or did it not so there will be an
+
+1084
+00:40:04,800 --> 00:40:08,240
+answer
+
+1085
+00:40:06,079 --> 00:40:10,079
+coming back to joe
+
+1086
+00:40:08,239 --> 00:40:11,759
+again i don't think the fact that he
+
+1087
+00:40:10,079 --> 00:40:12,560
+took divermectin and hoping it might
+
+1088
+00:40:11,760 --> 00:40:14,960
+work
+
+1089
+00:40:12,559 --> 00:40:18,159
+uh is that big a knock against him it's
+
+1090
+00:40:14,960 --> 00:40:20,079
+more the conveying of we don't trust
+
+1091
+00:40:18,159 --> 00:40:21,440
+what science says which is vaccines are
+
+1092
+00:40:20,079 --> 00:40:23,200
+going to save your life we're going to
+
+1093
+00:40:21,440 --> 00:40:25,280
+trust what's on the internet that says
+
+1094
+00:40:23,199 --> 00:40:26,799
+ivermectin and hydroxychloroquine really
+
+1095
+00:40:25,280 --> 00:40:28,640
+do work even though the scientific
+
+1096
+00:40:26,800 --> 00:40:31,119
+community says probably not so let me
+
+1097
+00:40:28,639 --> 00:40:33,679
+push back in that a little bit
+
+1098
+00:40:31,119 --> 00:40:35,358
+so he doesn't he doesn't say let's not
+
+1099
+00:40:33,679 --> 00:40:37,440
+listen to science
+
+1100
+00:40:35,358 --> 00:40:39,519
+he doesn't say the vaccine don't get
+
+1101
+00:40:37,440 --> 00:40:42,318
+vaccinated
+
+1102
+00:40:39,519 --> 00:40:45,199
+he says it's okay
+
+1103
+00:40:42,318 --> 00:40:47,199
+to ask questions i'm okay with that how
+
+1104
+00:40:45,199 --> 00:40:48,799
+risky is the vaccine for certain
+
+1105
+00:40:47,199 --> 00:40:50,000
+populations
+
+1106
+00:40:48,800 --> 00:40:51,760
+what are the
+
+1107
+00:40:50,000 --> 00:40:54,318
+benefits and risks
+
+1108
+00:40:51,760 --> 00:40:55,119
+there's other friends of joe
+
+1109
+00:40:54,318 --> 00:40:57,599
+and
+
+1110
+00:40:55,119 --> 00:40:59,760
+friends of mine like sam harris who says
+
+1111
+00:40:57,599 --> 00:41:01,680
+if you look at the data
+
+1112
+00:40:59,760 --> 00:41:03,040
+it's obvious that the benefits outweigh
+
+1113
+00:41:01,679 --> 00:41:04,719
+the risks
+
+1114
+00:41:03,039 --> 00:41:06,559
+and what joe says
+
+1115
+00:41:04,719 --> 00:41:09,679
+is yes but let's
+
+1116
+00:41:06,559 --> 00:41:12,078
+still openly talk about risks and he
+
+1117
+00:41:09,679 --> 00:41:13,679
+often brings up anecdotal evidence of
+
+1118
+00:41:12,079 --> 00:41:16,560
+people who've had
+
+1119
+00:41:13,679 --> 00:41:17,759
+uh highly negative effects from
+
+1120
+00:41:16,559 --> 00:41:19,440
+vaccines
+
+1121
+00:41:17,760 --> 00:41:21,200
+science is not done with anecdotal
+
+1122
+00:41:19,440 --> 00:41:23,358
+evidence
+
+1123
+00:41:21,199 --> 00:41:25,279
+and so you could infer a lot of stuff
+
+1124
+00:41:23,358 --> 00:41:26,639
+from the way he expresses it but he also
+
+1125
+00:41:25,280 --> 00:41:28,880
+communicates a lot of interesting
+
+1126
+00:41:26,639 --> 00:41:30,480
+questions
+
+1127
+00:41:28,880 --> 00:41:32,480
+and that's something maybe you can
+
+1128
+00:41:30,480 --> 00:41:34,079
+comment on this
+
+1129
+00:41:32,480 --> 00:41:35,599
+you know there's certain groups that are
+
+1130
+00:41:34,079 --> 00:41:38,318
+healthy
+
+1131
+00:41:35,599 --> 00:41:40,880
+they have uh they're younger they have
+
+1132
+00:41:38,318 --> 00:41:42,639
+they exercise a lot they get the all you
+
+1133
+00:41:40,880 --> 00:41:43,519
+know nutrition and all those kinds of
+
+1134
+00:41:42,639 --> 00:41:45,118
+things
+
+1135
+00:41:43,519 --> 00:41:47,039
+he shows
+
+1136
+00:41:45,119 --> 00:41:47,760
+skepticism on whether
+
+1137
+00:41:47,039 --> 00:41:49,039
+it's
+
+1138
+00:41:47,760 --> 00:41:51,440
+so obvious that they should get
+
+1139
+00:41:49,039 --> 00:41:53,838
+vaccinated and the same is
+
+1140
+00:41:51,440 --> 00:41:56,000
+he makes this he kind of presents the
+
+1141
+00:41:53,838 --> 00:41:57,119
+same kind of skepticism for
+
+1142
+00:41:56,000 --> 00:41:59,838
+kids
+
+1143
+00:41:57,119 --> 00:42:00,720
+for young kids so
+
+1144
+00:41:59,838 --> 00:42:03,039
+with
+
+1145
+00:42:00,719 --> 00:42:03,919
+empathy
+
+1146
+00:42:03,039 --> 00:42:04,880
+and
+
+1147
+00:42:03,920 --> 00:42:07,358
+uh
+
+1148
+00:42:04,880 --> 00:42:09,920
+you know listening my russian ineloquent
+
+1149
+00:42:07,358 --> 00:42:12,318
+description of what joe believes what
+
+1150
+00:42:09,920 --> 00:42:13,680
+what is your kind of response to that
+
+1151
+00:42:12,318 --> 00:42:15,679
+why should
+
+1152
+00:42:13,679 --> 00:42:18,000
+certain categories of healthy and young
+
+1153
+00:42:15,679 --> 00:42:19,838
+people still get vaccinated do you think
+
+1154
+00:42:18,000 --> 00:42:22,159
+well first just to say it's great for
+
+1155
+00:42:19,838 --> 00:42:24,078
+joe to be a skeptic to ask questions we
+
+1156
+00:42:22,159 --> 00:42:26,078
+should all be doing that but then the
+
+1157
+00:42:24,079 --> 00:42:27,920
+next step is to go and see what the data
+
+1158
+00:42:26,079 --> 00:42:29,440
+says and see if they're actually answers
+
+1159
+00:42:27,920 --> 00:42:32,000
+to those questions
+
+1160
+00:42:29,440 --> 00:42:33,920
+so coming to healthy people
+
+1161
+00:42:32,000 --> 00:42:34,960
+i've done a bunch of podcasts besides
+
+1162
+00:42:33,920 --> 00:42:37,599
+this one
+
+1163
+00:42:34,960 --> 00:42:42,000
+the one i think i remember most
+
+1164
+00:42:37,599 --> 00:42:44,480
+was a podcast with a worldwide wrestling
+
+1165
+00:42:42,000 --> 00:42:45,358
+superstar very nice he's about six foot
+
+1166
+00:42:44,480 --> 00:42:48,000
+six
+
+1167
+00:42:45,358 --> 00:42:50,239
+and just absolutely solid muscle
+
+1168
+00:42:48,000 --> 00:42:52,159
+and he got coveted
+
+1169
+00:42:50,239 --> 00:42:54,639
+and he almost died
+
+1170
+00:42:52,159 --> 00:42:57,118
+and recovering from that he said i've
+
+1171
+00:42:54,639 --> 00:42:59,440
+gotta let my
+
+1172
+00:42:57,119 --> 00:43:01,519
+supporters know because you can imagine
+
+1173
+00:42:59,440 --> 00:43:03,119
+worldwide wrestling fans are probably
+
+1174
+00:43:01,519 --> 00:43:06,800
+not big
+
+1175
+00:43:03,119 --> 00:43:10,400
+embracers of the need for vaccines
+
+1176
+00:43:06,800 --> 00:43:13,200
+and he want he just turned himself into
+
+1177
+00:43:10,400 --> 00:43:16,079
+a spokesperson for the fact that this
+
+1178
+00:43:13,199 --> 00:43:18,318
+virus doesn't care how healthy you are
+
+1179
+00:43:16,079 --> 00:43:21,680
+how much you exercise what a great
+
+1180
+00:43:18,318 --> 00:43:23,759
+specimen you are it wiped him out
+
+1181
+00:43:21,679 --> 00:43:26,239
+and we see that
+
+1182
+00:43:23,760 --> 00:43:29,920
+you know the average person in the icu
+
+1183
+00:43:26,239 --> 00:43:31,199
+right now with covet 19 is under age 50.
+
+1184
+00:43:29,920 --> 00:43:32,639
+i think there's a lot of people still
+
+1185
+00:43:31,199 --> 00:43:34,000
+thinking oh it's just those old people
+
+1186
+00:43:32,639 --> 00:43:36,159
+in the nursing homes it's not going to
+
+1187
+00:43:34,000 --> 00:43:37,838
+be about me they're wrong
+
+1188
+00:43:36,159 --> 00:43:39,759
+and they're plenty of instances of
+
+1189
+00:43:37,838 --> 00:43:41,358
+people who were totally healthy with no
+
+1190
+00:43:39,760 --> 00:43:43,680
+underlying diseases
+
+1191
+00:43:41,358 --> 00:43:46,159
+taking good care of themselves not obese
+
+1192
+00:43:43,679 --> 00:43:48,239
+exercising who have died from this
+
+1193
+00:43:46,159 --> 00:43:52,559
+disease
+
+1194
+00:43:48,239 --> 00:43:54,959
+700 children have died from this disease
+
+1195
+00:43:52,559 --> 00:43:57,838
+yes some of them had underlying factors
+
+1196
+00:43:54,960 --> 00:43:59,519
+like obesity but a lot of them did not
+
+1197
+00:43:57,838 --> 00:44:02,559
+so it's fair to say
+
+1198
+00:43:59,519 --> 00:44:06,480
+younger people are less susceptible to
+
+1199
+00:44:02,559 --> 00:44:09,358
+serious illness kids even less so than
+
+1200
+00:44:06,480 --> 00:44:12,159
+young adults but it ain't zero
+
+1201
+00:44:09,358 --> 00:44:13,920
+and if the vaccine is really safe and
+
+1202
+00:44:12,159 --> 00:44:16,480
+really effective
+
+1203
+00:44:13,920 --> 00:44:18,880
+then you probably want everybody to take
+
+1204
+00:44:16,480 --> 00:44:20,719
+advantage of that even though some are
+
+1205
+00:44:18,880 --> 00:44:24,000
+dropping their risks more than others
+
+1206
+00:44:20,719 --> 00:44:26,159
+everybody's dropping their risks some
+
+1207
+00:44:24,000 --> 00:44:28,239
+are you worried about variants so
+
+1208
+00:44:26,159 --> 00:44:30,799
+looking out into the future are you
+
+1209
+00:44:28,239 --> 00:44:32,639
+what's your vision for
+
+1210
+00:44:30,800 --> 00:44:35,599
+all the possible trajectories that this
+
+1211
+00:44:32,639 --> 00:44:37,838
+virus takes in human society i'm totally
+
+1212
+00:44:35,599 --> 00:44:39,280
+worried about the variance
+
+1213
+00:44:37,838 --> 00:44:41,920
+delta was
+
+1214
+00:44:39,280 --> 00:44:44,000
+such an impressive arrival on the scene
+
+1215
+00:44:41,920 --> 00:44:45,440
+in all the wrong ways i mean it took
+
+1216
+00:44:44,000 --> 00:44:47,920
+over
+
+1217
+00:44:45,440 --> 00:44:50,960
+the world yeah in the space of just a
+
+1218
+00:44:47,920 --> 00:44:53,440
+couple months because of its extremely
+
+1219
+00:44:50,960 --> 00:44:54,960
+contagious ability viruses would be
+
+1220
+00:44:53,440 --> 00:44:57,280
+beautiful if they weren't terrifying
+
+1221
+00:44:54,960 --> 00:44:59,838
+yeah exactly i mean this whole story of
+
+1222
+00:44:57,280 --> 00:45:02,319
+viral evolution scientifically is just
+
+1223
+00:44:59,838 --> 00:45:04,318
+amazingly elegant anybody who really
+
+1224
+00:45:02,318 --> 00:45:05,679
+wanted to understand how evolution works
+
+1225
+00:45:04,318 --> 00:45:07,759
+in real time
+
+1226
+00:45:05,679 --> 00:45:09,440
+study sars cov2
+
+1227
+00:45:07,760 --> 00:45:12,000
+because it's not just delta it's alpha
+
+1228
+00:45:09,440 --> 00:45:14,318
+and it's beta and it's gamma and it's
+
+1229
+00:45:12,000 --> 00:45:16,400
+the fact that these sweep through
+
+1230
+00:45:14,318 --> 00:45:17,679
+uh the world's population
+
+1231
+00:45:16,400 --> 00:45:21,440
+by
+
+1232
+00:45:17,679 --> 00:45:22,879
+fairly minor differences in fitness
+
+1233
+00:45:21,440 --> 00:45:25,358
+so the real question many people are
+
+1234
+00:45:22,880 --> 00:45:27,920
+wrestling is is delta it is it is it
+
+1235
+00:45:25,358 --> 00:45:30,078
+such a fit virus that nothing else will
+
+1236
+00:45:27,920 --> 00:45:32,559
+be able to displace it
+
+1237
+00:45:30,079 --> 00:45:34,560
+i don't know i mean there's now delta
+
+1238
+00:45:32,559 --> 00:45:37,199
+ay4
+
+1239
+00:45:34,559 --> 00:45:38,719
+which is a variant of delta that at
+
+1240
+00:45:37,199 --> 00:45:40,639
+least in the uk
+
+1241
+00:45:38,719 --> 00:45:42,799
+seems to be taking over
+
+1242
+00:45:40,639 --> 00:45:45,358
+the delta population as though it's
+
+1243
+00:45:42,800 --> 00:45:47,440
+maybe even a little more contagious that
+
+1244
+00:45:45,358 --> 00:45:49,920
+might be the first hint that we're
+
+1245
+00:45:47,440 --> 00:45:52,159
+seeing something new here it's not a
+
+1246
+00:45:49,920 --> 00:45:55,280
+completely different virus it's still
+
+1247
+00:45:52,159 --> 00:45:57,039
+delta but it's delta plus
+
+1248
+00:45:55,280 --> 00:45:58,400
+you know the big worry
+
+1249
+00:45:57,039 --> 00:46:01,838
+lex is
+
+1250
+00:45:58,400 --> 00:46:06,240
+what's out there that is so different
+
+1251
+00:46:01,838 --> 00:46:06,239
+that the vaccine protection doesn't work
+
+1252
+00:46:07,280 --> 00:46:11,440
+and we don't know how different it needs
+
+1253
+00:46:09,358 --> 00:46:13,199
+to be for the vaccine to stop working
+
+1254
+00:46:11,440 --> 00:46:15,760
+that's the that's the terrifying thing
+
+1255
+00:46:13,199 --> 00:46:17,439
+about each of these variants
+
+1256
+00:46:15,760 --> 00:46:19,440
+it's like uh it's always a pleasant
+
+1257
+00:46:17,440 --> 00:46:20,880
+surprise the vaccine seems to have still
+
+1258
+00:46:19,440 --> 00:46:22,960
+have efficacy
+
+1259
+00:46:20,880 --> 00:46:23,838
+and hooray for our immune system may i
+
+1260
+00:46:22,960 --> 00:46:26,159
+say
+
+1261
+00:46:23,838 --> 00:46:30,639
+because the vaccine immunized you
+
+1262
+00:46:26,159 --> 00:46:30,639
+against that original wuhan virus
+
+1263
+00:46:31,039 --> 00:46:35,599
+now we can see
+
+1264
+00:46:32,800 --> 00:46:37,920
+that especially after two doses and even
+
+1265
+00:46:35,599 --> 00:46:40,400
+more so after a booster your immune
+
+1266
+00:46:37,920 --> 00:46:43,519
+system is so clever that it's also
+
+1267
+00:46:40,400 --> 00:46:45,358
+making a diversity of antibodies to
+
+1268
+00:46:43,519 --> 00:46:47,280
+cover some other things that might
+
+1269
+00:46:45,358 --> 00:46:48,318
+happen to that virus to make it a little
+
+1270
+00:46:47,280 --> 00:46:50,160
+different
+
+1271
+00:46:48,318 --> 00:46:51,759
+and you're still getting really good
+
+1272
+00:46:50,159 --> 00:46:54,078
+coverage
+
+1273
+00:46:51,760 --> 00:46:57,200
+even for beta which was
+
+1274
+00:46:54,079 --> 00:46:58,160
+south africa b1351 which is the most
+
+1275
+00:46:57,199 --> 00:46:59,759
+different
+
+1276
+00:46:58,159 --> 00:47:01,838
+it looks pretty good
+
+1277
+00:46:59,760 --> 00:47:04,240
+but that doesn't mean it will always be
+
+1278
+00:47:01,838 --> 00:47:06,239
+as good as that if something gets really
+
+1279
+00:47:04,239 --> 00:47:08,559
+far away from the original virus now the
+
+1280
+00:47:06,239 --> 00:47:11,838
+good news is we would know what to do in
+
+1281
+00:47:08,559 --> 00:47:12,719
+that situation the mrna vaccines allow
+
+1282
+00:47:11,838 --> 00:47:15,679
+you
+
+1283
+00:47:12,719 --> 00:47:17,598
+to redesign the vaccine like that
+
+1284
+00:47:15,679 --> 00:47:19,598
+and to quickly get it through a few
+
+1285
+00:47:17,599 --> 00:47:21,440
+thousand participants in a clinical
+
+1286
+00:47:19,599 --> 00:47:23,359
+trial to be sure it's raising antibodies
+
+1287
+00:47:21,440 --> 00:47:25,119
+and then bang you could go
+
+1288
+00:47:23,358 --> 00:47:27,440
+but i don't want to have to do that
+
+1289
+00:47:25,119 --> 00:47:29,358
+there will be people's lives at risk in
+
+1290
+00:47:27,440 --> 00:47:30,639
+the meantime and what's the best way to
+
+1291
+00:47:29,358 --> 00:47:32,318
+keep that from happening well don't
+
+1292
+00:47:30,639 --> 00:47:33,519
+quite try to cut down the number of
+
+1293
+00:47:32,318 --> 00:47:35,119
+infections
+
+1294
+00:47:33,519 --> 00:47:37,358
+because you don't get variance unless
+
+1295
+00:47:35,119 --> 00:47:39,280
+the virus is replicating in a person so
+
+1296
+00:47:37,358 --> 00:47:41,679
+how do we
+
+1297
+00:47:39,280 --> 00:47:44,880
+uh solve this thing how do we get out of
+
+1298
+00:47:41,679 --> 00:47:47,358
+this pandemic what's like if you had a
+
+1299
+00:47:44,880 --> 00:47:50,400
+like a wand or something or
+
+1300
+00:47:47,358 --> 00:47:52,078
+uh you could really implement policies
+
+1301
+00:47:50,400 --> 00:47:54,160
+what's the full cocktail of solutions
+
+1302
+00:47:52,079 --> 00:47:55,920
+here oh it's a full cocktail it's not
+
+1303
+00:47:54,159 --> 00:47:58,000
+just one thing
+
+1304
+00:47:55,920 --> 00:47:59,920
+in our own country here in the u.s it
+
+1305
+00:47:58,000 --> 00:48:02,000
+would be getting those 64 million
+
+1306
+00:47:59,920 --> 00:48:03,920
+reluctant people to actually go ahead
+
+1307
+00:48:02,000 --> 00:48:05,599
+and get vaccinated there's 64 million
+
+1308
+00:48:03,920 --> 00:48:08,480
+people who didn't get vaccinated adults
+
+1309
+00:48:05,599 --> 00:48:11,519
+yes not even counting the kids wow 64
+
+1310
+00:48:08,480 --> 00:48:13,760
+million wow and that astounding
+
+1311
+00:48:11,519 --> 00:48:15,679
+get the kids vaccinated hopefully their
+
+1312
+00:48:13,760 --> 00:48:16,640
+parents will see that as a good thing
+
+1313
+00:48:15,679 --> 00:48:18,399
+too
+
+1314
+00:48:16,639 --> 00:48:20,239
+uh get those of us who are due for
+
+1315
+00:48:18,400 --> 00:48:21,599
+boosters boosted because that's going to
+
+1316
+00:48:20,239 --> 00:48:22,879
+reduce our likelihood of having
+
+1317
+00:48:21,599 --> 00:48:24,240
+breakthrough infections and keep
+
+1318
+00:48:22,880 --> 00:48:26,318
+spreading it
+
+1319
+00:48:24,239 --> 00:48:28,639
+uh convince people that until we're
+
+1320
+00:48:26,318 --> 00:48:30,639
+really done with this and we're not now
+
+1321
+00:48:28,639 --> 00:48:33,358
+that social distancing and mask wearing
+
+1322
+00:48:30,639 --> 00:48:35,920
+indoors are still critical uh to cut
+
+1323
+00:48:33,358 --> 00:48:38,719
+down the number of new infections
+
+1324
+00:48:35,920 --> 00:48:40,960
+but of course that's our country
+
+1325
+00:48:38,719 --> 00:48:44,239
+this is a worldwide pandemic
+
+1326
+00:48:40,960 --> 00:48:45,679
+i worry greatly about the fact that low
+
+1327
+00:48:44,239 --> 00:48:48,078
+and middle income countries have for the
+
+1328
+00:48:45,679 --> 00:48:50,399
+most part not even gotten started with
+
+1329
+00:48:48,079 --> 00:48:52,960
+access to vaccines and we have to figure
+
+1330
+00:48:50,400 --> 00:48:55,200
+out a way to speed that up
+
+1331
+00:48:52,960 --> 00:48:58,079
+because otherwise that's where the next
+
+1332
+00:48:55,199 --> 00:48:59,838
+variant will probably arrive
+
+1333
+00:48:58,079 --> 00:49:01,760
+and who knows how bad it will be and it
+
+1334
+00:48:59,838 --> 00:49:04,480
+will cross the world quickly as we've
+
+1335
+00:49:01,760 --> 00:49:05,839
+seen happen repeatedly in the last 22
+
+1336
+00:49:04,480 --> 00:49:08,159
+months
+
+1337
+00:49:05,838 --> 00:49:09,679
+i think i'm really surprised annoyed
+
+1338
+00:49:08,159 --> 00:49:12,239
+frustrated
+
+1339
+00:49:09,679 --> 00:49:14,000
+that testing
+
+1340
+00:49:12,239 --> 00:49:16,239
+rapid at home testing from the very
+
+1341
+00:49:14,000 --> 00:49:18,960
+beginning wasn't a big big part of the
+
+1342
+00:49:16,239 --> 00:49:21,279
+solution it seems first of all nobody's
+
+1343
+00:49:18,960 --> 00:49:24,159
+against it that's one huge plus for
+
+1344
+00:49:21,280 --> 00:49:26,160
+testing that it's everybody supports
+
+1345
+00:49:24,159 --> 00:49:29,358
+second of all like that's what america
+
+1346
+00:49:26,159 --> 00:49:30,480
+is good at is like mass manufacturer
+
+1347
+00:49:29,358 --> 00:49:32,239
+stuff like
+
+1348
+00:49:30,480 --> 00:49:34,880
+like stepping up engineers stepping up
+
+1349
+00:49:32,239 --> 00:49:36,479
+and really deploying it plus without the
+
+1350
+00:49:34,880 --> 00:49:38,079
+collection of data it's giving people
+
+1351
+00:49:36,480 --> 00:49:40,000
+freedom
+
+1352
+00:49:38,079 --> 00:49:41,680
+is giving them information and then
+
+1353
+00:49:40,000 --> 00:49:43,440
+freedom to decide what to do with that
+
+1354
+00:49:41,679 --> 00:49:45,919
+information it's such a powerful
+
+1355
+00:49:43,440 --> 00:49:48,159
+solution i don't understand well now i
+
+1356
+00:49:45,920 --> 00:49:50,318
+think the biden administration is
+
+1357
+00:49:48,159 --> 00:49:52,558
+i think emphasized like the scaling of
+
+1358
+00:49:50,318 --> 00:49:54,400
+testing manufacturers so but i just feel
+
+1359
+00:49:52,559 --> 00:49:55,359
+like it's an obvious solution get a test
+
+1360
+00:49:54,400 --> 00:49:57,280
+that
+
+1361
+00:49:55,358 --> 00:49:59,199
+costs less than a dollar manufacturer
+
+1362
+00:49:57,280 --> 00:50:00,960
+costs less than a dollar to buy
+
+1363
+00:49:59,199 --> 00:50:02,399
+and just everybody gets tested every
+
+1364
+00:50:00,960 --> 00:50:03,920
+single day
+
+1365
+00:50:02,400 --> 00:50:05,599
+don't share that data with anyone you
+
+1366
+00:50:03,920 --> 00:50:08,000
+just make the decisions and i believe in
+
+1367
+00:50:05,599 --> 00:50:09,760
+the intelligence of people to make the
+
+1368
+00:50:08,000 --> 00:50:12,480
+right decision to stay at home when the
+
+1369
+00:50:09,760 --> 00:50:14,880
+test is positive i am so completely with
+
+1370
+00:50:12,480 --> 00:50:16,318
+you on that and nih has been smack in
+
+1371
+00:50:14,880 --> 00:50:17,680
+the middle of trying to make that dream
+
+1372
+00:50:16,318 --> 00:50:20,239
+come true
+
+1373
+00:50:17,679 --> 00:50:24,558
+we're running a trial right now
+
+1374
+00:50:20,239 --> 00:50:27,199
+in georgia indiana hawaii
+
+1375
+00:50:24,559 --> 00:50:28,800
+uh and where's the other one
+
+1376
+00:50:27,199 --> 00:50:31,039
+oh kentucky
+
+1377
+00:50:28,800 --> 00:50:32,000
+basically blanketing a community with
+
+1378
+00:50:31,039 --> 00:50:34,159
+free
+
+1379
+00:50:32,000 --> 00:50:36,639
+i'm testing that's beautiful and look to
+
+1380
+00:50:34,159 --> 00:50:38,960
+see what happens as far as stemming the
+
+1381
+00:50:36,639 --> 00:50:40,719
+the spread of the epidemic and measuring
+
+1382
+00:50:38,960 --> 00:50:42,720
+it by waste water because you can really
+
+1383
+00:50:40,719 --> 00:50:44,799
+tell whether you've cut back the amount
+
+1384
+00:50:42,719 --> 00:50:47,439
+of infection in the community
+
+1385
+00:50:44,800 --> 00:50:50,480
+yeah you i'm so with you we got off to
+
+1386
+00:50:47,440 --> 00:50:52,079
+such a bad start with testing
+
+1387
+00:50:50,480 --> 00:50:54,159
+and of course all the testing was being
+
+1388
+00:50:52,079 --> 00:50:55,760
+done for the first several months in big
+
+1389
+00:50:54,159 --> 00:50:57,920
+box laboratories
+
+1390
+00:50:55,760 --> 00:50:59,440
+where you had to send the sample off and
+
+1391
+00:50:57,920 --> 00:51:01,039
+put it through the mail somehow and get
+
+1392
+00:50:59,440 --> 00:51:02,559
+the result back sometimes five days
+
+1393
+00:51:01,039 --> 00:51:04,880
+later after you've already infected a
+
+1394
+00:51:02,559 --> 00:51:06,720
+dozen people it was just a completely
+
+1395
+00:51:04,880 --> 00:51:08,800
+wrong model but it's what we had and
+
+1396
+00:51:06,719 --> 00:51:11,039
+everybody was like oh we got to stick
+
+1397
+00:51:08,800 --> 00:51:12,720
+with pcr because if you start using
+
+1398
+00:51:11,039 --> 00:51:14,719
+those home tests that are based on
+
+1399
+00:51:12,719 --> 00:51:15,919
+antigens lateral flow
+
+1400
+00:51:14,719 --> 00:51:18,799
+probably there's going to be false
+
+1401
+00:51:15,920 --> 00:51:21,358
+positives and false negatives okay sure
+
+1402
+00:51:18,800 --> 00:51:23,519
+no test is perfect but
+
+1403
+00:51:21,358 --> 00:51:26,480
+having a test that's not acceptable or
+
+1404
+00:51:23,519 --> 00:51:28,480
+accessible is the worst setting so we
+
+1405
+00:51:26,480 --> 00:51:30,079
+nih with some
+
+1406
+00:51:28,480 --> 00:51:32,800
+requests from congress got a billion
+
+1407
+00:51:30,079 --> 00:51:36,559
+dollars uh to create this program called
+
+1408
+00:51:32,800 --> 00:51:38,240
+rapid acceleration of diagnostics rad x
+
+1409
+00:51:36,559 --> 00:51:40,240
+and we turned into a venture capital
+
+1410
+00:51:38,239 --> 00:51:42,159
+organization and we invited every small
+
+1411
+00:51:40,239 --> 00:51:44,318
+business or academic lab that had a cool
+
+1412
+00:51:42,159 --> 00:51:46,399
+idea about how to do home testing to
+
+1413
+00:51:44,318 --> 00:51:48,159
+bring it forward and we threw them into
+
+1414
+00:51:46,400 --> 00:51:50,639
+what we called our shark tank
+
+1415
+00:51:48,159 --> 00:51:53,679
+of business experts engineers technology
+
+1416
+00:51:50,639 --> 00:51:56,639
+people people understood uh how to deal
+
+1417
+00:51:53,679 --> 00:51:59,118
+with supply chains and manufacturing
+
+1418
+00:51:56,639 --> 00:52:01,838
+and right now today uh there are about
+
+1419
+00:51:59,119 --> 00:52:03,838
+two million tests being done based on
+
+1420
+00:52:01,838 --> 00:52:06,159
+what came out of that program including
+
+1421
+00:52:03,838 --> 00:52:08,558
+most of the home tests that you can now
+
+1422
+00:52:06,159 --> 00:52:10,480
+buy on the pharmacy shelves we did that
+
+1423
+00:52:08,559 --> 00:52:13,519
+and i wish we had done it faster but it
+
+1424
+00:52:10,480 --> 00:52:14,960
+was an amazingly speedy effort
+
+1425
+00:52:13,519 --> 00:52:17,119
+and you're right companies are really
+
+1426
+00:52:14,960 --> 00:52:18,720
+good once they've gotten fda emergency
+
+1427
+00:52:17,119 --> 00:52:20,079
+use authorization and we helped a lot of
+
+1428
+00:52:18,719 --> 00:52:22,719
+them get that
+
+1429
+00:52:20,079 --> 00:52:25,280
+they can scale up their manufacturing
+
+1430
+00:52:22,719 --> 00:52:27,519
+i think in december we should have about
+
+1431
+00:52:25,280 --> 00:52:30,079
+410
+
+1432
+00:52:27,519 --> 00:52:31,759
+million tests for that month ready to go
+
+1433
+00:52:30,079 --> 00:52:32,880
+and if we can get one or two more
+
+1434
+00:52:31,760 --> 00:52:35,599
+platforms
+
+1435
+00:52:32,880 --> 00:52:37,920
+approved and by the way we are now
+
+1436
+00:52:35,599 --> 00:52:38,880
+helping fda by being their validation
+
+1437
+00:52:37,920 --> 00:52:40,240
+lab
+
+1438
+00:52:38,880 --> 00:52:41,920
+if we can get a couple more of these
+
+1439
+00:52:40,239 --> 00:52:43,598
+approved we could be in the half a
+
+1440
+00:52:41,920 --> 00:52:45,920
+billion tests
+
+1441
+00:52:43,599 --> 00:52:48,640
+a month which is really getting where we
+
+1442
+00:52:45,920 --> 00:52:50,159
+need to be wow yeah that's a dream
+
+1443
+00:52:48,639 --> 00:52:52,639
+that's a dream for me it seems like an
+
+1444
+00:52:50,159 --> 00:52:54,799
+obvious solution engineering solution
+
+1445
+00:52:52,639 --> 00:52:57,118
+everybody's behind it it leads to hope
+
+1446
+00:52:54,800 --> 00:52:59,359
+versus division i love it
+
+1447
+00:52:57,119 --> 00:53:01,680
+okay
+
+1448
+00:52:59,358 --> 00:53:04,159
+a happy story a happy story i was
+
+1449
+00:53:01,679 --> 00:53:06,719
+waiting for one yeah all right well one
+
+1450
+00:53:04,159 --> 00:53:09,199
+last dive into the not happy but you
+
+1451
+00:53:06,719 --> 00:53:10,879
+won't even have to comment on it uh well
+
+1452
+00:53:09,199 --> 00:53:11,919
+comment on the broader philosophical
+
+1453
+00:53:10,880 --> 00:53:16,400
+question so
+
+1454
+00:53:11,920 --> 00:53:18,559
+nih again i said uh joe rogan as the
+
+1455
+00:53:16,400 --> 00:53:20,480
+first one who pointed me to this
+
+1456
+00:53:18,559 --> 00:53:22,720
+nih was recently accused of funding
+
+1457
+00:53:20,480 --> 00:53:24,559
+research of a paper that had images of
+
+1458
+00:53:22,719 --> 00:53:26,239
+sedated puppies with their heads
+
+1459
+00:53:24,559 --> 00:53:29,519
+inserted into small enclosures
+
+1460
+00:53:26,239 --> 00:53:30,318
+containing disease carrying sand flies
+
+1461
+00:53:29,519 --> 00:53:32,719
+so
+
+1462
+00:53:30,318 --> 00:53:33,838
+i could just say that this this story is
+
+1463
+00:53:32,719 --> 00:53:34,639
+not
+
+1464
+00:53:33,838 --> 00:53:37,039
+true
+
+1465
+00:53:34,639 --> 00:53:39,039
+or at least the
+
+1466
+00:53:37,039 --> 00:53:41,679
+i think it is true that the paper that
+
+1467
+00:53:39,039 --> 00:53:43,519
+showed those images cited
+
+1468
+00:53:41,679 --> 00:53:45,838
+nih is a funding source but that
+
+1469
+00:53:43,519 --> 00:53:46,880
+citation is not correct
+
+1470
+00:53:45,838 --> 00:53:49,199
+yeah
+
+1471
+00:53:46,880 --> 00:53:52,000
+uh but that brings up a
+
+1472
+00:53:49,199 --> 00:53:52,879
+bigger philosophical question what that
+
+1473
+00:53:52,000 --> 00:53:55,519
+it
+
+1474
+00:53:52,880 --> 00:53:57,680
+could have been correct how difficult is
+
+1475
+00:53:55,519 --> 00:53:59,519
+it as a director of nih or just an
+
+1476
+00:53:57,679 --> 00:54:00,318
+ancient organization that's funding so
+
+1477
+00:53:59,519 --> 00:54:02,880
+many
+
+1478
+00:54:00,318 --> 00:54:06,239
+amazing deep research studies
+
+1479
+00:54:02,880 --> 00:54:09,920
+to ensure the ethical fortitude of those
+
+1480
+00:54:06,239 --> 00:54:12,078
+studies when the ethics of science is
+
+1481
+00:54:09,920 --> 00:54:14,559
+there's such a gray area between what is
+
+1482
+00:54:12,079 --> 00:54:17,359
+and what isn't ethical
+
+1483
+00:54:14,559 --> 00:54:19,760
+well tough issues um certainly animal
+
+1484
+00:54:17,358 --> 00:54:21,838
+research is a tough issue
+
+1485
+00:54:19,760 --> 00:54:25,599
+i was going to bring up it's a good
+
+1486
+00:54:21,838 --> 00:54:27,440
+example of that tough issue is in 2015
+
+1487
+00:54:25,599 --> 00:54:29,599
+you announced that nih would no longer
+
+1488
+00:54:27,440 --> 00:54:31,760
+support any biomedical research involved
+
+1489
+00:54:29,599 --> 00:54:34,800
+involving chimpanzees
+
+1490
+00:54:31,760 --> 00:54:36,640
+so that's like one example of
+
+1491
+00:54:34,800 --> 00:54:39,039
+looking in the mirror
+
+1492
+00:54:36,639 --> 00:54:41,199
+thinking deeply about what isn't isn't
+
+1493
+00:54:39,039 --> 00:54:43,119
+ethical and there was a conclusion that
+
+1494
+00:54:41,199 --> 00:54:44,879
+biomedical research on
+
+1495
+00:54:43,119 --> 00:54:46,880
+chimps is not ethical
+
+1496
+00:54:44,880 --> 00:54:48,720
+that was the conclusion that was based
+
+1497
+00:54:46,880 --> 00:54:50,000
+on a lot of deep thinking and a lot of
+
+1498
+00:54:48,719 --> 00:54:51,919
+input from
+
+1499
+00:54:50,000 --> 00:54:54,079
+people who have considered this issue
+
+1500
+00:54:51,920 --> 00:54:56,880
+and a panel of the national academy of
+
+1501
+00:54:54,079 --> 00:54:58,960
+sciences that was asked to review
+
+1502
+00:54:56,880 --> 00:55:01,838
+the issue i mean the question
+
+1503
+00:54:58,960 --> 00:55:04,639
+that i wanted them to look at was are we
+
+1504
+00:55:01,838 --> 00:55:06,798
+actually learning anything that's really
+
+1505
+00:55:04,639 --> 00:55:08,879
+essential from chimpanzee invasive
+
+1506
+00:55:06,798 --> 00:55:11,920
+research at this point
+
+1507
+00:55:08,880 --> 00:55:13,838
+or is it time to say that these closest
+
+1508
+00:55:11,920 --> 00:55:15,599
+relatives of ours
+
+1509
+00:55:13,838 --> 00:55:17,519
+should not be subjected to that any
+
+1510
+00:55:15,599 --> 00:55:18,960
+further and ought to be retired to a
+
+1511
+00:55:17,519 --> 00:55:20,559
+sanctuary
+
+1512
+00:55:18,960 --> 00:55:22,000
+and that was the conclusion that there
+
+1513
+00:55:20,559 --> 00:55:24,798
+was really no
+
+1514
+00:55:22,000 --> 00:55:27,119
+kind of medical experimentation that
+
+1515
+00:55:24,798 --> 00:55:29,519
+needed to be done on chimps in order to
+
+1516
+00:55:27,119 --> 00:55:31,838
+proceed so why are we still doing this
+
+1517
+00:55:29,519 --> 00:55:33,679
+many of these were chimpanzees that were
+
+1518
+00:55:31,838 --> 00:55:34,639
+purchased because we thought they would
+
+1519
+00:55:33,679 --> 00:55:36,078
+be
+
+1520
+00:55:34,639 --> 00:55:38,400
+good uh
+
+1521
+00:55:36,079 --> 00:55:39,599
+hosts for hiv aids and they sort of
+
+1522
+00:55:38,400 --> 00:55:41,599
+weren't
+
+1523
+00:55:39,599 --> 00:55:43,920
+and they were kept around in these
+
+1524
+00:55:41,599 --> 00:55:46,000
+primate laboratories with people coming
+
+1525
+00:55:43,920 --> 00:55:48,400
+up with other things to do but they
+
+1526
+00:55:46,000 --> 00:55:50,559
+weren't compelling scientifically so i
+
+1527
+00:55:48,400 --> 00:55:52,400
+think that was the right decision i took
+
+1528
+00:55:50,559 --> 00:55:53,920
+a lot of flack from some of the
+
+1529
+00:55:52,400 --> 00:55:56,559
+scientific community said well you're
+
+1530
+00:55:53,920 --> 00:55:58,159
+caving in to the animal rights people
+
+1531
+00:55:56,559 --> 00:56:01,440
+and now that you've said no more
+
+1532
+00:55:58,159 --> 00:56:03,118
+research on chimps what's next
+
+1533
+00:56:01,440 --> 00:56:04,318
+certainly when it comes to companion
+
+1534
+00:56:03,119 --> 00:56:06,880
+animals
+
+1535
+00:56:04,318 --> 00:56:07,920
+um everybody's heart
+
+1536
+00:56:06,880 --> 00:56:10,720
+starts
+
+1537
+00:56:07,920 --> 00:56:14,000
+to be hurting when you see anything done
+
+1538
+00:56:10,719 --> 00:56:16,879
+that seems harmful to a dog or a cat i
+
+1539
+00:56:14,000 --> 00:56:18,880
+have a cat i don't have a dog and i i
+
+1540
+00:56:16,880 --> 00:56:22,160
+understand that completely that's why we
+
+1541
+00:56:18,880 --> 00:56:23,760
+have these oversight groups that decide
+
+1542
+00:56:22,159 --> 00:56:26,239
+before you do any of that kind of
+
+1543
+00:56:23,760 --> 00:56:28,160
+research is it justified
+
+1544
+00:56:26,239 --> 00:56:30,399
+and what kind of
+
+1545
+00:56:28,159 --> 00:56:32,239
+provision is going to be made to avoid
+
+1546
+00:56:30,400 --> 00:56:33,519
+pain and suffering
+
+1547
+00:56:32,239 --> 00:56:35,598
+and those are
+
+1548
+00:56:33,519 --> 00:56:37,838
+those have input from the public as well
+
+1549
+00:56:35,599 --> 00:56:40,079
+as the scientific community
+
+1550
+00:56:37,838 --> 00:56:42,880
+is that completely saying that every
+
+1551
+00:56:40,079 --> 00:56:45,839
+step that's happening there is
+
+1552
+00:56:42,880 --> 00:56:45,838
+ethical by some
+
+1553
+00:56:46,559 --> 00:56:49,839
+standard that would be hard for anybody
+
+1554
+00:56:48,159 --> 00:56:52,239
+to agree to no but at least it's a
+
+1555
+00:56:49,838 --> 00:56:54,318
+consensus of what people think is
+
+1556
+00:56:52,239 --> 00:56:56,639
+acceptable
+
+1557
+00:56:54,318 --> 00:56:59,920
+dogs are the only host
+
+1558
+00:56:56,639 --> 00:57:02,318
+for some diseases like leishmaniasis
+
+1559
+00:56:59,920 --> 00:57:04,079
+which was that paper that we were not
+
+1560
+00:57:02,318 --> 00:57:06,400
+responsible for but i know why they were
+
+1561
+00:57:04,079 --> 00:57:07,839
+doing the experiment or like lymphatic
+
+1562
+00:57:06,400 --> 00:57:09,680
+filariasis
+
+1563
+00:57:07,838 --> 00:57:11,599
+which is an experiment that we are
+
+1564
+00:57:09,679 --> 00:57:14,159
+supporting in georgia
+
+1565
+00:57:11,599 --> 00:57:16,000
+that involves dogs getting infected with
+
+1566
+00:57:14,159 --> 00:57:17,679
+a parasite because that's the only model
+
+1567
+00:57:16,000 --> 00:57:19,760
+we have to know whether a treatment is
+
+1568
+00:57:17,679 --> 00:57:21,838
+going to work or not
+
+1569
+00:57:19,760 --> 00:57:24,319
+so i will defend that
+
+1570
+00:57:21,838 --> 00:57:27,039
+i am not in the place of those who think
+
+1571
+00:57:24,318 --> 00:57:28,239
+all animal research is evil
+
+1572
+00:57:27,039 --> 00:57:29,519
+because i think if there's something
+
+1573
+00:57:28,239 --> 00:57:31,519
+that's going to be done
+
+1574
+00:57:29,519 --> 00:57:33,838
+to save a child from a terrible disease
+
+1575
+00:57:31,519 --> 00:57:36,079
+or an adult and it involves animal
+
+1576
+00:57:33,838 --> 00:57:38,159
+research that's been carefully reviewed
+
+1577
+00:57:36,079 --> 00:57:40,160
+then i think ethically why it doesn't
+
+1578
+00:57:38,159 --> 00:57:42,159
+make me comfortable it still seems like
+
+1579
+00:57:40,159 --> 00:57:45,039
+it's the right choice
+
+1580
+00:57:42,159 --> 00:57:47,199
+i think to say all animal research
+
+1581
+00:57:45,039 --> 00:57:49,039
+should be taken off the table
+
+1582
+00:57:47,199 --> 00:57:51,439
+is also very unethical because that
+
+1583
+00:57:49,039 --> 00:57:52,639
+means you have basically doomed a lot of
+
+1584
+00:57:51,440 --> 00:57:54,079
+people
+
+1585
+00:57:52,639 --> 00:57:57,838
+for whom that research might have saved
+
+1586
+00:57:54,079 --> 00:57:59,920
+their lives to having no more hope
+
+1587
+00:57:57,838 --> 00:58:02,159
+and uh to me personally there's far
+
+1588
+00:57:59,920 --> 00:58:04,000
+greater concerns ethically in terms of
+
+1589
+00:58:02,159 --> 00:58:06,078
+uh factory farming for example the
+
+1590
+00:58:04,000 --> 00:58:08,318
+treatment of animals in other contexts
+
+1591
+00:58:06,079 --> 00:58:10,960
+oh there's so much that goes on outside
+
+1592
+00:58:08,318 --> 00:58:12,318
+of medical research that is much more
+
+1593
+00:58:10,960 --> 00:58:15,280
+troubling
+
+1594
+00:58:12,318 --> 00:58:17,440
+that said i think all cats have to go
+
+1595
+00:58:15,280 --> 00:58:18,798
+that's just my off the record opinion
+
+1596
+00:58:17,440 --> 00:58:20,639
+that's why i'm not involved with any
+
+1597
+00:58:18,798 --> 00:58:22,480
+ethical decisions i'm just joking
+
+1598
+00:58:20,639 --> 00:58:24,798
+internet i think i love cats you're a
+
+1599
+00:58:22,480 --> 00:58:26,400
+dog i'm a dog person i'm sorry
+
+1600
+00:58:24,798 --> 00:58:28,239
+have you seen the new yorker cartoon
+
+1601
+00:58:26,400 --> 00:58:29,838
+where there are two dogs in the bar
+
+1602
+00:58:28,239 --> 00:58:31,439
+having a martini
+
+1603
+00:58:29,838 --> 00:58:33,199
+and one is saying they're dressed up in
+
+1604
+00:58:31,440 --> 00:58:34,000
+their business suits and one says to the
+
+1605
+00:58:33,199 --> 00:58:34,879
+other
+
+1606
+00:58:34,000 --> 00:58:37,679
+you know
+
+1607
+00:58:34,880 --> 00:58:40,240
+it's not enough for the dogs to win the
+
+1608
+00:58:37,679 --> 00:58:41,759
+cats have to lose
+
+1609
+00:58:40,239 --> 00:58:42,639
+ah that's beautiful
+
+1610
+00:58:41,760 --> 00:58:43,599
+uh
+
+1611
+00:58:42,639 --> 00:58:45,598
+so
+
+1612
+00:58:43,599 --> 00:58:47,920
+uh a few weeks ago you've announced that
+
+1613
+00:58:45,599 --> 00:58:49,039
+you're resigning from the nih at the end
+
+1614
+00:58:47,920 --> 00:58:50,880
+of the year
+
+1615
+00:58:49,039 --> 00:58:52,480
+i'm stepping down
+
+1616
+00:58:50,880 --> 00:58:54,079
+i'm still going to be at nih in a
+
+1617
+00:58:52,480 --> 00:58:55,039
+different capacity different capacity
+
+1618
+00:58:54,079 --> 00:58:58,318
+right
+
+1619
+00:58:55,039 --> 00:59:00,239
+and it's over a decade of an incredible
+
+1620
+00:58:58,318 --> 00:59:02,079
+career overseeing the nih as its
+
+1621
+00:59:00,239 --> 00:59:03,919
+director
+
+1622
+00:59:02,079 --> 00:59:05,920
+what are the things you're most proud of
+
+1623
+00:59:03,920 --> 00:59:08,079
+of the nih in your
+
+1624
+00:59:05,920 --> 00:59:09,519
+time here as this director may be
+
+1625
+00:59:08,079 --> 00:59:12,000
+memorable
+
+1626
+00:59:09,519 --> 00:59:12,000
+moments
+
+1627
+00:59:12,400 --> 00:59:16,559
+ah there's a lot
+
+1628
+00:59:14,159 --> 00:59:18,798
+in 12 years
+
+1629
+00:59:16,559 --> 00:59:22,160
+science has just progressed in amazing
+
+1630
+00:59:18,798 --> 00:59:24,960
+ways over those 12 years
+
+1631
+00:59:22,159 --> 00:59:26,960
+uh think about where we are right now
+
+1632
+00:59:24,960 --> 00:59:28,720
+something like gene editing being able
+
+1633
+00:59:26,960 --> 00:59:30,880
+to make changes
+
+1634
+00:59:28,719 --> 00:59:33,919
+in dna even for therapeutic purposes
+
+1635
+00:59:30,880 --> 00:59:36,400
+which is now curing sickle cell disease
+
+1636
+00:59:33,920 --> 00:59:37,920
+unthinkable when i became director in
+
+1637
+00:59:36,400 --> 00:59:41,358
+2009
+
+1638
+00:59:37,920 --> 00:59:43,280
+the ability to study single cells
+
+1639
+00:59:41,358 --> 00:59:44,400
+and ask them what they're doing and get
+
+1640
+00:59:43,280 --> 00:59:47,119
+an answer
+
+1641
+00:59:44,400 --> 00:59:50,000
+single cell biology just has emerged in
+
+1642
+00:59:47,119 --> 00:59:52,880
+this incredibly powerful way
+
+1643
+00:59:50,000 --> 00:59:54,639
+uh having the courage
+
+1644
+00:59:52,880 --> 00:59:56,960
+to be able to say we could actually
+
+1645
+00:59:54,639 --> 00:59:59,199
+understand the human brain
+
+1646
+00:59:56,960 --> 01:00:01,440
+seemed like so far out there and we're
+
+1647
+00:59:59,199 --> 01:00:04,000
+in the process of doing that with the
+
+1648
+01:00:01,440 --> 01:00:05,599
+brain initiative
+
+1649
+01:00:04,000 --> 01:00:08,798
+taking all that we've learned about the
+
+1650
+01:00:05,599 --> 01:00:11,039
+genome and applying it to cancer
+
+1651
+01:00:08,798 --> 01:00:13,039
+to make individual cancer treatment
+
+1652
+01:00:11,039 --> 01:00:14,880
+really precision
+
+1653
+01:00:13,039 --> 01:00:17,199
+and developing cancer immunotherapy
+
+1654
+01:00:14,880 --> 01:00:20,480
+which seemed like sort of a backwater
+
+1655
+01:00:17,199 --> 01:00:22,000
+into some of the hottest science around
+
+1656
+01:00:20,480 --> 01:00:23,679
+all those things sort of
+
+1657
+01:00:22,000 --> 01:00:25,838
+erupting and much more to come i'm sure
+
+1658
+01:00:23,679 --> 01:00:28,480
+we're on an exponential curve
+
+1659
+01:00:25,838 --> 01:00:30,159
+of medical research advances and that's
+
+1660
+01:00:28,480 --> 01:00:33,039
+glorious to watch
+
+1661
+01:00:30,159 --> 01:00:33,838
+and of course covet 19 as a beneficiary
+
+1662
+01:00:33,039 --> 01:00:36,000
+of
+
+1663
+01:00:33,838 --> 01:00:39,119
+decades of basic science understanding
+
+1664
+01:00:36,000 --> 01:00:41,280
+what mrna is understanding basics about
+
+1665
+01:00:39,119 --> 01:00:43,599
+coronaviruses and spike proteins and how
+
+1666
+01:00:41,280 --> 01:00:45,440
+to combine structural biology and
+
+1667
+01:00:43,599 --> 01:00:47,359
+immunology and genomics into this
+
+1668
+01:00:45,440 --> 01:00:49,280
+package that allows you to make a
+
+1669
+01:00:47,358 --> 01:00:51,519
+vaccine in 11 months
+
+1670
+01:00:49,280 --> 01:00:54,559
+just i would never have imagined that
+
+1671
+01:00:51,519 --> 01:00:57,039
+possible in 2009 so to have been able to
+
+1672
+01:00:54,559 --> 01:00:58,960
+kind of be the midwife helping all of
+
+1673
+01:00:57,039 --> 01:01:02,079
+those things get birthed
+
+1674
+01:00:58,960 --> 01:01:04,318
+that's been just an amazing 12 years
+
+1675
+01:01:02,079 --> 01:01:06,559
+and as nih director you have
+
+1676
+01:01:04,318 --> 01:01:08,079
+this convening power
+
+1677
+01:01:06,559 --> 01:01:10,160
+and this ability to look across the
+
+1678
+01:01:08,079 --> 01:01:12,559
+whole landscape of biomedical research
+
+1679
+01:01:10,159 --> 01:01:13,679
+and identify areas that are just like
+
+1680
+01:01:12,559 --> 01:01:15,599
+ready
+
+1681
+01:01:13,679 --> 01:01:17,440
+for something big to happen
+
+1682
+01:01:15,599 --> 01:01:19,440
+but isn't going to happen spontaneously
+
+1683
+01:01:17,440 --> 01:01:21,039
+without some encouragement without
+
+1684
+01:01:19,440 --> 01:01:22,639
+pulling people together from different
+
+1685
+01:01:21,039 --> 01:01:24,239
+disciplines who don't know each other
+
+1686
+01:01:22,639 --> 01:01:25,759
+and maybe don't know how to quite
+
+1687
+01:01:24,239 --> 01:01:27,838
+understand each other's scientific
+
+1688
+01:01:25,760 --> 01:01:30,720
+language and create an environment for
+
+1689
+01:01:27,838 --> 01:01:32,719
+that to happen that has been just
+
+1690
+01:01:30,719 --> 01:01:35,118
+an amazing experience i mean i mentioned
+
+1691
+01:01:32,719 --> 01:01:36,639
+the brain initiative is one of those
+
+1692
+01:01:35,119 --> 01:01:38,880
+the brain initiative right now i think
+
+1693
+01:01:36,639 --> 01:01:40,078
+there's about 600 investigators working
+
+1694
+01:01:38,880 --> 01:01:42,640
+on this
+
+1695
+01:01:40,079 --> 01:01:45,039
+uh last week the whole issue of nature
+
+1696
+01:01:42,639 --> 01:01:47,039
+magazine was about the output of the
+
+1697
+01:01:45,039 --> 01:01:50,159
+brain initiative basically now giving us
+
+1698
+01:01:47,039 --> 01:01:52,239
+a cell census of what those cells in the
+
+1699
+01:01:50,159 --> 01:01:53,759
+brain are doing which has just never
+
+1700
+01:01:52,239 --> 01:01:57,679
+been imaginable
+
+1701
+01:01:53,760 --> 01:01:59,200
+and interestingly most uh more than half
+
+1702
+01:01:57,679 --> 01:02:01,679
+of the investigators in the brain
+
+1703
+01:01:59,199 --> 01:02:03,598
+initiative are engineers
+
+1704
+01:02:01,679 --> 01:02:05,838
+they're not biologists in a traditional
+
+1705
+01:02:03,599 --> 01:02:08,640
+sense i love that maybe partly because
+
+1706
+01:02:05,838 --> 01:02:10,960
+my phd is in quantum mechanics so i
+
+1707
+01:02:08,639 --> 01:02:13,038
+think it's really a good idea to bring
+
+1708
+01:02:10,960 --> 01:02:14,000
+disciplines together and see what
+
+1709
+01:02:13,039 --> 01:02:16,319
+happens
+
+1710
+01:02:14,000 --> 01:02:17,838
+that's an exciting thing and i
+
+1711
+01:02:16,318 --> 01:02:19,599
+will not
+
+1712
+01:02:17,838 --> 01:02:21,920
+ever forget having the chance to
+
+1713
+01:02:19,599 --> 01:02:23,920
+announce that program
+
+1714
+01:02:21,920 --> 01:02:26,880
+in the east room of that white house
+
+1715
+01:02:23,920 --> 01:02:29,358
+with president obama who totally got it
+
+1716
+01:02:26,880 --> 01:02:30,798
+and totally loved science and working
+
+1717
+01:02:29,358 --> 01:02:32,719
+with him
+
+1718
+01:02:30,798 --> 01:02:34,559
+in some of those rare moments of sort of
+
+1719
+01:02:32,719 --> 01:02:36,798
+one-on-one conversation in the oval
+
+1720
+01:02:34,559 --> 01:02:39,440
+office just him and me about science
+
+1721
+01:02:36,798 --> 01:02:41,838
+that's a gift what's it like talking to
+
+1722
+01:02:39,440 --> 01:02:43,679
+uh barack obama about science he seems
+
+1723
+01:02:41,838 --> 01:02:45,599
+to be a sponge
+
+1724
+01:02:43,679 --> 01:02:47,440
+i've heard him i'm an artificial
+
+1725
+01:02:45,599 --> 01:02:49,440
+intelligence person and i've heard him
+
+1726
+01:02:47,440 --> 01:02:51,280
+talk about ai
+
+1727
+01:02:49,440 --> 01:02:52,880
+and it was like it made me think is
+
+1728
+01:02:51,280 --> 01:02:54,319
+somebody like whispering in his ear or
+
+1729
+01:02:52,880 --> 01:02:56,559
+something because he was saying stuff
+
+1730
+01:02:54,318 --> 01:02:58,400
+that totally passed the bs test like he
+
+1731
+01:02:56,559 --> 01:03:00,319
+really understands stuff
+
+1732
+01:02:58,400 --> 01:03:02,798
+he does that means he listened to a
+
+1733
+01:03:00,318 --> 01:03:04,480
+bunch of experts on ai he was like
+
+1734
+01:03:02,798 --> 01:03:06,639
+explaining the difference between narrow
+
+1735
+01:03:04,480 --> 01:03:08,400
+artificial intelligence and strong ai
+
+1736
+01:03:06,639 --> 01:03:10,558
+like he was he was saying all this both
+
+1737
+01:03:08,400 --> 01:03:12,639
+technical and philosophical stuff and it
+
+1738
+01:03:10,559 --> 01:03:14,720
+just made me i don't know it made me
+
+1739
+01:03:12,639 --> 01:03:16,400
+hopeful about
+
+1740
+01:03:14,719 --> 01:03:18,639
+the depth of understanding that a human
+
+1741
+01:03:16,400 --> 01:03:20,559
+being a political office can attain that
+
+1742
+01:03:18,639 --> 01:03:22,078
+gave me hope as well and having those
+
+1743
+01:03:20,559 --> 01:03:24,400
+experiences
+
+1744
+01:03:22,079 --> 01:03:27,039
+oftentimes in a group i mean another
+
+1745
+01:03:24,400 --> 01:03:28,318
+example was trying to figure out how do
+
+1746
+01:03:27,039 --> 01:03:31,280
+we take what we've learned about the
+
+1747
+01:03:28,318 --> 01:03:33,358
+genome and really apply it at scale
+
+1748
+01:03:31,280 --> 01:03:35,359
+to figure out how to prevent illness not
+
+1749
+01:03:33,358 --> 01:03:37,358
+just treat it but prevent it
+
+1750
+01:03:35,358 --> 01:03:40,400
+out of which came this program called
+
+1751
+01:03:37,358 --> 01:03:43,199
+all of us this million strong
+
+1752
+01:03:40,400 --> 01:03:44,639
+american cohort of participants who make
+
+1753
+01:03:43,199 --> 01:03:46,239
+their electronic health records and
+
+1754
+01:03:44,639 --> 01:03:47,838
+their genome sequences and everything
+
+1755
+01:03:46,239 --> 01:03:48,479
+else available for researchers to look
+
+1756
+01:03:47,838 --> 01:03:50,400
+at
+
+1757
+01:03:48,480 --> 01:03:53,760
+that came out of a couple of
+
+1758
+01:03:50,400 --> 01:03:56,079
+conversations with obama and others
+
+1759
+01:03:53,760 --> 01:03:58,480
+in his office and
+
+1760
+01:03:56,079 --> 01:04:00,798
+he asked the best questions
+
+1761
+01:03:58,480 --> 01:04:02,559
+that was what struck me so much i mean a
+
+1762
+01:04:00,798 --> 01:04:04,318
+room full of scientists
+
+1763
+01:04:02,559 --> 01:04:06,640
+and we'd be talking about the possible
+
+1764
+01:04:04,318 --> 01:04:08,960
+approaches and he would come up with
+
+1765
+01:04:06,639 --> 01:04:10,400
+this incredibly insightful penetrating
+
+1766
+01:04:08,960 --> 01:04:11,679
+question not that he knew what the
+
+1767
+01:04:10,400 --> 01:04:14,639
+answer was going to be but he knew what
+
+1768
+01:04:11,679 --> 01:04:18,159
+the right question was i think the core
+
+1769
+01:04:14,639 --> 01:04:19,759
+to that is curiosity yeah it's i don't
+
+1770
+01:04:18,159 --> 01:04:23,679
+think he's even like he's trying to be a
+
+1771
+01:04:19,760 --> 01:04:24,640
+good leader he's legit curious yes
+
+1772
+01:04:23,679 --> 01:04:26,399
+legit
+
+1773
+01:04:24,639 --> 01:04:28,239
+that he almost like a kid in a candy
+
+1774
+01:04:26,400 --> 01:04:30,318
+store gets to talk to the world experts
+
+1775
+01:04:28,239 --> 01:04:32,318
+he got he somehow sneaked into this
+
+1776
+01:04:30,318 --> 01:04:34,079
+office and gets to get to talk to the
+
+1777
+01:04:32,318 --> 01:04:36,159
+world experts and it's
+
+1778
+01:04:34,079 --> 01:04:37,839
+that that's the kind of energy that uh i
+
+1779
+01:04:36,159 --> 01:04:39,118
+think leads to uh
+
+1780
+01:04:37,838 --> 01:04:41,119
+yeah to beautiful leadership in the
+
+1781
+01:04:39,119 --> 01:04:42,960
+space of science indeed
+
+1782
+01:04:41,119 --> 01:04:44,880
+another thing i've been able to do as
+
+1783
+01:04:42,960 --> 01:04:46,559
+director is to try to break down some of
+
+1784
+01:04:44,880 --> 01:04:48,079
+the boundaries that seem to be
+
+1785
+01:04:46,559 --> 01:04:50,160
+traditional between the public and the
+
+1786
+01:04:48,079 --> 01:04:52,079
+private sectors when it comes to areas
+
+1787
+01:04:50,159 --> 01:04:54,558
+of science that really could and should
+
+1788
+01:04:52,079 --> 01:04:56,079
+be open access anyway why don't we work
+
+1789
+01:04:54,559 --> 01:04:58,960
+together
+
+1790
+01:04:56,079 --> 01:05:02,079
+and that was obvious early on and after
+
+1791
+01:04:58,960 --> 01:05:05,039
+identifying a few possible
+
+1792
+01:05:02,079 --> 01:05:07,280
+collaborators who were chief scientists
+
+1793
+01:05:05,039 --> 01:05:08,960
+of pharmaceutical companies
+
+1794
+01:05:07,280 --> 01:05:10,960
+it looks like we might be able to do
+
+1795
+01:05:08,960 --> 01:05:12,798
+something in that space out of that was
+
+1796
+01:05:10,960 --> 01:05:15,920
+born something called the accelerating
+
+1797
+01:05:12,798 --> 01:05:18,159
+medicines partnership amp
+
+1798
+01:05:15,920 --> 01:05:20,400
+and it took a couple of years of
+
+1799
+01:05:18,159 --> 01:05:22,159
+convening people who usually didn't talk
+
+1800
+01:05:20,400 --> 01:05:24,960
+to each other and there was a lot of
+
+1801
+01:05:22,159 --> 01:05:25,920
+suspicion academic scientists saying oh
+
+1802
+01:05:24,960 --> 01:05:27,599
+those
+
+1803
+01:05:25,920 --> 01:05:29,838
+scientists and pharma they're not that
+
+1804
+01:05:27,599 --> 01:05:32,318
+smart they're just trying to make money
+
+1805
+01:05:29,838 --> 01:05:34,480
+and the academic scientists getting the
+
+1806
+01:05:32,318 --> 01:05:35,838
+wrap from the pharmaceutical scientists
+
+1807
+01:05:34,480 --> 01:05:37,039
+all they want to do is publish papers
+
+1808
+01:05:35,838 --> 01:05:39,519
+they don't really care about helping
+
+1809
+01:05:37,039 --> 01:05:42,000
+anybody and we found out both of those
+
+1810
+01:05:39,519 --> 01:05:43,519
+stereotypes were wrong
+
+1811
+01:05:42,000 --> 01:05:46,559
+and over the course of that couple of
+
+1812
+01:05:43,519 --> 01:05:48,559
+years built a momentum behind three
+
+1813
+01:05:46,559 --> 01:05:51,039
+starting projects one on alzheimer's one
+
+1814
+01:05:48,559 --> 01:05:53,119
+on diabetes one on rheumatoid arthritis
+
+1815
+01:05:51,039 --> 01:05:55,920
+and lupus very different each one of
+
+1816
+01:05:53,119 --> 01:05:58,400
+them trying to identify what is an area
+
+1817
+01:05:55,920 --> 01:06:00,480
+that we both really need to see advance
+
+1818
+01:05:58,400 --> 01:06:01,680
+and we could do better together and it's
+
+1819
+01:06:00,480 --> 01:06:04,000
+going to have to be open access
+
+1820
+01:06:01,679 --> 01:06:05,838
+otherwise nih is not going to play and
+
+1821
+01:06:04,000 --> 01:06:07,440
+guess what industry if you really want
+
+1822
+01:06:05,838 --> 01:06:09,679
+to do this you got to have skin in the
+
+1823
+01:06:07,440 --> 01:06:11,599
+game we'll cover half the cost you got
+
+1824
+01:06:09,679 --> 01:06:14,318
+to cover the other half i love it
+
+1825
+01:06:11,599 --> 01:06:16,640
+enforcing open access so
+
+1826
+01:06:14,318 --> 01:06:18,798
+resulting in open science millions of
+
+1827
+01:06:16,639 --> 01:06:21,038
+dollars gone into this and it has been a
+
+1828
+01:06:18,798 --> 01:06:22,480
+wild success after many people were
+
+1829
+01:06:21,039 --> 01:06:25,039
+skeptical
+
+1830
+01:06:22,480 --> 01:06:27,199
+um a couple years later we had another
+
+1831
+01:06:25,039 --> 01:06:30,319
+project called parkinson's uh more
+
+1832
+01:06:27,199 --> 01:06:33,118
+recently we added one on schizophrenia
+
+1833
+01:06:30,318 --> 01:06:36,719
+uh just this week we added one on gene
+
+1834
+01:06:33,119 --> 01:06:38,640
+therapy on bespoke gene therapy for
+
+1835
+01:06:36,719 --> 01:06:40,078
+ultra rare diseases which otherwise
+
+1836
+01:06:38,639 --> 01:06:42,239
+aren't going to have enough commercial
+
+1837
+01:06:40,079 --> 01:06:44,079
+appeal but if we did this together
+
+1838
+01:06:42,239 --> 01:06:45,358
+especially with fda at the table and
+
+1839
+01:06:44,079 --> 01:06:47,200
+they have been
+
+1840
+01:06:45,358 --> 01:06:49,679
+we could make something happen turn this
+
+1841
+01:06:47,199 --> 01:06:51,118
+into a sort of standardized approach
+
+1842
+01:06:49,679 --> 01:06:52,318
+where everything didn't have to be a
+
+1843
+01:06:51,119 --> 01:06:54,640
+one-off
+
+1844
+01:06:52,318 --> 01:06:56,798
+i'm really excited about that so what
+
+1845
+01:06:54,639 --> 01:06:58,798
+began as three projects is six and it's
+
+1846
+01:06:56,798 --> 01:07:00,480
+about to be seven next year with a heart
+
+1847
+01:06:58,798 --> 01:07:02,000
+failure project
+
+1848
+01:07:00,480 --> 01:07:03,440
+and all of us have gotten to know each
+
+1849
+01:07:02,000 --> 01:07:05,358
+other
+
+1850
+01:07:03,440 --> 01:07:07,358
+and if it weren't for that background
+
+1851
+01:07:05,358 --> 01:07:08,719
+when covid came along it would have been
+
+1852
+01:07:07,358 --> 01:07:10,880
+a lot harder
+
+1853
+01:07:08,719 --> 01:07:12,879
+to build the partnership called active
+
+1854
+01:07:10,880 --> 01:07:16,240
+which has been my passion for
+
+1855
+01:07:12,880 --> 01:07:18,000
+the last 20 months accelerating covet 19
+
+1856
+01:07:16,239 --> 01:07:19,919
+therapeutic interventions and vaccines
+
+1857
+01:07:18,000 --> 01:07:22,000
+we just had our leadership team
+
+1858
+01:07:19,920 --> 01:07:24,079
+meeting this morning it was amazing
+
+1859
+01:07:22,000 --> 01:07:26,159
+what's been accomplished that's a
+
+1860
+01:07:24,079 --> 01:07:28,079
+pretty much a hundred people who dropped
+
+1861
+01:07:26,159 --> 01:07:29,838
+everything just to work on this about
+
+1862
+01:07:28,079 --> 01:07:32,079
+half from industry in half from
+
+1863
+01:07:29,838 --> 01:07:34,480
+government and academia
+
+1864
+01:07:32,079 --> 01:07:36,400
+and that's how we got vaccine master
+
+1865
+01:07:34,480 --> 01:07:38,000
+protocols designed
+
+1866
+01:07:36,400 --> 01:07:39,838
+so we all agreed about what the
+
+1867
+01:07:38,000 --> 01:07:41,760
+endpoints had to be and
+
+1868
+01:07:39,838 --> 01:07:43,358
+you wondered why are there 30 000
+
+1869
+01:07:41,760 --> 01:07:45,520
+participants in each of these trials
+
+1870
+01:07:43,358 --> 01:07:47,759
+that's because of actives
+
+1871
+01:07:45,519 --> 01:07:50,960
+group mapping out what the power needed
+
+1872
+01:07:47,760 --> 01:07:53,039
+to be for this to be convincing
+
+1873
+01:07:50,960 --> 01:07:55,838
+same with therapeutics
+
+1874
+01:07:53,039 --> 01:07:58,400
+we have run at least 20 therapeutic
+
+1875
+01:07:55,838 --> 01:08:00,719
+agents uh through trials that active
+
+1876
+01:07:58,400 --> 01:08:02,480
+supported in record time
+
+1877
+01:08:00,719 --> 01:08:04,719
+that's how we got monoclonal antibodies
+
+1878
+01:08:02,480 --> 01:08:07,358
+that we know work
+
+1879
+01:08:04,719 --> 01:08:08,959
+um that's been
+
+1880
+01:08:07,358 --> 01:08:11,598
+that would not have been possible if i
+
+1881
+01:08:08,960 --> 01:08:13,760
+didn't already have a sense of how to
+
+1882
+01:08:11,599 --> 01:08:15,280
+work with the private sector that came
+
+1883
+01:08:13,760 --> 01:08:17,359
+out of amp
+
+1884
+01:08:15,280 --> 01:08:19,600
+amp took two years to get started active
+
+1885
+01:08:17,359 --> 01:08:21,759
+took two weeks
+
+1886
+01:08:19,600 --> 01:08:23,279
+we just kept the lawyers 100 people over
+
+1887
+01:08:21,759 --> 01:08:25,600
+yeah kept the lawyers out of the room
+
+1888
+01:08:23,279 --> 01:08:25,600
+and uh
+
+1889
+01:08:26,158 --> 01:08:30,238
+um
+
+1890
+01:08:27,198 --> 01:08:33,278
+now you're gonna get yourself in trouble
+
+1891
+01:08:30,238 --> 01:08:35,039
+so that i i do hope one day the story of
+
+1892
+01:08:33,279 --> 01:08:36,560
+this incredible vaccine development of
+
+1893
+01:08:35,039 --> 01:08:38,640
+vaccine protocols and trials and all
+
+1894
+01:08:36,560 --> 01:08:41,039
+this kind of details the messy beautiful
+
+1895
+01:08:38,640 --> 01:08:43,520
+details of the science and engineering
+
+1896
+01:08:41,039 --> 01:08:45,119
+and and uh that led to the manufacturing
+
+1897
+01:08:43,520 --> 01:08:47,839
+the deployment and the scientific test
+
+1898
+01:08:45,119 --> 01:08:48,880
+it's such a nice dance between
+
+1899
+01:08:47,838 --> 01:08:50,798
+engineering and the space of
+
+1900
+01:08:48,880 --> 01:08:52,960
+manufacturing the vaccines you know you
+
+1901
+01:08:50,798 --> 01:08:55,039
+start before the studies are complete
+
+1902
+01:08:52,960 --> 01:08:56,960
+you start making the vaccines
+
+1903
+01:08:55,039 --> 01:08:59,439
+just in case the if the studies prove to
+
+1904
+01:08:56,960 --> 01:09:01,520
+be positive then you can start deploying
+
+1905
+01:08:59,439 --> 01:09:03,278
+them just like so many
+
+1906
+01:09:01,520 --> 01:09:05,120
+uh parties
+
+1907
+01:09:03,279 --> 01:09:07,279
+like you said private and public playing
+
+1908
+01:09:05,119 --> 01:09:08,960
+together that's just a beautiful dance
+
+1909
+01:09:07,279 --> 01:09:11,040
+that uh
+
+1910
+01:09:08,960 --> 01:09:12,960
+is one of the is one of for me the
+
+1911
+01:09:11,039 --> 01:09:15,679
+sources of hope in this very
+
+1912
+01:09:12,960 --> 01:09:16,880
+uh tricky time where there's a lot of
+
+1913
+01:09:15,679 --> 01:09:19,440
+uh
+
+1914
+01:09:16,880 --> 01:09:20,560
+things to be cynical about in terms of
+
+1915
+01:09:19,439 --> 01:09:22,238
+um
+
+1916
+01:09:20,560 --> 01:09:23,920
+the games politicians play and the
+
+1917
+01:09:22,238 --> 01:09:26,559
+hardship experience of the economy and
+
+1918
+01:09:23,920 --> 01:09:28,079
+all those kinds of things but to me this
+
+1919
+01:09:26,560 --> 01:09:30,960
+dance
+
+1920
+01:09:28,079 --> 01:09:33,039
+was of vaccine development was done just
+
+1921
+01:09:30,960 --> 01:09:35,600
+beautifully and it gives me hope
+
+1922
+01:09:33,039 --> 01:09:38,319
+it does me as well and it was in many
+
+1923
+01:09:35,600 --> 01:09:40,079
+ways the finest hour that science has
+
+1924
+01:09:38,319 --> 01:09:43,120
+had in a long time
+
+1925
+01:09:40,079 --> 01:09:46,238
+being called upon when every day counted
+
+1926
+01:09:43,119 --> 01:09:47,759
+and making sure that time was not wasted
+
+1927
+01:09:46,238 --> 01:09:51,198
+and things were done
+
+1928
+01:09:47,759 --> 01:09:53,600
+rigorously but quickly
+
+1929
+01:09:51,198 --> 01:09:56,079
+so you're incredibly good as the leader
+
+1930
+01:09:53,600 --> 01:09:57,840
+of the nih it seems like you're having a
+
+1931
+01:09:56,079 --> 01:10:00,640
+heck of a lot of fun
+
+1932
+01:09:57,840 --> 01:10:02,560
+why uh why step down from this role
+
+1933
+01:10:00,640 --> 01:10:05,280
+after so much fun
+
+1934
+01:10:02,560 --> 01:10:06,560
+well no other nih director
+
+1935
+01:10:05,279 --> 01:10:08,800
+has served
+
+1936
+01:10:06,560 --> 01:10:10,880
+more than one uh president after being
+
+1937
+01:10:08,800 --> 01:10:12,800
+appointed by one you're sort of done and
+
+1938
+01:10:10,880 --> 01:10:14,640
+the idea of being carried over
+
+1939
+01:10:12,800 --> 01:10:18,480
+for a second presidency with trump and
+
+1940
+01:10:14,640 --> 01:10:20,400
+now a third one with biden is unheard of
+
+1941
+01:10:18,479 --> 01:10:23,599
+i just think lex that scientific
+
+1942
+01:10:20,399 --> 01:10:26,399
+organizations benefit from new vision
+
+1943
+01:10:23,600 --> 01:10:28,320
+and 12 years is a really long time to
+
+1944
+01:10:26,399 --> 01:10:30,079
+have the same leader
+
+1945
+01:10:28,319 --> 01:10:33,119
+and if i wasn't going to stick it out
+
+1946
+01:10:30,079 --> 01:10:35,679
+for the entire biden four-year term
+
+1947
+01:10:33,119 --> 01:10:36,640
+it's good not to wait too late during
+
+1948
+01:10:35,679 --> 01:10:38,640
+that
+
+1949
+01:10:36,640 --> 01:10:39,920
+to signal an intent to step down because
+
+1950
+01:10:38,640 --> 01:10:42,400
+the president's got to find the right
+
+1951
+01:10:39,920 --> 01:10:45,199
+person got to nominate them got to get
+
+1952
+01:10:42,399 --> 01:10:47,920
+the senate to confirm them which is a
+
+1953
+01:10:45,198 --> 01:10:49,919
+unpredictable process right now and you
+
+1954
+01:10:47,920 --> 01:10:52,158
+don't want to try to do that in
+
+1955
+01:10:49,920 --> 01:10:53,920
+the second half of somebody's term as
+
+1956
+01:10:52,158 --> 01:10:56,158
+president this has got to happen now so
+
+1957
+01:10:53,920 --> 01:10:58,960
+i kind of decided back at the end of may
+
+1958
+01:10:56,158 --> 01:11:02,479
+that this should be my final year
+
+1959
+01:10:58,960 --> 01:11:06,000
+and i'm okay with that i do have some
+
+1960
+01:11:02,479 --> 01:11:07,519
+mixed emotions because i love the nih i
+
+1961
+01:11:06,000 --> 01:11:09,439
+love the job
+
+1962
+01:11:07,520 --> 01:11:10,640
+it's exhausting
+
+1963
+01:11:09,439 --> 01:11:12,799
+i'm
+
+1964
+01:11:10,640 --> 01:11:14,640
+traditionally for the last 20 months
+
+1965
+01:11:12,800 --> 01:11:17,440
+anyway working 100 hours a week it's
+
+1966
+01:11:14,640 --> 01:11:18,719
+just that's what it takes to juggle all
+
+1967
+01:11:17,439 --> 01:11:20,799
+of this
+
+1968
+01:11:18,719 --> 01:11:23,039
+and um that keeps me from having a lot
+
+1969
+01:11:20,800 --> 01:11:24,560
+of time for anything else
+
+1970
+01:11:23,039 --> 01:11:26,238
+and i wouldn't mind because i don't
+
+1971
+01:11:24,560 --> 01:11:28,080
+think i'm done yet i wouldn't mind
+
+1972
+01:11:26,238 --> 01:11:29,919
+having some time
+
+1973
+01:11:28,079 --> 01:11:31,920
+to really think about what the next
+
+1974
+01:11:29,920 --> 01:11:33,600
+chapter should be and i have none of
+
+1975
+01:11:31,920 --> 01:11:35,359
+that time right now
+
+1976
+01:11:33,600 --> 01:11:37,039
+do i have another calling is there
+
+1977
+01:11:35,359 --> 01:11:38,719
+something else i could contribute that's
+
+1978
+01:11:37,039 --> 01:11:42,560
+different than this
+
+1979
+01:11:38,719 --> 01:11:42,560
+i'd like to find that out
+
+1980
+01:11:42,640 --> 01:11:46,800
+i think the right answer is you're just
+
+1981
+01:11:44,880 --> 01:11:47,329
+uh stepping down to focus on your music
+
+1982
+01:11:46,800 --> 01:11:48,880
+career
+
+1983
+01:11:47,329 --> 01:11:51,439
+[Laughter]
+
+1984
+01:11:48,880 --> 01:11:54,319
+but that that might not be a good plan
+
+1985
+01:11:51,439 --> 01:11:56,000
+for anything very sustainable uh but i i
+
+1986
+01:11:54,319 --> 01:11:58,479
+think that is a sign of a great leader
+
+1987
+01:11:56,000 --> 01:12:02,079
+as george washington did stepping down
+
+1988
+01:11:58,479 --> 01:12:04,479
+at the at the right time ted williams
+
+1989
+01:12:02,079 --> 01:12:06,960
+yes he quit when i think he hit a home
+
+1990
+01:12:04,479 --> 01:12:09,359
+run on his last at-bat and his average
+
+1991
+01:12:06,960 --> 01:12:11,359
+was 400 at the time
+
+1992
+01:12:09,359 --> 01:12:13,599
+no one to walk away i mean it's hard but
+
+1993
+01:12:11,359 --> 01:12:16,719
+it's beautiful to see in a leader
+
+1994
+01:12:13,600 --> 01:12:18,400
+uh you also oversaw the human genome
+
+1995
+01:12:16,719 --> 01:12:21,039
+project you mean you mentioned the brain
+
+1996
+01:12:18,399 --> 01:12:24,319
+initiative which has
+
+1997
+01:12:21,039 --> 01:12:27,039
+you know it's a it's a dream to map
+
+1998
+01:12:24,319 --> 01:12:29,198
+the human brain and there's the dream to
+
+1999
+01:12:27,039 --> 01:12:31,279
+map the the human code which is the
+
+2000
+01:12:29,198 --> 01:12:33,119
+human genome project and you have said
+
+2001
+01:12:31,279 --> 01:12:35,599
+that it is humbling for me and awe
+
+2002
+01:12:33,119 --> 01:12:38,960
+inspiring to realize that we have caught
+
+2003
+01:12:35,600 --> 01:12:39,760
+the first glimpse of our own instruction
+
+2004
+01:12:38,960 --> 01:12:42,719
+book
+
+2005
+01:12:39,760 --> 01:12:45,039
+previously known only to god
+
+2006
+01:12:42,719 --> 01:12:47,760
+how does that if you can just kind of
+
+2007
+01:12:45,039 --> 01:12:49,679
+wax poetic for a second
+
+2008
+01:12:47,760 --> 01:12:51,039
+how does it make you feel that we were
+
+2009
+01:12:49,679 --> 01:12:53,520
+able to
+
+2010
+01:12:51,039 --> 01:12:54,800
+map this instruction book look into our
+
+2011
+01:12:53,520 --> 01:12:59,120
+own code
+
+2012
+01:12:54,800 --> 01:13:00,719
+and be able to uh reverse engineer it
+
+2013
+01:12:59,119 --> 01:13:03,439
+it's breathtaking
+
+2014
+01:13:00,719 --> 01:13:05,920
+it's so fundamental
+
+2015
+01:13:03,439 --> 01:13:08,479
+and yet for all of human history we're
+
+2016
+01:13:05,920 --> 01:13:10,079
+ignorant of the details
+
+2017
+01:13:08,479 --> 01:13:11,119
+of what that instruction book looked
+
+2018
+01:13:10,079 --> 01:13:13,359
+like
+
+2019
+01:13:11,119 --> 01:13:16,000
+and then we crossed the bridge
+
+2020
+01:13:13,359 --> 01:13:17,920
+into the territory of the known
+
+2021
+01:13:16,000 --> 01:13:20,238
+and we had that in front of us still
+
+2022
+01:13:17,920 --> 01:13:22,079
+written in the language that we had to
+
+2023
+01:13:20,238 --> 01:13:23,759
+learn how to read and we're in the
+
+2024
+01:13:22,079 --> 01:13:26,479
+process of doing that and will be for
+
+2025
+01:13:23,760 --> 01:13:27,520
+decades to come but we owned it we had
+
+2026
+01:13:26,479 --> 01:13:30,319
+it
+
+2027
+01:13:27,520 --> 01:13:32,640
+and it has such profound consequences
+
+2028
+01:13:30,319 --> 01:13:35,279
+it's it's both a book about
+
+2029
+01:13:32,640 --> 01:13:38,320
+our history
+
+2030
+01:13:35,279 --> 01:13:40,479
+um it's a book of sort of the parts list
+
+2031
+01:13:38,319 --> 01:13:42,799
+of a human being the genes that are in
+
+2032
+01:13:40,479 --> 01:13:45,359
+there and how they're regulated
+
+2033
+01:13:42,800 --> 01:13:47,360
+and it's also a medical textbook
+
+2034
+01:13:45,359 --> 01:13:49,198
+that can teach us things
+
+2035
+01:13:47,359 --> 01:13:50,799
+that will provide answers to illnesses
+
+2036
+01:13:49,198 --> 01:13:53,119
+we don't understand
+
+2037
+01:13:50,800 --> 01:13:54,320
+and alleviate suffering and premature
+
+2038
+01:13:53,119 --> 01:13:55,679
+death so
+
+2039
+01:13:54,319 --> 01:13:56,960
+it's a pretty amazing thing to
+
+2040
+01:13:55,679 --> 01:13:58,880
+contemplate
+
+2041
+01:13:56,960 --> 01:14:01,279
+and it has utterly transformed the way
+
+2042
+01:13:58,880 --> 01:14:03,119
+we do science and it is in the process
+
+2043
+01:14:01,279 --> 01:14:05,439
+of transforming
+
+2044
+01:14:03,119 --> 01:14:08,000
+the way we do medicine although much of
+
+2045
+01:14:05,439 --> 01:14:09,839
+that still lies ahead
+
+2046
+01:14:08,000 --> 01:14:12,960
+you know while we were working on the
+
+2047
+01:14:09,840 --> 01:14:15,440
+genome project it was sort of hard
+
+2048
+01:14:12,960 --> 01:14:18,719
+to get this sense of
+
+2049
+01:14:15,439 --> 01:14:20,479
+a wellness because it was just hard work
+
+2050
+01:14:18,719 --> 01:14:22,640
+and you were getting you know another
+
+2051
+01:14:20,479 --> 01:14:24,799
+megabase okay this is good
+
+2052
+01:14:22,640 --> 01:14:26,840
+but when did you actually step back and
+
+2053
+01:14:24,800 --> 01:14:29,760
+say we did it
+
+2054
+01:14:26,840 --> 01:14:31,679
+it's the profoundness of that i mean
+
+2055
+01:14:29,760 --> 01:14:34,000
+there were two points i guess
+
+2056
+01:14:31,679 --> 01:14:36,158
+one was the announcement on that june 26
+
+2057
+01:14:34,000 --> 01:14:37,520
+2000 where the whole world heard
+
+2058
+01:14:36,158 --> 01:14:39,198
+well we don't quite have it but we got a
+
+2059
+01:14:37,520 --> 01:14:41,520
+pretty good draft
+
+2060
+01:14:39,198 --> 01:14:45,119
+and suddenly people are like realizing
+
+2061
+01:14:41,520 --> 01:14:47,199
+oh this is this is a big deal
+
+2062
+01:14:45,119 --> 01:14:49,439
+for me it was more when we got the full
+
+2063
+01:14:47,198 --> 01:14:51,839
+analysis of it published it in february
+
+2064
+01:14:49,439 --> 01:14:54,079
+2001 in that issue of nature
+
+2065
+01:14:51,840 --> 01:14:56,079
+paper that eric lander and bob waterston
+
+2066
+01:14:54,079 --> 01:14:57,519
+and i were the main authors and we
+
+2067
+01:14:56,079 --> 01:14:59,679
+toiled over
+
+2068
+01:14:57,520 --> 01:15:01,840
+and tried to get as much insight as we
+
+2069
+01:14:59,679 --> 01:15:03,920
+could in there about what the meaning of
+
+2070
+01:15:01,840 --> 01:15:05,679
+all this was
+
+2071
+01:15:03,920 --> 01:15:08,800
+but you also had this sense that we are
+
+2072
+01:15:05,679 --> 01:15:11,520
+such beginning readers here we are still
+
+2073
+01:15:08,800 --> 01:15:14,560
+in kindergarten trying to make sense out
+
+2074
+01:15:11,520 --> 01:15:16,239
+of this three billion letter book
+
+2075
+01:15:14,560 --> 01:15:19,120
+and we're going to be at this for
+
+2076
+01:15:16,238 --> 01:15:21,119
+generations to come
+
+2077
+01:15:19,119 --> 01:15:22,319
+you are a man of faith
+
+2078
+01:15:21,119 --> 01:15:25,039
+christian
+
+2079
+01:15:22,319 --> 01:15:27,359
+and you are a man of science
+
+2080
+01:15:25,039 --> 01:15:30,399
+what is the role of religion
+
+2081
+01:15:27,359 --> 01:15:33,198
+and of science and society and
+
+2082
+01:15:30,399 --> 01:15:35,759
+in the individual human mind and heart
+
+2083
+01:15:33,198 --> 01:15:35,759
+like yours
+
+2084
+01:15:36,079 --> 01:15:40,960
+well i was not a person of faith when i
+
+2085
+01:15:38,479 --> 01:15:42,158
+was growing up i became a believer in my
+
+2086
+01:15:40,960 --> 01:15:43,600
+20s
+
+2087
+01:15:42,158 --> 01:15:45,920
+influenced
+
+2088
+01:15:43,600 --> 01:15:47,360
+as a medical student by
+
+2089
+01:15:45,920 --> 01:15:49,119
+a recognition that i hadn't really
+
+2090
+01:15:47,359 --> 01:15:50,238
+thought through the issues
+
+2091
+01:15:49,119 --> 01:15:52,479
+of
+
+2092
+01:15:50,238 --> 01:15:53,519
+what's the meaning of life why are we
+
+2093
+01:15:52,479 --> 01:15:55,198
+all here
+
+2094
+01:15:53,520 --> 01:15:56,719
+what happens when you die
+
+2095
+01:15:55,198 --> 01:15:58,879
+is there a god
+
+2096
+01:15:56,719 --> 01:16:00,158
+science is not so helpful in answering
+
+2097
+01:15:58,880 --> 01:16:02,560
+those questions
+
+2098
+01:16:00,158 --> 01:16:04,559
+so i had to look around in other places
+
+2099
+01:16:02,560 --> 01:16:06,880
+and ultimately
+
+2100
+01:16:04,560 --> 01:16:08,640
+came to my own conclusion that atheism
+
+2101
+01:16:06,880 --> 01:16:11,359
+which is where i had been
+
+2102
+01:16:08,640 --> 01:16:12,960
+was the least supportable of the choices
+
+2103
+01:16:11,359 --> 01:16:14,639
+because it was the assertion of a
+
+2104
+01:16:12,960 --> 01:16:17,600
+universal negative
+
+2105
+01:16:14,640 --> 01:16:19,440
+which scientists aren't supposed to do
+
+2106
+01:16:17,600 --> 01:16:22,320
+and agnosticism
+
+2107
+01:16:19,439 --> 01:16:23,839
+came as an attractive option but felt a
+
+2108
+01:16:22,319 --> 01:16:26,238
+little bit like a cop-out so i had to
+
+2109
+01:16:23,840 --> 01:16:29,279
+keep going trying to figure out why do
+
+2110
+01:16:26,238 --> 01:16:31,279
+believers actually believe this stuff
+
+2111
+01:16:29,279 --> 01:16:33,840
+and came to realize it was all pretty
+
+2112
+01:16:31,279 --> 01:16:35,519
+compelling that there's no proof i can't
+
+2113
+01:16:33,840 --> 01:16:37,360
+prove to you or anybody else that god
+
+2114
+01:16:35,520 --> 01:16:39,520
+exists but i can say it's pretty darn
+
+2115
+01:16:37,359 --> 01:16:41,198
+plausible
+
+2116
+01:16:39,520 --> 01:16:43,760
+and ultimately
+
+2117
+01:16:41,198 --> 01:16:46,158
+what kind of god is it uh caused me to
+
+2118
+01:16:43,760 --> 01:16:47,920
+search through various religions and see
+
+2119
+01:16:46,158 --> 01:16:49,599
+well what a what do people think about
+
+2120
+01:16:47,920 --> 01:16:51,600
+that
+
+2121
+01:16:49,600 --> 01:16:54,880
+and to my surprise encountered the
+
+2122
+01:16:51,600 --> 01:16:57,280
+person of jesus christ as unique in
+
+2123
+01:16:54,880 --> 01:16:58,960
+every possible way and
+
+2124
+01:16:57,279 --> 01:17:01,679
+answering a lot of the questions i
+
+2125
+01:16:58,960 --> 01:17:04,319
+couldn't otherwise answer
+
+2126
+01:17:01,679 --> 01:17:06,560
+and somewhat kicking and screaming
+
+2127
+01:17:04,319 --> 01:17:08,319
+i became a christian
+
+2128
+01:17:06,560 --> 01:17:09,520
+even though at the time
+
+2129
+01:17:08,319 --> 01:17:11,119
+as a
+
+2130
+01:17:09,520 --> 01:17:13,199
+medical student already interested in
+
+2131
+01:17:11,119 --> 01:17:15,119
+genetics people predicted my head would
+
+2132
+01:17:13,198 --> 01:17:16,399
+then explode because these were
+
+2133
+01:17:15,119 --> 01:17:17,920
+incompatible
+
+2134
+01:17:16,399 --> 01:17:20,479
+world views
+
+2135
+01:17:17,920 --> 01:17:22,880
+they really have not been for me
+
+2136
+01:17:20,479 --> 01:17:24,799
+i am so fortunate i think that in a
+
+2137
+01:17:22,880 --> 01:17:27,039
+given day
+
+2138
+01:17:24,800 --> 01:17:30,320
+wrestling with an issue
+
+2139
+01:17:27,039 --> 01:17:32,158
+it can have both the rigorous scientific
+
+2140
+01:17:30,319 --> 01:17:35,439
+component and it can have the spiritual
+
+2141
+01:17:32,158 --> 01:17:38,079
+component covet 19 is a great example
+
+2142
+01:17:35,439 --> 01:17:40,158
+these vaccines are both an amazing
+
+2143
+01:17:38,079 --> 01:17:42,479
+scientific achievement and an answer to
+
+2144
+01:17:40,158 --> 01:17:44,000
+prayer
+
+2145
+01:17:42,479 --> 01:17:46,158
+when i'm wrestling with vaccine
+
+2146
+01:17:44,000 --> 01:17:47,679
+hesitancy and trying to figure out what
+
+2147
+01:17:46,158 --> 01:17:50,000
+answers to come up with i get so
+
+2148
+01:17:47,679 --> 01:17:51,520
+frustrated sometimes and i'm
+
+2149
+01:17:50,000 --> 01:17:54,158
+comforted
+
+2150
+01:17:51,520 --> 01:17:56,000
+by reassurances that god is aware of
+
+2151
+01:17:54,158 --> 01:17:58,399
+that this is i don't have to do this
+
+2152
+01:17:56,000 --> 01:17:58,399
+alone
+
+2153
+01:17:58,479 --> 01:18:01,519
+so
+
+2154
+01:17:59,679 --> 01:18:03,279
+i know there are people like your friend
+
+2155
+01:18:01,520 --> 01:18:05,520
+sam harris
+
+2156
+01:18:03,279 --> 01:18:06,800
+who feel differently sam wrote a rather
+
+2157
+01:18:05,520 --> 01:18:09,120
+famous
+
+2158
+01:18:06,800 --> 01:18:11,679
+op-ed in the new york times
+
+2159
+01:18:09,119 --> 01:18:12,640
+when i was nominated as the nih director
+
+2160
+01:18:11,679 --> 01:18:14,640
+saying
+
+2161
+01:18:12,640 --> 01:18:17,920
+this is a terrible mistake
+
+2162
+01:18:14,640 --> 01:18:19,760
+you can't no you can't ham
+
+2163
+01:18:17,920 --> 01:18:21,840
+you can't have somebody who believes in
+
+2164
+01:18:19,760 --> 01:18:23,679
+god running the nih he's just going to
+
+2165
+01:18:21,840 --> 01:18:25,520
+completely ruin the place
+
+2166
+01:18:23,679 --> 01:18:28,399
+well i have
+
+2167
+01:18:25,520 --> 01:18:31,120
+a testimonial christopher hitchens a
+
+2168
+01:18:28,399 --> 01:18:32,879
+devout atheist if i could say so oh yeah
+
+2169
+01:18:31,119 --> 01:18:35,279
+was a friend of yours and referred to
+
+2170
+01:18:32,880 --> 01:18:37,679
+you as quote one of the greatest living
+
+2171
+01:18:35,279 --> 01:18:39,679
+americans and stated that you were one
+
+2172
+01:18:37,679 --> 01:18:40,560
+of the most devout believers he has ever
+
+2173
+01:18:39,679 --> 01:18:42,079
+met
+
+2174
+01:18:40,560 --> 01:18:44,000
+he further stated that you were
+
+2175
+01:18:42,079 --> 01:18:46,238
+sequencing the genome of the cancer that
+
+2176
+01:18:44,000 --> 01:18:47,920
+would ultimately claim his life and that
+
+2177
+01:18:46,238 --> 01:18:50,718
+your friendship despite their differing
+
+2178
+01:18:47,920 --> 01:18:52,239
+opinions on religion was an example of
+
+2179
+01:18:50,719 --> 01:18:55,279
+the greatest
+
+2180
+01:18:52,238 --> 01:18:56,879
+armed truth in modern times
+
+2181
+01:18:55,279 --> 01:18:58,800
+what did you learn from christopher
+
+2182
+01:18:56,880 --> 01:19:00,800
+hitchens about life or perhaps what is
+
+2183
+01:18:58,800 --> 01:19:03,199
+the fond memory you have of this man
+
+2184
+01:19:00,800 --> 01:19:06,079
+with whom you've disagreed
+
+2185
+01:19:03,198 --> 01:19:10,479
+but who is also your friend
+
+2186
+01:19:06,079 --> 01:19:12,238
+yeah i loved hitch i'm sorry he's gone
+
+2187
+01:19:10,479 --> 01:19:14,559
+iron sharpens iron
+
+2188
+01:19:12,238 --> 01:19:16,319
+and there's nothing better uh for trying
+
+2189
+01:19:14,560 --> 01:19:17,199
+to figure out where you are with your
+
+2190
+01:19:16,319 --> 01:19:19,279
+own
+
+2191
+01:19:17,198 --> 01:19:21,678
+situation and your own opinions your own
+
+2192
+01:19:19,279 --> 01:19:24,158
+world views than encountering somebody
+
+2193
+01:19:21,679 --> 01:19:26,560
+who's completely in another space
+
+2194
+01:19:24,158 --> 01:19:28,079
+and who's got the gift as hitch did of
+
+2195
+01:19:26,560 --> 01:19:30,320
+challenging everything
+
+2196
+01:19:28,079 --> 01:19:31,679
+and uh doing so over a glass of scotch
+
+2197
+01:19:30,319 --> 01:19:32,799
+or two or three
+
+2198
+01:19:31,679 --> 01:19:35,119
+uh
+
+2199
+01:19:32,800 --> 01:19:37,920
+yeah we got off to a rough start uh
+
+2200
+01:19:35,119 --> 01:19:40,079
+where in an interaction we had at a
+
+2201
+01:19:37,920 --> 01:19:41,440
+rather uh highbrow dinner
+
+2202
+01:19:40,079 --> 01:19:43,840
+uh he was
+
+2203
+01:19:41,439 --> 01:19:45,039
+really deeply insulting of a question i
+
+2204
+01:19:43,840 --> 01:19:47,039
+was asking
+
+2205
+01:19:45,039 --> 01:19:48,880
+but you know i was like okay
+
+2206
+01:19:47,039 --> 01:19:51,198
+that's fine let's let's figure out how
+
+2207
+01:19:48,880 --> 01:19:53,279
+we could have a more civil conversation
+
+2208
+01:19:51,198 --> 01:19:56,479
+and then i really learned to greatly
+
+2209
+01:19:53,279 --> 01:19:58,479
+admire his intellect and to find the
+
+2210
+01:19:56,479 --> 01:20:00,238
+jousting with him
+
+2211
+01:19:58,479 --> 01:20:01,599
+and it wasn't all about faith although
+
+2212
+01:20:00,238 --> 01:20:02,799
+it often was
+
+2213
+01:20:01,600 --> 01:20:06,239
+was really
+
+2214
+01:20:02,800 --> 01:20:08,800
+inspiring and innovating energizing
+
+2215
+01:20:06,238 --> 01:20:10,799
+and then when he got cancer i became
+
+2216
+01:20:08,800 --> 01:20:12,719
+sort of his ally trying to help him find
+
+2217
+01:20:10,800 --> 01:20:16,159
+pathways through
+
+2218
+01:20:12,719 --> 01:20:18,239
+the various options and maybe helped him
+
+2219
+01:20:16,158 --> 01:20:20,479
+to stay around on this planet for an
+
+2220
+01:20:18,238 --> 01:20:23,839
+extra six months or so
+
+2221
+01:20:20,479 --> 01:20:26,559
+and i have the warmest feelings of being
+
+2222
+01:20:23,840 --> 01:20:27,679
+in his apartment uh downtown
+
+2223
+01:20:26,560 --> 01:20:30,000
+um
+
+2224
+01:20:27,679 --> 01:20:32,560
+over a glass of wine
+
+2225
+01:20:30,000 --> 01:20:34,800
+talking about whatever uh sometimes it
+
+2226
+01:20:32,560 --> 01:20:36,400
+was science he was fascinated by science
+
+2227
+01:20:34,800 --> 01:20:39,679
+sometimes it was
+
+2228
+01:20:36,399 --> 01:20:40,638
+thomas jefferson sometimes it was
+
+2229
+01:20:39,679 --> 01:20:42,639
+faith
+
+2230
+01:20:40,639 --> 01:20:44,000
+and i knew it would always be really
+
+2231
+01:20:42,639 --> 01:20:47,199
+interesting
+
+2232
+01:20:44,000 --> 01:20:49,760
+so he's now gone yeah
+
+2233
+01:20:47,198 --> 01:20:51,439
+do you think about your own mortality
+
+2234
+01:20:49,760 --> 01:20:53,360
+are you afraid of death
+
+2235
+01:20:51,439 --> 01:20:55,279
+i'm not afraid i'm not looking forward
+
+2236
+01:20:53,359 --> 01:20:57,198
+to it i don't want to rush it because i
+
+2237
+01:20:55,279 --> 01:20:58,719
+feel like i got some things i can still
+
+2238
+01:20:57,198 --> 01:21:00,960
+do here
+
+2239
+01:20:58,719 --> 01:21:03,920
+but as a person of faith
+
+2240
+01:21:00,960 --> 01:21:05,520
+i don't think i'm afraid i'm 71. i know
+
+2241
+01:21:03,920 --> 01:21:06,800
+i don't have an infinite amount of time
+
+2242
+01:21:05,520 --> 01:21:09,440
+left
+
+2243
+01:21:06,800 --> 01:21:12,000
+and i want to use the time i've got
+
+2244
+01:21:09,439 --> 01:21:14,238
+in some sort of way that matters
+
+2245
+01:21:12,000 --> 01:21:14,840
+i'm not ready to become a full-time
+
+2246
+01:21:14,238 --> 01:21:17,519
+golfer
+
+2247
+01:21:14,840 --> 01:21:19,840
+[Laughter]
+
+2248
+01:21:17,520 --> 01:21:21,360
+but i don't quite know what that is
+
+2249
+01:21:19,840 --> 01:21:24,960
+i do feel
+
+2250
+01:21:21,359 --> 01:21:27,679
+that i've had a chance to do amazingly
+
+2251
+01:21:24,960 --> 01:21:31,439
+powerful things as far as experiences
+
+2252
+01:21:27,679 --> 01:21:34,399
+and maybe god has something else in mind
+
+2253
+01:21:31,439 --> 01:21:35,839
+i wrote this book 16 years ago the
+
+2254
+01:21:34,399 --> 01:21:37,439
+language of god
+
+2255
+01:21:35,840 --> 01:21:39,920
+about science and faith trying to
+
+2256
+01:21:37,439 --> 01:21:43,599
+explain how from my perspective these
+
+2257
+01:21:39,920 --> 01:21:46,079
+are compatible these are in harmony
+
+2258
+01:21:43,600 --> 01:21:47,520
+they're complementary if you are careful
+
+2259
+01:21:46,079 --> 01:21:49,279
+about which kind of question you're
+
+2260
+01:21:47,520 --> 01:21:51,360
+asking
+
+2261
+01:21:49,279 --> 01:21:53,039
+and to my surprise a lot of people seem
+
+2262
+01:21:51,359 --> 01:21:56,479
+to be interested in that they were tired
+
+2263
+01:21:53,039 --> 01:21:58,639
+of hearing the extreme voices like
+
+2264
+01:21:56,479 --> 01:21:59,678
+dawkins at one end
+
+2265
+01:21:58,639 --> 01:22:01,440
+and
+
+2266
+01:21:59,679 --> 01:22:03,279
+people like ken ham and answers in
+
+2267
+01:22:01,439 --> 01:22:05,519
+genesis on the other end saying if you
+
+2268
+01:22:03,279 --> 01:22:06,399
+trust science you're going to hell
+
+2269
+01:22:05,520 --> 01:22:07,840
+and they
+
+2270
+01:22:06,399 --> 01:22:09,679
+thought there must be a way that these
+
+2271
+01:22:07,840 --> 01:22:11,119
+things could get along and that's what i
+
+2272
+01:22:09,679 --> 01:22:13,840
+tried to put forward and then i started
+
+2273
+01:22:11,119 --> 01:22:15,279
+a foundation biologos which then i had
+
+2274
+01:22:13,840 --> 01:22:17,279
+to step away from
+
+2275
+01:22:15,279 --> 01:22:19,198
+to become nih director which has just
+
+2276
+01:22:17,279 --> 01:22:20,238
+flourished maybe because i stepped away
+
+2277
+01:22:19,198 --> 01:22:21,039
+i don't know
+
+2278
+01:22:20,238 --> 01:22:23,919
+but
+
+2279
+01:22:21,039 --> 01:22:25,600
+it now has millions of people who come
+
+2280
+01:22:23,920 --> 01:22:27,279
+to that website and they run amazing
+
+2281
+01:22:25,600 --> 01:22:29,520
+meetings and i think a lot of people
+
+2282
+01:22:27,279 --> 01:22:31,679
+have really come to a sense that this is
+
+2283
+01:22:29,520 --> 01:22:34,320
+okay i can love science and i can love
+
+2284
+01:22:31,679 --> 01:22:35,840
+god and that's not a bad thing
+
+2285
+01:22:34,319 --> 01:22:37,198
+so maybe there's something more i can do
+
+2286
+01:22:35,840 --> 01:22:39,119
+in that space
+
+2287
+01:22:37,198 --> 01:22:40,079
+maybe that book is ready for a second
+
+2288
+01:22:39,119 --> 01:22:41,279
+edition
+
+2289
+01:22:40,079 --> 01:22:43,600
+i think so
+
+2290
+01:22:41,279 --> 01:22:45,599
+but when you look back
+
+2291
+01:22:43,600 --> 01:22:47,920
+life is finite
+
+2292
+01:22:45,600 --> 01:22:49,440
+what do you hope your legacy is
+
+2293
+01:22:47,920 --> 01:22:51,679
+hmm
+
+2294
+01:22:49,439 --> 01:22:53,359
+i don't know this whole legacy so it's a
+
+2295
+01:22:51,679 --> 01:22:55,679
+little bit hard to
+
+2296
+01:22:53,359 --> 01:22:57,359
+embrace it feels a little self-promoting
+
+2297
+01:22:55,679 --> 01:22:59,520
+doesn't it i sort of feel like in many
+
+2298
+01:22:57,359 --> 01:23:01,039
+ways i went to my own funeral
+
+2299
+01:22:59,520 --> 01:23:02,480
+on october 5th
+
+2300
+01:23:01,039 --> 01:23:04,158
+when i announced that i was stepping
+
+2301
+01:23:02,479 --> 01:23:05,599
+down and i got the most amazing
+
+2302
+01:23:04,158 --> 01:23:07,599
+responses
+
+2303
+01:23:05,600 --> 01:23:09,920
+from people some of whom i knew really
+
+2304
+01:23:07,600 --> 01:23:11,920
+well some of whom i didn't know at all
+
+2305
+01:23:09,920 --> 01:23:14,239
+who were just telling me stories
+
+2306
+01:23:11,920 --> 01:23:15,119
+about something that i had contributed
+
+2307
+01:23:14,238 --> 01:23:17,039
+to
+
+2308
+01:23:15,119 --> 01:23:18,719
+that made a difference to them and that
+
+2309
+01:23:17,039 --> 01:23:20,560
+was incredibly heartwarming and that's
+
+2310
+01:23:18,719 --> 01:23:22,639
+enough you know
+
+2311
+01:23:20,560 --> 01:23:25,600
+i don't want to build an edifice i don't
+
+2312
+01:23:22,639 --> 01:23:27,440
+have a plan for a monument or a statue
+
+2313
+01:23:25,600 --> 01:23:29,600
+god help us
+
+2314
+01:23:27,439 --> 01:23:32,000
+i do feel like i've been incredibly
+
+2315
+01:23:29,600 --> 01:23:34,960
+fortunate i've had the chance to play a
+
+2316
+01:23:32,000 --> 01:23:38,158
+role in things that were pretty profound
+
+2317
+01:23:34,960 --> 01:23:39,359
+from the genome project to nih to covet
+
+2318
+01:23:38,158 --> 01:23:41,679
+vaccines
+
+2319
+01:23:39,359 --> 01:23:43,439
+and i had to be plenty satisfied that
+
+2320
+01:23:41,679 --> 01:23:46,000
+i've had enough
+
+2321
+01:23:43,439 --> 01:23:47,678
+experiences here to feel pretty good
+
+2322
+01:23:46,000 --> 01:23:50,479
+about the way in which
+
+2323
+01:23:47,679 --> 01:23:52,399
+my life plan panned out
+
+2324
+01:23:50,479 --> 01:23:54,158
+we did a bunch of difficult questions in
+
+2325
+01:23:52,399 --> 01:23:56,879
+this conversation let me ask the most
+
+2326
+01:23:54,158 --> 01:23:56,879
+difficult one
+
+2327
+01:23:56,960 --> 01:24:00,880
+that perhaps
+
+2328
+01:23:58,399 --> 01:24:02,279
+is the reason you turn to god
+
+2329
+01:24:00,880 --> 01:24:05,840
+what is the meaning of life
+
+2330
+01:24:02,279 --> 01:24:07,599
+[Laughter]
+
+2331
+01:24:05,840 --> 01:24:10,079
+have you figured it out yet expect me to
+
+2332
+01:24:07,600 --> 01:24:11,520
+put that into three sentences
+
+2333
+01:24:10,079 --> 01:24:12,079
+we only have a couple of minutes at
+
+2334
+01:24:11,520 --> 01:24:15,360
+least hurry up
+
+2335
+01:24:12,079 --> 01:24:16,960
+[Laughter]
+
+2336
+01:24:15,359 --> 01:24:18,799
+well that's not a question i think
+
+2337
+01:24:16,960 --> 01:24:20,800
+science helps me with so you're going to
+
+2338
+01:24:18,800 --> 01:24:23,360
+push me into the face zone which is
+
+2339
+01:24:20,800 --> 01:24:25,119
+where i'd want to go with that
+
+2340
+01:24:23,359 --> 01:24:28,479
+i think welcome what is the meaning why
+
+2341
+01:24:25,119 --> 01:24:30,639
+are we here what are we put here to do
+
+2342
+01:24:28,479 --> 01:24:34,079
+i do believe we're here for just a blink
+
+2343
+01:24:30,639 --> 01:24:35,840
+of an eye and that our existence somehow
+
+2344
+01:24:34,079 --> 01:24:38,079
+goes on beyond that in a way that i
+
+2345
+01:24:35,840 --> 01:24:39,600
+don't entirely understand despite
+
+2346
+01:24:38,079 --> 01:24:41,519
+efforts to do so
+
+2347
+01:24:39,600 --> 01:24:42,480
+i think we are called upon
+
+2348
+01:24:41,520 --> 01:24:44,719
+in this
+
+2349
+01:24:42,479 --> 01:24:47,439
+blink of an eye to try to make the world
+
+2350
+01:24:44,719 --> 01:24:48,880
+a better place and to try to love people
+
+2351
+01:24:47,439 --> 01:24:49,839
+to try to
+
+2352
+01:24:48,880 --> 01:24:51,440
+do a
+
+2353
+01:24:49,840 --> 01:24:52,719
+better job
+
+2354
+01:24:51,439 --> 01:24:55,759
+of
+
+2355
+01:24:52,719 --> 01:24:59,279
+our more altruistic instincts
+
+2356
+01:24:55,760 --> 01:25:01,199
+and less of our selfish instincts
+
+2357
+01:24:59,279 --> 01:25:03,039
+to try to be
+
+2358
+01:25:01,198 --> 01:25:05,039
+what god calls us to be
+
+2359
+01:25:03,039 --> 01:25:07,840
+people who are
+
+2360
+01:25:05,039 --> 01:25:09,039
+holy not people who are
+
+2361
+01:25:07,840 --> 01:25:10,159
+driven by
+
+2362
+01:25:09,039 --> 01:25:11,760
+self
+
+2363
+01:25:10,158 --> 01:25:13,359
+indulgence
+
+2364
+01:25:11,760 --> 01:25:15,199
+and sometimes i'm better at that than
+
+2365
+01:25:13,359 --> 01:25:16,559
+others
+
+2366
+01:25:15,198 --> 01:25:18,319
+but i think that
+
+2367
+01:25:16,560 --> 01:25:20,719
+for me as a christian is it pretty clear
+
+2368
+01:25:18,319 --> 01:25:23,519
+i mean it's to live out
+
+2369
+01:25:20,719 --> 01:25:27,439
+the sermon on the mount
+
+2370
+01:25:23,520 --> 01:25:31,120
+once i read that i couldn't unread it
+
+2371
+01:25:27,439 --> 01:25:33,039
+all those beatitudes all the blesseds
+
+2372
+01:25:31,119 --> 01:25:35,439
+that's what we're supposed to do and the
+
+2373
+01:25:33,039 --> 01:25:37,519
+meaning of life is to strive for that
+
+2374
+01:25:35,439 --> 01:25:38,559
+standard recognizing you're going to
+
+2375
+01:25:37,520 --> 01:25:40,560
+fail
+
+2376
+01:25:38,560 --> 01:25:42,239
+over and over again and that god
+
+2377
+01:25:40,560 --> 01:25:44,320
+forgives you
+
+2378
+01:25:42,238 --> 01:25:46,000
+hopefully to put a little bit of love
+
+2379
+01:25:44,319 --> 01:25:47,198
+out there into the world that's what
+
+2380
+01:25:46,000 --> 01:25:49,198
+it's about
+
+2381
+01:25:47,198 --> 01:25:53,519
+francis um
+
+2382
+01:25:49,198 --> 01:25:56,238
+i'm truly humbled and inspired by
+
+2383
+01:25:53,520 --> 01:25:58,080
+both your brilliance and your humility
+
+2384
+01:25:56,238 --> 01:25:59,599
+and that you would spend your extremely
+
+2385
+01:25:58,079 --> 01:26:01,119
+valuable time with me today it was
+
+2386
+01:25:59,600 --> 01:26:03,280
+really an honor thank you so much for
+
+2387
+01:26:01,119 --> 01:26:06,000
+talking today i was glad to and you
+
+2388
+01:26:03,279 --> 01:26:08,880
+asked a really good question so your
+
+2389
+01:26:06,000 --> 01:26:10,800
+reputation as the best podcaster has
+
+2390
+01:26:08,880 --> 01:26:12,560
+worn itself out here this afternoon
+
+2391
+01:26:10,800 --> 01:26:13,600
+thank you so much
+
+2392
+01:26:12,560 --> 01:26:15,440
+thanks for listening to this
+
+2393
+01:26:13,600 --> 01:26:17,199
+conversation with francis collins to
+
+2394
+01:26:15,439 --> 01:26:19,839
+support this podcast please check out
+
+2395
+01:26:17,198 --> 01:26:21,519
+our sponsors in the description and now
+
+2396
+01:26:19,840 --> 01:26:24,079
+let me leave you with some words from
+
+2397
+01:26:21,520 --> 01:26:25,520
+isaac newton reflecting on his life and
+
+2398
+01:26:24,079 --> 01:26:28,000
+work
+
+2399
+01:26:25,520 --> 01:26:30,239
+i seem to have been only like a boy
+
+2400
+01:26:28,000 --> 01:26:32,479
+playing on the seashore and diverting
+
+2401
+01:26:30,238 --> 01:26:34,959
+myself and now and then finding a
+
+2402
+01:26:32,479 --> 01:26:38,638
+smoother pebble or a prettier shell than
+
+2403
+01:26:34,960 --> 01:26:41,600
+ordinary whilst the great ocean of truth
+
+2404
+01:26:38,639 --> 01:26:43,440
+lay all undiscovered before me
+
+2405
+01:26:41,600 --> 01:26:47,239
+thank you for listening and hope to see
+
+2406
+01:26:43,439 --> 01:26:47,238
+you next time
+
+2407
+01:26:53,198 --> 01:26:55,279
+you
+
