@@ -4,10 +4,10 @@ import pyautogui
 import time
 import pyperclip
 import os
-
+         
 #given a path, create a folder and keep adding new files after that
+name = 'meebits'
 path = r'C:\Users\ardit\Desktop\Projects\relevanceAI\_repos\datasets\220216_opensea\files'
-name = 'bears'
 path_files = path+'\\'+name
 
 if name not in os.listdir(path):
@@ -24,7 +24,7 @@ def hold_W(hold_time):
 while True:
     #scroll down                      
     pyautogui.click(1635, 210)
-    hold_W(0.5)
+    hold_W(0.25)
     time.sleep(2.6)
 
     #save backup
