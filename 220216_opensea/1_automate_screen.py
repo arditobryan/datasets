@@ -4,7 +4,7 @@ import pyautogui
 import time
 import pyperclip
 import os
-         
+            
 #given a path, create a folder and keep adding new files after that
 name = 'meebits'
 path = r'C:\Users\ardit\Desktop\Projects\relevanceAI\_repos\datasets\220216_opensea\files'
