@@ -4,10 +4,10 @@ import pyautogui
 import time
 import pyperclip
 import os
-            
+                  
 #given a path, create a folder and keep adding new files after that
-name = 'meebits'
-path = r'C:\Users\ardit\Desktop\Projects\relevanceAI\_repos\datasets\220216_opensea\files'
+name = 'mix3'
+path = r'D:\_Projects\relevanceAI\_repos\datasets\220216_opensea\files'
 path_files = path+'\\'+name
 
 if name not in os.listdir(path):
@@ -37,5 +37,5 @@ while True:
         f.write(s)
 
     #leave time to interrupt the algo
-    #time.sleep(2.6)
+    time.sleep(0.6)
 
